@@ -12,10 +12,14 @@ Since the covid-19 pandemic many resources have been made available online. This
 * [Stuart McErlain-Naylor channel](https://www.youtube.com/channel/UCmG-bd1JL1ACP7hMzIUXwOg)
 * [Ross Miller](https://www.youtube.com/channel/UCO_H7aZoIcwZiNc4KjiQQkg/videos) 
 * [OpenSim](https://www.youtube.com/user/OpenSimVideos/videos)
+* Anil Rao optimal control [videos](http://www.anilvrao.com/Optimal-Control-Videos.html)
 
 ## Entire courses
 * Lectures on animal locomotion, of interest also for human locomotion (Manny Azizi and Matt McHenry, UC Irvine): https://mchenrylab.bio.uci.edu/e139
 * Neuromechanics (Joshua Cashaback, University of Delaware): https://github.com/joshcash9/Neuromechanics_Course
+
+## Videos
+* [Running with bone pins](https://www.youtube.com/watch?v=nf6jkyNgkwE)
 
 # Conferences presentations and tutorials
 * [CNB-ASB Muscle Workshop](https://www.youtube.com/watch?v=Ur9wYYR0nac&feature=youtu.be)
