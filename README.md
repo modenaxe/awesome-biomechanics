@@ -1,5 +1,5 @@
 # teaching_biomech
-since the covid-19 pandemic many resources are being made available. I want to collect them somewhere
+Since the covid-19 pandemic many resources have been made available online. This is a repo for personal recollection.
 
 # Youtube lectures
 * MOCAP presentation (Vicon) (1): https://www.youtube.com/watch?v=1zJ14cW-JqY
@@ -11,8 +11,15 @@ since the covid-19 pandemic many resources are being made available. I want to c
 * [Ross Miller](https://www.youtube.com/channel/UCO_H7aZoIcwZiNc4KjiQQkg/videos) 
 
 # Entire courses
-* Lectures on animal locomotion (of interest also for human locomotion): https://mchenrylab.bio.uci.edu/e139
-* 
+* Lectures on animal locomotion, of interest also for human locomotion (Manny Azizi and Matt McHenry, UC Irvine): https://mchenrylab.bio.uci.edu/e139
+* Neuromechanics (Joshua Cashaback, University of Delaware): https://github.com/joshcash9/Neuromechanics_Course
 
 # Conferences
 * [CNB-ASB Muscle Workshop](https://www.youtube.com/watch?v=Ur9wYYR0nac&feature=youtu.be)
+
+# Websites
+* https://www.biomch-l.isbweb.org/
+* https://www.biomechanist.net/
+
+# MATLAB tools
+* https://www.biomechzoo.com/
