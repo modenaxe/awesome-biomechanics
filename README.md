@@ -53,6 +53,7 @@ Since the covid-19 pandemic many resources have been made available online. This
 * Marco Viceconti
 
 ## Miscellaneous Online Resources
+* [Kwon3d website](http://www.kwon3d.com/theory/prac.html)
 * https://www.biomch-l.isbweb.org/
 * https://www.biomechanist.net/
 * https://biomechsa.wordpress.com/resources
