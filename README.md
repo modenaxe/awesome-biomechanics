@@ -12,6 +12,7 @@ Since the covid-19 pandemic many resources have been made available online. This
 4. [Running with bone pins](https://www.youtube.com/watch?v=nf6jkyNgkwE)
 * [CNB-ASB Muscle Workshop](https://www.youtube.com/watch?v=Ur9wYYR0nac&feature=youtu.be)
 * A critique of Induced Acceleration Analysis (Andy Ruina, WCB2014): https://www.youtube.com/watch?v=2EmwIM_uQnk&t=18s
+* [F8 2019 - VR Full Body Tracking & Avatars](https://www.youtube.com/watch?v=FhiAFo9U_sM)
 
 ## Video Channels
 1. [Stuart McErlain-Naylor channel](https://www.youtube.com/channel/UCmG-bd1JL1ACP7hMzIUXwOg)
