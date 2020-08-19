@@ -29,6 +29,7 @@ Since the covid-19 pandemic many resources have been made available online. This
 ## Datasets
 * Dataset for Metabolic Cost Calculations of Gait using Musculoskeletal Energy Models, a Comparison Study: https://zenodo.org/record/1973799#.XzzzBOhKgdU
 * MRI lower limb (Charles)
+* An Open Data Set of Inertial, Magnetic, Foot–Ground Contact, and Electromyographic Signals From Wearable Sensors During Walking. [paper](https://journals.humankinetics.com/view/journals/mcj/aop/article-10.1123-mc.2020-0023/article-10.1123-mc.2020-0023.xml) [dataset](https://figshare.com/articles/Dataset_of_gait_and_inertial_sensors/7778255) [resources](https://github.com/BMClab/datasets/tree/master/GEDS)
 
 ## Biomechanical Software
 * OpenSim: [binaries](https://opensim.stanford.edu), [source](https://github.com/opensim-org/opensim-core)
