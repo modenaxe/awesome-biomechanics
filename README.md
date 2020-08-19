@@ -26,6 +26,9 @@ Since the covid-19 pandemic many resources have been made available online. This
 * Van den Bogert's tutorial (Dynamic Walking, 2011): https://www.youtube.com/watch?v=Z4BoVVpju88
 * A critique of Induced Acceleration Analysis (Andy Ruina, WCB2014): https://www.youtube.com/watch?v=2EmwIM_uQnk&t=18s
 
+# Datasets
+* Dataset for Metabolic Cost Calculations of Gait using Musculoskeletal Energy Models, a Comparison Study: https://zenodo.org/record/1973799#.XzzzBOhKgdU
+
 # Websites
 * https://www.biomch-l.isbweb.org/
 * https://www.biomechanist.net/
