@@ -1,51 +1,44 @@
-# Overview
+# Awesome Biomechanics
 Since the covid-19 pandemic many resources have been made available online. This is a repo for personal recollection.
 
-# Youtube lectures
-* MOCAP presentation (Vicon) (1): https://www.youtube.com/watch?v=1zJ14cW-JqY
-* MOCAP presentation (Vicon) (2): https://www.youtube.com/watch?v=hM7xEoyP-4o
-* EMG presentation (Delsys): https://www.youtube.com/watch?v=2xgyTpsa14M#
 
-# Youtube 
+## Courses
+1. Lectures on animal locomotion, of interest also for human locomotion (Manny Azizi and Matt McHenry, UC Irvine): https://mchenrylab.bio.uci.edu/e139
+2. Neuromechanics (Joshua Cashaback, University of Delaware): https://github.com/joshcash9/Neuromechanics_Course
 
-## Channels
-* [Stuart McErlain-Naylor channel](https://www.youtube.com/channel/UCmG-bd1JL1ACP7hMzIUXwOg)
-* [Ross Miller](https://www.youtube.com/channel/UCO_H7aZoIcwZiNc4KjiQQkg/videos) 
-* [OpenSim](https://www.youtube.com/user/OpenSimVideos/videos)
-* Anil Rao optimal control [videos](http://www.anilvrao.com/Optimal-Control-Videos.html)
-
-## Entire courses
-* Lectures on animal locomotion, of interest also for human locomotion (Manny Azizi and Matt McHenry, UC Irvine): https://mchenrylab.bio.uci.edu/e139
-* Neuromechanics (Joshua Cashaback, University of Delaware): https://github.com/joshcash9/Neuromechanics_Course
-
-## Videos
-* [Running with bone pins](https://www.youtube.com/watch?v=nf6jkyNgkwE)
-
-# Conferences presentations and tutorials
+## Videos and Lectures
+1. MOCAP presentation (Vicon) (1): https://www.youtube.com/watch?v=1zJ14cW-JqY
+2. MOCAP presentation (Vicon) (2): https://www.youtube.com/watch?v=hM7xEoyP-4o
+3. EMG presentation (Delsys): https://www.youtube.com/watch?v=2xgyTpsa14M#
+4. [Running with bone pins](https://www.youtube.com/watch?v=nf6jkyNgkwE)
 * [CNB-ASB Muscle Workshop](https://www.youtube.com/watch?v=Ur9wYYR0nac&feature=youtu.be)
-* Van den Bogert's tutorial (Dynamic Walking, 2011): https://www.youtube.com/watch?v=Z4BoVVpju88
 * A critique of Induced Acceleration Analysis (Andy Ruina, WCB2014): https://www.youtube.com/watch?v=2EmwIM_uQnk&t=18s
 
-# Datasets
+## Video Channels
+1. [Stuart McErlain-Naylor channel](https://www.youtube.com/channel/UCmG-bd1JL1ACP7hMzIUXwOg)
+2. [Ross Miller](https://www.youtube.com/channel/UCO_H7aZoIcwZiNc4KjiQQkg/videos) 
+3. [OpenSim](https://www.youtube.com/user/OpenSimVideos/videos)
+
+## Tutorials
+1. Van den Bogert's tutorial (Dynamic Walking, 2011): https://www.youtube.com/watch?v=Z4BoVVpju88
+2. [How to review a paper](https://www.sciencemag.org/careers/2016/09/how-review-paper)
+
+## Datasets
 * Dataset for Metabolic Cost Calculations of Gait using Musculoskeletal Energy Models, a Comparison Study: https://zenodo.org/record/1973799#.XzzzBOhKgdU
+* MRI lower limb 
 
-# Websites
-* https://www.biomch-l.isbweb.org/
-* https://www.biomechanist.net/
-
-# MATLAB tools
-## Gait analysis tools
+## MATLAB tools
 * https://www.biomechzoo.com/
 * [3D Kinematics and Inverse Dynamics](https://uk.mathworks.com/matlabcentral/fileexchange/58021-3d-kinematics-and-inverse-dynamics?s_tid=prof_contriblnk) by Raphael Dumas
 
-# Optimal Control and Direct Collocation
+# Python tools
+* https://pypi.org/project/gaitpy/
+
+## Optimal Control and Direct Collocation
+1. Anil Rao optimal control [videos](http://www.anilvrao.com/Optimal-Control-Videos.html)
 * https://simtk.org/projects/datatracking
 
-# Python tools
-*
-
-# How-to
-https://www.sciencemag.org/careers/2016/09/how-review-paper
-
-# Resources
-* https://biomechsa.wordpress.com/resources/
+## Miscellaneous Online Resources
+* https://www.biomch-l.isbweb.org/
+* https://www.biomechanist.net/
+* https://biomechsa.wordpress.com/resources
