@@ -38,3 +38,6 @@ Since the covid-19 pandemic many resources have been made available online. This
 
 # How-to
 https://www.sciencemag.org/careers/2016/09/how-review-paper
+
+# Resources
+* https://biomechsa.wordpress.com/resources/
