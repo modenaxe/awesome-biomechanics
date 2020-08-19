@@ -1,7 +1,6 @@
 # Awesome Biomechanics
 Since the covid-19 pandemic many resources have been made available online. This is a repo for personal recollection.
 
-
 ## Courses
 1. Lectures on animal locomotion, of interest also for human locomotion (Manny Azizi and Matt McHenry, UC Irvine): https://mchenrylab.bio.uci.edu/e139
 2. Neuromechanics (Joshua Cashaback, University of Delaware): https://github.com/joshcash9/Neuromechanics_Course
@@ -23,20 +22,33 @@ Since the covid-19 pandemic many resources have been made available online. This
 1. Van den Bogert's tutorial (Dynamic Walking, 2011): https://www.youtube.com/watch?v=Z4BoVVpju88
 2. [How to review a paper](https://www.sciencemag.org/careers/2016/09/how-review-paper)
 
+# Mathematical and Physics Background
+1. http://calculusmadeeasy.org/
+
 ## Datasets
 * Dataset for Metabolic Cost Calculations of Gait using Musculoskeletal Energy Models, a Comparison Study: https://zenodo.org/record/1973799#.XzzzBOhKgdU
-* MRI lower limb 
+* MRI lower limb (Charles)
+
+## Biomechanical Software
+* OpenSim: [binaries](https://opensim.stanford.edu), [source](https://github.com/opensim-org/opensim-core)
 
 ## MATLAB tools
 * https://www.biomechzoo.com/
 * [3D Kinematics and Inverse Dynamics](https://uk.mathworks.com/matlabcentral/fileexchange/58021-3d-kinematics-and-inverse-dynamics?s_tid=prof_contriblnk) by Raphael Dumas
 
-# Python tools
+## Python tools
 * https://pypi.org/project/gaitpy/
 
 ## Optimal Control and Direct Collocation
 1. Anil Rao optimal control [videos](http://www.anilvrao.com/Optimal-Control-Videos.html)
-* https://simtk.org/projects/datatracking
+2. https://simtk.org/projects/datatracking
+
+## Researchers
+* Antonie van den Bogert
+* Scott Delp
+* Ilse Jonkers
+* David Lloyd
+* Marco Viceconti
 
 ## Miscellaneous Online Resources
 * https://www.biomch-l.isbweb.org/
