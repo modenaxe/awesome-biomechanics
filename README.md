@@ -31,10 +31,15 @@ Since the covid-19 pandemic many resources have been made available online. This
 * https://www.biomechanist.net/
 
 # MATLAB tools
-   * Gait
-      * https://www.biomechzoo.com/
-   * Optimal Control and Direct Collocation
-      * https://simtk.org/projects/datatracking
+## Gait analysis tools
+* https://www.biomechzoo.com/
+* [3D Kinematics and Inverse Dynamics](https://uk.mathworks.com/matlabcentral/fileexchange/58021-3d-kinematics-and-inverse-dynamics?s_tid=prof_contriblnk) by Raphael Dumas
+
+# Optimal Control and Direct Collocation
+* https://simtk.org/projects/datatracking
+
+# Python tools
+*
 
 # How-to
 https://www.sciencemag.org/careers/2016/09/how-review-paper
