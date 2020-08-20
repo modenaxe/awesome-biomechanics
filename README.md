@@ -41,47 +41,52 @@ Since the covid-19 pandemic many resources have been made available online. This
 
 ## Biomechanical Software
 * [AnyBody Technology](http://www.anybodytech.com)
-* [BTK - Biomechanical ToolKit](TO ADD)
+* [BTK - Biomechanical ToolKit](http://biomechanical-toolkit.github.io/)
 * [GaitSym](https://github.com/wol101/GaitSym_2017) by [Animal Simulation Laboratory](https://www.animalsimulation.org/)
 * [NMSBuilder](http://www.nmsbuilder.org/)
-* [MOKKA](TO ADD)
+* [MOKKA](https://biomechanical-toolkit.github.io/mokka/)
 * [OpenSim](https://opensim.stanford.edu) | [source](https://github.com/opensim-org/opensim-core)
 
 ## Segmentation software
-* [ITK-Snap](http://www.itksnap.org/pmwiki/pmwiki.php)
-* [MITK](https://docs.mitk.org/2016.11/index.html)
 * [3DSlicer](https://www.slicer.org/)
+* [ITK-Snap](http://www.itksnap.org/pmwiki/pmwiki.php)
+* [Materialise Mimics](https://www.materialise.com/en/medical/mimics-innovation-suite) (commercial)
+* [MITK](https://docs.mitk.org/2016.11/index.html)
 * [Seg3D](https://www.sci.utah.edu/cibc-software/seg3d.html)
+* [Simpleware ScanIP](https://www.synopsys.com/simpleware/software/scanip.html)
 
 ## Finite Element Software
+* [Abaqus](https://www.3ds.com/products-services/simulia/products/abaqus/) (commercial)
+* [Ansys](https://www.ansys.com/en-gb) (commercial)
 * [FEBio](https://febio.org/)
 * [code_aster/Salome MECA](https://code-aster.org/spip.php?rubrique2)
 
+## Meshers
+* TetGen
+* 
+
 ## Geometrical Operations
-* [MeshLab](https://www.meshlab.net/)
-* [Gmsh](https://gmsh.info/)
 * [Autodesk Netfabb](https://www.autodesk.com/products/netfabb/overview)
-* [see colin's]
+* [Blender](https://www.blender.org/)
+* [Gmsh](https://gmsh.info/)
+* [MeshLab](https://www.meshlab.net/)
+* [MeshMixer](http://www.meshmixer.com/)
 
 ## MATLAB packages
+* [Gibbon Toolbox()
+* [Lumbar Spine Generator]()
 * [FreeBody](https://www.msksoftware.org.uk/software/freebody/) by Imperial College London
 * [BiomechZoo](https://www.biomechzoo.com)
 * [3D Kinematics and Inverse Dynamics scripts](https://uk.mathworks.com/matlabcentral/fileexchange/58021-3d-kinematics-and-inverse-dynamics?s_tid=prof_contriblnk) by Raphael Dumas
-* A software by Loeb
+* A software by Loeb??
 
 ## Python tools
-* https://pypi.org/project/gaitpy/
+* [gaitpy](https://pypi.org/project/gaitpy/): to be checked
+* [pyomeca](https://github.com/pyomeca): software for importing biomechanical data and processing it
 
 ## Optimal Control and Direct Collocation
 1. [Anil Rao's lectures on optimal control](http://www.anilvrao.com/Optimal-Control-Videos.html)
 2. https://simtk.org/projects/datatracking
-
-## Researchers
-* Antonie van den Bogert
-* Scott Delp
-* Ilse Jonkers
-* David Lloyd
-* Marco Viceconti
 
 ## Miscellaneous Online Resources
 * [Kwon3d website](http://www.kwon3d.com/theory/prac.html)
