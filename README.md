@@ -6,16 +6,14 @@ Since the covid-19 pandemic many resources have been made available online. This
 2. Neuromechanics (Joshua Cashaback, University of Delaware): https://github.com/joshcash9/Neuromechanics_Course
 
 ## Videos and Lectures
-1. MOCAP presentation (Vicon) (1): https://www.youtube.com/watch?v=1zJ14cW-JqY
-2. MOCAP presentation (Vicon) (2): https://www.youtube.com/watch?v=hM7xEoyP-4o
-3. EMG presentation (Delsys): https://www.youtube.com/watch?v=2xgyTpsa14M#
-4. [Running with bone pins](https://www.youtube.com/watch?v=nf6jkyNgkwE)
+* Sport Biomechanics Lecture Series: available on [Stuart McErlain-Naylor channel](https://www.youtube.com/channel/UCmG-bd1JL1ACP7hMzIUXwOg). Includes introductory topics like  presentations of motion capture techniques by Vicon ([lecture 1](https://www.youtube.com/watch?v=1zJ14cW-JqY) and [lecture 2](https://www.youtube.com/watch?v=hM7xEoyP-4o)) and an introduction of electromyography (EMG) by Delsys [link](https://www.youtube.com/watch?v=2xgyTpsa14M#).
 * [CNB-ASB Muscle Workshop](https://www.youtube.com/watch?v=Ur9wYYR0nac&feature=youtu.be)
-* A critique of Induced Acceleration Analysis (Andy Ruina, WCB2014): https://www.youtube.com/watch?v=2EmwIM_uQnk&t=18s
+* A critique of Induced Acceleration Analysis by Andy Ruina (WCB2014) [link](https://www.youtube.com/watch?v=2EmwIM_uQnk&t=18s).
 * [F8 2019 - VR Full Body Tracking & Avatars](https://www.youtube.com/watch?v=FhiAFo9U_sM) and [blog post](https://uploadvr.com/facebook-f8-2019-body-tracking/)
+* Running with bone pins: video of data collection in subject running with bone pins shared by Ton Van Bogert [link](https://www.youtube.com/watch?v=nf6jkyNgkwE)
 
 ## Video Channels
-1. [Stuart McErlain-Naylor channel](https://www.youtube.com/channel/UCmG-bd1JL1ACP7hMzIUXwOg)
+1. 
 2. [Ross Miller](https://www.youtube.com/channel/UCO_H7aZoIcwZiNc4KjiQQkg/videos) 
 3. [OpenSim](https://www.youtube.com/user/OpenSimVideos/videos)
 
