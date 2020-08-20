@@ -40,17 +40,40 @@ Since the covid-19 pandemic many resources have been made available online. This
 * [normative gait dataset](http://www.clinicalgaitanalysis.com/data/) from http://www.clinicalgaitanalysis.com/
 
 ## Biomechanical Software
-* OpenSim: [binaries](https://opensim.stanford.edu), [source](https://github.com/opensim-org/opensim-core)
+* [AnyBody Technology](http://www.anybodytech.com)
+* [BTK - Biomechanical ToolKit](TO ADD)
+* [GaitSym](https://github.com/wol101/GaitSym_2017) by [Animal Simulation Laboratory](https://www.animalsimulation.org/)
+* [NMSBuilder](http://www.nmsbuilder.org/)
+* [MOKKA](TO ADD)
+* [OpenSim](https://opensim.stanford.edu) | [source](https://github.com/opensim-org/opensim-core)
 
-## MATLAB tools
-* https://www.biomechzoo.com/
-* [3D Kinematics and Inverse Dynamics](https://uk.mathworks.com/matlabcentral/fileexchange/58021-3d-kinematics-and-inverse-dynamics?s_tid=prof_contriblnk) by Raphael Dumas
+## Segmentation software
+* [ITK-Snap](http://www.itksnap.org/pmwiki/pmwiki.php)
+* [MITK](https://docs.mitk.org/2016.11/index.html)
+* [3DSlicer](https://www.slicer.org/)
+* [Seg3D](https://www.sci.utah.edu/cibc-software/seg3d.html)
+
+## Finite Element Software
+* [FEBio](https://febio.org/)
+* [code_aster/Salome MECA](https://code-aster.org/spip.php?rubrique2)
+
+## Geometrical Operations
+* [MeshLab](https://www.meshlab.net/)
+* [Gmsh](https://gmsh.info/)
+* [Autodesk Netfabb](https://www.autodesk.com/products/netfabb/overview)
+* [see colin's]
+
+## MATLAB packages
+* [FreeBody](https://www.msksoftware.org.uk/software/freebody/) by Imperial College London
+* [BiomechZoo](https://www.biomechzoo.com)
+* [3D Kinematics and Inverse Dynamics scripts](https://uk.mathworks.com/matlabcentral/fileexchange/58021-3d-kinematics-and-inverse-dynamics?s_tid=prof_contriblnk) by Raphael Dumas
+* A software by Loeb
 
 ## Python tools
 * https://pypi.org/project/gaitpy/
 
 ## Optimal Control and Direct Collocation
-1. Anil Rao optimal control [videos](http://www.anilvrao.com/Optimal-Control-Videos.html)
+1. [Anil Rao's lectures on optimal control](http://www.anilvrao.com/Optimal-Control-Videos.html)
 2. https://simtk.org/projects/datatracking
 
 ## Researchers
