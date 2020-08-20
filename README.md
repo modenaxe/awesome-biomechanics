@@ -2,8 +2,9 @@
 Since the covid-19 pandemic many resources have been made available online. This is a repo for personal recollection.
 
 ## Courses
-1. Lectures on animal locomotion, of interest also for human locomotion (Manny Azizi and Matt McHenry, UC Irvine): https://mchenrylab.bio.uci.edu/e139
-2. Neuromechanics (Joshua Cashaback, University of Delaware): https://github.com/joshcash9/Neuromechanics_Course
+* Lectures on animal locomotion, of interest also for human locomotion (Manny Azizi and Matt McHenry, UC Irvine): https://mchenrylab.bio.uci.edu/e139
+* Neuromechanics (Joshua Cashaback, University of Delaware): https://github.com/joshcash9/Neuromechanics_Course
+* [Neuromatch Academy](https://www.youtube.com/channel/UC4LoD4yNBuLKQwDOV6t-KPw)
 
 ## Videos and Lectures
 * Sport Biomechanics Lecture Series: available on [Stuart McErlain-Naylor channel](https://www.youtube.com/channel/UCmG-bd1JL1ACP7hMzIUXwOg). Includes introductory topics like  presentations of motion capture techniques by Vicon ([lecture 1](https://www.youtube.com/watch?v=1zJ14cW-JqY) and [lecture 2](https://www.youtube.com/watch?v=hM7xEoyP-4o)) and an introduction of electromyography (EMG) by Delsys [link](https://www.youtube.com/watch?v=2xgyTpsa14M#).
@@ -13,9 +14,12 @@ Since the covid-19 pandemic many resources have been made available online. This
 * Running with bone pins: video of data collection in subject running with bone pins shared by Ton Van Bogert [link](https://www.youtube.com/watch?v=nf6jkyNgkwE)
 
 ## Video Channels
-1. 
-2. [Ross Miller](https://www.youtube.com/channel/UCO_H7aZoIcwZiNc4KjiQQkg/videos) 
-3. [OpenSim](https://www.youtube.com/user/OpenSimVideos/videos)
+* [Manoj Srinivasan](https://www.youtube.com/user/sjonam/videos)
+* [Ross Miller](https://www.youtube.com/channel/UCO_H7aZoIcwZiNc4KjiQQkg/videos) 
+* [OpenSim](https://www.youtube.com/user/OpenSimVideos/videos)
+* [American Society Biomechanics](https://www.youtube.com/channel/UC0_WoykR3nSBrHAwyfLPzzw)
+* [Journal of Foot and Ankle Research](https://www.youtube.com/channel/UCuIdGMZMaDKRM7vyJ6Dbcwg)
+
 
 ## Tutorials
 1. Van den Bogert's tutorial (Dynamic Walking, 2011): https://www.youtube.com/watch?v=Z4BoVVpju88
