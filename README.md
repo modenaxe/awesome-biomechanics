@@ -53,18 +53,28 @@
 * _Ground reaction force metrics are not strongly correlated with tibial bone load when running across speeds and slopes: implications for science, sport and wearable tech_ [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0210000) dataset(https://zenodo.org/record/3460691#.Xz-1tuhKgdU)
 
 
-## Biomechanical Software
+## Software
 ### Gait Analysis
 * [c3dserver](https://www.c3dserver.com/)
 * [ezc3d](https://github.com/pyomeca/ezc3d): C++/MATLAB/Python
 * [BTK - Biomechanical ToolKit](http://biomechanical-toolkit.github.io/): C++/MATLAB/Python
 * [MOKKA](https://biomechanical-toolkit.github.io/mokka/): allows c3d content visualization and basic processing (filtering).
 
-### Musculoskeletal Modelling and Simulation
+### Modelling and Simulation
+#### Multibody and Physics Engines
+* [MuJoCo](http://www.mujoco.org/) by Emo Todorov for Roboti LLC. Initially it was used at the Movement Control Laboratory, University of Washington
+* [SimBody]()
+* [Drake]()
+* Something with MATCAD
+* Bullet
+* BitBucket one
+
+#### Musculoskeletal Modelling and Simulation
 * [AnyBody Technology](http://www.anybodytech.com)
 * [GaitSym](https://github.com/wol101/GaitSym_2017) by [Animal Simulation Laboratory](https://www.animalsimulation.org/)
 * [NMSBuilder](http://www.nmsbuilder.org/)
 * [OpenSim](https://opensim.stanford.edu) | [source](https://github.com/opensim-org/opensim-core)
+* [Plugin for importing OpenSim models in MuJoCo](https://github.com/aikkala/O2MConverter)
 
 ## Segmentation software
 * [3DSlicer](https://www.slicer.org/)
