@@ -63,7 +63,7 @@
 
 
 ## Software
-### Gait Analysis
+### Gait Analysis :walking: :walking:
 * [c3dserver](https://www.c3dserver.com/)
 * [ezc3d](https://github.com/pyomeca/ezc3d): C++/MATLAB/Python
 * [BTK - Biomechanical ToolKit](http://biomechanical-toolkit.github.io/): C++/MATLAB/Python
@@ -104,7 +104,7 @@ reStructedText
 * [Plugin for importing OpenSim models in MuJoCo](https://github.com/aikkala/O2MConverter)
 * [SCONE](https://simtk.org/projects/scone) by Thomas Geijtenbeek. [paper](https://joss.theoj.org/papers/10.21105/joss.01421)|[website](https://scone.software/doku.php)|[source](https://github.com/opensim-org/SCONE)
 
-## Segmentation software
+## Segmentation software :art:
 * [3DSlicer](https://www.slicer.org/)
 * [ITK-Snap](http://www.itksnap.org/pmwiki/pmwiki.php)
 * [Materialise Mimics](https://www.materialise.com/en/medical/mimics-innovation-suite) (commercial)
@@ -160,7 +160,7 @@ Both meshers produce tetrahedral meshes and are available in Salome_meca:
 * _Modeling musculoskeletal kinematic and dynamic redundancy using null space projection_ by Dimitar Stanev [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2000421.svg)](https://doi.org/10.5281/zenodo.2000421)
 * _Stiffness modulation of redundant musculoskeletal systems_ by Dimitar Stanev [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2575332.svg)](https://doi.org/10.5281/zenodo.2575332)
 
-## Optimal Control and Direct Collocation
+## Optimal Control and Direct Collocation :rocket:
 * https://simtk.org/projects/datatracking
 * [3dpredictsim](https://github.com/antoinefalisse/3dpredictsim) by Antoine Falisse: Generate 3D muscle-driven predictive simulations of human movement using direct collocation and algorithmic differentiation
 * [FROST: Fast Robot Optimization and Simulation Toolkit](https://github.com/ayonga/frost-dev): FROST (Fast Robot Optimization and Simulation Toolkit) for MATLAB provides a general full-body dynamics gait optimization and simulation framework for bipedal walking robots using virtual constraints based feedback controllers. It uses a Wolfram Mathematica backend. **ADD PUB FROM http://ayonga.github.io/frost-dev/**
