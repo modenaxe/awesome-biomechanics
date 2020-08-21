@@ -16,8 +16,13 @@
 ### YouTube Channels
 * [AnyBody Technology Videos and Webcasts](https://www.youtube.com/channel/UCbgDnEKXyYOETR_Nb6YdehA)
 * [American Society Biomechanics](https://www.youtube.com/channel/UC0_WoykR3nSBrHAwyfLPzzw)
+* [Biomch-V](https://www.youtube.com/channel/UCcv9iv6v4_l9dfDDW1PTZCA): includes videos from International Society of Biomechanics conferences
+* [European Society of Biomechanics](https://www.youtube.com/channel/UCFkgDwfks-UkG7IDk8cBMMQ)
+* [ISB's tutorials and lectures](https://isbweb.org/about-us/61-videos): It includes those recorded at the ISB congresses from 2007 and those provided by others.
+* [ISBS](https://www.youtube.com/channel/UCYkzE6y_eKWa7KQOqZ6ZQUA/featured?disable_polymer=1): videos from ISBS2020 virtual conference
 * [Journal of Foot and Ankle Research](https://www.youtube.com/channel/UCuIdGMZMaDKRM7vyJ6Dbcwg)
 * [OpenSim Videos and Webinars](https://www.youtube.com/user/OpenSimVideos/videos)
+* [UCalgary Human Performance Lab](https://www.youtube.com/channel/UCxAOMJHF-5xQMFkLAutV7Dg/videos): videos from ISB/ASB2019 and Dynamic Walking 2019 conferences
 * [Manoj Srinivasan's channel](https://www.youtube.com/user/sjonam/videos)
 * [Ross Miller's channel](https://www.youtube.com/channel/UCO_H7aZoIcwZiNc4KjiQQkg/videos) 
 
