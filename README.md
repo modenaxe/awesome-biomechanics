@@ -38,9 +38,9 @@
 * [Male MRI with gait data - **no segmentations**](https://simtk.org/projects/subspecmodeling): [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0112625)
 * _Subject-specific muscle properties from diffusion tensor imaging significantly improve the accuracy of musculoskeletal models_ [paper](https://doi.org/10.1111/joa.13261) [dataset](http://datacat.liverpool.ac.uk/1105/)
 * [The Virtual Skeleton Database - SMIR Full Bodies](https://www.smir.ch/): Post mortem CT images of 50 subjects [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3841349/)
-   * [SMIR pelves and femurs](https://github.com/RWTHmediTEC/VSDFullBodyBoneModels) available in MATLAB format [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3384055.svg)](https://doi.org/10.5281/zenodo.3384055)
-* ?Bodyparts?
-
+   * [SMIR pelves and femurs](https://github.com/RWTHmediTEC/VSDFullBodyBoneModels) segmented bone from 20 CT scans available in MATLAB format [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3384055.svg)](https://doi.org/10.5281/zenodo.3384055)
+* [BodyParts3D -- 3D Anatomy Structure Database](http://lifesciencedb.jp/bp3d/) [paper](https://pubmed.ncbi.nlm.nih.gov/18835852/)
+* [Imperial College London femur and tibia surface mesh set](https://zenodo.org/record/167808#.X0BWJuhKgdX) by Nolte et al. The dataset contains bone geometries of the left and right thigh (femur) and shank (tibia and fibula) segmented from magnetic resonance (MR) scans of 35 healthy volunteers (22 male, 13 female; height 155 cm to 193 cm, weight 45 kg to 108 kg, body mass index 17.0 kg/m2 to 34.8 kg/m2) **NB: although published dataset appear to be still closed access** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.167808.svg)](https://doi.org/10.5281/zenodo.167808)
 
 ### Human Knee
 
@@ -99,6 +99,8 @@ reStructedText
 
 #### Musculoskeletal Modelling and Simulation :computer:
 * [AnyBody Technology](http://www.anybodytech.com)
+* [AnimatLab](http://animatlab.com/): AnimatLab is a neuromechanical and neurorobotic simulator that allows authors to build the body of a robot or biolgical organism in a physically accurate 3-D virtual world, and then layout a biologically realistic nervous system to control the animats behavior [source](https://github.com/NeuroRoboticTech/AnimatLabPublicSource) **NB**: completely free but not updated in the last ~4 years.
+* [Biomechanics of Bodies]() **TO ADD**
 * [GaitSym](https://github.com/wol101/GaitSym_2017) by [Animal Simulation Laboratory](https://www.animalsimulation.org/)
 * [OpenSim](https://opensim.stanford.edu) | [source](https://github.com/opensim-org/opensim-core)
 * [Plugin for importing OpenSim models in MuJoCo](https://github.com/aikkala/O2MConverter)
@@ -130,6 +132,8 @@ Both meshers produce tetrahedral meshes and are available in Salome_meca:
 ## Statistical Shape Modelling Software
 * [Musculoskeletal Atlas Project](https://simtk.org/projects/map) with information about the MAP-Client available [here](https://mapclient.readthedocs.io/en/latest)
 * [Statistical Shape Modelling Research Toolkit (SSMRT)](https://www.msksoftware.org.uk/software/ssmrt/) by the MSk Dynamics group, Imperial College London.
+* [ShapeWorks](https://www.sci.utah.edu/software/shapeworks.html) by the University of Utah: The ShapeWorks software is an open-source distribution of a new method for constructing compact statistical point-based models of ensembles of similar shapes that does not rely on any specific surface parameterization.
+* [Shape Model Builder](https://uk.mathworks.com/matlabcentral/fileexchange/49940-shape-model-builder?s_tid=prof_contriblnk) by Emmanuel Audenaert. Framework to develop shape models in MATLAB.
 
 ## Finite Element Software
 * [Abaqus](https://www.3ds.com/products-services/simulia/products/abaqus/) (commercial)
@@ -143,6 +147,7 @@ Both meshers produce tetrahedral meshes and are available in Salome_meca:
 * [spm1d](https://spm1d.org/): package for one-dimensional [Statistical Parametric Mapping](http://www.scholarpedia.org/article/Statistical_parametric_mapping)
 * [SPSS Statistics](https://www.ibm.com/uk-en/products/spss-statistics) (commercial)
 
+
 ## MATLAB packages
 * [GIBBON MATLAB Toolbox](https://www.gibboncode.org/)
 * [LMG: Lumbar Model Generator](https://github.com/CELavecchia/LMG) by Carolina Lavecchia **TODO: add paper**
@@ -153,6 +158,7 @@ Both meshers produce tetrahedral meshes and are available in Salome_meca:
 * https://github.com/UMass-OpenSim/opensim-marker-place-toolbox
 * [Automated Gap Filling and Tools for Motion Capture](https://github.com/JonathanCamargo/MoCapTools) by the Sensor-Fusion team from EPIC lab @GeorgiaTech. **ADD PAPER**
 * [CusToM: a Matlab toolbox for musculoskeletal simulation](https://github.com/anmuller/CusToM) by Antoine Muller: Customizable Toolbox for Musculoskeletal simulation (CusToM) is a MATLAB toolbox aimed at performing inverse dynamics based musculoskeletal analyzes
+* [Geyer's 2010 neuromuscular model](https://www.cs.cmu.edu/~hgeyer/Software/Neuromuscular%20Model/Geyer%20Neuromuscular%20Model.zip): (available for Academic or Non-Profit Organization Noncommercial research use only).| [paper](https://www.cs.cmu.edu/~hgeyer/Publications/Geyer&Herr-ReflexModel2Column.pdf)
 
 ## Python tools
 * [gaitpy](https://pypi.org/project/gaitpy/): to be checked
