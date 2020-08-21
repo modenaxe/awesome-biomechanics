@@ -62,6 +62,11 @@
 * [MOKKA](https://biomechanical-toolkit.github.io/mokka/): allows c3d content visualization and basic processing (filtering).
 
 ### Modelling and Simulation
+
+#### Anthropometry
+* [Yeadon](https://github.com/chrisdembia/yeadon): The human inertia model developed by Fred Yeadon in 1990.
+* [Hatze](https://github.com/wspr/hatze-biomech) by Will Robertson: A Matlab implementation of Hatze's 1980 anthropometric body segment parameter model
+
 #### Multibody and Physics Engines
 * [MuJoCo](http://www.mujoco.org/) by Emo Todorov for Roboti LLC. Initially it was used at the Movement Control Laboratory, University of Washington
 * [SimBody](https://simtk.org/projects/simbody/): [paper](https://www.sciencedirect.com/science/article/pii/S2210983811000241) | [source](https://github.com/simbody)
@@ -70,6 +75,7 @@
 * [Pinocchio](https://github.com/stack-of-tasks/pinocchio): A fast and flexible implementation of Rigid Body Dynamics algorithms and their analytical derivatives
 * [ODE](https://www.ode.org/): open source, high performance library for simulating rigid body dynamics. [source](https://bitbucket.org/odedevs/ode/src/master/)
 * [Bullet Physics](https://github.com/bulletphysics/bullet3): real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.
+* [PyDy](https://github.com/pydy/pydy) by Jason Moore: tool kit written in the Python programming language that utilizes an array of scientific programs to enable the study of multibody dynamics.
 
 #### Musculoskeletal Modelling and Simulation
 * [AnyBody Technology](http://www.anybodytech.com)
@@ -129,7 +135,12 @@ Both meshers produce tetrahedral meshes and are available in Salome_meca:
 * [pyomeca](https://github.com/pyomeca): software for importing biomechanical data and processing it
 
 ## Optimal Control and Direct Collocation
-2. https://simtk.org/projects/datatracking
+* https://simtk.org/projects/datatracking
+* [3dpredictsim](https://github.com/antoinefalisse/3dpredictsim) by Antoine Falisse: Generate 3D muscle-driven predictive simulations of human movement using direct collocation and algorithmic differentiation
+* [OpenSim Moco](https://github.com/chrisdembia/opensim-moco)
+* [opty](https://github.com/csu-hmc/opty) by Jason Moore and Ton van den Bogert
+* [muscle redundancy solver](https://github.com/antoinefalisse/solvemuscleredundancy_dev) by KU Leuven
+
 
 ## Miscellaneous Online Resources
 * https://www.biomch-l.isbweb.org/
