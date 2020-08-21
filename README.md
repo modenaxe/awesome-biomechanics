@@ -1,6 +1,6 @@
 # Awesome Biomechanics
 
-## Videos, Lectures and Courses
+## Videos, Lectures and Courses :clapper:
 * [Lectures on animal locomotion](https://mchenrylab.bio.uci.edu/e139) (of interest also for human locomotion) by Manny Azizi and Matt McHenry (UC Irvine): 
 * [Neuromechanics course material](https://github.com/joshcash9/Neuromechanics_Course) by Joshua Cashaback (University of Delaware) 
 * [Neuromatch Academy](https://www.youtube.com/channel/UC4LoD4yNBuLKQwDOV6t-KPw)
@@ -25,12 +25,12 @@
 * [Tutorial: Musculoskeletal Model for Simulation of Walking](https://www.youtube.com/watch?v=Z4BoVVpju88) by Van den Bogert's tutorial (Dynamic Walking, 2011) 
 * [How to review a paper](https://www.sciencemag.org/careers/2016/09/how-review-paper)
 
-## Mathematical and Physics Background
+## Mathematical and Physics Background :triangular_ruler:
 * [Calculus made Easy](http://calculusmadeeasy.org) by Silvanus P. Thompson
 * [Dynamics: Theory and Applications](https://ecommons.cornell.edu/handle/1813/638) by Kane and Levinson
 * _Theory of topics of interest for biomechanics_: [Kwon3d website](http://www.kwon3d.com/theory/prac.html)
 
-## Datasets
+## Datasets :dvd: :dvd:
 
 ### Human Anatomy
 * [Visible Human Project](https://www.nlm.nih.gov/research/visible/visible_human.html): one male and one female dataset
@@ -44,7 +44,7 @@
 
 ### Human Knee
 
-### Animal Anatomy
+### Animal Anatomy :crocodile:
 * [CT scans of various animals](https://osf.io/4sc96/) from John Hutchinson's group
 
 ### Balance
@@ -76,7 +76,7 @@
 * [Yeadon](https://github.com/chrisdembia/yeadon): The human inertia model developed by Fred Yeadon in 1990.
 * [Hatze](https://github.com/wspr/hatze-biomech) by Will Robertson: A Matlab implementation of Hatze's 1980 anthropometric body segment parameter model
 
-#### Multibody and Physics Engines
+#### Multibody and Physics Engines :green_apple: :apple:
 * [MuJoCo](http://www.mujoco.org/) by Emo Todorov for Roboti LLC. Initially it was used at the Movement Control Laboratory, University of Washington
 * [SimBody](https://simtk.org/projects/simbody/): [paper](https://www.sciencedirect.com/science/article/pii/S2210983811000241) | [source](https://github.com/simbody)
 * [Drake](https://drake.mit.edu/) C++ toolbox started by the Robot Locomotion Group at the MIT Computer Science and Artificial Intelligence Lab, with core development led by the Toyota Research Institute. It is a collection of tools for analyzing the dynamics of our robots and building control systems for them, with a heavy emphasis on optimization-based design/analysis.
@@ -110,7 +110,7 @@ reStructedText
 * [Materialise Mimics](https://www.materialise.com/en/medical/mimics-innovation-suite) (commercial)
 * [MITK](https://docs.mitk.org/2016.11/index.html)
 * [MITK-GEM](http://araex.github.io/mitk-gem-site/): segmentation and mesh processing in one software. Based on MITK.
-* [SASHIMI Segmentation](https://github.com/bartbols/SASHIMI) by Bart Bolsterlee. SASHIMI Segmentation is a MATLAB App for segmentation of multi-slice images.
+* :sushi: [SASHIMI Segmentation](https://github.com/bartbols/SASHIMI) by Bart Bolsterlee. SASHIMI Segmentation is a MATLAB App for segmentation of multi-slice images.
 * [Seg3D](https://www.sci.utah.edu/cibc-software/seg3d.html)
 * [Simpleware ScanIP](https://www.synopsys.com/simpleware/software/scanip.html)
 
