@@ -93,6 +93,8 @@
 
 #### Automatic Landmarks/Reference System Identification
 * [Subburaj's curvature/spatial relation matrix method](https://github.com/RWTHmediTEC/PelvicLandmarkIdentification_Subburaj): MATLAB implementation of Subburaj's curvature/spatial relation matrix method for the automatic identification of pelvic landmarks. **SEE LINK FOR PAPERS**
+* [PelvicLandmarkIdentification](https://github.com/RWTHmediTEC/PelvicLandmarkIdentification) by Fischer, M. C. M [paper](https://www.nature.com/articles/s41598-019-49573-4) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3384110.svg)](https://doi.org/10.5281/zenodo.3384110)
+reStructedText
 * [GIBOC-Knee](https://github.com/renaultJB/GIBOC-Knee-Coordinate-System) by Jean-Baptiste Renault **TODO - ADD PAPER**
 
 #### Musculoskeletal Modelling and Simulation
@@ -161,10 +163,10 @@ Both meshers produce tetrahedral meshes and are available in Salome_meca:
 ## Optimal Control and Direct Collocation
 * https://simtk.org/projects/datatracking
 * [3dpredictsim](https://github.com/antoinefalisse/3dpredictsim) by Antoine Falisse: Generate 3D muscle-driven predictive simulations of human movement using direct collocation and algorithmic differentiation
+* [FROST: Fast Robot Optimization and Simulation Toolkit](https://github.com/ayonga/frost-dev): FROST (Fast Robot Optimization and Simulation Toolkit) for MATLAB provides a general full-body dynamics gait optimization and simulation framework for bipedal walking robots using virtual constraints based feedback controllers. It uses a Wolfram Mathematica backend. **ADD PUB FROM http://ayonga.github.io/frost-dev/**
 * [OpenSim Moco](https://github.com/chrisdembia/opensim-moco)
 * [opty](https://github.com/csu-hmc/opty) by Jason Moore and Ton van den Bogert
 * [muscle redundancy solver](https://github.com/KULeuvenNeuromechanics/MuscleRedundancySolver) by KU Leuven: An algorithm to estimate muscle tendon properties and/or compute muscle coordination by tracking experimental data with a musculoskeletal model assuming optimal control to solve for the muscle redundancy. [dev_repo](https://github.com/antoinefalisse/solvemuscleredundancy_dev) 
-
 
 ## Miscellaneous Online Resources
 * https://www.biomch-l.isbweb.org/
