@@ -11,6 +11,7 @@
 * A critique of Induced Acceleration Analysis by Andy Ruina (WCB2014) [link](https://www.youtube.com/watch?v=2EmwIM_uQnk&t=18s).
 * [F8 2019 - VR Full Body Tracking & Avatars](https://www.youtube.com/watch?v=FhiAFo9U_sM) and [blog post](https://uploadvr.com/facebook-f8-2019-body-tracking/)
 * Running with bone pins: video of data collection in subject running with bone pins shared by Ton Van Bogert [link](https://www.youtube.com/watch?v=nf6jkyNgkwE)
+* [Introduction to Trajectory Optimization](https://www.youtube.com/watch?v=wlkRYMVUZTs) by Matthew Kelly **more resources on video description**
 
 ### YouTube Channels
 * [AnyBody Technology Videos and Webcasts](https://www.youtube.com/channel/UCbgDnEKXyYOETR_Nb6YdehA)
@@ -63,11 +64,12 @@
 ### Modelling and Simulation
 #### Multibody and Physics Engines
 * [MuJoCo](http://www.mujoco.org/) by Emo Todorov for Roboti LLC. Initially it was used at the Movement Control Laboratory, University of Washington
-* [SimBody]()
-* [Drake]()
-* Something with MATCAD
-* Bullet
-* BitBucket one
+* [SimBody](https://simtk.org/projects/simbody/): [paper](https://www.sciencedirect.com/science/article/pii/S2210983811000241) | [source](https://github.com/simbody)
+* [Drake](https://drake.mit.edu/) C++ toolbox started by the Robot Locomotion Group at the MIT Computer Science and Artificial Intelligence Lab, with core development led by the Toyota Research Institute. It is a collection of tools for analyzing the dynamics of our robots and building control systems for them, with a heavy emphasis on optimization-based design/analysis.
+* [RBDL](https://rbdl.github.io/) with [source](https://github.com/rbdl/rbdl)
+* [Pinocchio](https://github.com/stack-of-tasks/pinocchio): A fast and flexible implementation of Rigid Body Dynamics algorithms and their analytical derivatives
+* [ODE](https://www.ode.org/): open source, high performance library for simulating rigid body dynamics. [source](https://bitbucket.org/odedevs/ode/src/master/)
+* [Bullet Physics](https://github.com/bulletphysics/bullet3): real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.
 
 #### Musculoskeletal Modelling and Simulation
 * [AnyBody Technology](http://www.anybodytech.com)
@@ -120,7 +122,7 @@ Both meshers produce tetrahedral meshes and are available in Salome_meca:
 * [FreeBody](https://www.msksoftware.org.uk/software/freebody/) by the MSk Dynamics group, Imperial College London.
 * [BiomechZoo](https://www.biomechzoo.com)
 * [3D Kinematics and Inverse Dynamics scripts](https://uk.mathworks.com/matlabcentral/fileexchange/58021-3d-kinematics-and-inverse-dynamics?s_tid=prof_contriblnk) by Raphael Dumas
-* A software by Loeb??
+* [Trajectory Optimization Toolbox](https://github.com/MatthewPeterKelly/OptimTraj) by Matthew Kelly, including some [excellent examples](https://github.com/MatthewPeterKelly/dscTutorials) and some [course materials](https://github.com/MatthewPeterKelly/ME149_Spring2018)
 
 ## Python tools
 * [gaitpy](https://pypi.org/project/gaitpy/): to be checked
