@@ -28,22 +28,30 @@
 ## Mathematical and Physics Background
 * [Calculus made Easy](http://calculusmadeeasy.org) by Silvanus P. Thompson
 * [Dynamics: Theory and Applications](https://ecommons.cornell.edu/handle/1813/638) by Kane and Levinson
-*_Theory of topics of interest for biomechanics_: [Kwon3d website](http://www.kwon3d.com/theory/prac.html)
+* _Theory of topics of interest for biomechanics_: [Kwon3d website](http://www.kwon3d.com/theory/prac.html)
 
 ## Datasets
 
-### Anatomical Datasets
+### Human Anatomy
 * [Visible Human Project](https://www.nlm.nih.gov/research/visible/visible_human.html): one male and one female dataset
 * [Visible Human Project in NIfTI format](https://drive.google.com/drive/folders/1LBBIax6wpWBsiEcyXDrXNqyDSEB9rinO) by [Bart Bolsterlee](https://twitter.com/bartbolsterlee)
 * [Male MRI with gait data - **no segmentations**](https://simtk.org/projects/subspecmodeling): [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0112625)
-* MRI lower limb (Charles)
+* _Subject-specific muscle properties from diffusion tensor imaging significantly improve the accuracy of musculoskeletal models_ [paper](https://doi.org/10.1111/joa.13261) [dataset](http://datacat.liverpool.ac.uk/1105/)
+* [SMIR Full Bodies](https://www.smir.ch/): Post mortem CT images of 50 subjects **ADD PAPER**
+   * [SMIR pelves and femurs](https://github.com/RWTHmediTEC/VSDFullBodyBoneModels) available in MATLAB format [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3384055.svg)](https://doi.org/10.5281/zenodo.3384055)
+* ?Bodyparts?
+
+
+### Human Knee
+
+### Animal Anatomy
 * [CT scans of various animals](https://osf.io/4sc96/) from John Hutchinson's group
 
 ### Balance
 * A data set with kinematic and ground reaction forces of human balance [dataset](https://figshare.com/articles/A_data_set_with_kinematic_and_ground_reaction_forces_of_human_balance/4525082) [paper](https://peerj.com/articles/3626/)
 * BDS: A public data set of human balance evaluations [dataset](https://figshare.com/articles/A_public_data_set_of_quantitative_and_qualitative_evaluations_of_human_balance/3394432) [paper](https://peerj.com/articles/2648/) [resources](https://github.com/BMClab/datasets/tree/master/BDS)
 
-### Gait Datasets (TODO: add details of datasets)
+### Gait (TODO: add details of datasets)
 * _A multimodal dataset of human gait at different walking speeds established on injury-free adult participants_ [paper](https://www.nature.com/articles/s41597-019-0124-4) [dataset](https://doi.org/10.6084/m9.figshare.7734767)
 * _Dataset for Metabolic Cost Calculations of Gait using Musculoskeletal Energy Models, a Comparison Study_ [paper])(https://zenodo.org/record/1973799#.XzzzBOhKgdU)
 * _An Open Data Set of Inertial, Magnetic, Foot–Ground Contact, and Electromyographic Signals From Wearable Sensors During Walking._ [paper](https://journals.humankinetics.com/view/journals/mcj/aop/article-10.1123-mc.2020-0023/article-10.1123-mc.2020-0023.xml) [dataset](https://figshare.com/articles/Dataset_of_gait_and_inertial_sensors/7778255) [resources](https://github.com/BMClab/datasets/tree/master/GEDS)
@@ -64,6 +72,7 @@
 ### Modelling and Simulation
 
 #### Anthropometry
+* [Repository of body segment parameter models](https://github.com/wspr/body-segment-param) by Will Robertson. Contains the raw data for a multitude of body segment parameter models.
 * [Yeadon](https://github.com/chrisdembia/yeadon): The human inertia model developed by Fred Yeadon in 1990.
 * [Hatze](https://github.com/wspr/hatze-biomech) by Will Robertson: A Matlab implementation of Hatze's 1980 anthropometric body segment parameter model
 
@@ -77,12 +86,21 @@
 * [Bullet Physics](https://github.com/bulletphysics/bullet3): real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.
 * [PyDy](https://github.com/pydy/pydy) by Jason Moore: tool kit written in the Python programming language that utilizes an array of scientific programs to enable the study of multibody dynamics.
 
+#### Software for Building Models
+* [mri2psm](https://github.com/manishsreenivasa/mri2psm) by Manish Sreenivasa. Open-source toolchain to create patient-specific models from MRI images
+* [ModelFactory](https://github.com/manishsreenivasa/ModelFactory)A Matlab/Octave toolbox to create human body models
+* [NMSBuilder](http://www.nmsbuilder.org/)
+
+#### Automatic Landmarks/Reference System Identification
+* [Subburaj's curvature/spatial relation matrix method](https://github.com/RWTHmediTEC/PelvicLandmarkIdentification_Subburaj): MATLAB implementation of Subburaj's curvature/spatial relation matrix method for the automatic identification of pelvic landmarks. **SEE LINK FOR PAPERS**
+* [GIBOC-Knee](https://github.com/renaultJB/GIBOC-Knee-Coordinate-System) by Jean-Baptiste Renault **TODO - ADD PAPER**
+
 #### Musculoskeletal Modelling and Simulation
 * [AnyBody Technology](http://www.anybodytech.com)
 * [GaitSym](https://github.com/wol101/GaitSym_2017) by [Animal Simulation Laboratory](https://www.animalsimulation.org/)
-* [NMSBuilder](http://www.nmsbuilder.org/)
 * [OpenSim](https://opensim.stanford.edu) | [source](https://github.com/opensim-org/opensim-core)
 * [Plugin for importing OpenSim models in MuJoCo](https://github.com/aikkala/O2MConverter)
+* [SCONE](https://simtk.org/projects/scone) by Thomas Geijtenbeek. [paper](https://joss.theoj.org/papers/10.21105/joss.01421)|[website](https://scone.software/doku.php)|[source](https://github.com/opensim-org/SCONE)
 
 ## Segmentation software
 * [3DSlicer](https://www.slicer.org/)
@@ -90,6 +108,7 @@
 * [Materialise Mimics](https://www.materialise.com/en/medical/mimics-innovation-suite) (commercial)
 * [MITK](https://docs.mitk.org/2016.11/index.html)
 * [MITK-GEM](http://araex.github.io/mitk-gem-site/): segmentation and mesh processing in one software. Based on MITK.
+* [SASHIMI Segmentation](https://github.com/bartbols/SASHIMI) by Bart Bolsterlee. SASHIMI Segmentation is a MATLAB App for segmentation of multi-slice images.
 * [Seg3D](https://www.sci.utah.edu/cibc-software/seg3d.html)
 * [Simpleware ScanIP](https://www.synopsys.com/simpleware/software/scanip.html)
 
@@ -107,7 +126,7 @@ Both meshers produce tetrahedral meshes and are available in Salome_meca:
 * [NetGen](https://sourceforge.net/projects/netgen-mesher/) [source](https://github.com/NGSolve/netgen)
 
 ## Statistical Shape Modelling Software
-* Musculoskeletal Atlas Project
+* [Musculoskeletal Atlas Project](https://simtk.org/projects/map) with information about the MAP-Client available [here](https://mapclient.readthedocs.io/en/latest)
 * [Statistical Shape Modelling Research Toolkit (SSMRT)](https://www.msksoftware.org.uk/software/ssmrt/) by the MSk Dynamics group, Imperial College London.
 
 ## Finite Element Software
@@ -124,22 +143,27 @@ Both meshers produce tetrahedral meshes and are available in Salome_meca:
 
 ## MATLAB packages
 * [GIBBON MATLAB Toolbox](https://www.gibboncode.org/)
-* [Lumbar Spine Generator]()
+* [LMG: Lumbar Model Generator](https://github.com/CELavecchia/LMG) by Carolina Lavecchia **TODO: add paper**
 * [FreeBody](https://www.msksoftware.org.uk/software/freebody/) by the MSk Dynamics group, Imperial College London.
-* [BiomechZoo](https://www.biomechzoo.com)
+* [BiomechZoo](https://www.biomechzoo.com) by Philippe C Dixon: biomechZoo is a user-customizable toolbox for the analysis of biomechanical data within the MatLab programming environment. Please take a look at the Wiki for setup information and user instructions. [source](https://github.com/PhilD001/biomechZoo)
 * [3D Kinematics and Inverse Dynamics scripts](https://uk.mathworks.com/matlabcentral/fileexchange/58021-3d-kinematics-and-inverse-dynamics?s_tid=prof_contriblnk) by Raphael Dumas
 * [Trajectory Optimization Toolbox](https://github.com/MatthewPeterKelly/OptimTraj) by Matthew Kelly, including some [excellent examples](https://github.com/MatthewPeterKelly/dscTutorials) and some [course materials](https://github.com/MatthewPeterKelly/ME149_Spring2018)
+* https://github.com/UMass-OpenSim/opensim-marker-place-toolbox
+* [Automated Gap Filling and Tools for Motion Capture](https://github.com/JonathanCamargo/MoCapTools) by the Sensor-Fusion team from EPIC lab @GeorgiaTech. **ADD PAPER**
+* [CusToM: a Matlab toolbox for musculoskeletal simulation](https://github.com/anmuller/CusToM) by Antoine Muller: Customizable Toolbox for Musculoskeletal simulation (CusToM) is a MATLAB toolbox aimed at performing inverse dynamics based musculoskeletal analyzes
 
 ## Python tools
 * [gaitpy](https://pypi.org/project/gaitpy/): to be checked
 * [pyomeca](https://github.com/pyomeca): software for importing biomechanical data and processing it
+* _Modeling musculoskeletal kinematic and dynamic redundancy using null space projection_ by Dimitar Stanev [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2000421.svg)](https://doi.org/10.5281/zenodo.2000421)
+* _Stiffness modulation of redundant musculoskeletal systems_ by Dimitar Stanev [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2575332.svg)](https://doi.org/10.5281/zenodo.2575332)
 
 ## Optimal Control and Direct Collocation
 * https://simtk.org/projects/datatracking
 * [3dpredictsim](https://github.com/antoinefalisse/3dpredictsim) by Antoine Falisse: Generate 3D muscle-driven predictive simulations of human movement using direct collocation and algorithmic differentiation
 * [OpenSim Moco](https://github.com/chrisdembia/opensim-moco)
 * [opty](https://github.com/csu-hmc/opty) by Jason Moore and Ton van den Bogert
-* [muscle redundancy solver](https://github.com/antoinefalisse/solvemuscleredundancy_dev) by KU Leuven
+* [muscle redundancy solver](https://github.com/KULeuvenNeuromechanics/MuscleRedundancySolver) by KU Leuven: An algorithm to estimate muscle tendon properties and/or compute muscle coordination by tracking experimental data with a musculoskeletal model assuming optimal control to solve for the muscle redundancy. [dev_repo](https://github.com/antoinefalisse/solvemuscleredundancy_dev) 
 
 
 ## Miscellaneous Online Resources
