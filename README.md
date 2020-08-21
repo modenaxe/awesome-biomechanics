@@ -37,7 +37,7 @@
 * [Visible Human Project in NIfTI format](https://drive.google.com/drive/folders/1LBBIax6wpWBsiEcyXDrXNqyDSEB9rinO) by [Bart Bolsterlee](https://twitter.com/bartbolsterlee)
 * [Male MRI with gait data - **no segmentations**](https://simtk.org/projects/subspecmodeling): [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0112625)
 * _Subject-specific muscle properties from diffusion tensor imaging significantly improve the accuracy of musculoskeletal models_ [paper](https://doi.org/10.1111/joa.13261) [dataset](http://datacat.liverpool.ac.uk/1105/)
-* [SMIR Full Bodies](https://www.smir.ch/): Post mortem CT images of 50 subjects **ADD PAPER**
+* [The Virtual Skeleton Database - SMIR Full Bodies](https://www.smir.ch/): Post mortem CT images of 50 subjects [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3841349/)
    * [SMIR pelves and femurs](https://github.com/RWTHmediTEC/VSDFullBodyBoneModels) available in MATLAB format [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3384055.svg)](https://doi.org/10.5281/zenodo.3384055)
 * ?Bodyparts?
 
