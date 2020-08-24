@@ -65,12 +65,6 @@
 :page_facing_up: [paper](https://doi.org/10.1111/joa.13261) |
 :dvd: [dataset](http://datacat.liverpool.ac.uk/1105/)
 
-* **Template: DatasetName** by Authors. Explanation.  
-:page_facing_up: [paper]() |
-:dvd: [dataset]() |
-:computer: [website]() |
-[![DOI]()]
-
 * **The Virtual Skeleton Database: An Open Access Repository for Biomedical Research and Collaboration** by Michael Kistler et al. (2013). Dataset including post mortem CT images of 50 subjects. **Despite several attempts I was never granted access to these data, although I know of others who did.**  
 :page_facing_up: [paper](https://dx.doi.org/10.2196%2Fjmir.2930) |
 :dvd: [dataset](https://www.smir.ch/objects/214315) |
@@ -79,33 +73,45 @@
    :dvd: [dataset](https://github.com/RWTHmediTEC/VSDFullBodyBoneModels)
    [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3384055.svg)](https://doi.org/10.5281/zenodo.3384055)
    
-* [BodyParts3D - 3D Anatomy Structure Database](http://lifesciencedb.jp/bp3d/) [paper](https://pubmed.ncbi.nlm.nih.gov/18835852/)
+* **BodyParts3D** by Nobutaka Mitsuhashi et al. (2003). This is a 3D structure database for anatomical concepts that extends beyond biomechanics.  
+:page_facing_up: [paper](https://doi.org/10.1093/nar/gkn613)
+:dvd: [dataset](http://lifesciencedb.jp/bp3d/) 
 
-* [Femur and tibia surface mesh set](https://zenodo.org/record/167808#.X0BWJuhKgdX) by Nolte et al. The dataset contains bone geometries of the left and right thigh (femur) and shank (tibia and fibula) segmented from magnetic resonance (MR) scans of 35 healthy volunteers (22 male, 13 female; height 155 cm to 193 cm, weight 45 kg to 108 kg, body mass index 17.0 kg/m2 to 34.8 kg/m2) **NB: although published dataset appear to be still closed access** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.167808.svg)](https://doi.org/10.5281/zenodo.167808)
+* **Femur and tibia surface mesh set** by Nolte et al. (2020). The data set contains bone geometries of the left and right thigh (femur) and shank (tibia and fibula) segmented from magnetic resonance (MR) scans of 35 healthy volunteers (22 male, 13 female) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.167808.svg)](https://doi.org/10.5281/zenodo.167808) **NB: although published dataset appear to be still closed access**  
+:page_facing_up: [paper](https://doi.org/10.1016/j.gaitpost.2020.02.010) |
+:dvd: [dataset](https://zenodo.org/record/167808#.X0O4kMhKgdV)
 
-* [Database on shoulder morphological data](http://homepage.tudelft.nl/g6u61/repository/shoulder/overview.htm): includes data from several studies of the Dutch Shoulder Group
+* **Database on shoulder morphological data** by the Dutch Shoulder Group. Includes data from several studies performed in 1988-2002 period.  
+:dvd: [dataset](http://homepage.tudelft.nl/g6u61/repository/shoulder/overview.htm)
 
-* [Muscle Modelling Database]() by Ross Miller (2018). A summary of muscle mechanical parameters in the human lower limb from the anatomy, muscle/exercise physiology, and biomechanics literature for use in Hill-based muscle model.
+* **Hand and Wrist Dataset** by Goislard de Monsabert et al. (2018). Data set intended for modelling including the musculoskeletal geometry and muscle morphology from the elbow to the finger tips. Clinical imaging, optical motion capture and microscopy were used to create a dataset from a single specimen.  
+:page_facing_up: [paper](https://link.springer.com/article/10.1007/s10439-017-1936-z#SecESM1) |
+:dvd: [dataset](https://static-content.springer.com/esm/art%3A10.1007%2Fs10439-017-1936-z/MediaObjects/10439_2017_1936_MOESM1_ESM.pdf)
+
+* **Muscle Modelling Database** by Ross Miller (2018). A summary of muscle mechanical parameters in the human lower limb from the anatomy, muscle/exercise physiology, and biomechanics literature for use in Hill-based muscle model.
 :page_facing_up: [paper](https://link.springer.com/referenceworkentry/10.1007%2F978-3-319-30808-1_203-2) |
 :dvd: [dataset](https://figshare.com/articles/dataset/Muscle_model_parameters/4275854)
 
 ### Human Knee
 
 ### Animal Anatomy :crocodile:
-* [CT scans of various animals](https://osf.io/4sc96/) from John Hutchinson's group
+* **CT scans of various animals** from John Hutchinson's group.  
+:dvd: [dataset](https://osf.io/4sc96/)
 
-### Balance
+### Balance :balance_scale:
+
 * **BDS: A public data set of human balance evaluations**  by Damiana dos Santos and Marco Duarte (2016).  
 :page_facing_up: [paper](https://peerj.com/articles/2648/) |
 :dvd: [dataset](https://figshare.com/articles/A_public_data_set_of_quantitative_and_qualitative_evaluations_of_human_balance/3394432) |
-:computer: [website & resources](https://github.com/BMClab/datasets/tree/master/BDS)
+:computer: [website](http://pesquisa.ufabc.edu.br/bmclab/datasets/bds/) & [resources](https://github.com/BMClab/datasets/tree/master/BDS)
 
 * **PDS: A data set with kinematic and ground reaction forces of human balance** by Damiana dos Santos et al. (2017).  
 :page_facing_up: [paper](https://peerj.com/articles/3626/) |
 :dvd: [dataset](https://figshare.com/articles/A_data_set_with_kinematic_and_ground_reaction_forces_of_human_balance/4525082) |
 :computer: [website](http://pesquisa.ufabc.edu.br/bmclab/datasets/pds/)
 
-### Energetics
+### Energetics :fire:
+
 * **ISB2019 Metabolic cost session_: Data for participants in ISB2019 session on model-based prediction of the metabolic cost of human locomotion.** by Ross Miller (2019).    
 :page_facing_up: [users' guide](https://figshare.com/articles/journal_contribution/User_Guide/7086770)
 :cd: [dataset](https://figshare.com/projects/ISB2019_Metabolic_cost_session/38738)
@@ -140,8 +146,21 @@
 
 
 ### Running :running:
-* _A public data set of running biomechanics and the effects of running speed on lower extremity kinematics and kinetics_ [paper](https://peerj.com/articles/3298/) | [dataset](https://figshare.com/articles/A_comprehensive_public_data_set_of_running_biomechanics_and_the_effects_of_running_speed_on_lower_extremity_kinematics_and_kinetics/4543435/4) [resources]()
-* _Ground reaction force metrics are not strongly correlated with tibial bone load when running across speeds and slopes: implications for science, sport and wearable tech_ [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0210000) dataset(https://zenodo.org/record/3460691#.Xz-1tuhKgdU)
+
+* **Template: DatasetName** by Authors. Explanation.  
+:page_facing_up: [paper]() |
+:dvd: [dataset]() |
+:computer: [website]() |
+[![DOI]()]
+
+* **A public data set of running biomechanics and the effects of running speed on lower extremity kinematics and kinetics** by Reginaldo K. Fukuchi et al. (2017). The lower-extremity kinematics and kinetics data of 28 regular runners were collected using a three-dimensional (3D) motion-capture system and an instrumented treadmill while the subjects ran at 2.5 m/s, 3.5 m/s, and 4.5 m/s wearing standard neutral shoes.  
+:page_facing_up: [paper](https://peerj.com/articles/3298) |
+:dvd: [dataset](https://figshare.com/articles/A_comprehensive_public_data_set_of_running_biomechanics_and_the_effects_of_running_speed_on_lower_extremity_kinematics_and_kinetics/4543435/4) |
+:computer: [website](http://pesquisa.ufabc.edu.br/bmclab/datasets/rbds/)
+
+* **Ground reaction force metrics are not strongly correlated with tibial bone load when running across speeds and slopes: implications for science, sport and wearable tech**  by Emily Matijevich et al. (2019). Includes ten healthy individuals that performed running trials while GRFs and kinematics were collected. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3460691.svg)](https://doi.org/10.5281/zenodo.3460691)    
+:page_facing_up: [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0210000) |
+:dvd: [dataset and resources](https://zenodo.org/record/3460691#.Xz-1tuhKgdU)
 
 
 ## Software 
@@ -156,7 +175,7 @@
 #### Anthropometry
 * [Repository of body segment parameter models](https://github.com/wspr/body-segment-param) by Will Robertson. Contains the raw data for a multitude of body segment parameter models (see repository for list).
 * [Yeadon's model](https://github.com/chrisdembia/yeadon) by Chris Dembia et al. The human inertia model developed by Fred Yeadon in 1990. :page_facing_up: [paper](https://dx.doi.org/10.12688%2Ff1000research.5292.2)
-* [Hatze](https://github.com/wspr/hatze-biomech) by Will Robertson. A Matlab implementation of Hatze's 1980 anthropometric body segment parameter model. :page_facing_up: [Hatze's paper](https://doi.org/10.1016/0021-9290(80)90171-2)
+* [Hatze's model](https://github.com/wspr/hatze-biomech) by Will Robertson. A Matlab implementation of Hatze's 1980 anthropometric body segment parameter model. :page_facing_up: [Hatze's paper](https://doi.org/10.1016/0021-9290(80)90171-2)
 
 #### Multibody and Physics Engines :apple:
 * [Bullet Physics](https://github.com/bulletphysics/bullet3): real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.
@@ -169,9 +188,19 @@
 * [SimBody](https://simtk.org/projects/simbody/): [paper](https://www.sciencedirect.com/science/article/pii/S2210983811000241)|[source](https://github.com/simbody)
 
 #### Resources for Building Biomechanical Models
-* [mri2psm](https://github.com/manishsreenivasa/mri2psm) by Manish Sreenivasa. Open-source toolchain to create patient-specific models from MRI images. [paper](https://doi.org/10.1016/j.jbiomech.2016.05.001) (although _MRI2PSM, an open-source toolchain to create patient-specific rigid body models from MRI images._ is cited in the paper).
-* [ModelFactory](https://github.com/manishsreenivasa/ModelFactory) by Manish Sreenivasa. A Matlab/Octave toolbox to create human body models. [preprint](https://arxiv.org/abs/1804.03407)
-* [NMSBuilder](http://www.nmsbuilder.org/)
+* **mri2psm** by Manish Sreenivasa (2016). Open-source toolchain to create patient-specific models from MRI images.  
+:page_facing_up: [paper](https://doi.org/10.1016/j.jbiomech.2016.05.001) (_MRI2PSM, an open-source toolchain to create patient-specific rigid body models from MRI images._ is cited in the paper, but not retrievable). |
+:floppy_disk: [source](https://github.com/manishsreenivasa/mri2psm)
+
+* **ModelFactory** by Manish Sreenivasa (2018). A Matlab/Octave toolbox to create human body models.   
+:page_facing_up: [preprint](https://arxiv.org/abs/1804.03407) |
+:floppy_disk: [source](https://github.com/manishsreenivasa/ModelFactory)
+
+* **NMSBuilder** by Giordano Valente et al. (2017). Freely available software to create subject-specific musculoskeletal models for OpenSim from 3D geometries.  
+:page_facing_up: [paper](https://doi.org/10.1016/j.cmpb.2017.09.012) |
+:computer: [website](http://www.nmsbuilder.org/) |
+:movie_camera: [YouTube tutorial](https://www.youtube.com/watch?v=UtAMTFM1vsI)
+
 
 #### Automatic Landmarks/Reference System Identification :skull:
 * [Subburaj's curvature/spatial relation matrix method](https://github.com/RWTHmediTEC/PelvicLandmarkIdentification_Subburaj): MATLAB implementation of Subburaj's curvature/spatial relation matrix method for the automatic identification of pelvic landmarks. **SEE LINK FOR PAPERS**
