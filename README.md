@@ -29,7 +29,7 @@
 * [Tutorial: Musculoskeletal Model for Simulation of Walking](https://www.youtube.com/watch?v=Z4BoVVpju88) by Van den Bogert's tutorial (Dynamic Walking, 2011) 
 * [How to review a paper](https://www.sciencemag.org/careers/2016/09/how-review-paper)
 * [Kane’s Method for an inverted pendulum](https://figshare.com/articles/journal_contribution/Kane_pdf/7791647) by Ross Miller. A tutorial on Kane's Method for deriving equations of motion, demonstrated on an inverted pendulum.
-* :gem: [Notes on Scientific Computing for Biomechanics and Motor Control](https://github.com/BMClab/BMC) by Marcos Duarte and Renato Watanabe. A collection of lecture notes and code on scientific computing and data analysis for Biomechanics and Motor Control in the form of Jupyter notebooks (python).
+* [Notes on Scientific Computing for Biomechanics and Motor Control](https://github.com/BMClab/BMC) by Marcos Duarte and Renato Watanabe. A collection of lecture notes and code on scientific computing and data analysis for Biomechanics and Motor Control in the form of Jupyter notebooks (python).
 
 ## Mathematical Background :triangular_ruler:
 * [Calculus made Easy](http://calculusmadeeasy.org) by Silvanus P. Thompson
@@ -70,7 +70,7 @@
 :dvd: [dataset](https://www.smir.ch/objects/214315) |
 :computer: [website](https://www.smir.ch/)
    * _SMIR pelves and selected pelvic landmarks_ from five experienced raters (20 pelves) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3384055.svg)](https://doi.org/10.5281/zenodo.3384055)
-   * _SMIR pelves and femurs_ segmented bone from 20 CT scans available in MATLAB format_  
+   * _SMIR pelves and femurs_ segmented bone from 20 CT scans available in MATLAB format.  
    :dvd: [dataset](https://github.com/RWTHmediTEC/VSDFullBodyBoneModels)
    
 * **BodyParts3D** by Nobutaka Mitsuhashi et al. (2003). This is a 3D structure database for anatomical concepts that extends beyond biomechanics.  
