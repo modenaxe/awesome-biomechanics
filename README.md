@@ -57,6 +57,10 @@
 :page_facing_up: [paper](https://dx.doi.org/10.1111%2Fj.0021-8782.2004.00274.x) |
 :computer: [website](http://www.chinesevisiblehuman.com) 
 
+* **Development and validation of statistical shape models of the primary functional bone segments of the foot.** by Tamara Grant et al. (2019). Dataset includes manually segmented three-dimensional bone geometry models (.STL) from magnetic resonance images of 34 subjects. The primary functional segments of the foot are modelled (**not all geometries are used**): first metatarsal (29 geometries), midfoot (second-to-fifth metatarsals, cuneiforms, cuboid, and navicular) (33 geometries), calcaneus (27 geometries), and talus (34 geometries). [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3464747.svg)](https://doi.org/10.5281/zenodo.3464747)  
+:page_facing_up: [paper](https://doi.org/10.7717/peerj.8397) |
+:dvd: [dataset](https://zenodo.org/record/3464747#.X0P2qMhKgdU)
+
 * **Are Subject-Specific Musculoskeletal Models Robust to the Uncertainties in Parameter Identification?** by  by Giordano Valente et al. (2014). Dataset includes MRI scans on a single healthy male participant and gait lab data of a single gait cycle.</br>
 :page_facing_up: [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0112625) |
 :dvd: [dataset](https://simtk.org/projects/subspecmodeling)
@@ -92,7 +96,21 @@
 :page_facing_up: [paper](https://link.springer.com/referenceworkentry/10.1007%2F978-3-319-30808-1_203-2) |
 :dvd: [dataset](https://figshare.com/articles/dataset/Muscle_model_parameters/4275854)
 
+
 ### Human Knee
+* **MB Knee: Multibody Models of the Human Knee** by Trent Guess. The data set includes four knee models. MBKnee_4 is based on in vivo measurements from a 29 year old female while MBKnee_1, MBKnee_2, and MBKnee_3 are based on cadaver knees that were physically tested in a dynamic knee simulator. Knee geometries (bone, cartilage, and mensici) were derived from Magnetic Resonance Imaging (MRI) and ligament insertions come from MRI, the literature, and probing the cadaver knees. The site also contains information on ligament modeling, such as bundle insertion locations and zero load lengths.  
+:dvd: [dataset](https://simtk.org/projects/mb_knee)
+
+* **OpenKnee** 
+:dvd: [dataset](https://simtk.org/projects/openknee)
+
+* **Natural Knee Data** by University of Denver Center for Orthopaedic Biomechanics. Data are provided for 7 human knees (5 cadaveric subjects) and fall under two categories: Image Data and Experimental & Computational Modeling Data.  CT and MRI images are provided for 7 knee specimens. Solid models were created from the CT images. In addition, during dissection of the knees, surfaces and ligament insertions and origins were outlined on the bones and recorded as probed points  
+:dvd: [dataset](https://digitalcommons.du.edu/natural_knee_data) |
+:computer: [website](https://simtk.org/projects/knee_model)
+
+* **Living Biomechanics of the Knee** by University of Denver Center for Orthopaedic Biomechanics.  Kinematic and loading data from an experiment that used quadriceps force to extend the knee. The objective of this data was to provide a foundation to create a computer model representation of the patella joint in order to predict motion and forces across healthy and pathological specimens.
+:dvd: [dataset](https://digitalcommons.du.edu/living_kinematics_knee/)
+:computer: [website](https://simtk.org/projects/knee_model)
 
 ### Animal Anatomy :crocodile:
 * **CT scans of various animals** from John Hutchinson's group.  
@@ -103,7 +121,8 @@
 * **BDS: A public data set of human balance evaluations**  by Damiana dos Santos and Marco Duarte (2016).  
 :page_facing_up: [paper](https://peerj.com/articles/2648/) |
 :dvd: [dataset](https://figshare.com/articles/A_public_data_set_of_quantitative_and_qualitative_evaluations_of_human_balance/3394432) |
-:computer: [website](http://pesquisa.ufabc.edu.br/bmclab/datasets/bds/) & [resources](https://github.com/BMClab/datasets/tree/master/BDS)
+:computer: [website](http://pesquisa.ufabc.edu.br/bmclab/datasets/bds/) |
+:star: [resources](https://github.com/BMClab/datasets/tree/master/BDS)
 
 * **PDS: A data set with kinematic and ground reaction forces of human balance** by Damiana dos Santos et al. (2017).  
 :page_facing_up: [paper](https://peerj.com/articles/3626/) |
@@ -117,19 +136,20 @@
 :dvd: [dataset](https://figshare.com/projects/ISB2019_Metabolic_cost_session/38738)
 
 * **Dataset for Metabolic Cost Calculations of Gait using Musculoskeletal Energy Models, a Comparison Study** by Anne D. Koelewijn et al. (2019). The data set contains raw and processed data of gait analysis experiments of level and inclined walking at two speeds for 12 participants. The slopes were uphill and downhill with 8% incline. The raw data contains the output of the force plates and marker data, as well as raw measurements from an K4B2 system. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1973799.svg)](https://doi.org/10.5281/zenodo.1973799)  
-:page_facing_up: [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0222037) 
+:page_facing_up: [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0222037) |
+:dvd: [dataset](https://zenodo.org/record/1973799#.X0PtVshKgdU)
 
 
 ### Walking :walking:
-
-* **A multimodal dataset of human gait at different walking speeds established on injury-free adult participants** by Céline Schreiber & Florent Moissenet (2019). Dataset collected on 50 healthy and injury-free adults, with no lower and upper extremity surgery in the last two years. Participants walked at 5 speeds during one unique session. Three dimensional trajectories of 52 reflective markers spread over the whole body, 3D ground reaction forces and moment, and electromyographic signals were simultaneously recorded.  
-:page_facing_up: [paper](https://www.nature.com/articles/s41597-019-0124-4) 
-:cd: [dataset](https://doi.org/10.6084/m9.figshare.7734767)
 
 * **An Open Data Set of Inertial, Magnetic, Foot–Ground Contact, and Electromyographic Signals From Wearable Sensors During Walking.** by Miraldo DC, Watanabe RN and Duarte M (2020).  Data were acquired from 22 healthy adults using wearable sensors and walking at self-selected comfortable, fast and slow speeds, and standing still. In total, there are data of 9,661 gait strides. The dataset includes gait events and notebooks exemplifying how to access and visualize the data.  
 :page_facing_up: [paper](https://doi.org/10.1123/mc.2020-0023) |
 :dvd: [dataset](https://figshare.com/articles/Dataset_of_gait_and_inertial_sensors/7778255) |
 :computer: [website](http://pesquisa.ufabc.edu.br/bmclab/datasets/geds/) and [resources](https://github.com/BMClab/datasets/tree/master/GEDS)
+
+* **A multimodal dataset of human gait at different walking speeds established on injury-free adult participants** by Céline Schreiber & Florent Moissenet (2019). Dataset collected on 50 healthy and injury-free adults, with no lower and upper extremity surgery in the last two years. Participants walked at 5 speeds during one unique session. Three dimensional trajectories of 52 reflective markers spread over the whole body, 3D ground reaction forces and moment, and electromyographic signals were simultaneously recorded.  
+:page_facing_up: [paper](https://www.nature.com/articles/s41597-019-0124-4) 
+:dvd: [dataset](https://doi.org/10.6084/m9.figshare.7734767)
 
 * **A public data set of overground and treadmill walking kinematics and kinetics of healthy individuals** by Claudiane A. Fukuchi et al. (2018). Dataset of 42 healthy volunteers (24 young adults and 18 older adults) who walked both overground and on a treadmill at a range of gait speeds.  
 :page_facing_up: [paper](https://peerj.com/articles/4640) |
@@ -140,6 +160,11 @@
 :page_facing_up: [paper](https://doi.org/10.7717/peerj.918) |
 :dvd: [dataset](https://zenodo.org/record/13030#.Xz1FeehKgdU) |
 :computer: [resources](https://github.com/csu-hmc/perturbed-data-paper) 
+
+* **Grand Challenge Competition to Predict In Vivo Knee Loads** By BJ Fregly et al. (2012). Data sets from instrumented knee prostheses used in the "Grand Challenge Competition" for six years. Data include medical images and segmentations (for most participants), tibial contact force, video motion, ground reaction, muscle EMG, muscle strength, static and dynamic imaging, and implant geometry data.  
+:page_facing_up: [paper1](https://doi.org/10.1002/jor.22023) |
+:page_facing_up: [paper2](https://doi.org/10.1115/1.4023255) |
+:dvd: [dataset](https://simtk.org/projects/kneeloads)
 
 * **Multiple Speed Walking Simulations** by May Liu et al. (2008). Data set with eight subjects (two males) walking overground at very slow, slow, free, and fast speeds.</br>
 :page_facing_up: [paper](https://doi.org/10.1016/j.jbiomech.2008.07.031) |
