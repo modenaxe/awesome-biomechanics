@@ -39,34 +39,45 @@
 
 ## Datasets :dvd:
 
-**Template: DatasetName** by Authors. Explanation. 
-:page_facing_up: [paper]()
-:dvd: [dataset]()
-:computer: [website]()
-[![DOI]()]
-
 ### Human Anatomy
 
-* **Visible Human Project**: public-domain library of cross-sectional cryosection, CT, and MRI images obtained from one male cadaver and one female cadaver.
-:page_facing_up: [paper](https://doi.org/10.1109/5.662875)
-:dvd: [dataset](https://www.nlm.nih.gov/databases/download/vhp.html)
-:computer: [website](https://www.nlm.nih.gov/research/visible/visible_human.html)
+* **Visible Human Project**: public-domain library of cross-sectional cryosection, CT, and MRI images obtained from one male cadaver and one female cadaver.  
+:page_facing_up: [paper](https://doi.org/10.1109/5.662875) |
+:dvd: [dataset](https://www.nlm.nih.gov/databases/download/vhp.html) |
+:computer: [website](https://www.nlm.nih.gov/research/visible/visible_human.html) 
    * [Visible Human Project in NIfTI format](https://drive.google.com/drive/folders/1LBBIax6wpWBsiEcyXDrXNqyDSEB9rinO) by [Bart Bolsterlee](https://twitter.com/bartbolsterlee) (NeuRa, University of New South Wales): Visible Human Project data converted to an easier format to import and use.
    * [Female pelvis](https://github.com/manishsreenivasa/BMFToolkit) processed by Manish Sreenivasa.
    
-* **Visible Korean Human**: similar to the Visible Human Project but on Korean cadavers. Segmentated images are provided together with the section images.
-:page_facing_up: [paper](https://doi.org/10.1109/TMI.2004.842454)
-:dvd: [dataset](http://vkh.ajou.ac.kr/#vk) **NOTE: scroll down for English version of website** 
+* **Visible Korean Human**: similar to the Visible Human Project but on Korean cadavers. Segmentated images are provided together with the section images.  
+:page_facing_up: [paper](https://doi.org/10.1109/TMI.2004.842454) |
+:dvd: [dataset](http://vkh.ajou.ac.kr/#vk) |
+:computer: [website](http://vkh.ajou.ac.kr) (scroll down for English version)
 
-* **Chinese Visible Human**: similar to the Visible Human Project but on Chinese cadavers. :exclamation: **the dataset does not seem to be available anymore** :exclamation, despite being still listed on a [related website](https://appsrv.cse.cuhk.edu.hk/~vrcentre/index.html). 
-:page_facing_up: [paper](https://dx.doi.org/10.1111%2Fj.0021-8782.2004.00274.x)
+* **Chinese Visible Human**: similar to the Visible Human Project but on Chinese cadavers. :exclamation: **the dataset does not seem to be available anymore** :exclamation:, despite being still listed on a [related website](https://appsrv.cse.cuhk.edu.hk/~vrcentre/index.html). 
+:page_facing_up: [paper](https://dx.doi.org/10.1111%2Fj.0021-8782.2004.00274.x) |
 :computer: [website](http://www.chinesevisiblehuman.com) 
 
-* **MRI | 1 Male | 1 Gait Cycle** [of one male individual and gait data of one gait cycle](https://simtk.org/projects/subspecmodeling) by Giordano Valente (Istituto Ortopedico Rizzoli). Medical images are **not** segmented. [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0112625)
-* _Subject-specific muscle properties from diffusion tensor imaging significantly improve the accuracy of musculoskeletal models_ [paper](https://doi.org/10.1111/joa.13261) [dataset](http://datacat.liverpool.ac.uk/1105/)
+* **Are Subject-Specific Musculoskeletal Models Robust to the Uncertainties in Parameter Identification?** by  by Giordano Valente et al. (2014). Dataset includes MRI scans on a single healthy male participant and gait lab data of a single gait cycle.  
+:page_facing_up: [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0112625) |
+:dvd: [dataset](https://simtk.org/projects/subspecmodeling)
 
-* [The Virtual Skeleton Database - SMIR Full Bodies](https://www.smir.ch/): Post mortem CT images of 50 subjects [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3841349/)
-   * [SMIR pelves and femurs](https://github.com/RWTHmediTEC/VSDFullBodyBoneModels) segmented bone from 20 CT scans available in MATLAB format [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3384055.svg)](https://doi.org/10.5281/zenodo.3384055)
+* **Subject-specific muscle properties from diffusion tensor imaging significantly improve the accuracy of musculoskeletal models** by James Charles et al. (2020). Includes MRI scans (T1‐weighted anatomical turbo spin‐echo and diffusion tensor imaging) and Isokinetic and isometric torque measurement from 10 subjects (5 female). MRI images are segmented and processed to obtain muscle architecture.  
+:page_facing_up: [paper](https://doi.org/10.1111/joa.13261) |
+:dvd: [dataset](http://datacat.liverpool.ac.uk/1105/)
+
+* **Template: DatasetName** by Authors. Explanation.  
+:page_facing_up: [paper]() |
+:dvd: [dataset]() |
+:computer: [website]() |
+[![DOI]()]
+
+* **The Virtual Skeleton Database: An Open Access Repository for Biomedical Research and Collaboration** by Michael Kistler et al. (2013). Dataset including post mortem CT images of 50 subjects. **Despite several attempts I was never granted access to these data, although I know of others who did.**  
+:page_facing_up: [paper](https://dx.doi.org/10.2196%2Fjmir.2930) |
+:dvd: [dataset](https://www.smir.ch/objects/214315) |
+:computer: [website](https://www.smir.ch/)
+   * **SMIR pelves and femurs** segmented bone from 20 CT scans available in MATLAB format.  
+   :dvd: [dataset](https://github.com/RWTHmediTEC/VSDFullBodyBoneModels)
+   [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3384055.svg)](https://doi.org/10.5281/zenodo.3384055)
    
 * [BodyParts3D - 3D Anatomy Structure Database](http://lifesciencedb.jp/bp3d/) [paper](https://pubmed.ncbi.nlm.nih.gov/18835852/)
 
@@ -74,7 +85,9 @@
 
 * [Database on shoulder morphological data](http://homepage.tudelft.nl/g6u61/repository/shoulder/overview.htm): includes data from several studies of the Dutch Shoulder Group
 
-* [Muscle Modelling Database](https://figshare.com/articles/dataset/Muscle_model_parameters/4275854) by Ross Miller. A summary of muscle mechanical parameters in the human lower limb from the anatomy, muscle/exercise physiology, and biomechanics literature for use in Hill-based muscle model.
+* [Muscle Modelling Database]() by Ross Miller (2018). A summary of muscle mechanical parameters in the human lower limb from the anatomy, muscle/exercise physiology, and biomechanics literature for use in Hill-based muscle model.
+:page_facing_up: [paper](https://link.springer.com/referenceworkentry/10.1007%2F978-3-319-30808-1_203-2) |
+:dvd: [dataset](https://figshare.com/articles/dataset/Muscle_model_parameters/4275854)
 
 ### Human Knee
 
@@ -82,32 +95,49 @@
 * [CT scans of various animals](https://osf.io/4sc96/) from John Hutchinson's group
 
 ### Balance
-* **PDS: A data set with kinematic and ground reaction forces of human balance** by Damiana dos Santos et al. (2017).
+* **BDS: A public data set of human balance evaluations**  by Damiana dos Santos and Marco Duarte (2016).  
+:page_facing_up: [paper](https://peerj.com/articles/2648/) |
+:dvd: [dataset](https://figshare.com/articles/A_public_data_set_of_quantitative_and_qualitative_evaluations_of_human_balance/3394432) |
+:computer: [website & resources](https://github.com/BMClab/datasets/tree/master/BDS)
+
+* **PDS: A data set with kinematic and ground reaction forces of human balance** by Damiana dos Santos et al. (2017).  
 :page_facing_up: [paper](https://peerj.com/articles/3626/) |
 :dvd: [dataset](https://figshare.com/articles/A_data_set_with_kinematic_and_ground_reaction_forces_of_human_balance/4525082) |
 :computer: [website](http://pesquisa.ufabc.edu.br/bmclab/datasets/pds/)
 
-* BDS: A public data set of human balance evaluations [dataset](https://figshare.com/articles/A_public_data_set_of_quantitative_and_qualitative_evaluations_of_human_balance/3394432) [paper](https://peerj.com/articles/2648/) [resources](https://github.com/BMClab/datasets/tree/master/BDS)
-
 ### Energetics
-* _ISB2019 Metabolic cost session_: Data for participants in ISB2019 session on model-based prediction of the metabolic cost of human locomotion. 
+* **ISB2019 Metabolic cost session_: Data for participants in ISB2019 session on model-based prediction of the metabolic cost of human locomotion.** by Ross Miller (2019).    
 :page_facing_up: [users' guide](https://figshare.com/articles/journal_contribution/User_Guide/7086770)
 :cd: [dataset](https://figshare.com/projects/ISB2019_Metabolic_cost_session/38738)
-* _Dataset for Metabolic Cost Calculations of Gait using Musculoskeletal Energy Models, a Comparison Study_ :page_facing_up: [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0222037) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1973799.svg)](https://doi.org/10.5281/zenodo.1973799)
+
+* **Dataset for Metabolic Cost Calculations of Gait using Musculoskeletal Energy Models, a Comparison Study** by Anne D. Koelewijn et al. (2019). The data set contains raw and processed data of gait analysis experiments of level and inclined walking at two speeds for 12 participants. The slopes were uphill and downhill with 8% incline. The raw data contains the output of the force plates and marker data, as well as raw measurements from an K4B2 system. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1973799.svg)](https://doi.org/10.5281/zenodo.1973799)  
+:page_facing_up: [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0222037) 
+
 
 ### Walking :walking:
-* _A multimodal dataset of human gait at different walking speeds established on injury-free adult participants_ 
+
+* **A multimodal dataset of human gait at different walking speeds established on injury-free adult participants** by Céline Schreiber & Florent Moissenet (2019). Dataset collected on 50 healthy and injury-free adults, with no lower and upper extremity surgery in the last two years. Participants walked at 5 speeds during one unique session. Three dimensional trajectories of 52 reflective markers spread over the whole body, 3D ground reaction forces and moment, and electromyographic signals were simultaneously recorded.  
 :page_facing_up: [paper](https://www.nature.com/articles/s41597-019-0124-4) 
 :cd: [dataset](https://doi.org/10.6084/m9.figshare.7734767)
 
-* _An Open Data Set of Inertial, Magnetic, Foot–Ground Contact, and Electromyographic Signals From Wearable Sensors During Walking._ [paper](https://journals.humankinetics.com/view/journals/mcj/aop/article-10.1123-mc.2020-0023/article-10.1123-mc.2020-0023.xml) [dataset](https://figshare.com/articles/Dataset_of_gait_and_inertial_sensors/7778255) [resources](https://github.com/BMClab/datasets/tree/master/GEDS)
+* **An Open Data Set of Inertial, Magnetic, Foot–Ground Contact, and Electromyographic Signals From Wearable Sensors During Walking.** by Miraldo DC, Watanabe RN and Duarte M (2020).  Data were acquired from 22 healthy adults using wearable sensors and walking at self-selected comfortable, fast and slow speeds, and standing still. In total, there are data of 9,661 gait strides. The dataset includes gait events and notebooks exemplifying how to access and visualize the data.  
+:page_facing_up: [paper](https://doi.org/10.1123/mc.2020-0023) |
+:dvd: [dataset](https://figshare.com/articles/Dataset_of_gait_and_inertial_sensors/7778255) |
+:computer: [website](http://pesquisa.ufabc.edu.br/bmclab/datasets/geds/) and [resources](https://github.com/BMClab/datasets/tree/master/GEDS)
 
-* _A public data set of overground and treadmill walking kinematics and kinetics of healthy individuals_ [paper](https://peerj.com/articles/4640/) | [dataset](https://figshare.com/articles/dataset/A_public_data_set_of_overground_and_treadmill_walking_kinematics_and_kinetics_of_healthy_individuals/5722711/4)
+* **A public data set of overground and treadmill walking kinematics and kinetics of healthy individuals** by Claudiane A. Fukuchi et al. (2018). Dataset of 42 healthy volunteers (24 young adults and 18 older adults) who walked both overground and on a treadmill at a range of gait speeds.  
+:page_facing_up: [paper](https://peerj.com/articles/4640) |
+:dvd: [dataset](https://figshare.com/articles/dataset/A_public_data_set_of_overground_and_treadmill_walking_kinematics_and_kinetics_of_healthy_individuals/5722711/4) |
+:computer: [website](http://pesquisa.ufabc.edu.br/bmclab/datasets/wbds/)
 
+* **An elaborate data set on human gait and the effect of mechanical perturbations** by Jason Moore et al. (2015). Gait data set collected from fifteen subjects walking at three speeds on an instrumented treadmill. Each trial consists of 120 s of normal walking and 480 s of walking while being longitudinally perturbed during each stance phase with pseudo-random fluctuations in the speed of the treadmill belt.  
+:page_facing_up: [paper](https://doi.org/10.7717/peerj.918) |
+:dvd: [dataset](https://zenodo.org/record/13030#.Xz1FeehKgdU) |
+:computer: [resources](https://github.com/csu-hmc/perturbed-data-paper) 
 
-* _An elaborate data set on human gait and the effect of mechanical perturbations_ [paper](https://peerj.com/articles/918/) | [dataset](https://zenodo.org/record/13030#.Xz1FeehKgdU) | [resources and codes](https://github.com/csu-hmc/perturbed-data-paper)
+* **Normative gait data** from Chris Kirtley's [website](http://www.clinicalgaitanalysis.com/) on clinical gait analysis. **Website does not seem maintained.**  
+:computer: [website](http://www.clinicalgaitanalysis.com/data/) 
 
-* [normative gait dataset](http://www.clinicalgaitanalysis.com/data/) from http://www.clinicalgaitanalysis.com/
 
 ### Running :running:
 * _A public data set of running biomechanics and the effects of running speed on lower extremity kinematics and kinetics_ [paper](https://peerj.com/articles/3298/) | [dataset](https://figshare.com/articles/A_comprehensive_public_data_set_of_running_biomechanics_and_the_effects_of_running_speed_on_lower_extremity_kinematics_and_kinetics/4543435/4) [resources]()
