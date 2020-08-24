@@ -1,4 +1,4 @@
-# Awesome Biomechanics
+# Awesome Biomechanics [Work in Progress]
 
 ## Videos, Lectures and Courses :clapper:
 * [Lectures on animal locomotion](https://mchenrylab.bio.uci.edu/e139) (of interest also for human locomotion) by Manny Azizi and Matt McHenry (UC Irvine).
@@ -9,8 +9,7 @@
 * [A critique of Induced Acceleration Analysis](https://www.youtube.com/watch?v=2EmwIM_uQnk&t=18s) by Andy Ruina (WCB2014).
 * [F8 2019 - VR Full Body Tracking & Avatars](https://www.youtube.com/watch?v=FhiAFo9U_sM) and [blog post](https://uploadvr.com/facebook-f8-2019-body-tracking/)
 * [Running with bone pins](https://www.youtube.com/watch?v=nf6jkyNgkwE): video of data collection in subject running with bone pins shared by Ton Van den Bogert.
-* [Lectures on optimal control](http://www.anilvrao.com/Optimal-Control-Videos.html) by Anil Rao (University of Florida).
-* [Introduction to Trajectory Optimization](https://www.youtube.com/watch?v=wlkRYMVUZTs) by [Matthew Kelly](http://www.matthewpeterkelly.com/index.html). Very clear introduction to the topic with MATLAB resources linked in the video description.
+
 
 ### YouTube Channels :tv:
 * [AnyBody Technology Videos and Webcasts](https://www.youtube.com/channel/UCbgDnEKXyYOETR_Nb6YdehA)
@@ -36,17 +35,18 @@
 * [Calculus made Easy](http://calculusmadeeasy.org) by Silvanus P. Thompson
 * [Dynamics: Theory and Applications](https://ecommons.cornell.edu/handle/1813/638) by Kane and Levinson
 * [Kwon3d website](http://www.kwon3d.com/theory/prac.html): website with theory about most basic topics in biomechanics
+* [Lectures on optimal control](http://www.anilvrao.com/Optimal-Control-Videos.html) by Anil Rao (University of Florida).
+* [Introduction to Trajectory Optimization](https://www.youtube.com/watch?v=wlkRYMVUZTs) by [Matthew Kelly](http://www.matthewpeterkelly.com/index.html). Very clear introduction to the topic with MATLAB resources linked in the video description.
 
 ## Datasets :dvd:
 
 ### Human Anatomy
 
-* **Visible Human Project**: public-domain library of cross-sectional cryosection, CT, and MRI images obtained from one male cadaver and one female cadaver.  
+* **Visible Human Project**: public-domain library of cross-sectional cryosection, CT, and MRI images obtained from one male cadaver and one female cadaver. The dataset in NIfTI format, easier to import and use in segmentation software, were provided by Bart Bolsterlee (see further details [here](https://twitter.com/bartbolsterlee/status/1296594646898892800)).      
 :page_facing_up: [paper](https://doi.org/10.1109/5.662875) |
 :dvd: [dataset](https://www.nlm.nih.gov/databases/download/vhp.html) |
+:dvd: [dataset in NIfTI format](https://drive.google.com/drive/folders/1LBBIax6wpWBsiEcyXDrXNqyDSEB9rinO) |
 :computer: [website](https://www.nlm.nih.gov/research/visible/visible_human.html) 
-   * [Visible Human Project in NIfTI format](https://drive.google.com/drive/folders/1LBBIax6wpWBsiEcyXDrXNqyDSEB9rinO) by [Bart Bolsterlee](https://twitter.com/bartbolsterlee) (NeuRa, University of New South Wales): Visible Human Project data converted to an easier format to import and use.
-   * [Female pelvis](https://github.com/manishsreenivasa/BMFToolkit) processed by Manish Sreenivasa.
    
 * **Visible Korean Human**: similar to the Visible Human Project but on Korean cadavers. Segmentated images are provided together with the section images.  
 :page_facing_up: [paper](https://doi.org/10.1109/TMI.2004.842454) |
@@ -69,9 +69,9 @@
 :page_facing_up: [paper](https://dx.doi.org/10.2196%2Fjmir.2930) |
 :dvd: [dataset](https://www.smir.ch/objects/214315) |
 :computer: [website](https://www.smir.ch/)
-   * **SMIR pelves and femurs** segmented bone from 20 CT scans available in MATLAB format.  
+   * _SMIR pelves and selected pelvic landmarks_ from five experienced raters (20 pelves) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3384055.svg)](https://doi.org/10.5281/zenodo.3384055)
+   * _SMIR pelves and femurs_ segmented bone from 20 CT scans available in MATLAB format_  
    :dvd: [dataset](https://github.com/RWTHmediTEC/VSDFullBodyBoneModels)
-   [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3384055.svg)](https://doi.org/10.5281/zenodo.3384055)
    
 * **BodyParts3D** by Nobutaka Mitsuhashi et al. (2003). This is a 3D structure database for anatomical concepts that extends beyond biomechanics.  
 :page_facing_up: [paper](https://doi.org/10.1093/nar/gkn613) |
@@ -160,12 +160,21 @@
 :page_facing_up: [paper](https://doi.org/10.1016/j.jbiomech.2012.11.024) |
 :dvd: [dataset](https://simtk.org/projects/nmbl_running/)
 
-* **Template: DatasetName** by Authors. Explanation.  
+* **Simulated muscle fiber lengths and velocities during walking and running** by Edith Arnold et al. (2013). Models and results for simulations of muscle fiber dynamics for five subjects walking at four speeds and running at four speeds. **The subject numbers are noncontiguous to maintain alignment with the related project: https://simtk.org/projects/nmbl_running**.  
+:page_facing_up: [paper](https://jeb.biologists.org/content/216/11/2150) |
+:dvd: [dataset](https://simtk.org/projects/muscfib_walkrun)
+
+* **Muscle function of overground running across a range of speeds** by Tim Dorne et al. (2012). Running data and musculoskeletal models for a single representative subject (JA1). Actual running speeds: 3.56 m/s, 5.20 m/s, 7.00 m/s and 9.49 m/s.  
+:page_facing_up: [paper](https://doi.org/10.1242/jeb.064527) |
+:dvd: [dataset](https://simtk.org/projects/runningspeeds)
+
+<!---
+* **Template: DatasetName** by Authors. Explanation. [![DOI]()] DOUBLE SPACE 
 :page_facing_up: [paper]() |
 :dvd: [dataset]() |
 :computer: [website]() |
-[![DOI]()]
-
+:floppy_disk: [code/source](https://github.com/manishsreenivasa/ModelFactory)
+-->
 
 
 ## Software 
@@ -264,33 +273,42 @@ Both meshers produce tetrahedral meshes and are available in Salome_meca:
 * [SPSS Statistics](https://www.ibm.com/uk-en/products/spss-statistics) (commercial)
 
 
-## MATLAB packages
+## MATLAB packages :mortar_board:
+
+### FE related
 * [GIBBON MATLAB Toolbox](https://www.gibboncode.org/)
 * [LMG: Lumbar Model Generator](https://github.com/CELavecchia/LMG) by Carolina Lavecchia **TODO: add paper**
+
+### Simulation
 * [FreeBody](https://www.msksoftware.org.uk/software/freebody/) by the MSk Dynamics group, Imperial College London.
-* [BiomechZoo](https://www.biomechzoo.com) by Philippe C Dixon: biomechZoo is a user-customizable toolbox for the analysis of biomechanical data within the MatLab programming environment. Please take a look at the Wiki for setup information and user instructions. [source](https://github.com/PhilD001/biomechZoo)
-* [3D Kinematics and Inverse Dynamics scripts](https://uk.mathworks.com/matlabcentral/fileexchange/58021-3d-kinematics-and-inverse-dynamics?s_tid=prof_contriblnk) by Raphael Dumas
-* [Trajectory Optimization Toolbox](https://github.com/MatthewPeterKelly/OptimTraj) by Matthew Kelly, including some [excellent examples](https://github.com/MatthewPeterKelly/dscTutorials) and some [course materials](https://github.com/MatthewPeterKelly/ME149_Spring2018)
-* https://github.com/UMass-OpenSim/opensim-marker-place-toolbox
-* [Automated Gap Filling and Tools for Motion Capture](https://github.com/JonathanCamargo/MoCapTools) by the Sensor-Fusion team from EPIC lab @GeorgiaTech. **ADD PAPER**
 * [CusToM: a Matlab toolbox for musculoskeletal simulation](https://github.com/anmuller/CusToM) by Antoine Muller: Customizable Toolbox for Musculoskeletal simulation (CusToM) is a MATLAB toolbox aimed at performing inverse dynamics based musculoskeletal analyzes
 * [Geyer's 2010 neuromuscular model](https://www.cs.cmu.edu/~hgeyer/Software/Neuromuscular%20Model/Geyer%20Neuromuscular%20Model.zip): (available for Academic or Non-Profit Organization Noncommercial research use only).| [paper](https://www.cs.cmu.edu/~hgeyer/Publications/Geyer&Herr-ReflexModel2Column.pdf)
 
-## Python tools
+### Trajectory optimization
+* [Trajectory Optimization Toolbox](https://github.com/MatthewPeterKelly/OptimTraj) by Matthew Kelly, including some [excellent examples](https://github.com/MatthewPeterKelly/dscTutorials) and some [course materials](https://github.com/MatthewPeterKelly/ME149_Spring2018)
+* https://github.com/UMass-OpenSim/opensim-marker-place-toolbox
+* https://simtk.org/projects/datatracking
+
+### Gait
+* [Automated Gap Filling and Tools for Motion Capture](https://github.com/JonathanCamargo/MoCapTools) by the Sensor-Fusion team from EPIC lab @GeorgiaTech. **ADD PAPER**
+* [BiomechZoo](https://www.biomechzoo.com) by Philippe C Dixon: biomechZoo is a user-customizable toolbox for the analysis of biomechanical data within the MatLab programming environment. Please take a look at the Wiki for setup information and user instructions. [source](https://github.com/PhilD001/biomechZoo)
+* [3D Kinematics and Inverse Dynamics scripts](https://uk.mathworks.com/matlabcentral/fileexchange/58021-3d-kinematics-and-inverse-dynamics?s_tid=prof_contriblnk) by Raphael Dumas
+
+
+## Python tools :snake:
 * [gaitpy](https://pypi.org/project/gaitpy/): to be checked
 * [pyomeca](https://github.com/pyomeca): software for importing biomechanical data and processing it
 * _Modeling musculoskeletal kinematic and dynamic redundancy using null space projection_ by Dimitar Stanev [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2000421.svg)](https://doi.org/10.5281/zenodo.2000421)
 * _Stiffness modulation of redundant musculoskeletal systems_ by Dimitar Stanev [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2575332.svg)](https://doi.org/10.5281/zenodo.2575332)
 
 ## Optimal Control and Direct Collocation :rocket:
-* https://simtk.org/projects/datatracking
 * [3dpredictsim](https://github.com/antoinefalisse/3dpredictsim) by Antoine Falisse: Generate 3D muscle-driven predictive simulations of human movement using direct collocation and algorithmic differentiation
 * [FROST: Fast Robot Optimization and Simulation Toolkit](https://github.com/ayonga/frost-dev): FROST (Fast Robot Optimization and Simulation Toolkit) for MATLAB provides a general full-body dynamics gait optimization and simulation framework for bipedal walking robots using virtual constraints based feedback controllers. It uses a Wolfram Mathematica backend. **ADD PUB FROM http://ayonga.github.io/frost-dev/**
 * [OpenSim Moco](https://github.com/chrisdembia/opensim-moco)
 * [opty](https://github.com/csu-hmc/opty) by Jason Moore and Ton van den Bogert
 * [muscle redundancy solver](https://github.com/KULeuvenNeuromechanics/MuscleRedundancySolver) by KU Leuven: An algorithm to estimate muscle tendon properties and/or compute muscle coordination by tracking experimental data with a musculoskeletal model assuming optimal control to solve for the muscle redundancy. [dev_repo](https://github.com/antoinefalisse/solvemuscleredundancy_dev) 
 
-## Societies and Initiatives
+## Societies and Initiatives :office:
 * [Americal Society of Biomechanics](https://www.asbweb.org/)
 * [European Society of Biomechanics](https://esbiomech.org/)
 * [International Society of Biomechanics](https://isbweb.org/)
