@@ -32,6 +32,7 @@ Note that sections that do not look nice are work in progress - might include er
 * [How to review a paper](https://www.sciencemag.org/careers/2016/09/how-review-paper)
 * [Kane’s Method for an inverted pendulum](https://figshare.com/articles/journal_contribution/Kane_pdf/7791647) by Ross Miller. A tutorial on Kane's Method for deriving equations of motion, demonstrated on an inverted pendulum.
 * [Notes on Scientific Computing for Biomechanics and Motor Control](https://github.com/BMClab/BMC) by Marcos Duarte and Renato Watanabe. A collection of lecture notes and code on scientific computing and data analysis for Biomechanics and Motor Control in the form of Jupyter notebooks (python).
+* [Optimal Control Workshop](https://simtk.org/projects/ocworkshop/)
 
 ## Mathematical Background :triangular_ruler:
 * [Calculus made Easy](http://calculusmadeeasy.org) by Silvanus P. Thompson
@@ -303,22 +304,30 @@ Both meshers produce tetrahedral meshes and are available in Salome_meca:
 * [spm1d](https://spm1d.org/): package for one-dimensional [Statistical Parametric Mapping](http://www.scholarpedia.org/article/Statistical_parametric_mapping)
 * [SPSS Statistics](https://www.ibm.com/uk-en/products/spss-statistics) (commercial)
 
+## Optimal Control and Direct Collocation :rocket:
+* [3dpredictsim](https://github.com/antoinefalisse/3dpredictsim) by Antoine Falisse: Generate 3D muscle-driven predictive simulations of human movement using direct collocation and algorithmic differentiation
+* [FROST: Fast Robot Optimization and Simulation Toolkit](https://github.com/ayonga/frost-dev): FROST (Fast Robot Optimization and Simulation Toolkit) for MATLAB provides a general full-body dynamics gait optimization and simulation framework for bipedal walking robots using virtual constraints based feedback controllers. It uses a Wolfram Mathematica backend. **ADD PUB FROM http://ayonga.github.io/frost-dev/**
+* [muscle redundancy solver](https://github.com/KULeuvenNeuromechanics/MuscleRedundancySolver) by KU Leuven: An algorithm to estimate muscle tendon properties and/or compute muscle coordination by tracking experimental data with a musculoskeletal model assuming optimal control to solve for the muscle redundancy. [dev_repo](https://github.com/antoinefalisse/solvemuscleredundancy_dev) website: https://simtk.org/projects/optcntrlmuscle
+* [OpenSim Moco](https://github.com/chrisdembia/opensim-moco)
+* [opty](https://github.com/csu-hmc/opty) by Jason Moore and Ton van den Bogert
 
 ## MATLAB packages :mortar_board:
 
 ### FE related
 * [GIBBON MATLAB Toolbox](https://www.gibboncode.org/)
 * [LMG: Lumbar Model Generator](https://github.com/CELavecchia/LMG) by Carolina Lavecchia **TODO: add paper**
+* [Surrogate Contact Modeling Toolbox](https://simtk.org/projects/scmt/)
 
 ### Simulation
 * [FreeBody](https://www.msksoftware.org.uk/software/freebody/) by the MSk Dynamics group, Imperial College London.
 * [CusToM: a Matlab toolbox for musculoskeletal simulation](https://github.com/anmuller/CusToM) by Antoine Muller: Customizable Toolbox for Musculoskeletal simulation (CusToM) is a MATLAB toolbox aimed at performing inverse dynamics based musculoskeletal analyzes
 * [Geyer's 2010 neuromuscular model](https://www.cs.cmu.edu/~hgeyer/Software/Neuromuscular%20Model/Geyer%20Neuromuscular%20Model.zip): (available for Academic or Non-Profit Organization Noncommercial research use only).| [paper](https://www.cs.cmu.edu/~hgeyer/Publications/Geyer&Herr-ReflexModel2Column.pdf)
+* https://github.com/UMass-OpenSim/opensim-marker-place-toolbox
 
 ### Trajectory optimization
 * [Trajectory Optimization Toolbox](https://github.com/MatthewPeterKelly/OptimTraj) by Matthew Kelly, including some [excellent examples](https://github.com/MatthewPeterKelly/dscTutorials) and some [course materials](https://github.com/MatthewPeterKelly/ME149_Spring2018)
-* https://github.com/UMass-OpenSim/opensim-marker-place-toolbox
 * https://simtk.org/projects/datatracking
+* [Optimal Control of Musculoskeletal Movement Using OpenSim & MATLAB](https://simtk.org/projects/directcolloc/)
 
 ### Gait
 * [Automated Gap Filling and Tools for Motion Capture](https://github.com/JonathanCamargo/MoCapTools) by the Sensor-Fusion team from EPIC lab @GeorgiaTech. **ADD PAPER**
@@ -333,7 +342,6 @@ Both meshers produce tetrahedral meshes and are available in Salome_meca:
 :floppy_disk: [source](https://github.com/matt002/GaitPy)
 
 * **Pyomeca** by the [S2M Lab](https://www.facebook.com/s2mlab/). Pyomeca is a Python library allowing you to carry out a complete biomechanical analysis; in a simple, logical and concise way.  
-<!--:page_facing_up: [paper](https://doi.org/10.1371/journal.pone.0209171) |-->
 :computer: [website](https://pyomeca.github.io/)
 :floppy_disk: [source](https://github.com/pyomeca/pyomeca)
 
@@ -346,13 +354,6 @@ Both meshers produce tetrahedral meshes and are available in Salome_meca:
 :page_facing_up: [paper](https://doi.org/10.1016/j.jbiomech.2019.01.017) |
 :computer: [website](https://simtk.org/projects/stiffness)
 :floppy_disk: [source](https://github.com/mitkof6/musculoskeletal-stiffness/tree/v1.0)
-
-## Optimal Control and Direct Collocation :rocket:
-* [3dpredictsim](https://github.com/antoinefalisse/3dpredictsim) by Antoine Falisse: Generate 3D muscle-driven predictive simulations of human movement using direct collocation and algorithmic differentiation
-* [FROST: Fast Robot Optimization and Simulation Toolkit](https://github.com/ayonga/frost-dev): FROST (Fast Robot Optimization and Simulation Toolkit) for MATLAB provides a general full-body dynamics gait optimization and simulation framework for bipedal walking robots using virtual constraints based feedback controllers. It uses a Wolfram Mathematica backend. **ADD PUB FROM http://ayonga.github.io/frost-dev/**
-* [OpenSim Moco](https://github.com/chrisdembia/opensim-moco)
-* [opty](https://github.com/csu-hmc/opty) by Jason Moore and Ton van den Bogert
-* [muscle redundancy solver](https://github.com/KULeuvenNeuromechanics/MuscleRedundancySolver) by KU Leuven: An algorithm to estimate muscle tendon properties and/or compute muscle coordination by tracking experimental data with a musculoskeletal model assuming optimal control to solve for the muscle redundancy. [dev_repo](https://github.com/antoinefalisse/solvemuscleredundancy_dev) 
 
 ## Societies and Initiatives :office:
 * [Americal Society of Biomechanics](https://www.asbweb.org/)
