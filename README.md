@@ -53,7 +53,7 @@
 :dvd: [dataset](http://vkh.ajou.ac.kr/#vk) |
 :computer: [website](http://vkh.ajou.ac.kr) (scroll down for English version)
 
-* **Chinese Visible Human**: similar to the Visible Human Project but on Chinese cadavers. :exclamation: **the dataset does not seem to be available anymore** :exclamation:, despite being still listed on a [related website](https://appsrv.cse.cuhk.edu.hk/~vrcentre/index.html). 
+* **Chinese Visible Human**: similar to the Visible Human Project but on Chinese cadavers. :exclamation: **the dataset does not seem to be available anymore** :exclamation:, despite being still listed on a [related website](https://appsrv.cse.cuhk.edu.hk/~vrcentre/index.html).  
 :page_facing_up: [paper](https://dx.doi.org/10.1111%2Fj.0021-8782.2004.00274.x) |
 :computer: [website](http://www.chinesevisiblehuman.com) 
 
@@ -74,14 +74,14 @@
    [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3384055.svg)](https://doi.org/10.5281/zenodo.3384055)
    
 * **BodyParts3D** by Nobutaka Mitsuhashi et al. (2003). This is a 3D structure database for anatomical concepts that extends beyond biomechanics.  
-:page_facing_up: [paper](https://doi.org/10.1093/nar/gkn613)
+:page_facing_up: [paper](https://doi.org/10.1093/nar/gkn613) |
 :dvd: [dataset](http://lifesciencedb.jp/bp3d/) 
 
 * **Femur and tibia surface mesh set** by Nolte et al. (2020). The data set contains bone geometries of the left and right thigh (femur) and shank (tibia and fibula) segmented from magnetic resonance (MR) scans of 35 healthy volunteers (22 male, 13 female) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.167808.svg)](https://doi.org/10.5281/zenodo.167808) **NB: although published dataset appear to be still closed access**  
 :page_facing_up: [paper](https://doi.org/10.1016/j.gaitpost.2020.02.010) |
 :dvd: [dataset](https://zenodo.org/record/167808#.X0O4kMhKgdV)
 
-* **Database on shoulder morphological data** by the Dutch Shoulder Group. Includes data from several studies performed in 1988-2002 period.  
+* **Shoulder morphological data** by the Dutch Shoulder Group. Includes data from several studies performed in 1988-2002 period.  
 :dvd: [dataset](http://homepage.tudelft.nl/g6u61/repository/shoulder/overview.htm)
 
 * **Hand and Wrist Dataset** by Goislard de Monsabert et al. (2018). Data set intended for modelling including the musculoskeletal geometry and muscle morphology from the elbow to the finger tips. Clinical imaging, optical motion capture and microscopy were used to create a dataset from a single specimen.  
@@ -147,12 +147,6 @@
 
 ### Running :running:
 
-* **Template: DatasetName** by Authors. Explanation.  
-:page_facing_up: [paper]() |
-:dvd: [dataset]() |
-:computer: [website]() |
-[![DOI]()]
-
 * **A public data set of running biomechanics and the effects of running speed on lower extremity kinematics and kinetics** by Reginaldo K. Fukuchi et al. (2017). The lower-extremity kinematics and kinetics data of 28 regular runners were collected using a three-dimensional (3D) motion-capture system and an instrumented treadmill while the subjects ran at 2.5 m/s, 3.5 m/s, and 4.5 m/s wearing standard neutral shoes.  
 :page_facing_up: [paper](https://peerj.com/articles/3298) |
 :dvd: [dataset](https://figshare.com/articles/A_comprehensive_public_data_set_of_running_biomechanics_and_the_effects_of_running_speed_on_lower_extremity_kinematics_and_kinetics/4543435/4) |
@@ -161,6 +155,17 @@
 * **Ground reaction force metrics are not strongly correlated with tibial bone load when running across speeds and slopes: implications for science, sport and wearable tech**  by Emily Matijevich et al. (2019). Includes ten healthy individuals that performed running trials while GRFs and kinematics were collected. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3460691.svg)](https://doi.org/10.5281/zenodo.3460691)    
 :page_facing_up: [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0210000) |
 :dvd: [dataset and resources](https://zenodo.org/record/3460691#.Xz-1tuhKgdU)
+
+* **Muscle contributions to mass center accelerations over a range of running speeds** by Samuel Hamner and Scott Delp (2013). Repository of experimental data (i.e., motion capture, EMG, GRFs), subject-specific models, and muscle-driven simulation results of 10 male subject running across a range of speeds: 2 m/s, 3 m/s, 4 m/s, and 5 m/s.   
+:page_facing_up: [paper](https://doi.org/10.1016/j.jbiomech.2012.11.024) |
+:dvd: [dataset](https://simtk.org/projects/nmbl_running/)
+
+* **Template: DatasetName** by Authors. Explanation.  
+:page_facing_up: [paper]() |
+:dvd: [dataset]() |
+:computer: [website]() |
+[![DOI]()]
+
 
 
 ## Software 
