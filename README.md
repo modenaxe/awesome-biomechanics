@@ -1,5 +1,7 @@
 # Awesome Biomechanics [Work in Progress]
 
+Note that sections that do not look nice are work in progress - might include errors and incorrect descriptions
+
 ## Videos, Lectures and Courses :clapper:
 * [Lectures on animal locomotion](https://mchenrylab.bio.uci.edu/e139) by Manny Azizi and Matt McHenry (UC Irvine).
 * [Neuromechanics course material](https://github.com/joshcash9/Neuromechanics_Course) by Joshua Cashaback (University of Delaware) 
@@ -97,7 +99,7 @@
 :dvd: [dataset](https://figshare.com/articles/dataset/Muscle_model_parameters/4275854)
 
 
-### Human Knee
+### Human Knee [WIP]
 * **MB Knee: Multibody Models of the Human Knee** by Trent Guess. The data set includes four knee models. MBKnee_4 is based on in vivo measurements from a 29 year old female while MBKnee_1, MBKnee_2, and MBKnee_3 are based on cadaver knees that were physically tested in a dynamic knee simulator. Knee geometries (bone, cartilage, and mensici) were derived from Magnetic Resonance Imaging (MRI) and ligament insertions come from MRI, the literature, and probing the cadaver knees. The site also contains information on ligament modeling, such as bundle insertion locations and zero load lengths.  
 :dvd: [dataset](https://simtk.org/projects/mb_knee)
 
@@ -207,7 +209,7 @@
 
 
 ## Software 
-### Motion Capture Data Processing 
+### Motion Capture Data Processing [WIP]
 * [c3dserver](https://www.c3dserver.com/)
 * [ezc3d](https://github.com/pyomeca/ezc3d) (C++/MATLAB/Python)
 * [BTK - Biomechanical ToolKit](http://biomechanical-toolkit.github.io/) (C++/MATLAB/Python)
@@ -215,12 +217,12 @@
 
 ### Modelling and Simulation :computer:
 
-#### Anthropometry
+#### Anthropometry [WIP]
 * [Repository of body segment parameter models](https://github.com/wspr/body-segment-param) by Will Robertson. Contains the raw data for a multitude of body segment parameter models (see repository for list).
 * [Yeadon's model](https://github.com/chrisdembia/yeadon) by Chris Dembia et al. The human inertia model developed by Fred Yeadon in 1990. :page_facing_up: [paper](https://dx.doi.org/10.12688%2Ff1000research.5292.2)
 * [Hatze's model](https://github.com/wspr/hatze-biomech) by Will Robertson. A Matlab implementation of Hatze's 1980 anthropometric body segment parameter model. :page_facing_up: [Hatze's paper](https://doi.org/10.1016/0021-9290(80)90171-2)
 
-#### Multibody and Physics Engines :sleeping::arrow_lower_left::apple:
+#### Multibody and Physics Engines [WIP] :sleeping::arrow_lower_left::apple:
 * [Bullet Physics](https://github.com/bulletphysics/bullet3): real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.
 * [Drake](https://drake.mit.edu/) C++ toolbox started by the Robot Locomotion Group at the MIT Computer Science and Artificial Intelligence Lab, with core development led by the Toyota Research Institute. It is a collection of tools for analyzing the dynamics of our robots and building control systems for them, with a heavy emphasis on optimization-based design/analysis.
 * [MuJoCo](http://www.mujoco.org/) by Emo Todorov for Roboti LLC. Initially it was used at the Movement Control Laboratory, University of Washington
@@ -251,7 +253,7 @@
 reStructedText
 * [GIBOC-Knee](https://github.com/renaultJB/GIBOC-Knee-Coordinate-System) by Jean-Baptiste Renault **TODO - ADD PAPER**
 
-#### Musculoskeletal Modelling and Simulation :computer:
+#### Musculoskeletal Modelling and Simulation [WIP] :computer:
 * [AnyBody Technology](http://www.anybodytech.com): commercial software for musculoskeletal modelling and simulation. [paper](https://doi.org/10.1016/j.simpat.2006.09.001)
 * [AnimatLab](http://animatlab.com/): neuromechanical and neurorobotic simulator for building the body of a robot or biolgical organism in a physically accurate 3-D virtual world, and then layout a biologically realistic nervous system to control the animats behavior. [paper](https://www.sciencedirect.com/science/article/pii/S0165027010000087)|[source](https://github.com/NeuroRoboticTech/AnimatLabPublicSource)
 * [Biomechanics of Bodies](https://www.bob-biomechanics.com/): biomechanical modelling package implemented in MATLAB that contains a human musculoskeletal model and enables biomechanical and musculoskeletal calculations. [paper](https://pure.coventry.ac.uk/ws/portalfiles/portal/22762734/Shippen_et_al_BoB_Biomechanics_MATLAB.pdf)
