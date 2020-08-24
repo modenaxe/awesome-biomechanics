@@ -12,7 +12,7 @@
 * [Lectures on optimal control](http://www.anilvrao.com/Optimal-Control-Videos.html) by Anil Rao (University of Florida).
 * [Introduction to Trajectory Optimization](https://www.youtube.com/watch?v=wlkRYMVUZTs) by [Matthew Kelly](http://www.matthewpeterkelly.com/index.html). Very clear introduction to the topic with MATLAB resources linked in the video description.
 
-### YouTube Channels
+### YouTube Channels :tv:
 * [AnyBody Technology Videos and Webcasts](https://www.youtube.com/channel/UCbgDnEKXyYOETR_Nb6YdehA)
 * [American Society Biomechanics (ASB)](https://www.youtube.com/channel/UC0_WoykR3nSBrHAwyfLPzzw)
 * [Biomch-V](https://www.youtube.com/channel/UCcv9iv6v4_l9dfDDW1PTZCA): includes videos from International Society of Biomechanics conferences
@@ -26,9 +26,10 @@
 * [Ross Miller's channel](https://www.youtube.com/channel/UCO_H7aZoIcwZiNc4KjiQQkg/videos) 
 * [Stuart McErlain-Naylor channel](https://www.youtube.com/channel/UCmG-bd1JL1ACP7hMzIUXwOg)
 
-## Tutorials
+## Tutorials and Teaching resources 
 * [Tutorial: Musculoskeletal Model for Simulation of Walking](https://www.youtube.com/watch?v=Z4BoVVpju88) by Van den Bogert's tutorial (Dynamic Walking, 2011) 
 * [How to review a paper](https://www.sciencemag.org/careers/2016/09/how-review-paper)
+* [Kane’s Method for an inverted pendulum](https://figshare.com/articles/journal_contribution/Kane_pdf/7791647) by Ross Miller. A tutorial on Kane's Method for deriving equations of motion, demonstrated on an inverted pendulum.
 
 ## Mathematical Background :triangular_ruler:
 * [Calculus made Easy](http://calculusmadeeasy.org) by Silvanus P. Thompson
@@ -37,15 +38,34 @@
 
 ## Datasets :dvd:
 
+**Template: DatasetName** by Authors. Explanation. 
+page_facing_up: [paper]()
+:minidisc: [dataset]()
+:computer: [website]()
+[![DOI]()]
+
 ### Human Anatomy
-* [Visible Human Project](https://www.nlm.nih.gov/research/visible/visible_human.html): includes slices from one male and one female dataset.
-* [Visible Human Project in NIfTI format](https://drive.google.com/drive/folders/1LBBIax6wpWBsiEcyXDrXNqyDSEB9rinO) by [Bart Bolsterlee](https://twitter.com/bartbolsterlee) (NeuRa, University of New South Wales): Visible Human Project data converted to an easier format to import and use.
-* [MRI of one male individual and gait data of one gait cycle](https://simtk.org/projects/subspecmodeling) by Giordano Valente (Istituto Ortopedico Rizzoli). Medical images are **not** segmented. [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0112625)
+
+* **Visible Human Project**: public-domain library of cross-sectional cryosection, CT, and MRI images obtained from one male cadaver and one female cadaver.
+:page_facing_up: [paper](https://doi.org/10.1109/5.662875)
+:dvd: [dataset](https://www.nlm.nih.gov/databases/download/vhp.html)
+:computer: [website](https://www.nlm.nih.gov/research/visible/visible_human.html)
+   * [Visible Human Project in NIfTI format](https://drive.google.com/drive/folders/1LBBIax6wpWBsiEcyXDrXNqyDSEB9rinO) by [Bart Bolsterlee](https://twitter.com/bartbolsterlee) (NeuRa, University of New South Wales): Visible Human Project data converted to an easier format to import and use.
+   * [Female pelvis](https://github.com/manishsreenivasa/BMFToolkit) processed by Manish Sreenivasa.
+   
+* **Visible Korean Human**: 
+:page_facing_up: [paper](https://doi.org/10.1109/5.662875)
+:minidisc: [dataset](https://www.nlm.nih.gov/databases/download/vhp.html)
+:computer: [website](https://www.nlm.nih.gov/research/visible/visible_human.html)
+
+* **MRI | 1 Male | 1 Gait Cycle** [of one male individual and gait data of one gait cycle](https://simtk.org/projects/subspecmodeling) by Giordano Valente (Istituto Ortopedico Rizzoli). Medical images are **not** segmented. [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0112625)
 * _Subject-specific muscle properties from diffusion tensor imaging significantly improve the accuracy of musculoskeletal models_ [paper](https://doi.org/10.1111/joa.13261) [dataset](http://datacat.liverpool.ac.uk/1105/)
 * [The Virtual Skeleton Database - SMIR Full Bodies](https://www.smir.ch/): Post mortem CT images of 50 subjects [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3841349/)
    * [SMIR pelves and femurs](https://github.com/RWTHmediTEC/VSDFullBodyBoneModels) segmented bone from 20 CT scans available in MATLAB format [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3384055.svg)](https://doi.org/10.5281/zenodo.3384055)
 * [BodyParts3D - 3D Anatomy Structure Database](http://lifesciencedb.jp/bp3d/) [paper](https://pubmed.ncbi.nlm.nih.gov/18835852/)
 * [Femur and tibia surface mesh set](https://zenodo.org/record/167808#.X0BWJuhKgdX) by Nolte et al. The dataset contains bone geometries of the left and right thigh (femur) and shank (tibia and fibula) segmented from magnetic resonance (MR) scans of 35 healthy volunteers (22 male, 13 female; height 155 cm to 193 cm, weight 45 kg to 108 kg, body mass index 17.0 kg/m2 to 34.8 kg/m2) **NB: although published dataset appear to be still closed access** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.167808.svg)](https://doi.org/10.5281/zenodo.167808)
+* [Database on shoulder morphological data](http://homepage.tudelft.nl/g6u61/repository/shoulder/overview.htm): includes data from several studies of the Dutch Shoulder Group
+* [Muscle Modelling Database](https://figshare.com/articles/dataset/Muscle_model_parameters/4275854) by Ross Miller. A summary of muscle mechanical parameters in the human lower limb from the anatomy, muscle/exercise physiology, and biomechanics literature for use in Hill-based muscle model.
 
 ### Human Knee
 
@@ -56,25 +76,39 @@
 * A data set with kinematic and ground reaction forces of human balance [dataset](https://figshare.com/articles/A_data_set_with_kinematic_and_ground_reaction_forces_of_human_balance/4525082) [paper](https://peerj.com/articles/3626/)
 * BDS: A public data set of human balance evaluations [dataset](https://figshare.com/articles/A_public_data_set_of_quantitative_and_qualitative_evaluations_of_human_balance/3394432) [paper](https://peerj.com/articles/2648/) [resources](https://github.com/BMClab/datasets/tree/master/BDS)
 
-### Gait (TODO: add details of datasets)
-* _A multimodal dataset of human gait at different walking speeds established on injury-free adult participants_ [paper](https://www.nature.com/articles/s41597-019-0124-4) [dataset](https://doi.org/10.6084/m9.figshare.7734767)
-* _Dataset for Metabolic Cost Calculations of Gait using Musculoskeletal Energy Models, a Comparison Study_ [paper])(https://zenodo.org/record/1973799#.XzzzBOhKgdU)
+### Energetics
+* _ISB2019 Metabolic cost session_: Data for participants in ISB2019 session on model-based prediction of the metabolic cost of human locomotion. 
+:page_facing_up: [users' guide](https://figshare.com/articles/journal_contribution/User_Guide/7086770)
+:cd: [dataset](https://figshare.com/projects/ISB2019_Metabolic_cost_session/38738)
+* _Dataset for Metabolic Cost Calculations of Gait using Musculoskeletal Energy Models, a Comparison Study_ :page_facing_up: [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0222037) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1973799.svg)](https://doi.org/10.5281/zenodo.1973799)
+
+### Walking
+* _A multimodal dataset of human gait at different walking speeds established on injury-free adult participants_ 
+:page_facing_up: [paper](https://www.nature.com/articles/s41597-019-0124-4) 
+:cd: [dataset](https://doi.org/10.6084/m9.figshare.7734767)
+
 * _An Open Data Set of Inertial, Magnetic, Foot–Ground Contact, and Electromyographic Signals From Wearable Sensors During Walking._ [paper](https://journals.humankinetics.com/view/journals/mcj/aop/article-10.1123-mc.2020-0023/article-10.1123-mc.2020-0023.xml) [dataset](https://figshare.com/articles/Dataset_of_gait_and_inertial_sensors/7778255) [resources](https://github.com/BMClab/datasets/tree/master/GEDS)
+
 * _A public data set of overground and treadmill walking kinematics and kinetics of healthy individuals_ [paper](https://peerj.com/articles/4640/) | [dataset](https://figshare.com/articles/dataset/A_public_data_set_of_overground_and_treadmill_walking_kinematics_and_kinetics_of_healthy_individuals/5722711/4)
-* _A public data set of running biomechanics and the effects of running speed on lower extremity kinematics and kinetics_ [paper](https://peerj.com/articles/3298/) [dataset](https://figshare.com/articles/A_comprehensive_public_data_set_of_running_biomechanics_and_the_effects_of_running_speed_on_lower_extremity_kinematics_and_kinetics/4543435/4) [resources]()
+
+
 * _An elaborate data set on human gait and the effect of mechanical perturbations_ [paper](https://peerj.com/articles/918/) | [dataset](https://zenodo.org/record/13030#.Xz1FeehKgdU) | [resources and codes](https://github.com/csu-hmc/perturbed-data-paper)
+
 * [normative gait dataset](http://www.clinicalgaitanalysis.com/data/) from http://www.clinicalgaitanalysis.com/
+
+### Running :running:
+* _A public data set of running biomechanics and the effects of running speed on lower extremity kinematics and kinetics_ [paper](https://peerj.com/articles/3298/) [dataset](https://figshare.com/articles/A_comprehensive_public_data_set_of_running_biomechanics_and_the_effects_of_running_speed_on_lower_extremity_kinematics_and_kinetics/4543435/4) [resources]()
 * _Ground reaction force metrics are not strongly correlated with tibial bone load when running across speeds and slopes: implications for science, sport and wearable tech_ [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0210000) dataset(https://zenodo.org/record/3460691#.Xz-1tuhKgdU)
 
 
-## Software
+## Software 
 ### Gait Analysis :walking:
 * [c3dserver](https://www.c3dserver.com/)
 * [ezc3d](https://github.com/pyomeca/ezc3d): C++/MATLAB/Python
 * [BTK - Biomechanical ToolKit](http://biomechanical-toolkit.github.io/): C++/MATLAB/Python
 * [MOKKA](https://biomechanical-toolkit.github.io/mokka/): allows c3d content visualization and basic processing (filtering).
 
-### Modelling and Simulation
+### Modelling and Simulation :computer:
 
 #### Anthropometry
 * [Repository of body segment parameter models](https://github.com/wspr/body-segment-param) by Will Robertson. Contains the raw data for a multitude of body segment parameter models.
@@ -180,7 +214,11 @@ Both meshers produce tetrahedral meshes and are available in Salome_meca:
 * [muscle redundancy solver](https://github.com/KULeuvenNeuromechanics/MuscleRedundancySolver) by KU Leuven: An algorithm to estimate muscle tendon properties and/or compute muscle coordination by tracking experimental data with a musculoskeletal model assuming optimal control to solve for the muscle redundancy. [dev_repo](https://github.com/antoinefalisse/solvemuscleredundancy_dev) 
 
 ## Societies
-* [Comparative Neuromuscular Biomechanics](https://sites.psu.edu/cnbgroup/meetings/)
+* [International Society of Biomechanics](https://isbweb.org/)
+   * [Comparative Neuromuscular Biomechanics](https://sites.psu.edu/cnbgroup/)
+   * [International Shoulder Group](https://isbweb.org/isg)
+* [European Society of Biomechanics](https://esbiomech.org/)
+* 
 
 ## Miscellaneous Online Resources 
 * https://www.biomch-l.isbweb.org/
