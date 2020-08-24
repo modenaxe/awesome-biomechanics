@@ -57,7 +57,7 @@
 :page_facing_up: [paper](https://dx.doi.org/10.1111%2Fj.0021-8782.2004.00274.x) |
 :computer: [website](http://www.chinesevisiblehuman.com) 
 
-* **Are Subject-Specific Musculoskeletal Models Robust to the Uncertainties in Parameter Identification?** by  by Giordano Valente et al. (2014). Dataset includes MRI scans on a single healthy male participant and gait lab data of a single gait cycle.  
+* **Are Subject-Specific Musculoskeletal Models Robust to the Uncertainties in Parameter Identification?** by  by Giordano Valente et al. (2014). Dataset includes MRI scans on a single healthy male participant and gait lab data of a single gait cycle.</br>
 :page_facing_up: [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0112625) |
 :dvd: [dataset](https://simtk.org/projects/subspecmodeling)
 
@@ -210,7 +210,7 @@
 :page_facing_up: [preprint](https://arxiv.org/abs/1804.03407) |
 :floppy_disk: [source](https://github.com/manishsreenivasa/ModelFactory)
 
-* **NMSBuilder** by Giordano Valente et al. (2017). Freely available software to create subject-specific musculoskeletal models for OpenSim from 3D geometries.  
+* **NMSBuilder** by Giordano Valente et al. (2017). Freely available software to create subject-specific musculoskeletal models for OpenSim from 3D geometries.</br>
 :page_facing_up: [paper](https://doi.org/10.1016/j.cmpb.2017.09.012) |
 :computer: [website](http://www.nmsbuilder.org/) |
 :movie_camera: [YouTube tutorial](https://www.youtube.com/watch?v=UtAMTFM1vsI)
@@ -325,3 +325,23 @@ Both meshers produce tetrahedral meshes and are available in Salome_meca:
 * https://www.biomch-l.isbweb.org/
 * https://www.biomechanist.net/
 * https://biomechsa.wordpress.com/resources
+
+-----
+### Contributing
+Have anything in mind that you think is awesome and would fit in this list? Feel free to send a pull request.  
+If you are adding elements to the `Dataset` section please use (roughly) this template:
+
+```
+* **Template: DatasetName** by Authors (year). Description. [![DOI](yourDOI)]</br>
+:page_facing_up: [paper](doi/link_to_paper) |
+:dvd: [dataset](link_to_dataset) |
+:computer: [website](link_to_website) |
+:floppy_disk: [code/source](link_to_source_code)
+```
+
+-----
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Luca Modenese](https://uk.linkedin.com/in/luca-modenese-70a54546) has waived all copyright and related or neighboring rights to this work.
