@@ -141,6 +141,10 @@
 :dvd: [dataset](https://zenodo.org/record/13030#.Xz1FeehKgdU) |
 :computer: [resources](https://github.com/csu-hmc/perturbed-data-paper) 
 
+* **Multiple Speed Walking Simulations** by May Liu et al. (2008). Data set with eight subjects (two males) walking overground at very slow, slow, free, and fast speeds.</br>
+:page_facing_up: [paper](https://doi.org/10.1016/j.jbiomech.2008.07.031) |
+:dvd: [dataset](https://simtk.org/projects/mspeedwalksims) 
+
 * **Normative gait data** from Chris Kirtley's [website](http://www.clinicalgaitanalysis.com/) on clinical gait analysis. **Website does not seem maintained.**  
 :computer: [website](http://www.clinicalgaitanalysis.com/data/) 
 
