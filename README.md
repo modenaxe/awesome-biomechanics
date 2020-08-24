@@ -1,46 +1,46 @@
 # Awesome Biomechanics
 
 ## Videos, Lectures and Courses :clapper:
-* [Lectures on animal locomotion](https://mchenrylab.bio.uci.edu/e139) (of interest also for human locomotion) by Manny Azizi and Matt McHenry (UC Irvine): 
+* [Lectures on animal locomotion](https://mchenrylab.bio.uci.edu/e139) (of interest also for human locomotion) by Manny Azizi and Matt McHenry (UC Irvine).
 * [Neuromechanics course material](https://github.com/joshcash9/Neuromechanics_Course) by Joshua Cashaback (University of Delaware) 
-* [Neuromatch Academy](https://www.youtube.com/channel/UC4LoD4yNBuLKQwDOV6t-KPw)
-* [Anil Rao's lectures on optimal control](http://www.anilvrao.com/Optimal-Control-Videos.html)
-
-* Sport Biomechanics Lecture Series: available on [Stuart McErlain-Naylor channel](https://www.youtube.com/channel/UCmG-bd1JL1ACP7hMzIUXwOg). Includes introductory topics like  presentations of motion capture techniques by Vicon ([lecture 1](https://www.youtube.com/watch?v=1zJ14cW-JqY) and [lecture 2](https://www.youtube.com/watch?v=hM7xEoyP-4o)) and an introduction of electromyography (EMG) by Delsys [link](https://www.youtube.com/watch?v=2xgyTpsa14M#).
+* [Neuromatch Academy](https://www.youtube.com/channel/UC4LoD4yNBuLKQwDOV6t-KPw): [the Neuromatch Academy](https://www.neuromatchacademy.org/) aims to introduce traditional and emerging tools of computational neuroscience to trainees.
+* [Sport Biomechanics Lecture Series](https://www.youtube.com/channel/UCmG-bd1JL1ACP7hMzIUXwOg) curated by Stuart McErlain-Naylor. Includes introductory topics like  presentations of motion capture techniques by Vicon ([lecture 1](https://www.youtube.com/watch?v=1zJ14cW-JqY) and [lecture 2](https://www.youtube.com/watch?v=hM7xEoyP-4o)) and an introduction of electromyography (EMG) by Delsys [link](https://www.youtube.com/watch?v=2xgyTpsa14M#).
 * [CNB-ASB Muscle Workshop](https://www.youtube.com/watch?v=Ur9wYYR0nac&feature=youtu.be)
-* A critique of Induced Acceleration Analysis by Andy Ruina (WCB2014) [link](https://www.youtube.com/watch?v=2EmwIM_uQnk&t=18s).
+* [A critique of Induced Acceleration Analysis](https://www.youtube.com/watch?v=2EmwIM_uQnk&t=18s) by Andy Ruina (WCB2014).
 * [F8 2019 - VR Full Body Tracking & Avatars](https://www.youtube.com/watch?v=FhiAFo9U_sM) and [blog post](https://uploadvr.com/facebook-f8-2019-body-tracking/)
-* Running with bone pins: video of data collection in subject running with bone pins shared by Ton Van Bogert [link](https://www.youtube.com/watch?v=nf6jkyNgkwE)
-* [Introduction to Trajectory Optimization](https://www.youtube.com/watch?v=wlkRYMVUZTs) by Matthew Kelly **more resources on video description**
+* [Running with bone pins](https://www.youtube.com/watch?v=nf6jkyNgkwE): video of data collection in subject running with bone pins shared by Ton Van den Bogert.
+* [Lectures on optimal control](http://www.anilvrao.com/Optimal-Control-Videos.html) by Anil Rao (University of Florida).
+* [Introduction to Trajectory Optimization](https://www.youtube.com/watch?v=wlkRYMVUZTs) by Matthew Kelly. Very clear introduction to the topic with MATLAB resources linked in the video description.
 
 ### YouTube Channels
 * [AnyBody Technology Videos and Webcasts](https://www.youtube.com/channel/UCbgDnEKXyYOETR_Nb6YdehA)
-* [American Society Biomechanics](https://www.youtube.com/channel/UC0_WoykR3nSBrHAwyfLPzzw)
+* [American Society Biomechanics (ASB)](https://www.youtube.com/channel/UC0_WoykR3nSBrHAwyfLPzzw)
 * [Biomch-V](https://www.youtube.com/channel/UCcv9iv6v4_l9dfDDW1PTZCA): includes videos from International Society of Biomechanics conferences
-* [European Society of Biomechanics](https://www.youtube.com/channel/UCFkgDwfks-UkG7IDk8cBMMQ)
-* [ISB's tutorials and lectures](https://isbweb.org/about-us/61-videos): It includes those recorded at the ISB congresses from 2007 and those provided by others.
-* [ISBS](https://www.youtube.com/channel/UCYkzE6y_eKWa7KQOqZ6ZQUA/featured?disable_polymer=1): videos from ISBS2020 virtual conference
+* [European Society of Biomechanics (ESB)](https://www.youtube.com/channel/UCFkgDwfks-UkG7IDk8cBMMQ)
+* [International Society of Biomechanics (tutorials and lectures)](https://isbweb.org/about-us/61-videos): It includes those recorded at the ISB congresses from 2007 and those provided by others.
+* [International Society of Biomechanics in Sports (ISBS)](https://www.youtube.com/channel/UCYkzE6y_eKWa7KQOqZ6ZQUA/featured?disable_polymer=1): videos from ISBS2020 virtual conference
 * [Journal of Foot and Ankle Research](https://www.youtube.com/channel/UCuIdGMZMaDKRM7vyJ6Dbcwg)
 * [OpenSim Videos and Webinars](https://www.youtube.com/user/OpenSimVideos/videos)
-* [UCalgary Human Performance Lab](https://www.youtube.com/channel/UCxAOMJHF-5xQMFkLAutV7Dg/videos): videos from ISB/ASB2019 and Dynamic Walking 2019 conferences
+* [UCalgary Human Performance Lab](https://www.youtube.com/channel/UCxAOMJHF-5xQMFkLAutV7Dg/videos): videos from ISB/ASB2019 and Dynamic Walking 2019 conferences.
 * [Manoj Srinivasan's channel](https://www.youtube.com/user/sjonam/videos)
 * [Ross Miller's channel](https://www.youtube.com/channel/UCO_H7aZoIcwZiNc4KjiQQkg/videos) 
+* [Stuart McErlain-Naylor channel](https://www.youtube.com/channel/UCmG-bd1JL1ACP7hMzIUXwOg)
 
 ## Tutorials
 * [Tutorial: Musculoskeletal Model for Simulation of Walking](https://www.youtube.com/watch?v=Z4BoVVpju88) by Van den Bogert's tutorial (Dynamic Walking, 2011) 
 * [How to review a paper](https://www.sciencemag.org/careers/2016/09/how-review-paper)
 
-## Mathematical and Physics Background :triangular_ruler:
+## Mathematical Background :triangular_ruler:
 * [Calculus made Easy](http://calculusmadeeasy.org) by Silvanus P. Thompson
 * [Dynamics: Theory and Applications](https://ecommons.cornell.edu/handle/1813/638) by Kane and Levinson
-* _Theory of topics of interest for biomechanics_: [Kwon3d website](http://www.kwon3d.com/theory/prac.html)
+* [Kwon3d website](http://www.kwon3d.com/theory/prac.html): website with theory about most basic topics in biomechanics
 
-## Datasets :dvd: :dvd:
+## Datasets :dvd:
 
 ### Human Anatomy
-* [Visible Human Project](https://www.nlm.nih.gov/research/visible/visible_human.html): one male and one female dataset
-* [Visible Human Project in NIfTI format](https://drive.google.com/drive/folders/1LBBIax6wpWBsiEcyXDrXNqyDSEB9rinO) by [Bart Bolsterlee](https://twitter.com/bartbolsterlee)
-* [Male MRI with gait data - **no segmentations**](https://simtk.org/projects/subspecmodeling): [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0112625)
+* [Visible Human Project](https://www.nlm.nih.gov/research/visible/visible_human.html): includes slices from one male and one female dataset.
+* [Visible Human Project in NIfTI format](https://drive.google.com/drive/folders/1LBBIax6wpWBsiEcyXDrXNqyDSEB9rinO) by [Bart Bolsterlee](https://twitter.com/bartbolsterlee) (NeuRa, University of New South Wales)
+* [MRI of one male individual and gait data of one gait cycle](https://simtk.org/projects/subspecmodeling) by Giordano Valente (Istituto Ortopedico Rizzoli). Medical Images are **not** segmented. [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0112625)
 * _Subject-specific muscle properties from diffusion tensor imaging significantly improve the accuracy of musculoskeletal models_ [paper](https://doi.org/10.1111/joa.13261) [dataset](http://datacat.liverpool.ac.uk/1105/)
 * [The Virtual Skeleton Database - SMIR Full Bodies](https://www.smir.ch/): Post mortem CT images of 50 subjects [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3841349/)
    * [SMIR pelves and femurs](https://github.com/RWTHmediTEC/VSDFullBodyBoneModels) segmented bone from 20 CT scans available in MATLAB format [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3384055.svg)](https://doi.org/10.5281/zenodo.3384055)
