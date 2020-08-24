@@ -300,10 +300,25 @@ Both meshers produce tetrahedral meshes and are available in Salome_meca:
 
 
 ## Python tools :snake:
-* [gaitpy](https://pypi.org/project/gaitpy/): to be checked
-* [pyomeca](https://github.com/pyomeca): software for importing biomechanical data and processing it
-* _Modeling musculoskeletal kinematic and dynamic redundancy using null space projection_ by Dimitar Stanev [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2000421.svg)](https://doi.org/10.5281/zenodo.2000421)
-* _Stiffness modulation of redundant musculoskeletal systems_ by Dimitar Stanev [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2575332.svg)](https://doi.org/10.5281/zenodo.2575332)
+
+* **GaitPy** by Matthew Czech. Read and process raw vertical accelerometry data from a sensor on the lower back during gait; calculate clinical gait characteristics.  
+:computer: [website](https://pypi.org/project/gaitpy/) |
+:floppy_disk: [source](https://github.com/matt002/GaitPy)
+
+* **Pyomeca** by the [S2M Lab](https://www.facebook.com/s2mlab/). Pyomeca is a Python library allowing you to carry out a complete biomechanical analysis; in a simple, logical and concise way.  
+<!--:page_facing_up: [paper](https://doi.org/10.1371/journal.pone.0209171) |-->
+:computer: [website](https://pyomeca.github.io/)
+:floppy_disk: [source](https://github.com/pyomeca/pyomeca)
+
+* **Modeling musculoskeletal kinematic and dynamic redundancy using null space projection** by Dimitar Stanev and Konstantinos Moustakas (2019). Methods for modeling, simulation and analysis of redundant musculoskeletal systems based on muscle space projection on segmental level reflexes and the computation of the feasible muscle forces for arbitrary movements. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2000421.svg)](https://doi.org/10.5281/zenodo.2000421)  
+:page_facing_up: [paper](https://doi.org/10.1371/journal.pone.0209171) |
+:computer: [website](https://simtk.org/projects/redundancy)
+:floppy_disk: [source](https://github.com/mitkof6/musculoskeletal-redundancy)
+
+* **Stiffness modulation of redundant musculoskeletal systems** by Dimitar Stanev and Konstantinos Moustakas (2019). The approach explores the entire space of possible solutions of the muscle redundancy problem using the notion of null space and rigorously accounts for the effect of muscle redundancy in the computation of the feasible stiffness characteristics. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2575332.svg)](https://doi.org/10.5281/zenodo.2575332)  
+:page_facing_up: [paper](https://doi.org/10.1016/j.jbiomech.2019.01.017) |
+:computer: [website](https://simtk.org/projects/stiffness)
+:floppy_disk: [source](https://github.com/mitkof6/musculoskeletal-stiffness/tree/v1.0)
 
 ## Optimal Control and Direct Collocation :rocket:
 * [3dpredictsim](https://github.com/antoinefalisse/3dpredictsim) by Antoine Falisse: Generate 3D muscle-driven predictive simulations of human movement using direct collocation and algorithmic differentiation
