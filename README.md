@@ -114,7 +114,7 @@
 
 * **ISB2019 Metabolic cost session_: Data for participants in ISB2019 session on model-based prediction of the metabolic cost of human locomotion.** by Ross Miller (2019).    
 :page_facing_up: [users' guide](https://figshare.com/articles/journal_contribution/User_Guide/7086770)
-:cd: [dataset](https://figshare.com/projects/ISB2019_Metabolic_cost_session/38738)
+:dvd: [dataset](https://figshare.com/projects/ISB2019_Metabolic_cost_session/38738)
 
 * **Dataset for Metabolic Cost Calculations of Gait using Musculoskeletal Energy Models, a Comparison Study** by Anne D. Koelewijn et al. (2019). The data set contains raw and processed data of gait analysis experiments of level and inclined walking at two speeds for 12 participants. The slopes were uphill and downhill with 8% incline. The raw data contains the output of the force plates and marker data, as well as raw measurements from an K4B2 system. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1973799.svg)](https://doi.org/10.5281/zenodo.1973799)  
 :page_facing_up: [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0222037) 
@@ -195,7 +195,7 @@
 * [Yeadon's model](https://github.com/chrisdembia/yeadon) by Chris Dembia et al. The human inertia model developed by Fred Yeadon in 1990. :page_facing_up: [paper](https://dx.doi.org/10.12688%2Ff1000research.5292.2)
 * [Hatze's model](https://github.com/wspr/hatze-biomech) by Will Robertson. A Matlab implementation of Hatze's 1980 anthropometric body segment parameter model. :page_facing_up: [Hatze's paper](https://doi.org/10.1016/0021-9290(80)90171-2)
 
-#### Multibody and Physics Engines :apple:
+#### Multibody and Physics Engines :sleeping::arrow_lower_left::apple:
 * [Bullet Physics](https://github.com/bulletphysics/bullet3): real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.
 * [Drake](https://drake.mit.edu/) C++ toolbox started by the Robot Locomotion Group at the MIT Computer Science and Artificial Intelligence Lab, with core development led by the Toyota Research Institute. It is a collection of tools for analyzing the dynamics of our robots and building control systems for them, with a heavy emphasis on optimization-based design/analysis.
 * [MuJoCo](http://www.mujoco.org/) by Emo Todorov for Roboti LLC. Initially it was used at the Movement Control Laboratory, University of Washington
