@@ -4,13 +4,13 @@
 * [Lectures on animal locomotion](https://mchenrylab.bio.uci.edu/e139) (of interest also for human locomotion) by Manny Azizi and Matt McHenry (UC Irvine).
 * [Neuromechanics course material](https://github.com/joshcash9/Neuromechanics_Course) by Joshua Cashaback (University of Delaware) 
 * [Neuromatch Academy](https://www.youtube.com/channel/UC4LoD4yNBuLKQwDOV6t-KPw): [the Neuromatch Academy](https://www.neuromatchacademy.org/) aims to introduce traditional and emerging tools of computational neuroscience to trainees.
-* [Sport Biomechanics Lecture Series](https://www.youtube.com/channel/UCmG-bd1JL1ACP7hMzIUXwOg) curated by Stuart McErlain-Naylor. Includes introductory topics like  presentations of motion capture techniques by Vicon ([lecture 1](https://www.youtube.com/watch?v=1zJ14cW-JqY) and [lecture 2](https://www.youtube.com/watch?v=hM7xEoyP-4o)) and an introduction of electromyography (EMG) by Delsys [link](https://www.youtube.com/watch?v=2xgyTpsa14M#).
-* [CNB-ASB Muscle Workshop](https://www.youtube.com/watch?v=Ur9wYYR0nac&feature=youtu.be)
+* [Sport Biomechanics Lecture Series](https://www.youtube.com/channel/UCmG-bd1JL1ACP7hMzIUXwOg) curated by Stuart McErlain-Naylor. Includes introductory topics like  presentations of motion capture techniques by Vicon ([lecture 1](https://www.youtube.com/watch?v=1zJ14cW-JqY) and [lecture 2](https://www.youtube.com/watch?v=hM7xEoyP-4o)) and an [introduction](https://www.youtube.com/watch?v=2xgyTpsa14M#) of electromyography (EMG) by Delsys.
+* [CNB-ASB Muscle Workshop](https://www.youtube.com/watch?v=Ur9wYYR0nac&feature=youtu.be): presentations on the topic `Integrative Muscle Modelling for Neuromechanics`.
 * [A critique of Induced Acceleration Analysis](https://www.youtube.com/watch?v=2EmwIM_uQnk&t=18s) by Andy Ruina (WCB2014).
 * [F8 2019 - VR Full Body Tracking & Avatars](https://www.youtube.com/watch?v=FhiAFo9U_sM) and [blog post](https://uploadvr.com/facebook-f8-2019-body-tracking/)
 * [Running with bone pins](https://www.youtube.com/watch?v=nf6jkyNgkwE): video of data collection in subject running with bone pins shared by Ton Van den Bogert.
 * [Lectures on optimal control](http://www.anilvrao.com/Optimal-Control-Videos.html) by Anil Rao (University of Florida).
-* [Introduction to Trajectory Optimization](https://www.youtube.com/watch?v=wlkRYMVUZTs) by Matthew Kelly. Very clear introduction to the topic with MATLAB resources linked in the video description.
+* [Introduction to Trajectory Optimization](https://www.youtube.com/watch?v=wlkRYMVUZTs) by [Matthew Kelly](http://www.matthewpeterkelly.com/index.html). Very clear introduction to the topic with MATLAB resources linked in the video description.
 
 ### YouTube Channels
 * [AnyBody Technology Videos and Webcasts](https://www.youtube.com/channel/UCbgDnEKXyYOETR_Nb6YdehA)
@@ -39,13 +39,13 @@
 
 ### Human Anatomy
 * [Visible Human Project](https://www.nlm.nih.gov/research/visible/visible_human.html): includes slices from one male and one female dataset.
-* [Visible Human Project in NIfTI format](https://drive.google.com/drive/folders/1LBBIax6wpWBsiEcyXDrXNqyDSEB9rinO) by [Bart Bolsterlee](https://twitter.com/bartbolsterlee) (NeuRa, University of New South Wales)
-* [MRI of one male individual and gait data of one gait cycle](https://simtk.org/projects/subspecmodeling) by Giordano Valente (Istituto Ortopedico Rizzoli). Medical Images are **not** segmented. [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0112625)
+* [Visible Human Project in NIfTI format](https://drive.google.com/drive/folders/1LBBIax6wpWBsiEcyXDrXNqyDSEB9rinO) by [Bart Bolsterlee](https://twitter.com/bartbolsterlee) (NeuRa, University of New South Wales): Visible Human Project data converted to an easier format to import and use.
+* [MRI of one male individual and gait data of one gait cycle](https://simtk.org/projects/subspecmodeling) by Giordano Valente (Istituto Ortopedico Rizzoli). Medical images are **not** segmented. [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0112625)
 * _Subject-specific muscle properties from diffusion tensor imaging significantly improve the accuracy of musculoskeletal models_ [paper](https://doi.org/10.1111/joa.13261) [dataset](http://datacat.liverpool.ac.uk/1105/)
 * [The Virtual Skeleton Database - SMIR Full Bodies](https://www.smir.ch/): Post mortem CT images of 50 subjects [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3841349/)
    * [SMIR pelves and femurs](https://github.com/RWTHmediTEC/VSDFullBodyBoneModels) segmented bone from 20 CT scans available in MATLAB format [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3384055.svg)](https://doi.org/10.5281/zenodo.3384055)
-* [BodyParts3D -- 3D Anatomy Structure Database](http://lifesciencedb.jp/bp3d/) [paper](https://pubmed.ncbi.nlm.nih.gov/18835852/)
-* [Imperial College London femur and tibia surface mesh set](https://zenodo.org/record/167808#.X0BWJuhKgdX) by Nolte et al. The dataset contains bone geometries of the left and right thigh (femur) and shank (tibia and fibula) segmented from magnetic resonance (MR) scans of 35 healthy volunteers (22 male, 13 female; height 155 cm to 193 cm, weight 45 kg to 108 kg, body mass index 17.0 kg/m2 to 34.8 kg/m2) **NB: although published dataset appear to be still closed access** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.167808.svg)](https://doi.org/10.5281/zenodo.167808)
+* [BodyParts3D - 3D Anatomy Structure Database](http://lifesciencedb.jp/bp3d/) [paper](https://pubmed.ncbi.nlm.nih.gov/18835852/)
+* [Femur and tibia surface mesh set](https://zenodo.org/record/167808#.X0BWJuhKgdX) by Nolte et al. The dataset contains bone geometries of the left and right thigh (femur) and shank (tibia and fibula) segmented from magnetic resonance (MR) scans of 35 healthy volunteers (22 male, 13 female; height 155 cm to 193 cm, weight 45 kg to 108 kg, body mass index 17.0 kg/m2 to 34.8 kg/m2) **NB: although published dataset appear to be still closed access** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.167808.svg)](https://doi.org/10.5281/zenodo.167808)
 
 ### Human Knee
 
@@ -68,7 +68,7 @@
 
 
 ## Software
-### Gait Analysis :walking: :walking:
+### Gait Analysis :walking:
 * [c3dserver](https://www.c3dserver.com/)
 * [ezc3d](https://github.com/pyomeca/ezc3d): C++/MATLAB/Python
 * [BTK - Biomechanical ToolKit](http://biomechanical-toolkit.github.io/): C++/MATLAB/Python
@@ -81,19 +81,19 @@
 * [Yeadon](https://github.com/chrisdembia/yeadon): The human inertia model developed by Fred Yeadon in 1990.
 * [Hatze](https://github.com/wspr/hatze-biomech) by Will Robertson: A Matlab implementation of Hatze's 1980 anthropometric body segment parameter model
 
-#### Multibody and Physics Engines :green_apple: :apple:
-* [MuJoCo](http://www.mujoco.org/) by Emo Todorov for Roboti LLC. Initially it was used at the Movement Control Laboratory, University of Washington
-* [SimBody](https://simtk.org/projects/simbody/): [paper](https://www.sciencedirect.com/science/article/pii/S2210983811000241) | [source](https://github.com/simbody)
-* [Drake](https://drake.mit.edu/) C++ toolbox started by the Robot Locomotion Group at the MIT Computer Science and Artificial Intelligence Lab, with core development led by the Toyota Research Institute. It is a collection of tools for analyzing the dynamics of our robots and building control systems for them, with a heavy emphasis on optimization-based design/analysis.
-* [RBDL](https://rbdl.github.io/) with [source](https://github.com/rbdl/rbdl)
-* [Pinocchio](https://github.com/stack-of-tasks/pinocchio): A fast and flexible implementation of Rigid Body Dynamics algorithms and their analytical derivatives
-* [ODE](https://www.ode.org/): open source, high performance library for simulating rigid body dynamics. [source](https://bitbucket.org/odedevs/ode/src/master/)
+#### Multibody and Physics Engines :apple:
 * [Bullet Physics](https://github.com/bulletphysics/bullet3): real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.
+* [Drake](https://drake.mit.edu/) C++ toolbox started by the Robot Locomotion Group at the MIT Computer Science and Artificial Intelligence Lab, with core development led by the Toyota Research Institute. It is a collection of tools for analyzing the dynamics of our robots and building control systems for them, with a heavy emphasis on optimization-based design/analysis.
+* [MuJoCo](http://www.mujoco.org/) by Emo Todorov for Roboti LLC. Initially it was used at the Movement Control Laboratory, University of Washington
+* [ODE](https://www.ode.org/): open source, high performance library for simulating rigid body dynamics. [source](https://bitbucket.org/odedevs/ode/src/master/)
+* [Pinocchio](https://github.com/stack-of-tasks/pinocchio): A fast and flexible implementation of Rigid Body Dynamics algorithms and their analytical derivatives
 * [PyDy](https://github.com/pydy/pydy) by Jason Moore: tool kit written in the Python programming language that utilizes an array of scientific programs to enable the study of multibody dynamics.
+* [RBDL (Rigid Body Dynamics Library)](https://rbdl.github.io/) by Martin L. Felis (Heidelberg University). A multibody engine heavily inspired by the pseudo code of the book "Rigid Body Dynamics Algorithms" of [Roy Featherstone](http://royfeatherstone.org/). [paper](https://link.springer.com/article/10.1007/s10514-016-9574-0)|[source](https://github.com/rbdl/rbdl)
+* [SimBody](https://simtk.org/projects/simbody/): [paper](https://www.sciencedirect.com/science/article/pii/S2210983811000241)|[source](https://github.com/simbody)
 
-#### Software for Building Models
-* [mri2psm](https://github.com/manishsreenivasa/mri2psm) by Manish Sreenivasa. Open-source toolchain to create patient-specific models from MRI images
-* [ModelFactory](https://github.com/manishsreenivasa/ModelFactory)A Matlab/Octave toolbox to create human body models
+#### Resources for Building Biomechanical Models
+* [mri2psm](https://github.com/manishsreenivasa/mri2psm) by Manish Sreenivasa. Open-source toolchain to create patient-specific models from MRI images. [paper](https://doi.org/10.1016/j.jbiomech.2016.05.001) (although _MRI2PSM, an open-source toolchain to create patient-specific rigid body models from MRI images._ is cited in the paper).
+* [ModelFactory](https://github.com/manishsreenivasa/ModelFactory) by Manish Sreenivasa. A Matlab/Octave toolbox to create human body models. [preprint](https://arxiv.org/abs/1804.03407)
 * [NMSBuilder](http://www.nmsbuilder.org/)
 
 #### Automatic Landmarks/Reference System Identification :skull:
@@ -103,21 +103,21 @@ reStructedText
 * [GIBOC-Knee](https://github.com/renaultJB/GIBOC-Knee-Coordinate-System) by Jean-Baptiste Renault **TODO - ADD PAPER**
 
 #### Musculoskeletal Modelling and Simulation :computer:
-* [AnyBody Technology](http://www.anybodytech.com)
-* [AnimatLab](http://animatlab.com/): AnimatLab is a neuromechanical and neurorobotic simulator that allows authors to build the body of a robot or biolgical organism in a physically accurate 3-D virtual world, and then layout a biologically realistic nervous system to control the animats behavior [source](https://github.com/NeuroRoboticTech/AnimatLabPublicSource) **NB**: completely free but not updated in the last ~4 years.
-* [Biomechanics of Bodies]() **TO ADD**
-* [GaitSym](https://github.com/wol101/GaitSym_2017) by [Animal Simulation Laboratory](https://www.animalsimulation.org/)
-* [OpenSim](https://opensim.stanford.edu) | [source](https://github.com/opensim-org/opensim-core)
-* [Plugin for importing OpenSim models in MuJoCo](https://github.com/aikkala/O2MConverter)
+* [AnyBody Technology](http://www.anybodytech.com): commercial software for musculoskeletal modelling and simulation. [paper](https://doi.org/10.1016/j.simpat.2006.09.001)
+* [AnimatLab](http://animatlab.com/): neuromechanical and neurorobotic simulator for building the body of a robot or biolgical organism in a physically accurate 3-D virtual world, and then layout a biologically realistic nervous system to control the animats behavior. [paper](https://www.sciencedirect.com/science/article/pii/S0165027010000087)|[source](https://github.com/NeuroRoboticTech/AnimatLabPublicSource)
+* [Biomechanics of Bodies](https://www.bob-biomechanics.com/): biomechanical modelling package implemented in MATLAB that contains a human musculoskeletal model and enables biomechanical and musculoskeletal calculations. [paper](https://pure.coventry.ac.uk/ws/portalfiles/portal/22762734/Shippen_et_al_BoB_Biomechanics_MATLAB.pdf)
+* [GaitSym](https://github.com/wol101/GaitSym_2017) by the [Animal Simulation Laboratory](https://www.animalsimulation.org/)
+* [OpenSim](https://opensim.stanford.edu): open source software for biomechanical analysis and neuromusculoskeletal simulations. [paper2007](10.1109/TBME.2007.901024) [paper2019](https://doi.org/10.1371/journal.pcbi.1006223)|[website](https://simtk.org/projects/opensim)|[source](https://github.com/opensim-org/opensim-core)
 * [SCONE](https://simtk.org/projects/scone) by Thomas Geijtenbeek. [paper](https://joss.theoj.org/papers/10.21105/joss.01421)|[website](https://scone.software/doku.php)|[source](https://github.com/opensim-org/SCONE)
+* [Plugin for importing OpenSim models in MuJoCo](https://github.com/aikkala/O2MConverter)
 
 ## Segmentation software :art:
 * [3DSlicer](https://www.slicer.org/)
 * [ITK-Snap](http://www.itksnap.org/pmwiki/pmwiki.php)
 * [Materialise Mimics](https://www.materialise.com/en/medical/mimics-innovation-suite) (commercial)
 * [MITK](https://docs.mitk.org/2016.11/index.html)
-* [MITK-GEM](http://araex.github.io/mitk-gem-site/): segmentation and mesh processing in one software. Based on MITK.
-* :sushi: [SASHIMI Segmentation](https://github.com/bartbols/SASHIMI) by Bart Bolsterlee. SASHIMI Segmentation is a MATLAB App for segmentation of multi-slice images.
+* [MITK-GEM](http://araex.github.io/mitk-gem-site/): segmentation and mesh processing functionalities. Aimed to generation of finite element models.
+* [SASHIMI Segmentation :sushi:](https://github.com/bartbols/SASHIMI) by Bart Bolsterlee. SASHIMI Segmentation is a MATLAB App for segmentation of multi-slice images.
 * [Seg3D](https://www.sci.utah.edu/cibc-software/seg3d.html)
 * [Simpleware ScanIP](https://www.synopsys.com/simpleware/software/scanip.html)
 
@@ -178,6 +178,9 @@ Both meshers produce tetrahedral meshes and are available in Salome_meca:
 * [OpenSim Moco](https://github.com/chrisdembia/opensim-moco)
 * [opty](https://github.com/csu-hmc/opty) by Jason Moore and Ton van den Bogert
 * [muscle redundancy solver](https://github.com/KULeuvenNeuromechanics/MuscleRedundancySolver) by KU Leuven: An algorithm to estimate muscle tendon properties and/or compute muscle coordination by tracking experimental data with a musculoskeletal model assuming optimal control to solve for the muscle redundancy. [dev_repo](https://github.com/antoinefalisse/solvemuscleredundancy_dev) 
+
+## Societies
+* [Comparative Neuromuscular Biomechanics](https://sites.psu.edu/cnbgroup/meetings/)
 
 ## Miscellaneous Online Resources 
 * https://www.biomch-l.isbweb.org/
