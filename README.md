@@ -2,9 +2,18 @@
 
 Sections that do not look nice are work in progress - might include errors and incorrect descriptions
 
-## Table of Contents
+## TO ADD/CHECK
+* Check AnyBody resource websites
+* Resources from SimTK
+* CEINMS
+* OpenSense
+* Table of Contents
+* Database of simulations?
+* JIA data sets from MD-Paedigree
+* Muscle Param optimizer
+* Check Stanford mobile data
+* HJC from Sangeaux
 
-TO ADD
 
 ## Videos :clapper:
 * [Sport Biomechanics Lecture Series](https://www.youtube.com/channel/UCmG-bd1JL1ACP7hMzIUXwOg) curated by Stuart McErlain-Naylor. Includes introductory topics like  presentations of motion capture techniques by Vicon ([lecture 1](https://www.youtube.com/watch?v=1zJ14cW-JqY) and [lecture 2](https://www.youtube.com/watch?v=hM7xEoyP-4o)) and an [introduction](https://www.youtube.com/watch?v=2xgyTpsa14M#) of electromyography (EMG) by Delsys.
