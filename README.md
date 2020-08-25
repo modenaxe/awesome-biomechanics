@@ -16,8 +16,9 @@ Note that sections that do not look nice are work in progress - might include er
 * [Introduction to Trajectory Optimization](https://www.youtube.com/watch?v=wlkRYMVUZTs) by [Matthew Kelly](http://www.matthewpeterkelly.com/index.html). Very clear introduction to the topic with MATLAB resources linked in the video description.
 
 ## Courses
-* [Lectures on animal locomotion](https://mchenrylab.bio.uci.edu/e139) by Manny Azizi and Matt McHenry (UC Irvine).
+* [Lectures on animal locomotion](https://mchenrylab.bio.uci.edu/e139) by Manny Azizi and Matt McHenry, UC Irvine (2020).
 * [Lectures on optimal control](http://www.anilvrao.com/Optimal-Control-Videos.html) by Anil Rao (University of Florida).
+* [Lectures on multibody dynamics](https://www.youtube.com/watch?v=1Tyxgv7RUdk&list=PLzAwokZEM7auZEBOJKNa_lCgz2rdgpYLL) by Jason Moore at UC Davis (2017).
 * [Neuromechanics course material](https://github.com/joshcash9/Neuromechanics_Course) by Joshua Cashaback (University of Delaware) 
 * [Neuromatch Academy](https://www.youtube.com/channel/UC4LoD4yNBuLKQwDOV6t-KPw): [the Neuromatch Academy](https://www.neuromatchacademy.org/) aims to introduce traditional and emerging tools of computational neuroscience to trainees.
 
@@ -101,7 +102,7 @@ Note that sections that do not look nice are work in progress - might include er
 :page_facing_up: [paper](https://link.springer.com/article/10.1007/s10439-017-1936-z#SecESM1) |
 :dvd: [dataset](https://static-content.springer.com/esm/art%3A10.1007%2Fs10439-017-1936-z/MediaObjects/10439_2017_1936_MOESM1_ESM.pdf)
 
-* **Muscle Modelling Database** by Ross Miller (2018). A summary of muscle mechanical parameters in the human lower limb from the anatomy, muscle/exercise physiology, and biomechanics literature for use in Hill-based muscle model.
+* **Muscle Modelling Database** by Ross Miller (2018). A summary of muscle mechanical parameters in the human lower limb from the anatomy, muscle/exercise physiology, and biomechanics literature for use in Hill-based muscle model.  
 :page_facing_up: [paper](https://link.springer.com/referenceworkentry/10.1007%2F978-3-319-30808-1_203-2) |
 :dvd: [dataset](https://figshare.com/articles/dataset/Muscle_model_parameters/4275854)
 
@@ -217,17 +218,17 @@ Note that sections that do not look nice are work in progress - might include er
 
 ## Software 
 ### Motion Capture Data Processing [WIP]
-* [c3dserver](https://www.c3dserver.com/)
+* [c3dserver](https://www.c3dserver.com/) C++/MATLAB)
 * [ezc3d](https://github.com/pyomeca/ezc3d) (C++/MATLAB/Python)
 * [BTK - Biomechanical ToolKit](http://biomechanical-toolkit.github.io/) (C++/MATLAB/Python)
 * [MOKKA](https://biomechanical-toolkit.github.io/mokka/): GUI built on BTK functionalities. Allows visualisation of c3d contents and basic processing, such as filtering and event detection. Great open source alternative to Vicon Nexus for these functionalities.
 
 ### Modelling and Simulation :computer:
 
-#### Anthropometry [WIP]
+#### Anthropometry
 * **Repository of body segment parameter models** by Will Robertson. Contains the raw data for a multitude of body segment parameter models (see repository for list).  
-:floppy_disk: [source](https://github.com/wspr/body-segment-param) |
-:computer: [website](http://wspr.io/body-segment-param/)
+:computer: [website](http://wspr.io/body-segment-param/) |
+:floppy_disk: [source](https://github.com/wspr/body-segment-param)
 
 * **Yeadon's model** by Chris Dembia et al. (2015). The human inertia model developed by Fred Yeadon in 1990.  
 :page_facing_up: [paper](https://dx.doi.org/10.12688%2Ff1000research.5292.2) |
@@ -238,14 +239,43 @@ Note that sections that do not look nice are work in progress - might include er
 :floppy_disk: [source](https://github.com/wspr/hatze-biomech)
 
 #### Multibody and Physics Engines [WIP] :sleeping::arrow_lower_left::apple:
-* [Bullet Physics](https://github.com/bulletphysics/bullet3): real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.
-* [Drake](https://drake.mit.edu/) C++ toolbox started by the Robot Locomotion Group at the MIT Computer Science and Artificial Intelligence Lab, with core development led by the Toyota Research Institute. It is a collection of tools for analyzing the dynamics of our robots and building control systems for them, with a heavy emphasis on optimization-based design/analysis.
-* [MuJoCo](http://www.mujoco.org/) by Emo Todorov for Roboti LLC. Initially it was used at the Movement Control Laboratory, University of Washington. There is a [plugin for importing OpenSim models in MuJoCo](https://github.com/aikkala/O2MConverter)
-* [ODE](https://www.ode.org/): open source, high performance library for simulating rigid body dynamics. [source](https://bitbucket.org/odedevs/ode/src/master/)
-* [Pinocchio](https://github.com/stack-of-tasks/pinocchio): A fast and flexible implementation of Rigid Body Dynamics algorithms and their analytical derivatives
-* [PyDy](https://github.com/pydy/pydy) by Jason Moore: tool kit written in the Python programming language that utilizes an array of scientific programs to enable the study of multibody dynamics.
-* [RBDL (Rigid Body Dynamics Library)](https://rbdl.github.io/) by Martin L. Felis (Heidelberg University). A multibody engine heavily inspired by the pseudo code of the book "Rigid Body Dynamics Algorithms" of [Roy Featherstone](http://royfeatherstone.org/). [paper](https://link.springer.com/article/10.1007/s10514-016-9574-0)|[source](https://github.com/rbdl/rbdl)
-* [SimBody](https://simtk.org/projects/simbody/): [paper](https://www.sciencedirect.com/science/article/pii/S2210983811000241)|[source](https://github.com/simbody)
+
+* **Bullet Physics** by Erwin Coumans and Yunfei Bai (2016). Real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.   
+:page_facing_up: [Quick Start Guide](https://docs.google.com/document/d/10sXEhzFRSnvFcl3XxNGhnD4N2SedqwdAvK3dsihxVUA/edit#heading=h.2ye70wns7io3) |
+:computer: [website](https://pybullet.org/wordpress/) |
+:floppy_disk: [source](https://github.com/bulletphysics/bullet3)
+
+* **Drake** by Russ Tedrake and the Drake Development Team (2019). C++ toolbox for analyzing the dynamics of our robots and building control systems for them, with a heavy emphasis on optimization-based design/analysis. It was started by the Robot Locomotion Group at the MIT Computer Science and Artificial Intelligence Lab, and now has core development led by the Toyota Research Institute.  
+:computer: [website](https://drake.mit.edu/) |
+:floppy_disk: [source](https://github.com/RobotLocomotion/drake)
+
+* **MuJoCo** by Emo Todorov for Roboti LLC. Initially it was used at the Movement Control Laboratory, University of Washington. MuJoCo is a  commercial physics engine aiming to facilitate research and development in robotics, biomechanics, graphics and animation, and other areas where fast and accurate simulation is needed.  
+:computer: [website](http://www.mujoco.org) |
+:star: [plugin for importing OpenSim models](https://github.com/aikkala/O2MConverter)
+
+* **ODE (Open Dynamics Engine)** by Russell L. Smith. Open source, high performance library for simulating rigid body dynamics. It is fully featured, stable, mature and platform independent with an easy to use C/C++ API. It has advanced joint types and integrated collision detection with friction. ODE is useful for simulating vehicles, objects in virtual reality environments and virtual creatures. It is currently used in many computer games, 3D authoring tools and simulation tools.  
+:computer: [website](https://www.ode.org) |
+:floppy_disk: [source](https://bitbucket.org/odedevs/ode/src/master)
+
+* **Pinocchio** by Carpentier et al. (2019). Pinocchio is an open-source library (C++ with Python bindings) for efficiently computing the dynamics (and derivatives) of a robot model, or of any articulated rigid-body model you would like (avatars in a simulator, skeletal models for biomechanics, etc.). Pinocchio is one of the most efficient libraries for computing the dynamics of articulated bodies and implements   algorithms following the methods described in Featherstone's 2008 [book](https://www.springer.com/gp/book/9780387743141). It also introduces efficient variations of some of them, plus some new ones, notably including a full set of algorithms to compute the derivatives of the main ones.  
+:page_facing_up: [paper](https://hal.archives-ouvertes.fr/hal-01866228) |
+:computer: [website](https://gepettoweb.laas.fr/doc/stack-of-tasks/pinocchio/master/doxygen-html/) |
+:floppy_disk: [source](https://github.com/stack-of-tasks/pinocchio)
+
+* **PyDy** by Jason Moore. A tool kit written in the Python programming language that utilizes an array of scientific programs to enable the study of multibody dynamics.  
+:page_facing_up: [paper](http://dx.doi.org/10.1115/DETC2013-13470) |
+:floppy_disk: [source](https://rbdl.github.io)
+:movie_camera: [YouTube tutorials](https://www.youtube.com/watch?v=r4piIKV4sDw)
+
+* **RBDL (Rigid Body Dynamics Library)** by Martin L. Felis (Heidelberg University). A multibody engine heavily inspired by the pseudo code of the book "Rigid Body Dynamics Algorithms" of [Roy Featherstone](http://royfeatherstone.org/).  
+:page_facing_up: [paper](https://link.springer.com/article/10.1007/s10514-016-9574-0) |
+:computer: [website](https://rbdl.github.io/) |
+:floppy_disk: [source](https://github.com/rbdl/rbdl)
+
+* **SimBody** by Michael Sherman et al. (2011). Simboby is an open source, extensible, high performance toolkit including a multibody mechanics library aimed at the needs of biomedical researchers working in a variety of fields including neuromuscular, prosthetic, and biomolecular simulation.   
+:page_facing_up: [paper](https://www.sciencedirect.com/science/article/pii/S2210983811000241) |
+:computer: [website](https://simtk.org/projects/simbody) |
+:floppy_disk: [source](https://github.com/simbody)
 
 #### Resources for Building Biomechanical Models
 * **mri2psm** by Manish Sreenivasa (2016). Open-source toolchain to create patient-specific models from MRI images.  
@@ -262,41 +292,51 @@ Note that sections that do not look nice are work in progress - might include er
 :movie_camera: [YouTube tutorial](https://www.youtube.com/watch?v=UtAMTFM1vsI)
 
 
-#### Automatic Landmarks/Reference System Identification :skull:
-* [Subburaj's curvature/spatial relation matrix method](https://github.com/RWTHmediTEC/PelvicLandmarkIdentification_Subburaj): MATLAB implementation of Subburaj's curvature/spatial relation matrix method for the automatic identification of pelvic landmarks. **SEE LINK FOR PAPERS**
-* [PelvicLandmarkIdentification](https://github.com/RWTHmediTEC/PelvicLandmarkIdentification) by Fischer, M. C. M [paper](https://www.nature.com/articles/s41598-019-49573-4) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3384110.svg)](https://doi.org/10.5281/zenodo.3384110)
-reStructedText
-* [GIBOC-Knee](https://github.com/renaultJB/GIBOC-Knee-Coordinate-System) by Jean-Baptiste Renault **TODO - ADD PAPER**
+#### Automatic Reference System Identification :skull:
+
+* **Subburaj's curvature/spatial relation matrix method** by Maximilian Fischer et al. (2019). MATLAB implementation of Subburaj's curvature/spatial relation matrix method for the automatic identification of pelvic landmarks.  
+:page_facing_up: [Subburaj's paper 2008](https://doi.org/10.3722/cadaps.2008.153-160) |
+:page_facing_up: [Subburaj's paper 2009](https://doi.org/10.1016/j.compmedimag.2009.03.001) |
+:floppy_disk: [source](https://github.com/RWTHmediTEC/PelvicLandmarkIdentification_Subburaj)
+
+* **PelvicLandmarkIdentification** by Maximilian Fischer et al. (2019). This is a fully automatic methods for identification of landmarks on surface models of the pelvis. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3384110.svg)](https://doi.org/10.5281/zenodo.3384110)  
+:page_facing_up: [paper](https://www.nature.com/articles/s41598-019-49573-4) |
+:floppy_disk: [source](https://github.com/RWTHmediTEC/PelvicLandmarkIdentification)
+
+* **GIBOC-Knee toolbox** by Jean-Baptiste Renault et al. (2018). The toolbox includes three automatic algorithms for reference system identification on femur, tibia and patella. Each algorithm is implemeted with 3 variants, and compared against five other methods from the literature on a dataset of 24 lower-limb CT-scans (**not available for download**).  
+:page_facing_up: [paper](https://doi.org/10.1016/j.jbiomech.2018.08.028) |
+:floppy_disk: [source](https://github.com/renaultJB/GIBOC-Knee-Coordinate-System)
+
 
 #### Musculoskeletal Modelling and Simulation :computer:
 
-* **AnyBody Technology**: commercial software for musculoskeletal modelling and simulation. 
+* **AnyBody Technology**: commercial software for musculoskeletal modelling and simulation.  
 :page_facing_up: [paper](https://doi.org/10.1016/j.simpat.2006.09.001) |
 :computer: [website](http://www.anybodytech.com)
 :computer: [model repository](http://www.anybodytech.com/software/model-repository-ammr)
 
-* **AnimatLab** - neuromechanical and neurorobotic simulator for building the body of a robot or biolgical organism in a physically accurate 3-D virtual world, and then layout a biologically realistic nervous system to control the animats behavior.  
+* **AnimatLab** - neuromechanical and neurorobotic simulator for building the body of a robot or biolgical organism in a physically accurate 3-D virtual world, and then layout a biologically realistic nervous system to control the animats behavior.   
 :page_facing_up: [paper](https://www.sciencedirect.com/science/article/pii/S0165027010000087) |
 :computer: [website](http://animatlab.com) |
 :floppy_disk: [source](https://github.com/NeuroRoboticTech/AnimatLabPublicSource)
 
-* **Biomechanics of Bodies** - biomechanical modelling package implemented in MATLAB that contains a human musculoskeletal model and enables biomechanical and musculoskeletal calculations.  
+* **Biomechanics of Bodies** - biomechanical modelling package implemented in MATLAB that contains a human musculoskeletal model and enables biomechanical and musculoskeletal calculations.   
 :page_facing_up: [paper](https://pure.coventry.ac.uk/ws/portalfiles/portal/22762734/Shippen_et_al_BoB_Biomechanics_MATLAB.pdf) |
 :computer: [website](https://www.bob-biomechanics.com)
 
-* **GaitSym** by William Sellers (2014). 
+* **GaitSym** by William Sellers (2014). Software for simulation of human and animal musculoskeletal biomechanics.  
 :page_facing_up: [Config Reference Manual](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.705.9682&rep=rep1&type=pdf) |
 :computer: [Animal Simulation Laboratory website](https://www.animalsimulation.org/) |
 :floppy_disk: [source](https://github.com/wol101/GaitSym_2017)
 
-* **OpenSim** by the National Center for Simulation in Rehabilitation Research, Stanford University. Open source software for biomechanical analysis and neuromusculoskeletal simulations.  
+* **OpenSim** by the National Center for Simulation in Rehabilitation Research, Stanford University. Open source software for biomechanical analysis and neuromusculoskeletal simulations.   
 :page_facing_up: [paper2007](https://ieeexplore.ieee.org/document/4352056) |
 :page_facing_up: [paper2019](https://doi.org/10.1371/journal.pcbi.1006223) |
 :computer: [website](https://opensim.stanford.edu) |
 :computer: [binaries](https://simtk.org/projects/opensim) |
 :floppy_disk: [source](https://github.com/opensim-org/opensim-core)
 
-* **SCONE** by Thomas Geijtenbeek. Open source software for predictive simulation of biological motion. It generates actuator patterns and motion trajectories that optimally perform a specific task, according to high-level objectives such as walking speed, pain avoidance, and energy efficiency.  
+* **SCONE** by Thomas Geijtenbeek. Open source software for predictive simulation of biological motion. It generates actuator patterns and motion trajectories that optimally perform a specific task, according to high-level objectives such as walking speed, pain avoidance, and energy efficiency.   
 :page_facing_up: [paper](https://joss.theoj.org/papers/10.21105/joss.01421) |
 :computer: [website](https://scone.software/doku.php) |
 :computer: [binaries](https://simtk.org/projects/scone) |
