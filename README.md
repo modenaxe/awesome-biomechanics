@@ -61,7 +61,7 @@ Sections that do not look nice are work in progress - might include errors and i
 * [Ross Miller's channel](https://www.youtube.com/channel/UCO_H7aZoIcwZiNc4KjiQQkg/videos) 
 * [Stuart McErlain-Naylor channel](https://www.youtube.com/channel/UCmG-bd1JL1ACP7hMzIUXwOg)
 
-## Books :blue_book:
+## Theory Books :blue_book:
 * [Calculus made Easy](http://calculusmadeeasy.org) by Silvanus P. Thompson.
 * [Dynamics: Theory and Applications](https://ecommons.cornell.edu/handle/1813/638) by Kane and Levinson.
 
@@ -128,7 +128,7 @@ Sections that do not look nice are work in progress - might include errors and i
 * **MB Knee: Multibody Models of the Human Knee** by Trent Guess. The data set includes four knee models. MBKnee_4 is based on in vivo measurements from a 29 year old female while MBKnee_1, MBKnee_2, and MBKnee_3 are based on cadaver knees that were physically tested in a dynamic knee simulator. Knee geometries (bone, cartilage, and mensici) were derived from Magnetic Resonance Imaging (MRI) and ligament insertions come from MRI, the literature, and probing the cadaver knees. The site also contains information on ligament modeling, such as bundle insertion locations and zero load lengths.  
 :dvd: [dataset](https://simtk.org/projects/mb_knee)
 
-* **OpenKnee** 
+* **OpenKnee** by Ahmet Erdemir.
 :dvd: [dataset](https://simtk.org/projects/openknee)
 
 * **Natural Knee Data** by University of Denver Center for Orthopaedic Biomechanics. Data are provided for 7 human knees (5 cadaveric subjects) and fall under two categories: Image Data and Experimental & Computational Modeling Data.  CT and MRI images are provided for 7 knee specimens. Solid models were created from the CT images. In addition, during dissection of the knees, surfaces and ligament insertions and origins were outlined on the bones and recorded as probed points  
@@ -139,7 +139,7 @@ Sections that do not look nice are work in progress - might include errors and i
 :dvd: [dataset](https://digitalcommons.du.edu/living_kinematics_knee/)
 :computer: [website](https://simtk.org/projects/knee_model)
 
-### Animal Anatomy :crocodile:
+### Animal Anatomy :crocodile: [WIP]
 * **CT scans of various animals** from John Hutchinson's group.  
 :dvd: [dataset](https://osf.io/4sc96/)
 
@@ -224,25 +224,11 @@ Sections that do not look nice are work in progress - might include errors and i
 :page_facing_up: [paper](https://doi.org/10.1242/jeb.064527) |
 :dvd: [dataset](https://simtk.org/projects/runningspeeds)
 
-<!---
-* **Template: DatasetName** by Authors. Explanation. [![DOI]()] DOUBLE SPACE 
-:page_facing_up: [paper]() |
-:dvd: [dataset]() |
-:computer: [website]() |
-:floppy_disk: [code/source]()
--->
+
+## Software and Computational Tools :computer:
 
 
-## Software 
-### Motion Capture Data Processing [WIP]
-* [c3dserver](https://www.c3dserver.com/) C++/MATLAB)
-* [ezc3d](https://github.com/pyomeca/ezc3d) (C++/MATLAB/Python)
-* [BTK - Biomechanical ToolKit](http://biomechanical-toolkit.github.io/) (C++/MATLAB/Python)
-* [MOKKA](https://biomechanical-toolkit.github.io/mokka/): GUI built on BTK functionalities. Allows visualisation of c3d contents and basic processing, such as filtering and event detection. Great open source alternative to Vicon Nexus for these functionalities.
-
-### Modelling and Simulation :computer:
-
-#### Anthropometry
+### Anthropometric models
 * **Repository of body segment parameter models** by Will Robertson. Contains the raw data for a multitude of body segment parameter models (see repository for list).  
 :computer: [website](http://wspr.io/body-segment-param/) |
 :floppy_disk: [source](https://github.com/wspr/body-segment-param)
@@ -255,7 +241,8 @@ Sections that do not look nice are work in progress - might include errors and i
 :page_facing_up: [Hatze's paper](https://doi.org/10.1016/0021-9290(80)90171-2) |
 :floppy_disk: [source](https://github.com/wspr/hatze-biomech)
 
-#### Multibody and Physics Engines [WIP] :sleeping::arrow_lower_left::apple:
+
+### Multibody and Physics Engines [WIP] :sleeping::arrow_lower_left::apple:
 
 * **Bullet Physics** by Erwin Coumans and Yunfei Bai (2016). Real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.   
 :page_facing_up: [Quick Start Guide](https://docs.google.com/document/d/10sXEhzFRSnvFcl3XxNGhnD4N2SedqwdAvK3dsihxVUA/edit#heading=h.2ye70wns7io3) |
@@ -294,38 +281,19 @@ Sections that do not look nice are work in progress - might include errors and i
 :computer: [website](https://simtk.org/projects/simbody) |
 :floppy_disk: [source](https://github.com/simbody)
 
-#### Resources for Building Biomechanical Models
-* **mri2psm** by Manish Sreenivasa (2016). Open-source toolchain to create patient-specific models from MRI images.  
-:page_facing_up: [paper](https://doi.org/10.1016/j.jbiomech.2016.05.001) (_MRI2PSM, an open-source toolchain to create patient-specific rigid body models from MRI images._ is cited in the paper, but not retrievable). |
-:floppy_disk: [source](https://github.com/manishsreenivasa/mri2psm)
 
-* **ModelFactory** by Manish Sreenivasa (2018). A Matlab/Octave toolbox to create human body models.   
-:page_facing_up: [preprint](https://arxiv.org/abs/1804.03407) |
-:floppy_disk: [source](https://github.com/manishsreenivasa/ModelFactory)
+### Motion Capture Data Processing [WIP]
+* [c3dserver](https://www.c3dserver.com/) C++/MATLAB)
 
-* **NMSBuilder** by Giordano Valente et al. (2017). Freely available software to create subject-specific musculoskeletal models for OpenSim from 3D geometries.</br>
-:page_facing_up: [paper](https://doi.org/10.1016/j.cmpb.2017.09.012) |
-:computer: [website](http://www.nmsbuilder.org/) |
-:movie_camera: [YouTube tutorial](https://www.youtube.com/watch?v=UtAMTFM1vsI)
+* [ezc3d](https://github.com/pyomeca/ezc3d) (C++/MATLAB/Python)
+
+* [BTK - Biomechanical ToolKit](http://biomechanical-toolkit.github.io/) (C++/MATLAB/Python)
+
+* [MOKKA](https://biomechanical-toolkit.github.io/mokka/): GUI built on BTK functionalities. 
+Allows visualisation of c3d contents and basic processing, such as filtering and event detection. Great open source alternative to Vicon Nexus for these functionalities.
 
 
-#### Automatic Reference System Identification :skull:
-
-* **Subburaj's curvature/spatial relation matrix method** by Maximilian Fischer et al. (2019). MATLAB implementation of Subburaj's curvature/spatial relation matrix method for the automatic identification of pelvic landmarks.  
-:page_facing_up: [Subburaj's paper 2008](https://doi.org/10.3722/cadaps.2008.153-160) |
-:page_facing_up: [Subburaj's paper 2009](https://doi.org/10.1016/j.compmedimag.2009.03.001) |
-:floppy_disk: [source](https://github.com/RWTHmediTEC/PelvicLandmarkIdentification_Subburaj)
-
-* **PelvicLandmarkIdentification** by Maximilian Fischer et al. (2019). This is a fully automatic methods for identification of landmarks on surface models of the pelvis. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3384110.svg)](https://doi.org/10.5281/zenodo.3384110)  
-:page_facing_up: [paper](https://www.nature.com/articles/s41598-019-49573-4) |
-:floppy_disk: [source](https://github.com/RWTHmediTEC/PelvicLandmarkIdentification)
-
-* **GIBOC-Knee toolbox** by Jean-Baptiste Renault et al. (2018). The toolbox includes three automatic algorithms for reference system identification on femur, tibia and patella. Each algorithm is implemeted with 3 variants, and compared against five other methods from the literature on a dataset of 24 lower-limb CT-scans (**not available for download**).  
-:page_facing_up: [paper](https://doi.org/10.1016/j.jbiomech.2018.08.028) |
-:floppy_disk: [source](https://github.com/renaultJB/GIBOC-Knee-Coordinate-System)
-
-
-#### Musculoskeletal Modelling and Simulation :computer:
+### Musculoskeletal Simulation :computer:
 
 * **AnyBody Technology**: commercial software for musculoskeletal modelling and simulation.  
 :page_facing_up: [paper](https://doi.org/10.1016/j.simpat.2006.09.001) |
@@ -359,25 +327,62 @@ Sections that do not look nice are work in progress - might include errors and i
 :computer: [binaries](https://simtk.org/projects/scone) |
 :floppy_disk: [source](https://github.com/opensim-org/SCONE)
 
-## Software for Segmentation of Medical Images :art:
-* [3DSlicer](https://www.slicer.org/)
-* [ITK-Snap](http://www.itksnap.org/pmwiki/pmwiki.php)
-* [Materialise Mimics](https://www.materialise.com/en/medical/mimics-innovation-suite) (commercial)
-* [MITK](https://docs.mitk.org/2016.11/index.html)
-* [MITK-GEM](http://araex.github.io/mitk-gem-site/): segmentation and mesh processing functionalities. Aimed to generation of finite element models.
-* [SASHIMI Segmentation :sushi:](https://github.com/bartbols/SASHIMI) by Bart Bolsterlee. SASHIMI Segmentation is a MATLAB App for segmentation of multi-slice images.
-* [Seg3D](https://www.sci.utah.edu/cibc-software/seg3d.html)
-* [Simpleware ScanIP](https://www.synopsys.com/simpleware/software/scanip.html)
+### Segmentation of Medical Images :art: [WIP]
+* **3DSlicer** :computer: [website](https://www.slicer.org/)
+* **ITK-Snap** :computer: [website](http://www.itksnap.org/pmwiki/pmwiki.php)
+* **Materialise Mimics** :computer: [website](https://www.materialise.com/en/medical/mimics-innovation-suite) (commercial)
+* **MITK** :computer: [website](https://docs.mitk.org/2016.11/index.html)
+* **MITK-GEM** :computer: [website](http://araex.github.io/mitk-gem-site/): segmentation and mesh processing functionalities. Aimed to generation of finite element models.
+* **SASHIMI Segmentation :sushi:** :computer: [website](https://github.com/bartbols/SASHIMI) by Bart Bolsterlee. SASHIMI Segmentation is a MATLAB App for segmentation of multi-slice images.
+* **Seg3D** :computer: [website](https://www.sci.utah.edu/cibc-software/seg3d.html)
+* **Simpleware ScanIP** :computer: [website](https://www.synopsys.com/simpleware/software/scanip.html)
 
-## Software for Geometrical Operations, Manipulation and Processing
-* [Autodesk Netfabb](https://www.autodesk.com/products/netfabb/overview)
-* [Blender](https://www.blender.org/)
-* [Gmsh](https://gmsh.info/)
-* [MeshLab](https://www.meshlab.net/)
-* [MeshMixer](http://www.meshmixer.com/)
-* [Salome](https://www.salome-platform.org/user-section/about/mesh)
+### Resources for Building Biomechanical Models from Medical Images
 
-## Software for Meshing Surface Models (Meshers)
+* **mri2psm** by Manish Sreenivasa (2016). Open-source toolchain to create patient-specific models from MRI images.  
+:page_facing_up: [paper](https://doi.org/10.1016/j.jbiomech.2016.05.001) (_MRI2PSM, an open-source toolchain to create patient-specific rigid body models from MRI images._ is cited in the paper, but not retrievable). |
+:floppy_disk: [source](https://github.com/manishsreenivasa/mri2psm)
+
+* **ModelFactory** by Manish Sreenivasa (2018). A Matlab/Octave toolbox to create human body models.   
+:page_facing_up: [preprint](https://arxiv.org/abs/1804.03407) |
+:floppy_disk: [source](https://github.com/manishsreenivasa/ModelFactory)
+
+* **NMSBuilder** by Giordano Valente et al. (2017). Freely available software to create subject-specific musculoskeletal models for OpenSim from 3D geometries.</br>
+:page_facing_up: [paper](https://doi.org/10.1016/j.cmpb.2017.09.012) |
+:computer: [website](http://www.nmsbuilder.org/) |
+:movie_camera: [YouTube tutorial](https://www.youtube.com/watch?v=UtAMTFM1vsI)
+
+
+### Automatic Definition of Bony Landmarks and Reference Systems :skull:
+
+* **Subburaj's curvature/spatial relation matrix method** by Maximilian Fischer et al. (2019). MATLAB implementation of Subburaj's curvature/spatial relation matrix method for the automatic identification of pelvic landmarks.  
+:page_facing_up: [Subburaj's paper 2008](https://doi.org/10.3722/cadaps.2008.153-160) |
+:page_facing_up: [Subburaj's paper 2009](https://doi.org/10.1016/j.compmedimag.2009.03.001) |
+:floppy_disk: [source](https://github.com/RWTHmediTEC/PelvicLandmarkIdentification_Subburaj)
+
+* **PelvicLandmarkIdentification** by Maximilian Fischer et al. (2019). This is a fully automatic methods for identification of landmarks on surface models of the pelvis. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3384110.svg)](https://doi.org/10.5281/zenodo.3384110)  
+:page_facing_up: [paper](https://www.nature.com/articles/s41598-019-49573-4) |
+:floppy_disk: [source](https://github.com/RWTHmediTEC/PelvicLandmarkIdentification)
+
+* **GIBOC-Knee toolbox** by Jean-Baptiste Renault et al. (2018). The toolbox includes three automatic algorithms for reference system identification on femur, tibia and patella. Each algorithm is implemeted with 3 variants, and compared against five other methods from the literature on a dataset of 24 lower-limb CT-scans (**not available for download**).  
+:page_facing_up: [paper](https://doi.org/10.1016/j.jbiomech.2018.08.028) |
+:floppy_disk: [source](https://github.com/renaultJB/GIBOC-Knee-Coordinate-System)
+
+### Manipulation and Processing of Surface Meshes [WIP]
+
+* **Autodesk Netfabb** :computer: [website](https://www.autodesk.com/products/netfabb/overview)
+
+* **Blender** :computer: [website](https://www.blender.org/)
+
+* **Gmsh** :computer: [website](https://gmsh.info/)
+
+* **MeshLab** :computer: [website](https://www.meshlab.net/)
+
+* **MeshMixer** :computer: [website](http://www.meshmixer.com/)
+
+* **Salome** :computer: [website](https://www.salome-platform.org/user-section/about/mesh)
+
+### Software for Meshing Surface Models (Meshers)
 Both meshers produce tetrahedral meshes and are available in Salome_meca:
 * [TetGen](http://wias-berlin.de/software/index.jsp?id=TetGen&lang=1)
 * [NetGen](https://sourceforge.net/projects/netgen-mesher/) [source](https://github.com/NGSolve/netgen)
