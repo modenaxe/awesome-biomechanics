@@ -409,12 +409,25 @@ Both meshers produce tetrahedral meshes and are available in Salome_meca:
 * [Optimal Control of Musculoskeletal Movement Using OpenSim & MATLAB](https://simtk.org/projects/directcolloc/)
 
 ### Gait
-* [Automated Gap Filling and Tools for Motion Capture](https://github.com/JonathanCamargo/MoCapTools) by the Sensor-Fusion team from EPIC lab @GeorgiaTech. **ADD PAPER**
+* **Automated Gap Filling and Tools for Motion Capture** by the Sensor-Fusion team from EPIC lab @GeorgiaTech. Gap filling is based on inverse kinematics approach.
+:page_facing_up: [paper](https://doi.org/10.1080/10255842.2020.1789971) |
+:floppy_disk: [code/source](https://github.com/JonathanCamargo/MoCapTools)
+
 * [BiomechZoo](https://www.biomechzoo.com) by Philippe C Dixon: biomechZoo is a user-customizable toolbox for the analysis of biomechanical data within the MatLab programming environment. Please take a look at the Wiki for setup information and user instructions. [source](https://github.com/PhilD001/biomechZoo)
 * [3D Kinematics and Inverse Dynamics scripts](https://uk.mathworks.com/matlabcentral/fileexchange/58021-3d-kinematics-and-inverse-dynamics?s_tid=prof_contriblnk) by Raphael Dumas
 
 
+
 ## Python tools :snake:
+
+* **The CGM 2.i Project** by Fabian Leboeuf et al. (2019). This is the implementation of an evolved conventional gait model.  
+:page_facing_up: [paper](https://doi.org/10.1016/j.gaitpost.2019.01.034) |
+:computer: [website](https://pycgm2.github.io/) |
+:floppy_disk: [source](https://github.com/pyCGM2/pyCGM2)
+
+* **MoGapFill** implemented by Fabian Leboeuf. Low dimensional Kalman smoother that fills gaps in motion capture marker trajectories based on Burke and Lasenby 2016 paper.  
+:page_facing_up: [Burke's paper 2016](http://dx.doi.org/10.1016/j.jbiomech.2016.04.016) |
+:floppy_disk: [source](https://github.com/pyCGM2/MoGapFill)
 
 * **GaitPy** by Matthew Czech. Read and process raw vertical accelerometry data from a sensor on the lower back during gait; calculate clinical gait characteristics.  
 :computer: [website](https://pypi.org/project/gaitpy/) |
