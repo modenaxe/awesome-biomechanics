@@ -13,6 +13,15 @@ Sections that do not look nice are work in progress - might include errors and i
 * Muscle Param optimizer
 * Check Stanford mobile data
 * HJC from Sangeaux
+* Orthoload
+* CAMS-Knee
+* Colin Smith's tools
+* Probabilistic package from Valente and ?another one in simtk?
+* Klein Horsman + Carbone in Human anatomy
+* Winter's data from ISB/data in gait
+* Thomas videos in Videos
+* MuscleForceDirection in FE related (release github)
+
 
 
 ## Videos :clapper:
