@@ -328,14 +328,30 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 :floppy_disk: [source](https://github.com/opensim-org/SCONE)
 
 ### Segmentation of Medical Images :art: [WIP]
-* **3DSlicer** :computer: [website](https://www.slicer.org/)
-* **ITK-Snap** :computer: [website](http://www.itksnap.org/pmwiki/pmwiki.php)
-* **Materialise Mimics** :computer: [website](https://www.materialise.com/en/medical/mimics-innovation-suite) (commercial)
-* **MITK** :computer: [website](https://docs.mitk.org/2016.11/index.html)
-* **MITK-GEM** :computer: [website](http://araex.github.io/mitk-gem-site/): segmentation and mesh processing functionalities. Aimed to generation of finite element models.
-* **SASHIMI Segmentation :sushi:** :computer: [website](https://github.com/bartbols/SASHIMI) by Bart Bolsterlee. SASHIMI Segmentation is a MATLAB App for segmentation of multi-slice images.
-* **Seg3D** :computer: [website](https://www.sci.utah.edu/cibc-software/seg3d.html)
-* **Simpleware ScanIP** :computer: [website](https://www.synopsys.com/simpleware/software/scanip.html)
+
+* **3DSlicer**  
+:computer: [website](https://www.slicer.org/)
+
+* **ITK-Snap**  
+:computer: [website](http://www.itksnap.org/pmwiki/pmwiki.php)
+
+* **Materialise Mimics**  
+:computer: [website](https://www.materialise.com/en/medical/mimics-innovation-suite) (commercial)
+
+* **MITK**  
+:computer: [website](https://docs.mitk.org/2016.11/index.html)
+
+* **MITK-GEM**  
+:computer: [website](http://araex.github.io/mitk-gem-site/): segmentation and mesh processing functionalities. Aimed to generation of finite element models.
+
+* **SASHIMI Segmentation :sushi:** by Bart Bolsterlee. SASHIMI Segmentation is a MATLAB App for segmentation of multi-slice images.   
+:computer: [website](https://github.com/bartbols/SASHIMI) 
+
+* **Seg3D**    
+:computer: [website](https://www.sci.utah.edu/cibc-software/seg3d.html)
+
+* **Simpleware ScanIP**    
+:computer: [website](https://www.synopsys.com/simpleware/software/scanip.html)
 
 ### Resources for Building Biomechanical Models from Medical Images
 
@@ -370,37 +386,43 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 
 ### Manipulation and Processing of Surface Meshes [WIP]
 
-* **Autodesk Netfabb** :computer: [website](https://www.autodesk.com/products/netfabb/overview)
+* **Autodesk Netfabb**  
+:computer: [website](https://www.autodesk.com/products/netfabb/overview)
 
-* **Blender** :computer: [website](https://www.blender.org/)
+* **Blender**   
+:computer: [website](https://www.blender.org/)
 
-* **Gmsh** :computer: [website](https://gmsh.info/)
+* **Gmsh**    
+:computer: [website](https://gmsh.info/)
 
-* **MeshLab** :computer: [website](https://www.meshlab.net/)
+* **MeshLab**    
+:computer: [website](https://www.meshlab.net/)
 
-* **MeshMixer** :computer: [website](http://www.meshmixer.com/)
+* **MeshMixer**    
+:computer: [website](http://www.meshmixer.com/)
 
-* **Salome** :computer: [website](https://www.salome-platform.org/user-section/about/mesh)
+* **Salome**    
+:computer: [website](https://www.salome-platform.org/user-section/about/mesh)
 
-### Software for Meshing Surface Models (Meshers)
+### Meshers of Surface Models
 Both meshers produce tetrahedral meshes and are available in Salome_meca:
 * [TetGen](http://wias-berlin.de/software/index.jsp?id=TetGen&lang=1)
 * [NetGen](https://sourceforge.net/projects/netgen-mesher/) [source](https://github.com/NGSolve/netgen)
 
-## Software for Statistical Shape Modelling 
+### Statistical Shape Modelling 
 * [Musculoskeletal Atlas Project](https://simtk.org/projects/map) with information about the MAP-Client available [here](https://mapclient.readthedocs.io/en/latest)
 * [Statistical Shape Modelling Research Toolkit (SSMRT)](https://www.msksoftware.org.uk/software/ssmrt/) by the MSk Dynamics group, Imperial College London.
 * [ShapeWorks](https://www.sci.utah.edu/software/shapeworks.html) by the University of Utah: The ShapeWorks software is an open-source distribution of a new method for constructing compact statistical point-based models of ensembles of similar shapes that does not rely on any specific surface parameterization.
 * [Shape Model Builder](https://uk.mathworks.com/matlabcentral/fileexchange/49940-shape-model-builder?s_tid=prof_contriblnk) by Emmanuel Audenaert. Framework to develop shape models in MATLAB.
 
-## Software for Finite Element Analysis
+### Finite Element Analysis
 * [Abaqus](https://www.3ds.com/products-services/simulia/products/abaqus/) (commercial)
 * [Ansys](https://www.ansys.com/en-gb) (commercial)
 * [Code_Aster](https://www.code-aster.org/)
 * [FEBio](https://febio.org/)
 * [Salome_meca](https://www.code-aster.org/spip.php?article303)
 
-## Software for Statistical Analysis
+### Statistical Analysis
 * [G*Power](https://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower.html)
 * [spm1d](https://spm1d.org/): package for one-dimensional [Statistical Parametric Mapping](http://www.scholarpedia.org/article/Statistical_parametric_mapping)
 * [SPSS Statistics](https://www.ibm.com/uk-en/products/spss-statistics) (commercial)
