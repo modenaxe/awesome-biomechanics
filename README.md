@@ -1,19 +1,35 @@
 # Awesome Biomechanics [Work in Progress]
-
 Note that sections that do not look nice are work in progress - might include errors and incorrect descriptions
 
-## Videos, Lectures and Courses :clapper:
-* [Lectures on animal locomotion](https://mchenrylab.bio.uci.edu/e139) by Manny Azizi and Matt McHenry (UC Irvine).
-* [Neuromechanics course material](https://github.com/joshcash9/Neuromechanics_Course) by Joshua Cashaback (University of Delaware) 
-* [Neuromatch Academy](https://www.youtube.com/channel/UC4LoD4yNBuLKQwDOV6t-KPw): [the Neuromatch Academy](https://www.neuromatchacademy.org/) aims to introduce traditional and emerging tools of computational neuroscience to trainees.
+## Table of Contents
+
+* **[Books](#videos)**
+
+* **[YouTube Channels](#courses)**  
+
+## Videos :clapper:
 * [Sport Biomechanics Lecture Series](https://www.youtube.com/channel/UCmG-bd1JL1ACP7hMzIUXwOg) curated by Stuart McErlain-Naylor. Includes introductory topics like  presentations of motion capture techniques by Vicon ([lecture 1](https://www.youtube.com/watch?v=1zJ14cW-JqY) and [lecture 2](https://www.youtube.com/watch?v=hM7xEoyP-4o)) and an [introduction](https://www.youtube.com/watch?v=2xgyTpsa14M#) of electromyography (EMG) by Delsys.
 * [CNB-ASB Muscle Workshop](https://www.youtube.com/watch?v=Ur9wYYR0nac&feature=youtu.be): presentations on the topic `Integrative Muscle Modelling for Neuromechanics`.
 * [A critique of Induced Acceleration Analysis](https://www.youtube.com/watch?v=2EmwIM_uQnk&t=18s) by Andy Ruina (WCB2014).
 * [F8 2019 - VR Full Body Tracking & Avatars](https://www.youtube.com/watch?v=FhiAFo9U_sM) and [blog post](https://uploadvr.com/facebook-f8-2019-body-tracking/)
 * [Running with bone pins](https://www.youtube.com/watch?v=nf6jkyNgkwE): video of data collection in subject running with bone pins shared by Ton Van den Bogert.
+* [Introduction to Trajectory Optimization](https://www.youtube.com/watch?v=wlkRYMVUZTs) by [Matthew Kelly](http://www.matthewpeterkelly.com/index.html). Very clear introduction to the topic with MATLAB resources linked in the video description.
 
+## Courses
+* [Lectures on animal locomotion](https://mchenrylab.bio.uci.edu/e139) by Manny Azizi and Matt McHenry (UC Irvine).
+* [Lectures on optimal control](http://www.anilvrao.com/Optimal-Control-Videos.html) by Anil Rao (University of Florida).
+* [Neuromechanics course material](https://github.com/joshcash9/Neuromechanics_Course) by Joshua Cashaback (University of Delaware) 
+* [Neuromatch Academy](https://www.youtube.com/channel/UC4LoD4yNBuLKQwDOV6t-KPw): [the Neuromatch Academy](https://www.neuromatchacademy.org/) aims to introduce traditional and emerging tools of computational neuroscience to trainees.
 
-### YouTube Channels :tv:
+## Tutorials and Teaching Resources :triangular_ruler:
+* [Tutorial: Musculoskeletal Model for Simulation of Walking](https://www.youtube.com/watch?v=Z4BoVVpju88) by Van den Bogert's tutorial (Dynamic Walking, 2011) 
+* [Kane’s Method for an inverted pendulum](https://figshare.com/articles/journal_contribution/Kane_pdf/7791647) by Ross Miller. A tutorial on Kane's Method for deriving equations of motion, demonstrated on an inverted pendulum.
+* [Notes on Scientific Computing for Biomechanics and Motor Control](https://github.com/BMClab/BMC) by Marcos Duarte and Renato Watanabe. A collection of lecture notes and code on scientific computing and data analysis for Biomechanics and Motor Control in the form of Jupyter notebooks (python).
+* [Optimal Control Workshop](https://simtk.org/projects/ocworkshop/)
+* [How to review a paper](https://www.sciencemag.org/careers/2016/09/how-review-paper)
+* [Kwon3d website](http://www.kwon3d.com/theory/prac.html): website with theory about most basic topics in biomechanics
+
+## YouTube Channels :tv:
 * [AnyBody Technology Videos and Webcasts](https://www.youtube.com/channel/UCbgDnEKXyYOETR_Nb6YdehA)
 * [American Society Biomechanics (ASB)](https://www.youtube.com/channel/UC0_WoykR3nSBrHAwyfLPzzw)
 * [Biomch-V](https://www.youtube.com/channel/UCcv9iv6v4_l9dfDDW1PTZCA): includes videos from International Society of Biomechanics conferences
@@ -27,19 +43,9 @@ Note that sections that do not look nice are work in progress - might include er
 * [Ross Miller's channel](https://www.youtube.com/channel/UCO_H7aZoIcwZiNc4KjiQQkg/videos) 
 * [Stuart McErlain-Naylor channel](https://www.youtube.com/channel/UCmG-bd1JL1ACP7hMzIUXwOg)
 
-## Tutorials and Teaching resources :blue_book:
-* [Tutorial: Musculoskeletal Model for Simulation of Walking](https://www.youtube.com/watch?v=Z4BoVVpju88) by Van den Bogert's tutorial (Dynamic Walking, 2011) 
-* [How to review a paper](https://www.sciencemag.org/careers/2016/09/how-review-paper)
-* [Kane’s Method for an inverted pendulum](https://figshare.com/articles/journal_contribution/Kane_pdf/7791647) by Ross Miller. A tutorial on Kane's Method for deriving equations of motion, demonstrated on an inverted pendulum.
-* [Notes on Scientific Computing for Biomechanics and Motor Control](https://github.com/BMClab/BMC) by Marcos Duarte and Renato Watanabe. A collection of lecture notes and code on scientific computing and data analysis for Biomechanics and Motor Control in the form of Jupyter notebooks (python).
-* [Optimal Control Workshop](https://simtk.org/projects/ocworkshop/)
-
-## Mathematical Background :triangular_ruler:
+## Books :blue_book:
 * [Calculus made Easy](http://calculusmadeeasy.org) by Silvanus P. Thompson
 * [Dynamics: Theory and Applications](https://ecommons.cornell.edu/handle/1813/638) by Kane and Levinson
-* [Kwon3d website](http://www.kwon3d.com/theory/prac.html): website with theory about most basic topics in biomechanics
-* [Lectures on optimal control](http://www.anilvrao.com/Optimal-Control-Videos.html) by Anil Rao (University of Florida).
-* [Introduction to Trajectory Optimization](https://www.youtube.com/watch?v=wlkRYMVUZTs) by [Matthew Kelly](http://www.matthewpeterkelly.com/index.html). Very clear introduction to the topic with MATLAB resources linked in the video description.
 
 ## Datasets :dvd:
 
@@ -56,9 +62,9 @@ Note that sections that do not look nice are work in progress - might include er
 :dvd: [dataset](http://vkh.ajou.ac.kr/#vk) |
 :computer: [website](http://vkh.ajou.ac.kr) (scroll down for English version)
 
-* **Chinese Visible Human**: similar to the Visible Human Project but on Chinese cadavers. :exclamation: **the dataset does not seem to be available anymore** :exclamation:, despite being still listed on a [related website](https://appsrv.cse.cuhk.edu.hk/~vrcentre/index.html).  
+* ~~**Chinese Visible Human**: similar to the Visible Human Project but on Chinese cadavers.~~ **the dataset does not seem to be available anymore**, despite being still listed on a [related website](https://appsrv.cse.cuhk.edu.hk/~vrcentre/index.html).  
 :page_facing_up: [paper](https://dx.doi.org/10.1111%2Fj.0021-8782.2004.00274.x) |
-:computer: [website](http://www.chinesevisiblehuman.com) 
+:computer: [website](http://www.chinesevisiblehuman.com)
 
 * **Development and validation of statistical shape models of the primary functional bone segments of the foot.** by Tamara Grant et al. (2019). Dataset includes manually segmented three-dimensional bone geometry models (.STL) from magnetic resonance images of 34 subjects. The primary functional segments of the foot are modelled (**not all geometries are used**): first metatarsal (29 geometries), midfoot (second-to-fifth metatarsals, cuneiforms, cuboid, and navicular) (33 geometries), calcaneus (27 geometries), and talus (34 geometries). [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3464747.svg)](https://doi.org/10.5281/zenodo.3464747)  
 :page_facing_up: [paper](https://doi.org/10.7717/peerj.8397) |
@@ -205,7 +211,7 @@ Note that sections that do not look nice are work in progress - might include er
 :page_facing_up: [paper]() |
 :dvd: [dataset]() |
 :computer: [website]() |
-:floppy_disk: [code/source](https://github.com/manishsreenivasa/ModelFactory)
+:floppy_disk: [code/source]()
 -->
 
 
@@ -219,14 +225,22 @@ Note that sections that do not look nice are work in progress - might include er
 ### Modelling and Simulation :computer:
 
 #### Anthropometry [WIP]
-* [Repository of body segment parameter models](https://github.com/wspr/body-segment-param) by Will Robertson. Contains the raw data for a multitude of body segment parameter models (see repository for list).
-* [Yeadon's model](https://github.com/chrisdembia/yeadon) by Chris Dembia et al. The human inertia model developed by Fred Yeadon in 1990. :page_facing_up: [paper](https://dx.doi.org/10.12688%2Ff1000research.5292.2)
-* [Hatze's model](https://github.com/wspr/hatze-biomech) by Will Robertson. A Matlab implementation of Hatze's 1980 anthropometric body segment parameter model. :page_facing_up: [Hatze's paper](https://doi.org/10.1016/0021-9290(80)90171-2)
+* **Repository of body segment parameter models** by Will Robertson. Contains the raw data for a multitude of body segment parameter models (see repository for list).  
+:floppy_disk: [source](https://github.com/wspr/body-segment-param) |
+:computer: [website](http://wspr.io/body-segment-param/)
+
+* **Yeadon's model** by Chris Dembia et al. (2015). The human inertia model developed by Fred Yeadon in 1990.  
+:page_facing_up: [paper](https://dx.doi.org/10.12688%2Ff1000research.5292.2) |
+:floppy_disk: [source](https://github.com/chrisdembia/yeadon)
+
+* **Hatze's model** by Will Robertson. A Matlab implementation of Hatze's 1980 anthropometric body segment parameter model.  
+:page_facing_up: [Hatze's paper](https://doi.org/10.1016/0021-9290(80)90171-2) |
+:floppy_disk: [source](https://github.com/wspr/hatze-biomech)
 
 #### Multibody and Physics Engines [WIP] :sleeping::arrow_lower_left::apple:
 * [Bullet Physics](https://github.com/bulletphysics/bullet3): real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.
 * [Drake](https://drake.mit.edu/) C++ toolbox started by the Robot Locomotion Group at the MIT Computer Science and Artificial Intelligence Lab, with core development led by the Toyota Research Institute. It is a collection of tools for analyzing the dynamics of our robots and building control systems for them, with a heavy emphasis on optimization-based design/analysis.
-* [MuJoCo](http://www.mujoco.org/) by Emo Todorov for Roboti LLC. Initially it was used at the Movement Control Laboratory, University of Washington
+* [MuJoCo](http://www.mujoco.org/) by Emo Todorov for Roboti LLC. Initially it was used at the Movement Control Laboratory, University of Washington. There is a [plugin for importing OpenSim models in MuJoCo](https://github.com/aikkala/O2MConverter)
 * [ODE](https://www.ode.org/): open source, high performance library for simulating rigid body dynamics. [source](https://bitbucket.org/odedevs/ode/src/master/)
 * [Pinocchio](https://github.com/stack-of-tasks/pinocchio): A fast and flexible implementation of Rigid Body Dynamics algorithms and their analytical derivatives
 * [PyDy](https://github.com/pydy/pydy) by Jason Moore: tool kit written in the Python programming language that utilizes an array of scientific programs to enable the study of multibody dynamics.
@@ -254,14 +268,39 @@ Note that sections that do not look nice are work in progress - might include er
 reStructedText
 * [GIBOC-Knee](https://github.com/renaultJB/GIBOC-Knee-Coordinate-System) by Jean-Baptiste Renault **TODO - ADD PAPER**
 
-#### Musculoskeletal Modelling and Simulation [WIP] :computer:
-* [AnyBody Technology](http://www.anybodytech.com): commercial software for musculoskeletal modelling and simulation. [paper](https://doi.org/10.1016/j.simpat.2006.09.001)
-* [AnimatLab](http://animatlab.com/): neuromechanical and neurorobotic simulator for building the body of a robot or biolgical organism in a physically accurate 3-D virtual world, and then layout a biologically realistic nervous system to control the animats behavior. [paper](https://www.sciencedirect.com/science/article/pii/S0165027010000087)|[source](https://github.com/NeuroRoboticTech/AnimatLabPublicSource)
-* [Biomechanics of Bodies](https://www.bob-biomechanics.com/): biomechanical modelling package implemented in MATLAB that contains a human musculoskeletal model and enables biomechanical and musculoskeletal calculations. [paper](https://pure.coventry.ac.uk/ws/portalfiles/portal/22762734/Shippen_et_al_BoB_Biomechanics_MATLAB.pdf)
-* [GaitSym](https://github.com/wol101/GaitSym_2017) by the [Animal Simulation Laboratory](https://www.animalsimulation.org/)
-* [OpenSim](https://opensim.stanford.edu): open source software for biomechanical analysis and neuromusculoskeletal simulations. [paper2007](10.1109/TBME.2007.901024) [paper2019](https://doi.org/10.1371/journal.pcbi.1006223)|[website](https://simtk.org/projects/opensim)|[source](https://github.com/opensim-org/opensim-core)
-* [SCONE](https://simtk.org/projects/scone) by Thomas Geijtenbeek. [paper](https://joss.theoj.org/papers/10.21105/joss.01421)|[website](https://scone.software/doku.php)|[source](https://github.com/opensim-org/SCONE)
-* [Plugin for importing OpenSim models in MuJoCo](https://github.com/aikkala/O2MConverter)
+#### Musculoskeletal Modelling and Simulation :computer:
+
+* **AnyBody Technology**: commercial software for musculoskeletal modelling and simulation. 
+:page_facing_up: [paper](https://doi.org/10.1016/j.simpat.2006.09.001) |
+:computer: [website](http://www.anybodytech.com)
+:computer: [model repository](http://www.anybodytech.com/software/model-repository-ammr)
+
+* **AnimatLab** - neuromechanical and neurorobotic simulator for building the body of a robot or biolgical organism in a physically accurate 3-D virtual world, and then layout a biologically realistic nervous system to control the animats behavior.  
+:page_facing_up: [paper](https://www.sciencedirect.com/science/article/pii/S0165027010000087) |
+:computer: [website](http://animatlab.com) |
+:floppy_disk: [source](https://github.com/NeuroRoboticTech/AnimatLabPublicSource)
+
+* **Biomechanics of Bodies** - biomechanical modelling package implemented in MATLAB that contains a human musculoskeletal model and enables biomechanical and musculoskeletal calculations.  
+:page_facing_up: [paper](https://pure.coventry.ac.uk/ws/portalfiles/portal/22762734/Shippen_et_al_BoB_Biomechanics_MATLAB.pdf) |
+:computer: [website](https://www.bob-biomechanics.com)
+
+* **GaitSym** by William Sellers (2014). 
+:page_facing_up: [Config Reference Manual](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.705.9682&rep=rep1&type=pdf) |
+:computer: [Animal Simulation Laboratory website](https://www.animalsimulation.org/) |
+:floppy_disk: [source](https://github.com/wol101/GaitSym_2017)
+
+* **OpenSim** by the National Center for Simulation in Rehabilitation Research, Stanford University. Open source software for biomechanical analysis and neuromusculoskeletal simulations.  
+:page_facing_up: [paper2007](https://ieeexplore.ieee.org/document/4352056) |
+:page_facing_up: [paper2019](https://doi.org/10.1371/journal.pcbi.1006223) |
+:computer: [website](https://opensim.stanford.edu) |
+:computer: [binaries](https://simtk.org/projects/opensim) |
+:floppy_disk: [source](https://github.com/opensim-org/opensim-core)
+
+* **SCONE** by Thomas Geijtenbeek. Open source software for predictive simulation of biological motion. It generates actuator patterns and motion trajectories that optimally perform a specific task, according to high-level objectives such as walking speed, pain avoidance, and energy efficiency.  
+:page_facing_up: [paper](https://joss.theoj.org/papers/10.21105/joss.01421) |
+:computer: [website](https://scone.software/doku.php) |
+:computer: [binaries](https://simtk.org/projects/scone) |
+:floppy_disk: [source](https://github.com/opensim-org/SCONE)
 
 ## Segmentation software :art:
 * [3DSlicer](https://www.slicer.org/)
