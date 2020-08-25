@@ -1,11 +1,10 @@
 # Awesome Biomechanics [Work in Progress]
-Note that sections that do not look nice are work in progress - might include errors and incorrect descriptions
+
+Sections that do not look nice are work in progress - might include errors and incorrect descriptions
 
 ## Table of Contents
 
-* **[Books](#videos)**
-
-* **[YouTube Channels](#courses)**  
+TO ADD
 
 ## Videos :clapper:
 * [Sport Biomechanics Lecture Series](https://www.youtube.com/channel/UCmG-bd1JL1ACP7hMzIUXwOg) curated by Stuart McErlain-Naylor. Includes introductory topics like  presentations of motion capture techniques by Vicon ([lecture 1](https://www.youtube.com/watch?v=1zJ14cW-JqY) and [lecture 2](https://www.youtube.com/watch?v=hM7xEoyP-4o)) and an [introduction](https://www.youtube.com/watch?v=2xgyTpsa14M#) of electromyography (EMG) by Delsys.
@@ -19,24 +18,24 @@ Note that sections that do not look nice are work in progress - might include er
 * [Lectures on animal locomotion](https://mchenrylab.bio.uci.edu/e139) by Manny Azizi and Matt McHenry, UC Irvine (2020).
 * [Lectures on optimal control](http://www.anilvrao.com/Optimal-Control-Videos.html) by Anil Rao (University of Florida).
 * [Lectures on multibody dynamics](https://www.youtube.com/watch?v=1Tyxgv7RUdk&list=PLzAwokZEM7auZEBOJKNa_lCgz2rdgpYLL) by Jason Moore at UC Davis (2017).
-* [Neuromechanics course material](https://github.com/joshcash9/Neuromechanics_Course) by Joshua Cashaback (University of Delaware) 
+* [Neuromechanics course material](https://github.com/joshcash9/Neuromechanics_Course) by Joshua Cashaback (University of Delaware).
 * [Neuromatch Academy](https://www.youtube.com/channel/UC4LoD4yNBuLKQwDOV6t-KPw): [the Neuromatch Academy](https://www.neuromatchacademy.org/) aims to introduce traditional and emerging tools of computational neuroscience to trainees.
 
 ## Tutorials and Teaching Resources :triangular_ruler:
-* [Tutorial: Musculoskeletal Model for Simulation of Walking](https://www.youtube.com/watch?v=Z4BoVVpju88) by Van den Bogert's tutorial (Dynamic Walking, 2011) 
+* [Tutorial: Musculoskeletal Model for Simulation of Walking](https://www.youtube.com/watch?v=Z4BoVVpju88) by Van den Bogert's tutorial (Dynamic Walking, 2011).
 * [Kane’s Method for an inverted pendulum](https://figshare.com/articles/journal_contribution/Kane_pdf/7791647) by Ross Miller. A tutorial on Kane's Method for deriving equations of motion, demonstrated on an inverted pendulum.
 * [Notes on Scientific Computing for Biomechanics and Motor Control](https://github.com/BMClab/BMC) by Marcos Duarte and Renato Watanabe. A collection of lecture notes and code on scientific computing and data analysis for Biomechanics and Motor Control in the form of Jupyter notebooks (python).
 * [Optimal Control Workshop](https://simtk.org/projects/ocworkshop/)
+* [Kwon3d website](http://www.kwon3d.com/theory/prac.html): website with theory about most basic topics in biomechanics.
 * [How to review a paper](https://www.sciencemag.org/careers/2016/09/how-review-paper)
-* [Kwon3d website](http://www.kwon3d.com/theory/prac.html): website with theory about most basic topics in biomechanics
 
 ## YouTube Channels :tv:
 * [AnyBody Technology Videos and Webcasts](https://www.youtube.com/channel/UCbgDnEKXyYOETR_Nb6YdehA)
 * [American Society Biomechanics (ASB)](https://www.youtube.com/channel/UC0_WoykR3nSBrHAwyfLPzzw)
-* [Biomch-V](https://www.youtube.com/channel/UCcv9iv6v4_l9dfDDW1PTZCA): includes videos from International Society of Biomechanics conferences
+* [Biomch-V](https://www.youtube.com/channel/UCcv9iv6v4_l9dfDDW1PTZCA): includes videos from International Society of Biomechanics conferences.
 * [European Society of Biomechanics (ESB)](https://www.youtube.com/channel/UCFkgDwfks-UkG7IDk8cBMMQ)
 * [International Society of Biomechanics (tutorials and lectures)](https://isbweb.org/about-us/61-videos): It includes those recorded at the ISB congresses from 2007 and those provided by others.
-* [International Society of Biomechanics in Sports (ISBS)](https://www.youtube.com/channel/UCYkzE6y_eKWa7KQOqZ6ZQUA/featured?disable_polymer=1): videos from ISBS2020 virtual conference
+* [International Society of Biomechanics in Sports (ISBS)](https://www.youtube.com/channel/UCYkzE6y_eKWa7KQOqZ6ZQUA/featured?disable_polymer=1): videos from ISBS2020 virtual conference.
 * [Journal of Foot and Ankle Research](https://www.youtube.com/channel/UCuIdGMZMaDKRM7vyJ6Dbcwg)
 * [OpenSim Videos and Webinars](https://www.youtube.com/user/OpenSimVideos/videos)
 * [UCalgary Human Performance Lab](https://www.youtube.com/channel/UCxAOMJHF-5xQMFkLAutV7Dg/videos): videos from ISB/ASB2019 and Dynamic Walking 2019 conferences.
@@ -45,8 +44,8 @@ Note that sections that do not look nice are work in progress - might include er
 * [Stuart McErlain-Naylor channel](https://www.youtube.com/channel/UCmG-bd1JL1ACP7hMzIUXwOg)
 
 ## Books :blue_book:
-* [Calculus made Easy](http://calculusmadeeasy.org) by Silvanus P. Thompson
-* [Dynamics: Theory and Applications](https://ecommons.cornell.edu/handle/1813/638) by Kane and Levinson
+* [Calculus made Easy](http://calculusmadeeasy.org) by Silvanus P. Thompson.
+* [Dynamics: Theory and Applications](https://ecommons.cornell.edu/handle/1813/638) by Kane and Levinson.
 
 ## Datasets :dvd:
 
@@ -342,7 +341,7 @@ Note that sections that do not look nice are work in progress - might include er
 :computer: [binaries](https://simtk.org/projects/scone) |
 :floppy_disk: [source](https://github.com/opensim-org/SCONE)
 
-## Segmentation software :art:
+## Software for Segmentation of Medical Images :art:
 * [3DSlicer](https://www.slicer.org/)
 * [ITK-Snap](http://www.itksnap.org/pmwiki/pmwiki.php)
 * [Materialise Mimics](https://www.materialise.com/en/medical/mimics-innovation-suite) (commercial)
@@ -360,25 +359,25 @@ Note that sections that do not look nice are work in progress - might include er
 * [MeshMixer](http://www.meshmixer.com/)
 * [Salome](https://www.salome-platform.org/user-section/about/mesh)
 
-## Free Meshers
+## Software for Meshing Surface Models (Meshers)
 Both meshers produce tetrahedral meshes and are available in Salome_meca:
 * [TetGen](http://wias-berlin.de/software/index.jsp?id=TetGen&lang=1)
 * [NetGen](https://sourceforge.net/projects/netgen-mesher/) [source](https://github.com/NGSolve/netgen)
 
-## Statistical Shape Modelling Software
+## Software for Statistical Shape Modelling 
 * [Musculoskeletal Atlas Project](https://simtk.org/projects/map) with information about the MAP-Client available [here](https://mapclient.readthedocs.io/en/latest)
 * [Statistical Shape Modelling Research Toolkit (SSMRT)](https://www.msksoftware.org.uk/software/ssmrt/) by the MSk Dynamics group, Imperial College London.
 * [ShapeWorks](https://www.sci.utah.edu/software/shapeworks.html) by the University of Utah: The ShapeWorks software is an open-source distribution of a new method for constructing compact statistical point-based models of ensembles of similar shapes that does not rely on any specific surface parameterization.
 * [Shape Model Builder](https://uk.mathworks.com/matlabcentral/fileexchange/49940-shape-model-builder?s_tid=prof_contriblnk) by Emmanuel Audenaert. Framework to develop shape models in MATLAB.
 
-## Finite Element Software
+## Software for Finite Element Analysis
 * [Abaqus](https://www.3ds.com/products-services/simulia/products/abaqus/) (commercial)
 * [Ansys](https://www.ansys.com/en-gb) (commercial)
 * [Code_Aster](https://www.code-aster.org/)
 * [FEBio](https://febio.org/)
 * [Salome_meca](https://www.code-aster.org/spip.php?article303)
 
-## Statistical Analysis
+## Software for Statistical Analysis
 * [G*Power](https://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower.html)
 * [spm1d](https://spm1d.org/): package for one-dimensional [Statistical Parametric Mapping](http://www.scholarpedia.org/article/Statistical_parametric_mapping)
 * [SPSS Statistics](https://www.ibm.com/uk-en/products/spss-statistics) (commercial)
@@ -392,18 +391,18 @@ Both meshers produce tetrahedral meshes and are available in Salome_meca:
 
 ## MATLAB packages :mortar_board:
 
-### FE related
+### Finite Element Analysis
 * [GIBBON MATLAB Toolbox](https://www.gibboncode.org/)
 * [LMG: Lumbar Model Generator](https://github.com/CELavecchia/LMG) by Carolina Lavecchia **TODO: add paper**
 * [Surrogate Contact Modeling Toolbox](https://simtk.org/projects/scmt/)
 
-### Simulation
+### Musculoskeletal Simulation
 * [FreeBody](https://www.msksoftware.org.uk/software/freebody/) by the MSk Dynamics group, Imperial College London.
 * [CusToM: a Matlab toolbox for musculoskeletal simulation](https://github.com/anmuller/CusToM) by Antoine Muller: Customizable Toolbox for Musculoskeletal simulation (CusToM) is a MATLAB toolbox aimed at performing inverse dynamics based musculoskeletal analyzes
 * [Geyer's 2010 neuromuscular model](https://www.cs.cmu.edu/~hgeyer/Software/Neuromuscular%20Model/Geyer%20Neuromuscular%20Model.zip): (available for Academic or Non-Profit Organization Noncommercial research use only).| [paper](https://www.cs.cmu.edu/~hgeyer/Publications/Geyer&Herr-ReflexModel2Column.pdf)
 * https://github.com/UMass-OpenSim/opensim-marker-place-toolbox
 
-### Trajectory optimization
+### Trajectory Optimization
 * [Trajectory Optimization Toolbox](https://github.com/MatthewPeterKelly/OptimTraj) by Matthew Kelly, including some [excellent examples](https://github.com/MatthewPeterKelly/dscTutorials) and some [course materials](https://github.com/MatthewPeterKelly/ME149_Spring2018)
 * https://simtk.org/projects/datatracking
 * [Optimal Control of Musculoskeletal Movement Using OpenSim & MATLAB](https://simtk.org/projects/directcolloc/)
