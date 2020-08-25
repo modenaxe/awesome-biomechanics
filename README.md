@@ -293,7 +293,7 @@ Sections that do not look nice are work in progress - might include errors and i
 Allows visualisation of c3d contents and basic processing, such as filtering and event detection. Great open source alternative to Vicon Nexus for these functionalities.
 
 
-### Musculoskeletal Simulation :computer:
+### (Neuro)musculoskeletal Simulation :computer:
 
 * **AnyBody Technology**: commercial software for musculoskeletal modelling and simulation.  
 :page_facing_up: [paper](https://doi.org/10.1016/j.simpat.2006.09.001) |
@@ -308,6 +308,8 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 * **Biomechanics of Bodies** - biomechanical modelling package implemented in MATLAB that contains a human musculoskeletal model and enables biomechanical and musculoskeletal calculations.   
 :page_facing_up: [paper](https://pure.coventry.ac.uk/ws/portalfiles/portal/22762734/Shippen_et_al_BoB_Biomechanics_MATLAB.pdf) |
 :computer: [website](https://www.bob-biomechanics.com)
+
+* **CEINMS** - TODO: add details
 
 * **GaitSym** by William Sellers (2014). Software for simulation of human and animal musculoskeletal biomechanics.  
 :page_facing_up: [Config Reference Manual](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.705.9682&rep=rep1&type=pdf) |
@@ -327,7 +329,7 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 :computer: [binaries](https://simtk.org/projects/scone) |
 :floppy_disk: [source](https://github.com/opensim-org/SCONE)
 
-### Segmentation of Medical Images :art: [WIP]
+### Segmentation of Medical Images :art: [WIP - TODO: add descriptions, papers and sources]
 
 * **3DSlicer**  
 :computer: [website](https://www.slicer.org/)
@@ -410,9 +412,13 @@ Both meshers produce tetrahedral meshes and are available in Salome_meca:
 * [NetGen](https://sourceforge.net/projects/netgen-mesher/) [source](https://github.com/NGSolve/netgen)
 
 ### Statistical Shape Modelling 
+
 * [Musculoskeletal Atlas Project](https://simtk.org/projects/map) with information about the MAP-Client available [here](https://mapclient.readthedocs.io/en/latest)
+
 * [Statistical Shape Modelling Research Toolkit (SSMRT)](https://www.msksoftware.org.uk/software/ssmrt/) by the MSk Dynamics group, Imperial College London.
+
 * [ShapeWorks](https://www.sci.utah.edu/software/shapeworks.html) by the University of Utah: The ShapeWorks software is an open-source distribution of a new method for constructing compact statistical point-based models of ensembles of similar shapes that does not rely on any specific surface parameterization.
+
 * [Shape Model Builder](https://uk.mathworks.com/matlabcentral/fileexchange/49940-shape-model-builder?s_tid=prof_contriblnk) by Emmanuel Audenaert. Framework to develop shape models in MATLAB.
 
 ### Finite Element Analysis
