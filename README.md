@@ -14,7 +14,7 @@ Sections that do not look nice are work in progress - might include errors and i
 * HJC from Sangeaux
 * Orthoload
 * CAMS-Knee
-* Colin Smith's tools
+* visualization tools: https://www.paraview.org/ Mayavi
 * Probabilistic package from Valente and ?another one in simtk?
 * Winter's data from ISB/data in gait
 * Thomas videos in Videos
@@ -134,13 +134,20 @@ Sections that do not look nice are work in progress - might include errors and i
 :dvd: [dataset](https://figshare.com/articles/dataset/Muscle_model_parameters/4275854)
 
 
-### Human Knee [WIP]
+### Human Knee [WIP - TODO double check Denver's resources]
 * **MB Knee: Multibody Models of the Human Knee** by Trent Guess. The data set includes four knee models. MBKnee_4 is based on in vivo measurements from a 29 year old female while MBKnee_1, MBKnee_2, and MBKnee_3 are based on cadaver knees that were physically tested in a dynamic knee simulator. Knee geometries (bone, cartilage, and mensici) were derived from Magnetic Resonance Imaging (MRI) and ligament insertions come from MRI, the literature, and probing the cadaver knees. The site also contains information on ligament modeling, such as bundle insertion locations and zero load lengths.  
 :dvd: [dataset](https://simtk.org/projects/mb_knee)
 
-* **OpenSim JAM** by Colin Smith.
+* **OpenSim JAM: A framework to simulate Joint and Articular Mechanics in OpenSim** by Colin Smith (2020). OpenSim JAM is a collection of force component plugins, models, and executables (tools) that are designed to enable OpenSim musculoskeletal simulations that include detailed joint mechanics. The project extends the opensim-core capabilities to enable joint representations that include 6 degree of freedom (DOF) joints (without kinematic constraints) and explicit representations of articular contact and ligament structures.  
+:page_facing_up: [reference papers for each component](https://github.com/clnsmith/opensim-jam/tree/master/opensim-jam-release) |
+:computer: [website and binaries](https://simtk.org/projects/opensim-jam) |
+:floppy_disk: [source](https://github.com/clnsmith/opensim-jam) |
 
-* **OpenKnee** by Ahmet Erdemir.
+* **OpenKnee** by Ahmet Erdemir. Open Knee(s) is aimed to provide free access to three-dimensional finite element representations of the knee joint. Dataset includes one knee specimen from the first generation of data collected and 21 specimens (knee id up to 22, missing one) for second generation.  
+:page_facing_up: [paper 2016](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4876308/) |
+:page_facing_up: [paper 2013](https://doi.org/10.1115/FMD2013-16033) |
+:page_facing_up: [ASB abstract 2010](http://www.asbweb.org/conferences/2010/abstracts/181.pdf) |
+:page_facing_up: [User's Guide 2010](https://simtk.org/websvn/wsvn/openknee/_gen1/doc/guide.pdf) |
 :dvd: [dataset](https://simtk.org/projects/openknee)
 
 * **Natural Knee Data** by University of Denver Center for Orthopaedic Biomechanics. CT and MRI images are provided for 7 knee specimens (5 cadaveric subjects). Solid models were created from the CT images. In addition, during dissection of the knees, surfaces and ligament insertions and origins were outlined on the bones and recorded as probed points.  
