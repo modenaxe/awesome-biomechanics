@@ -10,14 +10,12 @@ Sections that do not look nice are work in progress - might include errors and i
 * Table of Contents
 * Database of simulations?
 * JIA data sets from MD-Paedigree
-* Muscle Param optimizer
 * Check Stanford mobile data
 * HJC from Sangeaux
 * Orthoload
 * CAMS-Knee
 * Colin Smith's tools
 * Probabilistic package from Valente and ?another one in simtk?
-* Klein Horsman + Carbone in Human anatomy
 * Winter's data from ISB/data in gait
 * Thomas videos in Videos
 * MuscleForceDirection in FE related (release github)
@@ -46,6 +44,8 @@ Sections that do not look nice are work in progress - might include errors and i
 * [Optimal Control Workshop](https://simtk.org/projects/ocworkshop/)
 * [Kwon3d website](http://www.kwon3d.com/theory/prac.html): website with theory about most basic topics in biomechanics.
 * [How to review a paper](https://www.sciencemag.org/careers/2016/09/how-review-paper)
+* [3D Kinematics and Inverse Dynamics scripts](https://uk.mathworks.com/matlabcentral/fileexchange/58021-3d-kinematics-and-inverse-dynamics?s_tid=prof_contriblnk) by Raphael Dumas
+* [Trajectory Optimization Toolbox](https://github.com/MatthewPeterKelly/OptimTraj) by Matthew Kelly, including some [excellent examples](https://github.com/MatthewPeterKelly/dscTutorials) and some [course materials](https://github.com/MatthewPeterKelly/ME149_Spring2018)
 
 ## YouTube Channels :tv:
 * [AnyBody Technology Videos and Webcasts](https://www.youtube.com/channel/UCbgDnEKXyYOETR_Nb6YdehA)
@@ -112,6 +112,16 @@ Sections that do not look nice are work in progress - might include errors and i
 :page_facing_up: [paper](https://doi.org/10.1016/j.gaitpost.2020.02.010) |
 :dvd: [dataset](https://zenodo.org/record/167808#.X0O4kMhKgdV)
 
+* **Twente Lower Extremity (TLEM) Dataset** by Martin Klein Horsman et al. (2007). Anatomical data intended for musculoskeletal modelling obtained by the dissection of a single male cadaver.  
+:page_facing_up: [PhD thesis](https://research.utwente.nl/en/publications/the-twente-lower-extremity-model-consistent-dynamic-simulation-of)
+:page_facing_up: [paper](https://doi.org/10.1016/j.clinbiomech.2006.10.003) |
+:dvd: [dataset (paywalled)](https://ars.els-cdn.com/content/image/1-s2.0-S0268003306001896-mmc1.doc)
+
+* **TLEM2.0: A New Complete and Consistent Musculoskeletal Geometry Dataset for Subject-Specific Modelling of the Lower Extremity** by Vincenzo Carbone and René Fluit et al. (2015. New comprehensive dataset of the musculoskeletal geometry of the lower extremity, which is based on medical imaging data and dissection performed on the right lower extremity of a fresh male cadaver. A complete cadaver dissection was performed, in which bony landmarks, attachments sites and lines-of-action of 55 muscle actuators and 12 ligaments, bony wrapping surfaces, and joint geometry were measured.  
+:page_facing_up: [paper](https://doi.org/10.1016/j.jbiomech.2014.12.034) |
+:dvd: [dataset - requires registration](https://tlemsafe.eu/) |
+:computer: [website](https://tlemsafe.eu/)
+
 * **Shoulder morphological data** by the Dutch Shoulder Group. Includes data from several studies performed in 1988-2002 period.  
 :dvd: [dataset](http://homepage.tudelft.nl/g6u61/repository/shoulder/overview.htm)
 
@@ -128,10 +138,12 @@ Sections that do not look nice are work in progress - might include errors and i
 * **MB Knee: Multibody Models of the Human Knee** by Trent Guess. The data set includes four knee models. MBKnee_4 is based on in vivo measurements from a 29 year old female while MBKnee_1, MBKnee_2, and MBKnee_3 are based on cadaver knees that were physically tested in a dynamic knee simulator. Knee geometries (bone, cartilage, and mensici) were derived from Magnetic Resonance Imaging (MRI) and ligament insertions come from MRI, the literature, and probing the cadaver knees. The site also contains information on ligament modeling, such as bundle insertion locations and zero load lengths.  
 :dvd: [dataset](https://simtk.org/projects/mb_knee)
 
+* **OpenSim JAM** by Colin Smith.
+
 * **OpenKnee** by Ahmet Erdemir.
 :dvd: [dataset](https://simtk.org/projects/openknee)
 
-* **Natural Knee Data** by University of Denver Center for Orthopaedic Biomechanics. Data are provided for 7 human knees (5 cadaveric subjects) and fall under two categories: Image Data and Experimental & Computational Modeling Data.  CT and MRI images are provided for 7 knee specimens. Solid models were created from the CT images. In addition, during dissection of the knees, surfaces and ligament insertions and origins were outlined on the bones and recorded as probed points  
+* **Natural Knee Data** by University of Denver Center for Orthopaedic Biomechanics. CT and MRI images are provided for 7 knee specimens (5 cadaveric subjects). Solid models were created from the CT images. In addition, during dissection of the knees, surfaces and ligament insertions and origins were outlined on the bones and recorded as probed points.  
 :dvd: [dataset](https://digitalcommons.du.edu/natural_knee_data) |
 :computer: [website](https://simtk.org/projects/knee_model)
 
@@ -329,6 +341,23 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 :computer: [binaries](https://simtk.org/projects/scone) |
 :floppy_disk: [source](https://github.com/opensim-org/SCONE)
 
+#### Python Tools for Musculoskeletal Simulation  :snake:
+
+* **Modeling musculoskeletal kinematic and dynamic redundancy using null space projection** by Dimitar Stanev and Konstantinos Moustakas (2019). Methods for modeling, simulation and analysis of redundant musculoskeletal systems based on muscle space projection on segmental level reflexes and the computation of the feasible muscle forces for arbitrary movements. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2000421.svg)](https://doi.org/10.5281/zenodo.2000421)  
+:page_facing_up: [paper](https://doi.org/10.1371/journal.pone.0209171) |
+:computer: [website](https://simtk.org/projects/redundancy)
+:floppy_disk: [source](https://github.com/mitkof6/musculoskeletal-redundancy)
+
+* **Stiffness modulation of redundant musculoskeletal systems** by Dimitar Stanev and Konstantinos Moustakas (2019). The approach explores the entire space of possible solutions of the muscle redundancy problem using the notion of null space and rigorously accounts for the effect of muscle redundancy in the computation of the feasible stiffness characteristics. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2575332.svg)](https://doi.org/10.5281/zenodo.2575332)  
+:page_facing_up: [paper](https://doi.org/10.1016/j.jbiomech.2019.01.017) |
+:computer: [website](https://simtk.org/projects/stiffness)
+:floppy_disk: [source](https://github.com/mitkof6/musculoskeletal-stiffness/tree/v1.0)
+
+#### MATLAB Tools for Musculoskeletal Simulation  :mortar_board:
+* [FreeBody](https://www.msksoftware.org.uk/software/freebody/) by the MSk Dynamics group, Imperial College London.
+* [CusToM: a Matlab toolbox for musculoskeletal simulation](https://github.com/anmuller/CusToM) by Antoine Muller: Customizable Toolbox for Musculoskeletal simulation (CusToM) is a MATLAB toolbox aimed at performing inverse dynamics based musculoskeletal analyzes
+* [Geyer's 2010 neuromuscular model](https://www.cs.cmu.edu/~hgeyer/Software/Neuromuscular%20Model/Geyer%20Neuromuscular%20Model.zip): (available for Academic or Non-Profit Organization Noncommercial research use only).| [paper](https://www.cs.cmu.edu/~hgeyer/Publications/Geyer&Herr-ReflexModel2Column.pdf)
+
 ### Segmentation of Medical Images :art: [WIP - TODO: add descriptions, papers and sources]
 
 * **3DSlicer**  
@@ -365,6 +394,13 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 :page_facing_up: [preprint](https://arxiv.org/abs/1804.03407) |
 :floppy_disk: [source](https://github.com/manishsreenivasa/ModelFactory)
 
+* **Musculotendon parameter optimizer** by Luca Modenese et al. (2016). Optimization based technique that adjusts muscle parameters of musculoskeletal models. It can be used to improve linearly scaled models or to obtain reasonable estimation of optimal fiber lengths and tendon slack lengths in models generated from medical images.
+:page_facing_up: [paper](https://doi.org/10.1016/j.jbiomech.2015.11.006) |
+:dvd: [dataset](link_to_dataset) |
+:computer: [website](https://simtk.org/projects/opt_muscle_par) |
+:floppy_disk: [source (MATLAB)](https://github.com/modenaxe/MuscleParamOptimizer) |
+:floppy_disk: [source (OpenSim plugin)](https://github.com/MuscleOptimizer/MuscleOptimizer) with [documentation](http://muscleoptimizer.github.io/MuscleOptimizer/)
+
 * **NMSBuilder** by Giordano Valente et al. (2017). Freely available software to create subject-specific musculoskeletal models for OpenSim from 3D geometries.</br>
 :page_facing_up: [paper](https://doi.org/10.1016/j.cmpb.2017.09.012) |
 :computer: [website](http://www.nmsbuilder.org/) |
@@ -378,7 +414,7 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 :page_facing_up: [Subburaj's paper 2009](https://doi.org/10.1016/j.compmedimag.2009.03.001) |
 :floppy_disk: [source](https://github.com/RWTHmediTEC/PelvicLandmarkIdentification_Subburaj)
 
-* **PelvicLandmarkIdentification** by Maximilian Fischer et al. (2019). This is a fully automatic methods for identification of landmarks on surface models of the pelvis. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3384110.svg)](https://doi.org/10.5281/zenodo.3384110)  
+* **Pelvic Landmark Identification** by Maximilian Fischer et al. (2019). This is a fully automatic methods for identification of landmarks on surface models of the pelvis. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3384110.svg)](https://doi.org/10.5281/zenodo.3384110)  
 :page_facing_up: [paper](https://www.nature.com/articles/s41598-019-49573-4) |
 :floppy_disk: [source](https://github.com/RWTHmediTEC/PelvicLandmarkIdentification)
 
@@ -428,48 +464,44 @@ Both meshers produce tetrahedral meshes and are available in Salome_meca:
 * [FEBio](https://febio.org/)
 * [Salome_meca](https://www.code-aster.org/spip.php?article303)
 
-### Statistical Analysis
-* [G*Power](https://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower.html)
-* [spm1d](https://spm1d.org/): package for one-dimensional [Statistical Parametric Mapping](http://www.scholarpedia.org/article/Statistical_parametric_mapping)
-* [SPSS Statistics](https://www.ibm.com/uk-en/products/spss-statistics) (commercial)
-
-## Optimal Control and Direct Collocation :rocket:
-* [3dpredictsim](https://github.com/antoinefalisse/3dpredictsim) by Antoine Falisse: Generate 3D muscle-driven predictive simulations of human movement using direct collocation and algorithmic differentiation
-* [FROST: Fast Robot Optimization and Simulation Toolkit](https://github.com/ayonga/frost-dev): FROST (Fast Robot Optimization and Simulation Toolkit) for MATLAB provides a general full-body dynamics gait optimization and simulation framework for bipedal walking robots using virtual constraints based feedback controllers. It uses a Wolfram Mathematica backend. **ADD PUB FROM http://ayonga.github.io/frost-dev/**
-* [muscle redundancy solver](https://github.com/KULeuvenNeuromechanics/MuscleRedundancySolver) by KU Leuven: An algorithm to estimate muscle tendon properties and/or compute muscle coordination by tracking experimental data with a musculoskeletal model assuming optimal control to solve for the muscle redundancy. [dev_repo](https://github.com/antoinefalisse/solvemuscleredundancy_dev) website: https://simtk.org/projects/optcntrlmuscle
-* [OpenSim Moco](https://github.com/chrisdembia/opensim-moco)
-* [opty](https://github.com/csu-hmc/opty) by Jason Moore and Ton van den Bogert
-
-## MATLAB packages :mortar_board:
-
-### Finite Element Analysis related
+#### MATLAB tools for Finite Element Analysis :mortar_board:
 * [GIBBON MATLAB Toolbox](https://www.gibboncode.org/)
 * [LMG: Lumbar Model Generator](https://github.com/CELavecchia/LMG) by Carolina Lavecchia **TODO: add paper**
 * [ReadySim](https://simtk.org/projects/readysim)
 * [Surrogate Contact Modeling Toolbox](https://simtk.org/projects/scmt/)
 
-### Musculoskeletal Simulation
-* [FreeBody](https://www.msksoftware.org.uk/software/freebody/) by the MSk Dynamics group, Imperial College London.
-* [CusToM: a Matlab toolbox for musculoskeletal simulation](https://github.com/anmuller/CusToM) by Antoine Muller: Customizable Toolbox for Musculoskeletal simulation (CusToM) is a MATLAB toolbox aimed at performing inverse dynamics based musculoskeletal analyzes
-* [Geyer's 2010 neuromuscular model](https://www.cs.cmu.edu/~hgeyer/Software/Neuromuscular%20Model/Geyer%20Neuromuscular%20Model.zip): (available for Academic or Non-Profit Organization Noncommercial research use only).| [paper](https://www.cs.cmu.edu/~hgeyer/Publications/Geyer&Herr-ReflexModel2Column.pdf)
-* https://github.com/UMass-OpenSim/opensim-marker-place-toolbox
 
-### Trajectory Optimization
-* [Trajectory Optimization Toolbox](https://github.com/MatthewPeterKelly/OptimTraj) by Matthew Kelly, including some [excellent examples](https://github.com/MatthewPeterKelly/dscTutorials) and some [course materials](https://github.com/MatthewPeterKelly/ME149_Spring2018)
+### Statistical Analysis
+* [G*Power](https://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower.html)
+* [spm1d](https://spm1d.org/): package for one-dimensional [Statistical Parametric Mapping](http://www.scholarpedia.org/article/Statistical_parametric_mapping)
+* [SPSS Statistics](https://www.ibm.com/uk-en/products/spss-statistics) (commercial)
+
+
+### Optimal Control and Trajectory Optimization :rocket:
+* [3dpredictsim](https://github.com/antoinefalisse/3dpredictsim) by Antoine Falisse: Generate 3D muscle-driven predictive simulations of human movement using direct collocation and algorithmic differentiation
+* [FROST: Fast Robot Optimization and Simulation Toolkit](https://github.com/ayonga/frost-dev): FROST (Fast Robot Optimization and Simulation Toolkit) for MATLAB provides a general full-body dynamics gait optimization and simulation framework for bipedal walking robots using virtual constraints based feedback controllers. It uses a Wolfram Mathematica backend. **ADD PUB FROM http://ayonga.github.io/frost-dev/**
+* [muscle redundancy solver](https://github.com/KULeuvenNeuromechanics/MuscleRedundancySolver) by KU Leuven: An algorithm to estimate muscle tendon properties and/or compute muscle coordination by tracking experimental data with a musculoskeletal model assuming optimal control to solve for the muscle redundancy. [dev_repo](https://github.com/antoinefalisse/solvemuscleredundancy_dev) website: https://simtk.org/projects/optcntrlmuscle
+* [OpenSim Moco](https://github.com/chrisdembia/opensim-moco)
+* [opty](https://github.com/csu-hmc/opty) by Jason Moore and Ton van den Bogert
 * https://simtk.org/projects/datatracking
 * [Optimal Control of Musculoskeletal Movement Using OpenSim & MATLAB](https://simtk.org/projects/directcolloc/)
 
 ### Gait
+
 * **Automated Gap Filling and Tools for Motion Capture** by the Sensor-Fusion team from EPIC lab @GeorgiaTech. Gap filling is based on inverse kinematics approach.
 :page_facing_up: [paper](https://doi.org/10.1080/10255842.2020.1789971) |
 :floppy_disk: [code/source](https://github.com/JonathanCamargo/MoCapTools)
 
 * [BiomechZoo](https://www.biomechzoo.com) by Philippe C Dixon: biomechZoo is a user-customizable toolbox for the analysis of biomechanical data within the MatLab programming environment. Please take a look at the Wiki for setup information and user instructions. [source](https://github.com/PhilD001/biomechZoo)
-* [3D Kinematics and Inverse Dynamics scripts](https://uk.mathworks.com/matlabcentral/fileexchange/58021-3d-kinematics-and-inverse-dynamics?s_tid=prof_contriblnk) by Raphael Dumas
 
+* **OpenSense**
+https://simtk.org/projects/opensense
+documentation and examples https://simtk-confluence.stanford.edu:8443/display/OpenSim/OpenSense+-+Kinematics+with+IMU+Data
+https://github.com/opensim-org/opensim-core
 
+* https://github.com/UMass-OpenSim/opensim-marker-place-toolbox
 
-## Python tools :snake:
+#### Python tools :snake:
 
 * **The CGM 2.i Project** by Fabian Leboeuf et al. (2019). This is the implementation of an evolved conventional gait model.  
 :page_facing_up: [paper](https://doi.org/10.1016/j.gaitpost.2019.01.034) |
@@ -488,15 +520,6 @@ Both meshers produce tetrahedral meshes and are available in Salome_meca:
 :computer: [website](https://pyomeca.github.io/)
 :floppy_disk: [source](https://github.com/pyomeca/pyomeca)
 
-* **Modeling musculoskeletal kinematic and dynamic redundancy using null space projection** by Dimitar Stanev and Konstantinos Moustakas (2019). Methods for modeling, simulation and analysis of redundant musculoskeletal systems based on muscle space projection on segmental level reflexes and the computation of the feasible muscle forces for arbitrary movements. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2000421.svg)](https://doi.org/10.5281/zenodo.2000421)  
-:page_facing_up: [paper](https://doi.org/10.1371/journal.pone.0209171) |
-:computer: [website](https://simtk.org/projects/redundancy)
-:floppy_disk: [source](https://github.com/mitkof6/musculoskeletal-redundancy)
-
-* **Stiffness modulation of redundant musculoskeletal systems** by Dimitar Stanev and Konstantinos Moustakas (2019). The approach explores the entire space of possible solutions of the muscle redundancy problem using the notion of null space and rigorously accounts for the effect of muscle redundancy in the computation of the feasible stiffness characteristics. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2575332.svg)](https://doi.org/10.5281/zenodo.2575332)  
-:page_facing_up: [paper](https://doi.org/10.1016/j.jbiomech.2019.01.017) |
-:computer: [website](https://simtk.org/projects/stiffness)
-:floppy_disk: [source](https://github.com/mitkof6/musculoskeletal-stiffness/tree/v1.0)
 
 ## Societies and Initiatives :office:
 * [Americal Society of Biomechanics](https://www.asbweb.org/)
