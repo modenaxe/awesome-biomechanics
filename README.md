@@ -619,7 +619,7 @@ If you are adding elements to the `Dataset` section please use (roughly) this te
 :page_facing_up: [paper](doi/link_to_paper) |
 :dvd: [dataset](link_to_dataset) |
 :computer: [website](link_to_website) |
-:floppy_disk: [code/source](link_to_source_code)
+:floppy_disk: [code/source](link_to_source_code) |
 :star: [resources](link_to_resources)
 ```
 
