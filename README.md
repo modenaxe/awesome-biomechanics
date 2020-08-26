@@ -301,7 +301,9 @@ Sections that do not look nice are work in progress - might include errors and i
 :floppy_disk: [source](https://github.com/simbody)
 
 
+
 ### Motion Capture Data Processing [WIP]
+
 * [c3dserver](https://www.c3dserver.com/) C++/MATLAB)
 
 * [ezc3d](https://github.com/pyomeca/ezc3d) (C++/MATLAB/Python)
@@ -310,6 +312,43 @@ Sections that do not look nice are work in progress - might include errors and i
 
 * [MOKKA](https://biomechanical-toolkit.github.io/mokka/): GUI built on BTK functionalities. 
 Allows visualisation of c3d contents and basic processing, such as filtering and event detection. Great open source alternative to Vicon Nexus for these functionalities.
+
+* **Automated Gap Filling and Tools for Motion Capture** by the Sensor-Fusion team from EPIC lab @GeorgiaTech. Gap filling is based on inverse kinematics approach.
+:page_facing_up: [paper](https://doi.org/10.1080/10255842.2020.1789971) |
+:computer: [website](https://simtk.org/projects/opensense)
+:floppy_disk: [source](https://github.com/JonathanCamargo/MoCapTools)
+
+* **BiomechZoo** by Philippe C Dixon: biomechZoo is a user-customizable toolbox for the analysis of biomechanical data within the MatLab programming environment. Please take a look at the Wiki for setup information and user instructions.  
+:computer: [website](https://www.biomechzoo.com)
+:floppy_disk: [source](https://github.com/PhilD001/biomechZoo)
+
+* **OpenSense** TODO add description
+:page_facing_up: [documentation and examples](https://simtk-confluence.stanford.edu:8443/display/OpenSim/OpenSense+-+Kinematics+with+IMU+Data)
+:computer: [website](https://simtk.org/projects/opensense)
+:floppy_disk: [source](https://github.com/opensim-org/opensim-core)
+
+* https://github.com/UMass-OpenSim/opensim-marker-place-toolbox
+
+
+
+#### Python tools :snake:
+
+* **The CGM 2.i Project** by Fabian Leboeuf et al. (2019). This is the implementation of an evolved conventional gait model.  
+:page_facing_up: [paper](https://doi.org/10.1016/j.gaitpost.2019.01.034) |
+:computer: [website](https://pycgm2.github.io/) |
+:floppy_disk: [source](https://github.com/pyCGM2/pyCGM2)
+
+* **GaitPy** by Matthew Czech. Read and process raw vertical accelerometry data from a sensor on the lower back during gait; calculate clinical gait characteristics.  
+:computer: [website](https://pypi.org/project/gaitpy/) |
+:floppy_disk: [source](https://github.com/matt002/GaitPy)
+
+* **MoGapFill** implemented by Fabian Leboeuf. Low dimensional Kalman smoother that fills gaps in motion capture marker trajectories based on Burke and Lasenby 2016 paper.  
+:page_facing_up: [Burke's paper 2016](http://dx.doi.org/10.1016/j.jbiomech.2016.04.016) |
+:floppy_disk: [source](https://github.com/pyCGM2/MoGapFill)
+
+* **Pyomeca** by the [S2M Lab](https://www.facebook.com/s2mlab/). Pyomeca is a Python library allowing you to carry out a complete biomechanical analysis; in a simple, logical and concise way.  
+:computer: [website](https://pyomeca.github.io/)
+:floppy_disk: [source](https://github.com/pyomeca/pyomeca)
 
 
 ### (Neuro)musculoskeletal Simulation :computer:
@@ -382,8 +421,8 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 * **MITK**  
 :computer: [website](https://docs.mitk.org/2016.11/index.html)
 
-* **MITK-GEM**  
-:computer: [website](http://araex.github.io/mitk-gem-site/): segmentation and mesh processing functionalities. Aimed to generation of finite element models.
+* **MITK-GEM** is based on MITK but includes also mesh processing functionalities. Aimed to generation of finite element models.
+:computer: [website](http://araex.github.io/mitk-gem-site/)
 
 * **SASHIMI Segmentation :sushi:** by Bart Bolsterlee. SASHIMI Segmentation is a MATLAB App for segmentation of multi-slice images.   
 :computer: [website](https://github.com/bartbols/SASHIMI) 
@@ -487,7 +526,7 @@ Both meshers produce tetrahedral meshes and are available in Salome_meca:
 * [SPSS Statistics](https://www.ibm.com/uk-en/products/spss-statistics) (commercial)
 
 
-### Optimal Control and Trajectory Optimization :rocket:
+### Optimal Control and Trajectory Optimization :rocket: [WIP]
 * [3dpredictsim](https://github.com/antoinefalisse/3dpredictsim) by Antoine Falisse: Generate 3D muscle-driven predictive simulations of human movement using direct collocation and algorithmic differentiation
 * [FROST: Fast Robot Optimization and Simulation Toolkit](https://github.com/ayonga/frost-dev): FROST (Fast Robot Optimization and Simulation Toolkit) for MATLAB provides a general full-body dynamics gait optimization and simulation framework for bipedal walking robots using virtual constraints based feedback controllers. It uses a Wolfram Mathematica backend. **ADD PUB FROM http://ayonga.github.io/frost-dev/**
 * [muscle redundancy solver](https://github.com/KULeuvenNeuromechanics/MuscleRedundancySolver) by KU Leuven: An algorithm to estimate muscle tendon properties and/or compute muscle coordination by tracking experimental data with a musculoskeletal model assuming optimal control to solve for the muscle redundancy. [dev_repo](https://github.com/antoinefalisse/solvemuscleredundancy_dev) website: https://simtk.org/projects/optcntrlmuscle
@@ -495,40 +534,6 @@ Both meshers produce tetrahedral meshes and are available in Salome_meca:
 * [opty](https://github.com/csu-hmc/opty) by Jason Moore and Ton van den Bogert
 * https://simtk.org/projects/datatracking
 * [Optimal Control of Musculoskeletal Movement Using OpenSim & MATLAB](https://simtk.org/projects/directcolloc/)
-
-### Gait
-
-* **Automated Gap Filling and Tools for Motion Capture** by the Sensor-Fusion team from EPIC lab @GeorgiaTech. Gap filling is based on inverse kinematics approach.
-:page_facing_up: [paper](https://doi.org/10.1080/10255842.2020.1789971) |
-:floppy_disk: [code/source](https://github.com/JonathanCamargo/MoCapTools)
-
-* [BiomechZoo](https://www.biomechzoo.com) by Philippe C Dixon: biomechZoo is a user-customizable toolbox for the analysis of biomechanical data within the MatLab programming environment. Please take a look at the Wiki for setup information and user instructions. [source](https://github.com/PhilD001/biomechZoo)
-
-* **OpenSense**
-https://simtk.org/projects/opensense
-documentation and examples https://simtk-confluence.stanford.edu:8443/display/OpenSim/OpenSense+-+Kinematics+with+IMU+Data
-https://github.com/opensim-org/opensim-core
-
-* https://github.com/UMass-OpenSim/opensim-marker-place-toolbox
-
-#### Python tools :snake:
-
-* **The CGM 2.i Project** by Fabian Leboeuf et al. (2019). This is the implementation of an evolved conventional gait model.  
-:page_facing_up: [paper](https://doi.org/10.1016/j.gaitpost.2019.01.034) |
-:computer: [website](https://pycgm2.github.io/) |
-:floppy_disk: [source](https://github.com/pyCGM2/pyCGM2)
-
-* **MoGapFill** implemented by Fabian Leboeuf. Low dimensional Kalman smoother that fills gaps in motion capture marker trajectories based on Burke and Lasenby 2016 paper.  
-:page_facing_up: [Burke's paper 2016](http://dx.doi.org/10.1016/j.jbiomech.2016.04.016) |
-:floppy_disk: [source](https://github.com/pyCGM2/MoGapFill)
-
-* **GaitPy** by Matthew Czech. Read and process raw vertical accelerometry data from a sensor on the lower back during gait; calculate clinical gait characteristics.  
-:computer: [website](https://pypi.org/project/gaitpy/) |
-:floppy_disk: [source](https://github.com/matt002/GaitPy)
-
-* **Pyomeca** by the [S2M Lab](https://www.facebook.com/s2mlab/). Pyomeca is a Python library allowing you to carry out a complete biomechanical analysis; in a simple, logical and concise way.  
-:computer: [website](https://pyomeca.github.io/)
-:floppy_disk: [source](https://github.com/pyomeca/pyomeca)
 
 
 ## Societies and Initiatives :office:
