@@ -532,11 +532,20 @@ Both meshers produce tetrahedral meshes and are available in Salome_meca:
 * [FEBio](https://febio.org/)
 * [Salome_meca](https://www.code-aster.org/spip.php?article303)
 
-#### MATLAB tools related to Finite Element Analysis :mortar_board:
-* [GIBBON MATLAB Toolbox](https://www.gibboncode.org/)
-* [LMG: Lumbar Model Generator](https://github.com/CELavecchia/LMG) by Carolina Lavecchia **TODO: add paper**
-* [ReadySim](https://simtk.org/projects/readysim)
-* [Surrogate Contact Modeling Toolbox](https://simtk.org/projects/scmt/)
+#### Tools related to Finite Element Analysis :mortar_board:
+
+* [GIBBON MATLAB Toolbox](https://www.gibboncode.org/) **TODO: add paper and description**
+
+* [LMG: Lumbar Model Generator](https://github.com/CELavecchia/LMG) by Carolina Lavecchia **TODO: add paper and description**
+
+* [ReadySim](https://simtk.org/projects/readysim) **TODO: add paper and description**
+
+* [Surrogate Contact Modeling Toolbox](https://simtk.org/projects/scmt/) **TODO: add paper and description**
+
+* **Gridap: An extensible Finite Element toolbox in Julia** by Santiago Badia1 and Francesc Verdugo (2020).   
+:page_facing_up: [paper](https://joss.theoj.org/papers/10.21105/joss.02520) |
+:page_facing_up: [Users' Guide](https://arxiv.org/abs/1910.01412)
+:floppy_disk: [code/source](lhttps://github.com/gridap/Gridap.jl)
 
 
 ### Statistical Analysis
