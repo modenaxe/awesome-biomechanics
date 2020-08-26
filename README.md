@@ -3,12 +3,10 @@
 Sections that do not look nice are work in progress - might include errors and incorrect descriptions
 
 ## TO ADD/CHECK
+* Table of Contents
 * Check AnyBody resource websites
 * Resources from SimTK
-* CEINMS
-* OpenSense
-* Table of Contents
-* Database of simulations?
+* Database of simulations? Few studies shared simulations, no raw data
 * JIA data sets from MD-Paedigree
 * Check Stanford mobile data
 * HJC from Sangeaux
@@ -20,22 +18,20 @@ Sections that do not look nice are work in progress - might include errors and i
 * Thomas videos in Videos
 * MuscleForceDirection in FE related (release github)
 
-
-
-## Videos :clapper:
-* [Sport Biomechanics Lecture Series](https://www.youtube.com/channel/UCmG-bd1JL1ACP7hMzIUXwOg) curated by Stuart McErlain-Naylor. Includes introductory topics like  presentations of motion capture techniques by Vicon ([lecture 1](https://www.youtube.com/watch?v=1zJ14cW-JqY) and [lecture 2](https://www.youtube.com/watch?v=hM7xEoyP-4o)) and an [introduction](https://www.youtube.com/watch?v=2xgyTpsa14M#) of electromyography (EMG) by Delsys.
-* [CNB-ASB Muscle Workshop](https://www.youtube.com/watch?v=Ur9wYYR0nac&feature=youtu.be): presentations on the topic `Integrative Muscle Modelling for Neuromechanics`.
-* [A critique of Induced Acceleration Analysis](https://www.youtube.com/watch?v=2EmwIM_uQnk&t=18s) by Andy Ruina (WCB2014).
-* [F8 2019 - VR Full Body Tracking & Avatars](https://www.youtube.com/watch?v=FhiAFo9U_sM) and [blog post](https://uploadvr.com/facebook-f8-2019-body-tracking/)
-* [Running with bone pins](https://www.youtube.com/watch?v=nf6jkyNgkwE): video of data collection in subject running with bone pins shared by Ton Van den Bogert.
-* [Introduction to Trajectory Optimization](https://www.youtube.com/watch?v=wlkRYMVUZTs) by [Matthew Kelly](http://www.matthewpeterkelly.com/index.html). Very clear introduction to the topic with MATLAB resources linked in the video description.
-
-## Courses
+## Online Courses :clapper:
 * [Lectures on animal locomotion](https://mchenrylab.bio.uci.edu/e139) by Manny Azizi and Matt McHenry, UC Irvine (2020).
 * [Lectures on optimal control](http://www.anilvrao.com/Optimal-Control-Videos.html) by Anil Rao (University of Florida).
 * [Lectures on multibody dynamics](https://www.youtube.com/watch?v=1Tyxgv7RUdk&list=PLzAwokZEM7auZEBOJKNa_lCgz2rdgpYLL) by Jason Moore at UC Davis (2017).
 * [Neuromechanics course material](https://github.com/joshcash9/Neuromechanics_Course) by Joshua Cashaback (University of Delaware).
 * [Neuromatch Academy](https://www.youtube.com/channel/UC4LoD4yNBuLKQwDOV6t-KPw): [the Neuromatch Academy](https://www.neuromatchacademy.org/) aims to introduce traditional and emerging tools of computational neuroscience to trainees.
+* [Sport Biomechanics Lecture Series](https://www.youtube.com/channel/UCmG-bd1JL1ACP7hMzIUXwOg) curated by Stuart McErlain-Naylor. Includes introductory topics like  presentations of motion capture techniques by Vicon ([lecture 1](https://www.youtube.com/watch?v=1zJ14cW-JqY) and [lecture 2](https://www.youtube.com/watch?v=hM7xEoyP-4o)) and an [introduction](https://www.youtube.com/watch?v=2xgyTpsa14M#) of electromyography (EMG) by Delsys.
+
+## Videos
+* [CNB-ASB Muscle Workshop](https://www.youtube.com/watch?v=Ur9wYYR0nac&feature=youtu.be): presentations on the topic `Integrative Muscle Modelling for Neuromechanics`.
+* [A critique of Induced Acceleration Analysis](https://www.youtube.com/watch?v=2EmwIM_uQnk&t=18s) by Andy Ruina (WCB2014).
+* [F8 2019 - VR Full Body Tracking & Avatars](https://www.youtube.com/watch?v=FhiAFo9U_sM) and [blog post](https://uploadvr.com/facebook-f8-2019-body-tracking/)
+* [Running with bone pins](https://www.youtube.com/watch?v=nf6jkyNgkwE): video of data collection in subject running with bone pins shared by Ton Van den Bogert.
+* [Introduction to Trajectory Optimization](https://www.youtube.com/watch?v=wlkRYMVUZTs) by [Matthew Kelly](http://www.matthewpeterkelly.com/index.html). Very clear introduction to the topic with MATLAB resources linked in the video description.
 
 ## Tutorials and Teaching Resources :triangular_ruler:
 * [Tutorial: Musculoskeletal Model for Simulation of Walking](https://www.youtube.com/watch?v=Z4BoVVpju88) by Van den Bogert's tutorial (Dynamic Walking, 2011).
@@ -207,11 +203,6 @@ Sections that do not look nice are work in progress - might include errors and i
 :dvd: [dataset](https://zenodo.org/record/13030#.Xz1FeehKgdU) |
 :computer: [resources](https://github.com/csu-hmc/perturbed-data-paper) 
 
-* **Grand Challenge Competition to Predict In Vivo Knee Loads** By BJ Fregly et al. (2012). Data sets from instrumented knee prostheses used in the "Grand Challenge Competition" for six years. Data include medical images and segmentations (for most participants), tibial contact force, video motion, ground reaction, muscle EMG, muscle strength, static and dynamic imaging, and implant geometry data.  
-:page_facing_up: [paper1](https://doi.org/10.1002/jor.22023) |
-:page_facing_up: [paper2](https://doi.org/10.1115/1.4023255) |
-:dvd: [dataset](https://simtk.org/projects/kneeloads)
-
 * **Multiple Speed Walking Simulations** by May Liu et al. (2008). Data set with eight subjects (two males) walking overground at very slow, slow, free, and fast speeds.</br>
 :page_facing_up: [paper](https://doi.org/10.1016/j.jbiomech.2008.07.031) |
 :dvd: [dataset](https://simtk.org/projects/mspeedwalksims) 
@@ -243,6 +234,35 @@ Sections that do not look nice are work in progress - might include errors and i
 :page_facing_up: [paper](https://doi.org/10.1242/jeb.064527) |
 :dvd: [dataset](https://simtk.org/projects/runningspeeds)
 
+### Measurements from Instrumented Prosthesis 
+
+* **Grand Challenge Competition to Predict In Vivo Knee Loads** By BJ Fregly et al. (2012). Data sets from instrumented knee prostheses used in the "Grand Challenge Competition" for six years. Data include medical images and segmentations (for most participants), tibial contact force, video motion, ground reaction, muscle EMG, muscle strength, static and dynamic imaging, and implant geometry data. This is the most completely and easily accessible dataset of measurements from instrumented prostheses. 
+:page_facing_up: [paper1](https://doi.org/10.1002/jor.22023) |
+:page_facing_up: [paper2](https://doi.org/10.1115/1.4023255) |
+:dvd: [dataset](https://simtk.org/projects/kneeloads)
+
+* **Orthoload** by the Julius Wolff Institute of the Charité in Berlin. This online dataset includes loads occuring in human joints measured directly in patients by using instrumented implants. Measurements during many routine and sportive activities were taken in hip, knee, shoulder and spinal implants. OrthoLoad supplies numerical load data and videos, which contain load-time diagrams and synchronous images of the subject’s activities. **no joint kinematics available, except for few sample data:** the website says that `Additional information was captured, such as kinematic data or patient’s morphology. Comprehensive data can currently only be provided for scientific partners in larger cooperative projects`. A sample of this data is available (one subject performing one walking trial for hip and knee prostheses).  
+:page_facing_up: [publication list](https://orthoload.com/publications/)
+:dvd: [dataset hip](http://www.wiki.orthoload.com/index.php?title=Hip_joint_III) |
+:dvd: [dataset knee](http://www.wiki.orthoload.com/index.php?title=Knee_joint) |
+:dvd: [dataset shoulder](http://www.wiki.orthoload.com/index.php?title=Shoulder_joint) |
+:dvd: [dataset spine](http://www.wiki.orthoload.com/index.php?title=Vertebral_body_replacement) |
+:dvd: [sample comprehensive](https://orthoload.com/comprehensive-data-sample)
+:computer: [website](https://orthoload.com/)
+
+* **HIP98** by Georg Bergmann et al. (1998). The data collection CD-ROM HIP98 contains the forces acting in the hip joint during the most common activities of daily living. Measurements were taken 1998 in 4 subjects. In addition to the implant loads and the synchronous videos of the subjects (as in OrthoLoad), this database provides gait analysis data, calculated muscle forces, EMG signals and numbers for the frequencies of the different activities. The forces acting at the acetabulum, i. e. the pelvic side of the hip joint, were additionally determined, using the forces acting relative to the femur plus the belonging gait analysis data. From the results of the individuals, the loads acting in a ’typical’ or representative subject are also provided. 
+**I personally found issues in installing the database in recent Microsoft operative systems. The data will be extracted but the GUI will not work.**  
+:page_facing_up: [paper](https://doi.org/10.1016/s0021-9290(01)00040-9) |
+:dvd: [dataset](https://orthoload.com/wp-content/uploads/hip98.zip) |
+:computer: [website](https://orthoload.com/test-loads/data-collection-hip98)
+
+* **CAMS-KNEE** by William Taylor et al. (2017). unique kinematic and kinetic datasets of the lower limb musculoskeletal system collected on a cohort of 6 subjects with instrumented knee implants (Charité – Universitätsmedizin Berlin) synchronized with a moving fluoroscope (ETH Zürich) and other measurement techniques (whole body kinematics, ground reaction forces, video data, and electromyography data) for multiple complete cycles of 5 activities of daily living.
+**Data must be requested submitting a project description.** I was NOT granted access to the entire data set for exploring the dataset.  
+**Link to live dataset is broken.**  
+:page_facing_up: [paper](https://doi.org/10.1016/j.jbiomech.2017.09.022)
+:cd: [data request](https://cams-knee.orthoload.com/data/data-request/)
+:cd: [live dataset (CAMS-KNEE workshop)](https://cams-knee.orthoload.com/workshop-data/)
+:computer: [website](https://cams-knee.orthoload.com/)
 
 ## Gait Analysis and Motion Capture
 
