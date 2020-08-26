@@ -1,21 +1,16 @@
-# Awesome Biomechanics [Work in Progress]
+# Awesome Biomechanics [WIP = Work In Progress]
 
-Sections that do not look nice are work in progress - might include errors and incorrect descriptions
+Sections that do not look nice are work in progress - might include errors and incorrect descriptions.
 
-## TO ADD/CHECK
-* Table of Contents
+## STILL TO ADD/CHECK :question:
+* add Table of Contents
 * Check AnyBody resource websites
-* Resources from SimTK
-* Database of simulations? Few studies shared simulations, no raw data
-* JIA data sets from MD-Paedigree
-* Check Stanford mobile data
-* HJC from Sangeaux
-* Orthoload
-* CAMS-Knee
-* visualization tools: https://www.paraview.org/ Mayavi
-* Probabilistic package from Valente and ?another one in simtk?
+* More resources from SimTK?
+* Database of simulations? (Few studies shared simulations, no raw data)
+* Anatomical and gait data sets from MD-Paedigree (Montefiori et al.)
+* Stanford Mobilize and mobile phone data
+* visualization tools: [Paraview](https://www.paraview.org), Mayavi
 * Winter's data from ISB/data in gait
-* Thomas videos in Videos
 * MuscleForceDirection in FE related (release github)
 
 ## Online Courses :clapper:
@@ -26,12 +21,13 @@ Sections that do not look nice are work in progress - might include errors and i
 * [Neuromatch Academy](https://www.youtube.com/channel/UC4LoD4yNBuLKQwDOV6t-KPw): [the Neuromatch Academy](https://www.neuromatchacademy.org/) aims to introduce traditional and emerging tools of computational neuroscience to trainees.
 * [Sport Biomechanics Lecture Series](https://www.youtube.com/channel/UCmG-bd1JL1ACP7hMzIUXwOg) curated by Stuart McErlain-Naylor. Includes introductory topics like  presentations of motion capture techniques by Vicon ([lecture 1](https://www.youtube.com/watch?v=1zJ14cW-JqY) and [lecture 2](https://www.youtube.com/watch?v=hM7xEoyP-4o)) and an [introduction](https://www.youtube.com/watch?v=2xgyTpsa14M#) of electromyography (EMG) by Delsys.
 
-## Videos
+## Videos :video_camera:
 * [CNB-ASB Muscle Workshop](https://www.youtube.com/watch?v=Ur9wYYR0nac&feature=youtu.be): presentations on the topic `Integrative Muscle Modelling for Neuromechanics`.
 * [A critique of Induced Acceleration Analysis](https://www.youtube.com/watch?v=2EmwIM_uQnk&t=18s) by Andy Ruina (WCB2014).
 * [F8 2019 - VR Full Body Tracking & Avatars](https://www.youtube.com/watch?v=FhiAFo9U_sM) and [blog post](https://uploadvr.com/facebook-f8-2019-body-tracking/)
 * [Running with bone pins](https://www.youtube.com/watch?v=nf6jkyNgkwE): video of data collection in subject running with bone pins shared by Ton Van den Bogert.
 * [Introduction to Trajectory Optimization](https://www.youtube.com/watch?v=wlkRYMVUZTs) by [Matthew Kelly](http://www.matthewpeterkelly.com/index.html). Very clear introduction to the topic with MATLAB resources linked in the video description.
+<!-- * https://www.goatstream.com/research/ -->
 
 ## Tutorials and Teaching Resources :triangular_ruler:
 * [Tutorial: Musculoskeletal Model for Simulation of Walking](https://www.youtube.com/watch?v=Z4BoVVpju88) by Van den Bogert's tutorial (Dynamic Walking, 2011).
@@ -63,7 +59,7 @@ Sections that do not look nice are work in progress - might include errors and i
 
 ## Datasets :dvd:
 
-### Human Anatomy
+### Human Anatomy :muscle:
 
 * **Visible Human Project**: public-domain library of cross-sectional cryosection, CT, and MRI images obtained from one male cadaver and one female cadaver. The dataset in NIfTI format, easier to import and use in segmentation software, were provided by Bart Bolsterlee (see further details [here](https://twitter.com/bartbolsterlee/status/1296594646898892800)).      
 :page_facing_up: [paper](https://doi.org/10.1109/5.662875) |
@@ -131,6 +127,9 @@ Sections that do not look nice are work in progress - might include errors and i
 
 
 ### Human Knee [WIP - TODO double check Denver's resources]
+
+<!--* **Cal Poly Human Motion Biomechanics Lab Knee Joint Finite Element Model** https://simtk.org/projects/cphmbkneefem/ -->
+
 * **MB Knee: Multibody Models of the Human Knee** by Trent Guess. The data set includes four knee models. MBKnee_4 is based on in vivo measurements from a 29 year old female while MBKnee_1, MBKnee_2, and MBKnee_3 are based on cadaver knees that were physically tested in a dynamic knee simulator. Knee geometries (bone, cartilage, and mensici) were derived from Magnetic Resonance Imaging (MRI) and ligament insertions come from MRI, the literature, and probing the cadaver knees. The site also contains information on ligament modeling, such as bundle insertion locations and zero load lengths.  
 :dvd: [dataset](https://simtk.org/projects/mb_knee)
 
@@ -234,7 +233,7 @@ Sections that do not look nice are work in progress - might include errors and i
 :page_facing_up: [paper](https://doi.org/10.1242/jeb.064527) |
 :dvd: [dataset](https://simtk.org/projects/runningspeeds)
 
-### Measurements from Instrumented Prosthesis 
+### Measurements from Instrumented Prosthesis :chart_with_upwards_trend:
 
 * **Grand Challenge Competition to Predict In Vivo Knee Loads** By BJ Fregly et al. (2012). Data sets from instrumented knee prostheses used in the "Grand Challenge Competition" for six years. Data include medical images and segmentations (for most participants), tibial contact force, video motion, ground reaction, muscle EMG, muscle strength, static and dynamic imaging, and implant geometry data. This is the most completely and easily accessible dataset of measurements from instrumented prostheses.   
 :page_facing_up: [paper1](https://doi.org/10.1002/jor.22023) |
@@ -326,6 +325,7 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 ## Modelling and Computational Tools :computer:
 
 ### Anthropometric models
+
 * **Repository of body segment parameter models** by Will Robertson. Contains the raw data for a multitude of body segment parameter models (see repository for list).  
 :computer: [website](http://wspr.io/body-segment-param/) |
 :floppy_disk: [source](https://github.com/wspr/body-segment-param)
@@ -346,7 +346,7 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 :computer: [website](https://pybullet.org/wordpress/) |
 :floppy_disk: [source](https://github.com/bulletphysics/bullet3)
 
-* **Drake** by Russ Tedrake and the Drake Development Team (2019). C++ toolbox for analyzing the dynamics of our robots and building control systems for them, with a heavy emphasis on optimization-based design/analysis. It was started by the Robot Locomotion Group at the MIT Computer Science and Artificial Intelligence Lab, and now has core development led by the Toyota Research Institute.  
+* **Drake** :dragon: by Russ Tedrake and the Drake Development Team (2019). C++ toolbox for analyzing the dynamics of our robots and building control systems for them, with a heavy emphasis on optimization-based design/analysis. It was started by the Robot Locomotion Group at the MIT Computer Science and Artificial Intelligence Lab, and now has core development led by the Toyota Research Institute.  
 :computer: [website](https://drake.mit.edu/) |
 :floppy_disk: [source](https://github.com/RobotLocomotion/drake)
 
@@ -433,8 +433,6 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 :computer: [website](https://simtk.org/projects/stiffness)
 :floppy_disk: [source](https://github.com/mitkof6/musculoskeletal-stiffness/tree/v1.0)
 
-
-
 ### Segmentation of Medical Images :art: [WIP - TODO: add descriptions, papers and sources]
 
 * **3DSlicer**  
@@ -462,7 +460,6 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 :computer: [website](https://www.synopsys.com/simpleware/software/scanip.html)
 
 
-
 ### Resources for Building Biomechanical Models from Medical Images
 
 * **mri2psm** by Manish Sreenivasa (2016). Open-source toolchain to create patient-specific models from MRI images.  
@@ -480,11 +477,10 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 :floppy_disk: [source (MATLAB)](https://github.com/modenaxe/MuscleParamOptimizer) |
 :floppy_disk: [source (OpenSim plugin)](https://github.com/MuscleOptimizer/MuscleOptimizer) with [documentation](http://muscleoptimizer.github.io/MuscleOptimizer/)
 
-* **NMSBuilder** by Giordano Valente et al. (2017). Freely available software to create subject-specific musculoskeletal models for OpenSim from 3D geometries.</br>
+* **NMSBuilder** by Giordano Valente et al. (2017). Freely available software to create subject-specific musculoskeletal models for OpenSim from 3D geometries. NMSBuilder is based on ALBA (Agile Library for Biomedical Applications) an open-source rapid application development framework for computer-aided medicine written in C++.</br>
 :page_facing_up: [paper](https://doi.org/10.1016/j.cmpb.2017.09.012) |
 :computer: [website](http://www.nmsbuilder.org/) |
 :movie_camera: [YouTube tutorial](https://www.youtube.com/watch?v=UtAMTFM1vsI)
-
 
 
 ### Automatic Definition of Bony Landmarks and Reference Systems :skull:
@@ -502,7 +498,16 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 :page_facing_up: [paper](https://doi.org/10.1016/j.jbiomech.2018.08.028) |
 :floppy_disk: [source](https://github.com/renaultJB/GIBOC-Knee-Coordinate-System)
 
+### Uncertainty Quantification in Musculoskeletal Simulations [WIP]
 
+* **Probabilistic Tool for Considering Patient Populations & Model Uncertainty** by Casey A. Myers et al. (2015). This is a probabilistic tool to assess model parameter uncertainty and intersubject variability.  
+:page_facing_up: [paper](https://link.springer.com/article/10.1007%2Fs10439-014-1181-7)
+:page_facing_up: [Users Guide](https://simtk.org/docman/view.php/886/1884/OpenSim+Probabilistic+Plugin+Users+Guide+%28v1.0%29.pdf)
+:computer: [website](https://simtk.org/projects/prob_tool)
+
+* **Probabilistic Musculoskeletal Modeling module (PMM)** by Giordano Valente et al. (2014).  A description is on the supplementary materials of the paper.
+:page_facing_up: [paper](https://doi.org/10.1371/journal.pone.0112625)
+:computer: [website](https://simtk.org/frs/download_confirm.php/file/4298/PMM_module.rar?group_id=978)
 
 ### Manipulation and Processing of Surface Meshes [WIP]
 
