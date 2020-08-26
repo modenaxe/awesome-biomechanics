@@ -244,8 +244,66 @@ Sections that do not look nice are work in progress - might include errors and i
 :dvd: [dataset](https://simtk.org/projects/runningspeeds)
 
 
-## Software and Computational Tools :computer:
+## Gait Analysis and Motion Capture
 
+### Gait Analysis Markersets [TODO: add references and resources]
+
+* CAST
+* IORGait
+* LAMB
+* SAFLo
+* T3Dg
+
+### Motion Capture Data Import and Processing [WIP]
+
+* [c3dserver](https://www.c3dserver.com/) C++/MATLAB)
+
+* [ezc3d](https://github.com/pyomeca/ezc3d) (C++/MATLAB/Python)
+
+* [BTK - Biomechanical ToolKit](http://biomechanical-toolkit.github.io/) (C++/MATLAB/Python)
+
+* [MOKKA](https://biomechanical-toolkit.github.io/mokka/): GUI built on BTK functionalities. 
+Allows visualisation of c3d contents and basic processing, such as filtering and event detection. Great open source alternative to Vicon Nexus for these functionalities.
+
+* **BiomechZoo** by Philippe C Dixon: biomechZoo is a user-customizable toolbox for the analysis of biomechanical data within the MatLab programming environment. Please take a look at the Wiki for setup information and user instructions.  
+:computer: [website](https://www.biomechzoo.com)
+:floppy_disk: [source](https://github.com/PhilD001/biomechZoo)
+
+* **The CGM 2.i Project** by Fabian Leboeuf et al. (2019) (Python :snake:). This is the implementation of an evolved conventional gait model.  
+:page_facing_up: [paper](https://doi.org/10.1016/j.gaitpost.2019.01.034) |
+:computer: [website](https://pycgm2.github.io/) |
+:floppy_disk: [source](https://github.com/pyCGM2/pyCGM2)
+
+* **Pyomeca** by the [S2M Lab](https://www.facebook.com/s2mlab/). Pyomeca is a Python :snake: library allowing you to carry out a complete biomechanical analysis; in a simple, logical and concise way.  
+:computer: [website](https://pyomeca.github.io/)
+:floppy_disk: [source](https://github.com/pyomeca/pyomeca)
+
+* https://github.com/UMass-OpenSim/opensim-marker-place-toolbox
+
+#### Marker Trajectory Gap filling
+
+* **Automated Gap Filling and Tools for Motion Capture** by the Sensor-Fusion team from EPIC lab @GeorgiaTech. Gap filling is based on inverse kinematics approach.
+:page_facing_up: [paper](https://doi.org/10.1080/10255842.2020.1789971) |
+:computer: [website](https://simtk.org/projects/opensense)
+:floppy_disk: [source](https://github.com/JonathanCamargo/MoCapTools)
+
+* **MoGapFill** implemented by Fabian Leboeuf (Python :snake:). Low dimensional Kalman smoother that fills gaps in motion capture marker trajectories based on Burke and Lasenby 2016 paper.  
+:page_facing_up: [Burke's paper 2016](http://dx.doi.org/10.1016/j.jbiomech.2016.04.016) |
+:floppy_disk: [source](https://github.com/pyCGM2/MoGapFill)
+
+#### Inertial Measurement Units
+
+* **GaitPy** by Matthew Czech. Read and process raw vertical accelerometry data from a sensor on the lower back during gait; calculate clinical gait characteristics.  
+:computer: [website](https://pypi.org/project/gaitpy/) |
+:floppy_disk: [source](https://github.com/matt002/GaitPy)
+
+* **OpenSense** TODO add description
+:page_facing_up: [documentation and examples](https://simtk-confluence.stanford.edu:8443/display/OpenSim/OpenSense+-+Kinematics+with+IMU+Data)
+:computer: [website](https://simtk.org/projects/opensense)
+:floppy_disk: [source](https://github.com/opensim-org/opensim-core)
+
+
+## Modelling and Computational Tools :computer:
 
 ### Anthropometric models
 * **Repository of body segment parameter models** by Will Robertson. Contains the raw data for a multitude of body segment parameter models (see repository for list).  
@@ -301,57 +359,7 @@ Sections that do not look nice are work in progress - might include errors and i
 :floppy_disk: [source](https://github.com/simbody)
 
 
-
-### Motion Capture Data Processing [WIP]
-
-* [c3dserver](https://www.c3dserver.com/) C++/MATLAB)
-
-* [ezc3d](https://github.com/pyomeca/ezc3d) (C++/MATLAB/Python)
-
-* [BTK - Biomechanical ToolKit](http://biomechanical-toolkit.github.io/) (C++/MATLAB/Python)
-
-* [MOKKA](https://biomechanical-toolkit.github.io/mokka/): GUI built on BTK functionalities. 
-Allows visualisation of c3d contents and basic processing, such as filtering and event detection. Great open source alternative to Vicon Nexus for these functionalities.
-
-* **Automated Gap Filling and Tools for Motion Capture** by the Sensor-Fusion team from EPIC lab @GeorgiaTech. Gap filling is based on inverse kinematics approach.
-:page_facing_up: [paper](https://doi.org/10.1080/10255842.2020.1789971) |
-:computer: [website](https://simtk.org/projects/opensense)
-:floppy_disk: [source](https://github.com/JonathanCamargo/MoCapTools)
-
-* **BiomechZoo** by Philippe C Dixon: biomechZoo is a user-customizable toolbox for the analysis of biomechanical data within the MatLab programming environment. Please take a look at the Wiki for setup information and user instructions.  
-:computer: [website](https://www.biomechzoo.com)
-:floppy_disk: [source](https://github.com/PhilD001/biomechZoo)
-
-* **OpenSense** TODO add description
-:page_facing_up: [documentation and examples](https://simtk-confluence.stanford.edu:8443/display/OpenSim/OpenSense+-+Kinematics+with+IMU+Data)
-:computer: [website](https://simtk.org/projects/opensense)
-:floppy_disk: [source](https://github.com/opensim-org/opensim-core)
-
-* https://github.com/UMass-OpenSim/opensim-marker-place-toolbox
-
-
-
-#### Python tools :snake:
-
-* **The CGM 2.i Project** by Fabian Leboeuf et al. (2019). This is the implementation of an evolved conventional gait model.  
-:page_facing_up: [paper](https://doi.org/10.1016/j.gaitpost.2019.01.034) |
-:computer: [website](https://pycgm2.github.io/) |
-:floppy_disk: [source](https://github.com/pyCGM2/pyCGM2)
-
-* **GaitPy** by Matthew Czech. Read and process raw vertical accelerometry data from a sensor on the lower back during gait; calculate clinical gait characteristics.  
-:computer: [website](https://pypi.org/project/gaitpy/) |
-:floppy_disk: [source](https://github.com/matt002/GaitPy)
-
-* **MoGapFill** implemented by Fabian Leboeuf. Low dimensional Kalman smoother that fills gaps in motion capture marker trajectories based on Burke and Lasenby 2016 paper.  
-:page_facing_up: [Burke's paper 2016](http://dx.doi.org/10.1016/j.jbiomech.2016.04.016) |
-:floppy_disk: [source](https://github.com/pyCGM2/MoGapFill)
-
-* **Pyomeca** by the [S2M Lab](https://www.facebook.com/s2mlab/). Pyomeca is a Python library allowing you to carry out a complete biomechanical analysis; in a simple, logical and concise way.  
-:computer: [website](https://pyomeca.github.io/)
-:floppy_disk: [source](https://github.com/pyomeca/pyomeca)
-
-
-### (Neuro)musculoskeletal Simulation :computer:
+### (Neuro)musculoskeletal Simulation Software :computer:
 
 * **AnyBody Technology**: commercial software for musculoskeletal modelling and simulation.  
 :page_facing_up: [paper](https://doi.org/10.1016/j.simpat.2006.09.001) |
@@ -366,8 +374,6 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 * **Biomechanics of Bodies** - biomechanical modelling package implemented in MATLAB that contains a human musculoskeletal model and enables biomechanical and musculoskeletal calculations.   
 :page_facing_up: [paper](https://pure.coventry.ac.uk/ws/portalfiles/portal/22762734/Shippen_et_al_BoB_Biomechanics_MATLAB.pdf) |
 :computer: [website](https://www.bob-biomechanics.com)
-
-* **CEINMS** - TODO: add details
 
 * **GaitSym** by William Sellers (2014). Software for simulation of human and animal musculoskeletal biomechanics.  
 :page_facing_up: [Config Reference Manual](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.705.9682&rep=rep1&type=pdf) |
@@ -387,25 +393,27 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 :computer: [binaries](https://simtk.org/projects/scone) |
 :floppy_disk: [source](https://github.com/opensim-org/SCONE)
 
-#### Python Tools for Musculoskeletal Simulation  :snake:
+#### (Neuro)musculoskeletal Simulation Tools :snake:
 
-* **Modeling musculoskeletal kinematic and dynamic redundancy using null space projection** by Dimitar Stanev and Konstantinos Moustakas (2019). Methods for modeling, simulation and analysis of redundant musculoskeletal systems based on muscle space projection on segmental level reflexes and the computation of the feasible muscle forces for arbitrary movements. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2000421.svg)](https://doi.org/10.5281/zenodo.2000421)  
+* **CEINMS** - TODO: add details
+
+* [CusToM: a Matlab toolbox for musculoskeletal simulation](https://github.com/anmuller/CusToM) by Antoine Muller: Customizable Toolbox for Musculoskeletal simulation (CusToM) is a MATLAB toolbox aimed at performing inverse dynamics based musculoskeletal analyzes **TODO: ADD PAPER**
+
+* [FreeBody](https://www.msksoftware.org.uk/software/freebody/) by the MSk Dynamics group, Imperial College London. Implemetation of the TLEM anatomical dataset with MATLAB interface. **TODO: ADD PAPER**
+
+* [Geyer's 2010 neuromuscular model](https://www.cs.cmu.edu/~hgeyer/Software/Neuromuscular%20Model/Geyer%20Neuromuscular%20Model.zip): (available for Academic or Non-Profit Organization Noncommercial research use only).| [paper](https://www.cs.cmu.edu/~hgeyer/Publications/Geyer&Herr-ReflexModel2Column.pdf) **TODO: ADD PAPER AND DESCRIPTION**
+
+* **Modeling musculoskeletal kinematic and dynamic redundancy using null space projection** by Dimitar Stanev and Konstantinos Moustakas (2019). Python :snake: methods for modeling, simulation and analysis of redundant musculoskeletal systems based on muscle space projection on segmental level reflexes and the computation of the feasible muscle forces for arbitrary movements. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2000421.svg)](https://doi.org/10.5281/zenodo.2000421)  
 :page_facing_up: [paper](https://doi.org/10.1371/journal.pone.0209171) |
 :computer: [website](https://simtk.org/projects/redundancy)
 :floppy_disk: [source](https://github.com/mitkof6/musculoskeletal-redundancy)
 
-* **Stiffness modulation of redundant musculoskeletal systems** by Dimitar Stanev and Konstantinos Moustakas (2019). The approach explores the entire space of possible solutions of the muscle redundancy problem using the notion of null space and rigorously accounts for the effect of muscle redundancy in the computation of the feasible stiffness characteristics. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2575332.svg)](https://doi.org/10.5281/zenodo.2575332)  
+* **Stiffness modulation of redundant musculoskeletal systems** by Dimitar Stanev and Konstantinos Moustakas (2019). Python tool :snake: implementing an approach that explores the entire space of possible solutions of the muscle redundancy problem using the notion of null space and rigorously accounts for the effect of muscle redundancy in the computation of the feasible stiffness characteristics. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2575332.svg)](https://doi.org/10.5281/zenodo.2575332)  
 :page_facing_up: [paper](https://doi.org/10.1016/j.jbiomech.2019.01.017) |
 :computer: [website](https://simtk.org/projects/stiffness)
 :floppy_disk: [source](https://github.com/mitkof6/musculoskeletal-stiffness/tree/v1.0)
 
-#### MATLAB Tools for Musculoskeletal Simulation  :mortar_board:
 
-* [FreeBody](https://www.msksoftware.org.uk/software/freebody/) by the MSk Dynamics group, Imperial College London.
-
-* [CusToM: a Matlab toolbox for musculoskeletal simulation](https://github.com/anmuller/CusToM) by Antoine Muller: Customizable Toolbox for Musculoskeletal simulation (CusToM) is a MATLAB toolbox aimed at performing inverse dynamics based musculoskeletal analyzes
-
-* [Geyer's 2010 neuromuscular model](https://www.cs.cmu.edu/~hgeyer/Software/Neuromuscular%20Model/Geyer%20Neuromuscular%20Model.zip): (available for Academic or Non-Profit Organization Noncommercial research use only).| [paper](https://www.cs.cmu.edu/~hgeyer/Publications/Geyer&Herr-ReflexModel2Column.pdf)
 
 ### Segmentation of Medical Images :art: [WIP - TODO: add descriptions, papers and sources]
 
@@ -433,6 +441,8 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 * **Simpleware ScanIP**    
 :computer: [website](https://www.synopsys.com/simpleware/software/scanip.html)
 
+
+
 ### Resources for Building Biomechanical Models from Medical Images
 
 * **mri2psm** by Manish Sreenivasa (2016). Open-source toolchain to create patient-specific models from MRI images.  
@@ -456,6 +466,7 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 :movie_camera: [YouTube tutorial](https://www.youtube.com/watch?v=UtAMTFM1vsI)
 
 
+
 ### Automatic Definition of Bony Landmarks and Reference Systems :skull:
 
 * **Subburaj's curvature/spatial relation matrix method** by Maximilian Fischer et al. (2019). MATLAB implementation of Subburaj's curvature/spatial relation matrix method for the automatic identification of pelvic landmarks.  
@@ -470,6 +481,8 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 * **GIBOC-Knee toolbox** by Jean-Baptiste Renault et al. (2018). The toolbox includes three automatic algorithms for reference system identification on femur, tibia and patella. Each algorithm is implemeted with 3 variants, and compared against five other methods from the literature on a dataset of 24 lower-limb CT-scans (not included in the repository).  
 :page_facing_up: [paper](https://doi.org/10.1016/j.jbiomech.2018.08.028) |
 :floppy_disk: [source](https://github.com/renaultJB/GIBOC-Knee-Coordinate-System)
+
+
 
 ### Manipulation and Processing of Surface Meshes [WIP]
 
@@ -491,12 +504,16 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 * **Salome**    
 :computer: [website](https://www.salome-platform.org/user-section/about/mesh)
 
+* [GIBBON MATLAB Toolbox](https://www.gibboncode.org/) **TODO** add paper and info
+
 ### Meshers of Surface Models
 Both meshers produce tetrahedral meshes and are available in Salome_meca:
 * [TetGen](http://wias-berlin.de/software/index.jsp?id=TetGen&lang=1)
 * [NetGen](https://sourceforge.net/projects/netgen-mesher/) [source](https://github.com/NGSolve/netgen)
 
-### Statistical Shape Modelling 
+
+
+### Statistical Shape Modelling [WIP]
 
 * [Musculoskeletal Atlas Project](https://simtk.org/projects/map) with information about the MAP-Client available [here](https://mapclient.readthedocs.io/en/latest)
 
@@ -506,6 +523,8 @@ Both meshers produce tetrahedral meshes and are available in Salome_meca:
 
 * [Shape Model Builder](https://uk.mathworks.com/matlabcentral/fileexchange/49940-shape-model-builder?s_tid=prof_contriblnk) by Emmanuel Audenaert. Framework to develop shape models in MATLAB.
 
+
+
 ### Finite Element Analysis
 * [Abaqus](https://www.3ds.com/products-services/simulia/products/abaqus/) (commercial)
 * [Ansys](https://www.ansys.com/en-gb) (commercial)
@@ -513,7 +532,7 @@ Both meshers produce tetrahedral meshes and are available in Salome_meca:
 * [FEBio](https://febio.org/)
 * [Salome_meca](https://www.code-aster.org/spip.php?article303)
 
-#### MATLAB tools for Finite Element Analysis :mortar_board:
+#### MATLAB tools related to Finite Element Analysis :mortar_board:
 * [GIBBON MATLAB Toolbox](https://www.gibboncode.org/)
 * [LMG: Lumbar Model Generator](https://github.com/CELavecchia/LMG) by Carolina Lavecchia **TODO: add paper**
 * [ReadySim](https://simtk.org/projects/readysim)
@@ -554,6 +573,7 @@ Both meshers produce tetrahedral meshes and are available in Salome_meca:
 * https://www.biomechanist.net/
 * https://biomechsa.wordpress.com/resources
 * [ISB Data Resources](http://isbweb.org/data/)
+
 -----
 ### Contributing
 Have anything in mind that you think is awesome and would fit in this list? Feel free to send a pull request.  
@@ -565,6 +585,7 @@ If you are adding elements to the `Dataset` section please use (roughly) this te
 :dvd: [dataset](link_to_dataset) |
 :computer: [website](link_to_website) |
 :floppy_disk: [code/source](link_to_source_code)
+:star: [resources](link_to_resources)
 ```
 
 -----
