@@ -236,18 +236,18 @@ Sections that do not look nice are work in progress - might include errors and i
 
 ### Measurements from Instrumented Prosthesis 
 
-* **Grand Challenge Competition to Predict In Vivo Knee Loads** By BJ Fregly et al. (2012). Data sets from instrumented knee prostheses used in the "Grand Challenge Competition" for six years. Data include medical images and segmentations (for most participants), tibial contact force, video motion, ground reaction, muscle EMG, muscle strength, static and dynamic imaging, and implant geometry data. This is the most completely and easily accessible dataset of measurements from instrumented prostheses. 
+* **Grand Challenge Competition to Predict In Vivo Knee Loads** By BJ Fregly et al. (2012). Data sets from instrumented knee prostheses used in the "Grand Challenge Competition" for six years. Data include medical images and segmentations (for most participants), tibial contact force, video motion, ground reaction, muscle EMG, muscle strength, static and dynamic imaging, and implant geometry data. This is the most completely and easily accessible dataset of measurements from instrumented prostheses.   
 :page_facing_up: [paper1](https://doi.org/10.1002/jor.22023) |
 :page_facing_up: [paper2](https://doi.org/10.1115/1.4023255) |
 :dvd: [dataset](https://simtk.org/projects/kneeloads)
 
 * **Orthoload** by the Julius Wolff Institute of the Charité in Berlin. This online dataset includes loads occuring in human joints measured directly in patients by using instrumented implants. Measurements during many routine and sportive activities were taken in hip, knee, shoulder and spinal implants. OrthoLoad supplies numerical load data and videos, which contain load-time diagrams and synchronous images of the subject’s activities. **no joint kinematics available, except for few sample data:** the website says that `Additional information was captured, such as kinematic data or patient’s morphology. Comprehensive data can currently only be provided for scientific partners in larger cooperative projects`. A sample of this data is available (one subject performing one walking trial for hip and knee prostheses).  
-:page_facing_up: [publication list](https://orthoload.com/publications/)
+:page_facing_up: [publication list](https://orthoload.com/publications/) |
 :dvd: [dataset hip](http://www.wiki.orthoload.com/index.php?title=Hip_joint_III) |
 :dvd: [dataset knee](http://www.wiki.orthoload.com/index.php?title=Knee_joint) |
 :dvd: [dataset shoulder](http://www.wiki.orthoload.com/index.php?title=Shoulder_joint) |
 :dvd: [dataset spine](http://www.wiki.orthoload.com/index.php?title=Vertebral_body_replacement) |
-:dvd: [sample comprehensive](https://orthoload.com/comprehensive-data-sample)
+:dvd: [sample comprehensive](https://orthoload.com/comprehensive-data-sample) |
 :computer: [website](https://orthoload.com/)
 
 * **HIP98** by Georg Bergmann et al. (1998). The data collection CD-ROM HIP98 contains the forces acting in the hip joint during the most common activities of daily living. Measurements were taken 1998 in 4 subjects. In addition to the implant loads and the synchronous videos of the subjects (as in OrthoLoad), this database provides gait analysis data, calculated muscle forces, EMG signals and numbers for the frequencies of the different activities. The forces acting at the acetabulum, i. e. the pelvic side of the hip joint, were additionally determined, using the forces acting relative to the femur plus the belonging gait analysis data. From the results of the individuals, the loads acting in a ’typical’ or representative subject are also provided. 
@@ -259,9 +259,9 @@ Sections that do not look nice are work in progress - might include errors and i
 * **CAMS-KNEE** by William Taylor et al. (2017). unique kinematic and kinetic datasets of the lower limb musculoskeletal system collected on a cohort of 6 subjects with instrumented knee implants (Charité – Universitätsmedizin Berlin) synchronized with a moving fluoroscope (ETH Zürich) and other measurement techniques (whole body kinematics, ground reaction forces, video data, and electromyography data) for multiple complete cycles of 5 activities of daily living.
 **Data must be requested submitting a project description.** I was NOT granted access to the entire data set for exploring the dataset.  
 **Link to live dataset is broken.**  
-:page_facing_up: [paper](https://doi.org/10.1016/j.jbiomech.2017.09.022)
-:cd: [data request](https://cams-knee.orthoload.com/data/data-request/)
-:cd: [live dataset (CAMS-KNEE workshop)](https://cams-knee.orthoload.com/workshop-data/)
+:page_facing_up: [paper](https://doi.org/10.1016/j.jbiomech.2017.09.022) |
+:cd: [data request](https://cams-knee.orthoload.com/data/data-request/) |
+:cd: [live dataset (CAMS-KNEE workshop)](https://cams-knee.orthoload.com/workshop-data/) |
 :computer: [website](https://cams-knee.orthoload.com/)
 
 ## Gait Analysis and Motion Capture
@@ -285,7 +285,7 @@ Sections that do not look nice are work in progress - might include errors and i
 * [MOKKA](https://biomechanical-toolkit.github.io/mokka/): GUI built on BTK functionalities. 
 Allows visualisation of c3d contents and basic processing, such as filtering and event detection. Great open source alternative to Vicon Nexus for these functionalities.
 
-* **BiomechZoo** by Philippe C Dixon: biomechZoo is a user-customizable toolbox for the analysis of biomechanical data within the MatLab programming environment. Please take a look at the Wiki for setup information and user instructions.  
+* **BiomechZoo** by Philippe C Dixon. BiomechZoo is a user-customizable toolbox for the analysis of biomechanical data within the MatLab programming environment. Please take a look at the Wiki for setup information and user instructions.  
 :computer: [website](https://www.biomechzoo.com)
 :floppy_disk: [source](https://github.com/PhilD001/biomechZoo)
 
@@ -317,7 +317,7 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 :computer: [website](https://pypi.org/project/gaitpy/) |
 :floppy_disk: [source](https://github.com/matt002/GaitPy)
 
-* **OpenSense** TODO add description
+* **OpenSense** TODO add description  
 :page_facing_up: [documentation and examples](https://simtk-confluence.stanford.edu:8443/display/OpenSim/OpenSense+-+Kinematics+with+IMU+Data)
 :computer: [website](https://simtk.org/projects/opensense)
 :floppy_disk: [source](https://github.com/opensim-org/opensim-core)
@@ -524,10 +524,8 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 * **Salome**    
 :computer: [website](https://www.salome-platform.org/user-section/about/mesh)
 
-* [GIBBON MATLAB Toolbox](https://www.gibboncode.org/) **TODO** add paper and info
 
 ### Meshers of Surface Models
-Both meshers produce tetrahedral meshes and are available in Salome_meca:
 * [TetGen](http://wias-berlin.de/software/index.jsp?id=TetGen&lang=1)
 * [NetGen](https://sourceforge.net/projects/netgen-mesher/) [source](https://github.com/NGSolve/netgen)
 
@@ -554,7 +552,10 @@ Both meshers produce tetrahedral meshes and are available in Salome_meca:
 
 #### Tools related to Finite Element Analysis :mortar_board:
 
-* [GIBBON MATLAB Toolbox](https://www.gibboncode.org/) **TODO: add paper and description**
+* **GIBBON Toolbox** by [Kevin Moerman](https://kevinmoerman.org/). GIBBON (The Geometry and Image-Based Bioengineering add-On) is an open-source MATLAB toolbox that includes an array of image and geometry visualization and processing tools and is interfaced with free open source software such as TetGen, for robust tetrahedral meshing, and FEBio and Abaqus for finite element analysis. The combination provides a highly flexible image-based modelling environment and enables advanced inverse finite element analysis.  
+:page_facing_up: [paper](https://joss.theoj.org/papers/10.21105/joss.00506)
+:computer: [website](https://www.gibboncode.org/) 
+:floppy_disk: [source](https://github.com/gibbonCode/GIBBON)
 
 * [LMG: Lumbar Model Generator](https://github.com/CELavecchia/LMG) by Carolina Lavecchia **TODO: add paper and description**
 
