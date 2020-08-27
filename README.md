@@ -30,6 +30,7 @@ Sections that do not look nice are work in progress - might include errors and i
 <!-- * https://www.goatstream.com/research/ -->
 
 ## Tutorials and Teaching Resources :triangular_ruler:
+* [ASB Teaching Repository](http://asbteachingrepository.herokuapp.com/)
 * [Tutorial: Musculoskeletal Model for Simulation of Walking](https://www.youtube.com/watch?v=Z4BoVVpju88) by Van den Bogert's tutorial (Dynamic Walking, 2011).
 * [Kane’s Method for an inverted pendulum](https://figshare.com/articles/journal_contribution/Kane_pdf/7791647) by Ross Miller. A tutorial on Kane's Method for deriving equations of motion, demonstrated on an inverted pendulum.
 * [Notes on Scientific Computing for Biomechanics and Motor Control](https://github.com/BMClab/BMC) by Marcos Duarte and Renato Watanabe. A collection of lecture notes and code on scientific computing and data analysis for Biomechanics and Motor Control in the form of Jupyter notebooks (python).
@@ -581,10 +582,18 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 
 
 ### Optimal Control and Trajectory Optimization :rocket: [WIP]
+
+* **OpenSim Moco** by Chris Dembia, Nick Bianco and the OpenSim team (2019). OpenSim Moco is a software toolkit to solve optimal control problems with musculoskeletal models defined in OpenSim, including those with kinematic constraints. Using the direct collocation method, Moco can solve a wide range of problems, including motion tracking, motion prediction, and parameter optimization. The design of Moco focuses on ease-of-use, customizability, and extensibility. Just like OpenSim itself, Moco has interfaces in XML/command-line, Matlab, Python, Java, and C++.  
+:page_facing_up: [preprint](https://www.biorxiv.org/content/10.1101/839381v1) |
+:computer: [website](https://simtk.org/projects/opensim-moco) |
+:floppy_disk: [source](https://github.com/opensim-org/opensim-moco) |
+:star: [materials from preprint](https://github.com/stanfordnmbl/mocopaper)
+:movie_camera: [webinar](https://www.youtube.com/watch?v=IYYZgyE33pU&feature=youtu.be)
+
 * [3dpredictsim](https://github.com/antoinefalisse/3dpredictsim) by Antoine Falisse: Generate 3D muscle-driven predictive simulations of human movement using direct collocation and algorithmic differentiation
 * [FROST: Fast Robot Optimization and Simulation Toolkit](https://github.com/ayonga/frost-dev): FROST (Fast Robot Optimization and Simulation Toolkit) for MATLAB provides a general full-body dynamics gait optimization and simulation framework for bipedal walking robots using virtual constraints based feedback controllers. It uses a Wolfram Mathematica backend. **ADD PUB FROM http://ayonga.github.io/frost-dev/**
 * [muscle redundancy solver](https://github.com/KULeuvenNeuromechanics/MuscleRedundancySolver) by KU Leuven: An algorithm to estimate muscle tendon properties and/or compute muscle coordination by tracking experimental data with a musculoskeletal model assuming optimal control to solve for the muscle redundancy. [dev_repo](https://github.com/antoinefalisse/solvemuscleredundancy_dev) website: https://simtk.org/projects/optcntrlmuscle
-* [OpenSim Moco](https://github.com/chrisdembia/opensim-moco)
+
 * [opty](https://github.com/csu-hmc/opty) by Jason Moore and Ton van den Bogert
 * https://simtk.org/projects/datatracking
 * [Optimal Control of Musculoskeletal Movement Using OpenSim & MATLAB](https://simtk.org/projects/directcolloc/)
