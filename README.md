@@ -164,6 +164,23 @@ Sections that do not look nice are work in progress - might include errors and i
 * **CT scans of various animals** from John Hutchinson's group.  
 :dvd: [dataset](https://osf.io/4sc96/)
 
+* **New Mexico Decedent Image Database (NMDID)**: provides researchers with access to whole human body computed tomography (CT) scans and a rich body of associated metadata.   
+:computer: [website](https://nmdid.unm.edu/welcome)
+
+* **Digital Morphology Museum of Kyoto University (KUPRI)**: DMM provides a large collection of CT and MRI tomography scans of various primates.   :computer: [website](http://dmm.pri.kyoto-u.ac.jp/dmm/WebGallery/index.html)
+
+* **DigiMorph**: Digital Morphology library is a dynamic archive of information on digital morphology and high-resolution X-ray computed tomography of biological specimens.  
+:computer: [website](http://digimorph.org)
+
+* **The Open Research Scan Archive (formerly: Penn Cranial CT Database)** contains high resolution (sub-millimeter) scans of human and non-human crania from the Penn University Museum and other institutions.   
+:computer: [website](https://penn.museum/sites/orsa/Overview.html)
+
+* **Phenome10K**: A free online repository for 3-D scans of biological and palaeontological specimens.  
+:computer: [website](https://phenome10k.org)
+
+* **MorphoMuseuM (M3)**: is a peer reviewed, online journal that publishes 3D models of vertebrates, including models of type specimens, anatomy atlases, reconstruction of deformed or damaged specimens, and 3D datasets. 
+:computer: [website](https://morphomuseum.com/collections)
+
 * **Morphosource** by Duke University. MorphoSource has approximately 27,000 published 3D models of biological specimens (largely skeletal material). You can view all of these in your web browser with no required software. Around 13,000 of these are open access and can be freely downloaded for further visualization or measurement.  
 :computer: [website](https://www.morphosource.org)
 
