@@ -311,7 +311,7 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 :computer: [website](https://www.biomechzoo.com)
 :floppy_disk: [source](https://github.com/PhilD001/biomechZoo)
 
-* **The CGM 2.i Project** by Fabian Leboeuf et al. (2019) (Python :snake:). This is the implementation of an evolved conventional gait model.  
+* **The CGM 2.i Project** by Fabian Leboeuf et al. (2019). Python :snake: implementation of an evolved conventional gait model.  
 :page_facing_up: [paper](https://doi.org/10.1016/j.gaitpost.2019.01.034) |
 :computer: [website](https://pycgm2.github.io/) |
 :floppy_disk: [source](https://github.com/pyCGM2/pyCGM2)
@@ -343,7 +343,7 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 :floppy_disk: [source](https://github.com/opensim-org/opensim-core)
 
 
-## Modelling and Computational Tools :computer:
+## Modelling :computer:
 
 ### Anthropometric models
 
@@ -400,7 +400,7 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 :floppy_disk: [source](https://github.com/simbody)
 
 
-### (Neuro)musculoskeletal Simulation Software :computer:
+### Neuromusculoskeletal Simulation Software :computer:
 
 * **The AnyBody Modeling System** by AnyBody Technology. Commercial software for musculoskeletal modelling and simulation.  
 :page_facing_up: [paper](https://doi.org/10.1016/j.simpat.2006.09.001) |
@@ -440,7 +440,7 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 :computer: [binaries](https://simtk.org/projects/scone) |
 :floppy_disk: [source](https://github.com/opensim-org/SCONE)
 
-#### (Neuro)musculoskeletal Simulation Tools [WIP]
+### Neuromusculoskeletal Simulation Tools [WIP]
 
 * **OpenSim JAM: A framework to simulate Joint and Articular Mechanics in OpenSim** by Colin Smith (2020). OpenSim JAM is a collection of force component plugins, models, and executables (tools) that are designed to enable OpenSim musculoskeletal simulations that include detailed joint mechanics. The project extends the opensim-core capabilities to enable joint representations that include 6 degree of freedom (DOF) joints (without kinematic constraints) and explicit representations of articular contact and ligament structures.  
 :page_facing_up: [reference papers for each component](https://github.com/clnsmith/opensim-jam/tree/master/opensim-jam-release) |
@@ -466,6 +466,7 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 :page_facing_up: [paper](https://doi.org/10.1016/j.jbiomech.2019.01.017) |
 :computer: [website](https://simtk.org/projects/stiffness) |
 :floppy_disk: [source](https://github.com/mitkof6/musculoskeletal-stiffness/tree/v1.0)
+
 
 ### Segmentation of Medical Images :art: [WIP - TODO: add descriptions, papers and sources]
 
