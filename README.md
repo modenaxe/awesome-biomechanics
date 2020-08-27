@@ -16,6 +16,8 @@ Sections that do not look nice are work in progress - might include errors and i
 * MuscleForceDirection in FE related (release github)
 * https://www.cancerimagingarchive.net/access-data/
 * https://wwrichard.net/
+* https://github.com/mkjung99/biomechanics_dataset
+* https://github.com/topics/biomechanics
 
 ## Online Courses :clapper:
 * [Lectures on animal locomotion](https://mchenrylab.bio.uci.edu/e139) by Manny Azizi and Matt McHenry, UC Irvine (2020).
