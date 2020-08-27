@@ -1,4 +1,6 @@
-# Awesome Biomechanics [WIP = Work In Progress]
+# Awesome Biomechanics 
+
+## [WIP = Work In Progress]
 
 Sections that do not look nice are work in progress - might include errors and incorrect descriptions.
 
@@ -35,6 +37,7 @@ Sections that do not look nice are work in progress - might include errors and i
 * [Kane’s Method for an inverted pendulum](https://figshare.com/articles/journal_contribution/Kane_pdf/7791647) by Ross Miller. A tutorial on Kane's Method for deriving equations of motion, demonstrated on an inverted pendulum.
 * [Notes on Scientific Computing for Biomechanics and Motor Control](https://github.com/BMClab/BMC) by Marcos Duarte and Renato Watanabe. A collection of lecture notes and code on scientific computing and data analysis for Biomechanics and Motor Control in the form of Jupyter notebooks (python).
 * [Optimal Control Workshop](https://simtk.org/projects/ocworkshop/)
+* [OpenSim teaching Hub](https://simtk-confluence.stanford.edu/display/OpenSim/Teaching+Hub)
 * [Kwon3d website](http://www.kwon3d.com/theory/prac.html): website with theory about most basic topics in biomechanics.
 * [How to review a paper](https://www.sciencemag.org/careers/2016/09/how-review-paper)
 * [3D Kinematics and Inverse Dynamics scripts](https://uk.mathworks.com/matlabcentral/fileexchange/58021-3d-kinematics-and-inverse-dynamics?s_tid=prof_contriblnk) by Raphael Dumas
