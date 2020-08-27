@@ -141,11 +141,6 @@ Sections that do not look nice are work in progress - might include errors and i
 * **MB Knee: Multibody Models of the Human Knee** by Trent Guess. The data set includes four knee models. MBKnee_4 is based on in vivo measurements from a 29 year old female while MBKnee_1, MBKnee_2, and MBKnee_3 are based on cadaver knees that were physically tested in a dynamic knee simulator. Knee geometries (bone, cartilage, and mensici) were derived from Magnetic Resonance Imaging (MRI) and ligament insertions come from MRI, the literature, and probing the cadaver knees. The site also contains information on ligament modeling, such as bundle insertion locations and zero load lengths.  
 :dvd: [dataset](https://simtk.org/projects/mb_knee)
 
-* **OpenSim JAM: A framework to simulate Joint and Articular Mechanics in OpenSim** by Colin Smith (2020). OpenSim JAM is a collection of force component plugins, models, and executables (tools) that are designed to enable OpenSim musculoskeletal simulations that include detailed joint mechanics. The project extends the opensim-core capabilities to enable joint representations that include 6 degree of freedom (DOF) joints (without kinematic constraints) and explicit representations of articular contact and ligament structures.  
-:page_facing_up: [reference papers for each component](https://github.com/clnsmith/opensim-jam/tree/master/opensim-jam-release) |
-:computer: [website and binaries](https://simtk.org/projects/opensim-jam) |
-:floppy_disk: [source](https://github.com/clnsmith/opensim-jam) |
-
 * **OpenKnee** by Ahmet Erdemir. Open Knee(s) is aimed to provide free access to three-dimensional finite element representations of the knee joint. Dataset includes one knee specimen from the first generation of data collected and 21 specimens (knee id up to 22, missing one) for second generation.  
 :page_facing_up: [paper 2016](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4876308/) |
 :page_facing_up: [paper 2013](https://doi.org/10.1115/FMD2013-16033) |
@@ -265,12 +260,12 @@ Sections that do not look nice are work in progress - might include errors and i
 
 ### Measurements from Instrumented Prosthesis :chart_with_upwards_trend:
 
-* **Grand Challenge Competition to Predict In Vivo Knee Loads** By BJ Fregly et al. (2012). Data sets from instrumented knee prostheses used in the "Grand Challenge Competition" for six years. Data include medical images and segmentations (for most participants), tibial contact force, video motion, ground reaction, muscle EMG, muscle strength, static and dynamic imaging, and implant geometry data. This is the most completely and easily accessible dataset of measurements from instrumented prostheses.   
+* **Grand Challenge Competition to Predict In Vivo Knee Loads** By BJ Fregly et al. (2012). Data sets from instrumented knee prostheses used in the "Grand Challenge Competition". Data include medical images and segmentations (for most participants), tibial contact force, video motion, ground reaction, muscle EMG, muscle strength, static and dynamic imaging, and implant geometry data for six patients. This is the most completely and easily accessible dataset of measurements from instrumented prostheses.   
 :page_facing_up: [paper1](https://doi.org/10.1002/jor.22023) |
 :page_facing_up: [paper2](https://doi.org/10.1115/1.4023255) |
 :dvd: [dataset](https://simtk.org/projects/kneeloads)
 
-* **Orthoload** by the Julius Wolff Institute of the Charité in Berlin. This online dataset includes loads occuring in human joints measured directly in patients by using instrumented implants. Measurements during many routine and sportive activities were taken in hip, knee, shoulder and spinal implants. OrthoLoad supplies numerical load data and videos, which contain load-time diagrams and synchronous images of the subject’s activities. **no joint kinematics available, except for few sample data:** the website says that `Additional information was captured, such as kinematic data or patient’s morphology. Comprehensive data can currently only be provided for scientific partners in larger cooperative projects`. A sample of this data is available (one subject performing one walking trial for hip and knee prostheses).  
+* **Orthoload** by the Julius Wolff Institute of the Charité in Berlin. This online dataset includes loads occuring in human joints measured directly in patients by using instrumented hip, knee, shoulder and spinal implants. OrthoLoad supplies numerical load data and videos, which contain load-time diagrams and synchronous images of the subject’s activities. **No joint kinematics available outside `larger cooperative projects`, except few sample data:**.  
 :page_facing_up: [publication list](https://orthoload.com/publications/) |
 :dvd: [dataset hip](http://www.wiki.orthoload.com/index.php?title=Hip_joint_III) |
 :dvd: [dataset knee](http://www.wiki.orthoload.com/index.php?title=Knee_joint) |
@@ -279,15 +274,13 @@ Sections that do not look nice are work in progress - might include errors and i
 :dvd: [sample comprehensive](https://orthoload.com/comprehensive-data-sample) |
 :computer: [website](https://orthoload.com/)
 
-* **HIP98** by Georg Bergmann et al. (1998). The data collection CD-ROM HIP98 contains the forces acting in the hip joint during the most common activities of daily living. Measurements were taken 1998 in 4 subjects. In addition to the implant loads and the synchronous videos of the subjects (as in OrthoLoad), this database provides gait analysis data, calculated muscle forces, EMG signals and numbers for the frequencies of the different activities. The forces acting at the acetabulum, i. e. the pelvic side of the hip joint, were additionally determined, using the forces acting relative to the femur plus the belonging gait analysis data. From the results of the individuals, the loads acting in a ’typical’ or representative subject are also provided. 
-**I personally found issues in installing the database in recent Microsoft operative systems. The data will be extracted but the GUI will not work.**  
+* **HIP98** by Georg Bergmann et al. (1998). The data collection CD-ROM HIP98 contains the forces acting in the hip joint during the most common activities of daily living. Measurements were taken 1998 in 4 subjects (implant loads, synchronous videos, gait analysis data, calculated muscle forces, EMG signals and numbers for the frequencies of the different activities).The loads acting in a ’typical’ or representative subject are also provided. **Issues in installing the database in recent Microsoft operative systems. The data will be extracted but the GUI will not work.**  
 :page_facing_up: [paper](https://doi.org/10.1016/s0021-9290(01)00040-9) |
 :dvd: [dataset](https://orthoload.com/wp-content/uploads/hip98.zip) |
 :computer: [website](https://orthoload.com/test-loads/data-collection-hip98)
 
-* **CAMS-KNEE** by William Taylor et al. (2017). unique kinematic and kinetic datasets of the lower limb musculoskeletal system collected on a cohort of 6 subjects with instrumented knee implants (Charité – Universitätsmedizin Berlin) synchronized with a moving fluoroscope (ETH Zürich) and other measurement techniques (whole body kinematics, ground reaction forces, video data, and electromyography data) for multiple complete cycles of 5 activities of daily living.
-**Data must be requested submitting a project description.** I was NOT granted access to the entire data set for exploring the dataset.  
-**Link to live dataset is broken.**  
+* **CAMS-KNEE** by William Taylor et al. (2017). Datasets collected on a cohort of 6 subjects with instrumented knee implants (Charité – Universitätsmedizin Berlin) synchronized with a moving fluoroscope (ETH Zürich) and other measurement techniques (whole body kinematics, ground reaction forces, video data, and electromyography data) for multiple complete cycles of 5 activities of daily living. **Data must be requested submitting a project description.** I was NOT granted access to the entire data set for exploring the dataset.  
+**Link to live dataset is broken.**  </br>
 :page_facing_up: [paper](https://doi.org/10.1016/j.jbiomech.2017.09.022) |
 :cd: [data request](https://cams-knee.orthoload.com/data/data-request/) |
 :cd: [live dataset (CAMS-KNEE workshop)](https://cams-knee.orthoload.com/workshop-data/) |
@@ -326,8 +319,6 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 * **Pyomeca** by the [S2M Lab](https://www.facebook.com/s2mlab/). Pyomeca is a Python :snake: library allowing you to carry out a complete biomechanical analysis; in a simple, logical and concise way.  
 :computer: [website](https://pyomeca.github.io/)
 :floppy_disk: [source](https://github.com/pyomeca/pyomeca)
-
-* https://github.com/UMass-OpenSim/opensim-marker-place-toolbox
 
 #### Marker Trajectory Gap filling
 
@@ -369,14 +360,14 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 :floppy_disk: [source](https://github.com/wspr/hatze-biomech)
 
 
-### Multibody and Physics Engines [WIP] :sleeping::arrow_lower_left::apple:
+### Multibody and Physics Engines :sleeping::arrow_lower_left::apple:
 
 * **Bullet Physics** by Erwin Coumans and Yunfei Bai (2016). Real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.   
 :page_facing_up: [Quick Start Guide](https://docs.google.com/document/d/10sXEhzFRSnvFcl3XxNGhnD4N2SedqwdAvK3dsihxVUA/edit#heading=h.2ye70wns7io3) |
 :computer: [website](https://pybullet.org/wordpress/) |
 :floppy_disk: [source](https://github.com/bulletphysics/bullet3)
 
-* **Drake** :dragon: by Russ Tedrake and the Drake Development Team (2019). C++ toolbox for analyzing the dynamics of our robots and building control systems for them, with a heavy emphasis on optimization-based design/analysis. It was started by the Robot Locomotion Group at the MIT Computer Science and Artificial Intelligence Lab, and now has core development led by the Toyota Research Institute.  
+* **Drake** :dragon: by Russ Tedrake and the Drake Development Team (2019). C++ toolbox for analyzing the dynamics of our robots and building control systems for them, with a heavy emphasis on optimization-based design/analysis. Core development is now led by the Toyota Research Institute.  
 :computer: [website](https://drake.mit.edu/) |
 :floppy_disk: [source](https://github.com/RobotLocomotion/drake)
 
@@ -388,14 +379,14 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 :computer: [website](https://www.ode.org) |
 :floppy_disk: [source](https://bitbucket.org/odedevs/ode/src/master)
 
-* **Pinocchio** by Carpentier et al. (2019). Pinocchio is an open-source library (C++ with Python bindings) for efficiently computing the dynamics (and derivatives) of a robot model, or of any articulated rigid-body model you would like (avatars in a simulator, skeletal models for biomechanics, etc.). Pinocchio is one of the most efficient libraries for computing the dynamics of articulated bodies and implements   algorithms following the methods described in Featherstone's 2008 [book](https://www.springer.com/gp/book/9780387743141). It also introduces efficient variations of some of them, plus some new ones, notably including a full set of algorithms to compute the derivatives of the main ones.  
+* **Pinocchio** by Carpentier et al. (2019). Pinocchio is an open-source library (C++ with Python :snake: bindings) for efficiently computing the dynamics (and derivatives) of articulated rigid-body models (robot, avatars, skeletal models, etc.). It implements algorithms following the methods described in Featherstone's 2008 [book](https://www.springer.com/gp/book/9780387743141), and their derivatives.  
 :page_facing_up: [paper](https://hal.archives-ouvertes.fr/hal-01866228) |
 :computer: [website](https://gepettoweb.laas.fr/doc/stack-of-tasks/pinocchio/master/doxygen-html/) |
 :floppy_disk: [source](https://github.com/stack-of-tasks/pinocchio)
 
 * **PyDy** by Jason Moore. A tool kit written in the Python programming language that utilizes an array of scientific programs to enable the study of multibody dynamics.  
 :page_facing_up: [paper](http://dx.doi.org/10.1115/DETC2013-13470) |
-:floppy_disk: [source](https://rbdl.github.io)
+:floppy_disk: [source](https://rbdl.github.io) |
 :movie_camera: [YouTube tutorials](https://www.youtube.com/watch?v=r4piIKV4sDw)
 
 * **RBDL (Rigid Body Dynamics Library)** by Martin L. Felis (Heidelberg University). A multibody engine heavily inspired by the pseudo code of the book "Rigid Body Dynamics Algorithms" of [Roy Featherstone](http://royfeatherstone.org/).  
@@ -411,15 +402,21 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 
 ### (Neuro)musculoskeletal Simulation Software :computer:
 
-* **AnyBody Technology**: commercial software for musculoskeletal modelling and simulation.  
+* **The AnyBody Modeling System** by AnyBody Technology. Commercial software for musculoskeletal modelling and simulation.  
 :page_facing_up: [paper](https://doi.org/10.1016/j.simpat.2006.09.001) |
-:computer: [website](http://www.anybodytech.com)
-:computer: [model repository](http://www.anybodytech.com/software/model-repository-ammr)
+:computer: [website](http://www.anybodytech.com) |
+:star: [model repository](http://www.anybodytech.com/software/model-repository-ammr)
 
 * **AnimatLab** - neuromechanical and neurorobotic simulator for building the body of a robot or biolgical organism in a physically accurate 3-D virtual world, and then layout a biologically realistic nervous system to control the animats behavior.   
 :page_facing_up: [paper](https://www.sciencedirect.com/science/article/pii/S0165027010000087) |
 :computer: [website](http://animatlab.com) |
 :floppy_disk: [source](https://github.com/NeuroRoboticTech/AnimatLabPublicSource)
+
+* **Artisynth** by John Lloyd et al. Artisynth is a 3D mechanical modeling system implemented in Java that supports the combined simulation of multibody and finite element models (linear and nonlinear materials), together with contact and constraints. </br> 
+:page_facing_up: [paper](https://link.springer.com/chapter/10.1007/8415_2012_126) |
+:page_facing_up: [paper-downloadable](https://www.cs.usask.ca/faculty/stavness/papers/lloyd2012-artisynth-a-fast-interactive-biomechanical-modeling-toolkit.pdf) |
+:computer: [website](https://www.artisynth.org/Main/HomePage) |
+:floppy_disk: [source](https://github.com/artisynth/artisynth_core)
 
 * **Biomechanics of Bodies** - biomechanical modelling package implemented in MATLAB that contains a human musculoskeletal model and enables biomechanical and musculoskeletal calculations.   
 :page_facing_up: [paper](https://pure.coventry.ac.uk/ws/portalfiles/portal/22762734/Shippen_et_al_BoB_Biomechanics_MATLAB.pdf) |
@@ -443,9 +440,16 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 :computer: [binaries](https://simtk.org/projects/scone) |
 :floppy_disk: [source](https://github.com/opensim-org/SCONE)
 
-#### (Neuro)musculoskeletal Simulation Tools :snake:
+#### (Neuro)musculoskeletal Simulation Tools [WIP]
+
+* **OpenSim JAM: A framework to simulate Joint and Articular Mechanics in OpenSim** by Colin Smith (2020). OpenSim JAM is a collection of force component plugins, models, and executables (tools) that are designed to enable OpenSim musculoskeletal simulations that include detailed joint mechanics. The project extends the opensim-core capabilities to enable joint representations that include 6 degree of freedom (DOF) joints (without kinematic constraints) and explicit representations of articular contact and ligament structures.  
+:page_facing_up: [reference papers for each component](https://github.com/clnsmith/opensim-jam/tree/master/opensim-jam-release) |
+:computer: [website and binaries](https://simtk.org/projects/opensim-jam) |
+:floppy_disk: [source](https://github.com/clnsmith/opensim-jam)
 
 * **CEINMS** - TODO: add details
+
+* https://github.com/UMass-OpenSim/opensim-marker-place-toolbox
 
 * [CusToM: a Matlab toolbox for musculoskeletal simulation](https://github.com/anmuller/CusToM) by Antoine Muller: Customizable Toolbox for Musculoskeletal simulation (CusToM) is a MATLAB toolbox aimed at performing inverse dynamics based musculoskeletal analyzes **TODO: ADD PAPER**
 
@@ -460,13 +464,12 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 
 * **Stiffness modulation of redundant musculoskeletal systems** by Dimitar Stanev and Konstantinos Moustakas (2019). Python tool :snake: implementing an approach that explores the entire space of possible solutions of the muscle redundancy problem using the notion of null space and rigorously accounts for the effect of muscle redundancy in the computation of the feasible stiffness characteristics. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2575332.svg)](https://doi.org/10.5281/zenodo.2575332)  
 :page_facing_up: [paper](https://doi.org/10.1016/j.jbiomech.2019.01.017) |
-:computer: [website](https://simtk.org/projects/stiffness)
+:computer: [website](https://simtk.org/projects/stiffness) |
 :floppy_disk: [source](https://github.com/mitkof6/musculoskeletal-stiffness/tree/v1.0)
 
 ### Segmentation of Medical Images :art: [WIP - TODO: add descriptions, papers and sources]
 
-* **3DSlicer**  
-:computer: [website](https://www.slicer.org/)
+* **3DSlicer**-:computer: [website](https://www.slicer.org/)
 
 * **ITK-Snap**  
 :computer: [website](http://www.itksnap.org/pmwiki/pmwiki.php)
