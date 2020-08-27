@@ -4,8 +4,8 @@
 
 Sections that do not look nice are work in progress - might include errors and incorrect descriptions.
 
-## TO ADD/CHECK :question:
-* add Table of Contents
+## TO ADD/CHECK
+* add Table of Contents (see https://ecotrust-canada.github.io/markdown-toc/)
 * Check AnyBody resource websites
 * More resources from SimTK?
 * Database of simulations? (Few studies shared simulations, no raw data)
