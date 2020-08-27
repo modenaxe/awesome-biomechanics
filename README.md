@@ -158,8 +158,13 @@ Sections that do not look nice are work in progress - might include errors and i
 :computer: [website](https://simtk.org/projects/knee_model)
 
 ### Animal Anatomy :crocodile: [WIP]
+
 * **CT scans of various animals** from John Hutchinson's group.  
 :dvd: [dataset](https://osf.io/4sc96/)
+
+* **Morphosource** by Duke University. MorphoSource has approximately 27,000 published 3D models of biological specimens (largely skeletal material). You can view all of these in your web browser with no required software. Around 13,000 of these are open access and can be freely downloaded for further visualization or measurement.  
+:computer: [website](https://www.morphosource.org)
+
 
 ### Balance :balance_scale:
 
