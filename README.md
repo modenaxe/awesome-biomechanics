@@ -1,6 +1,6 @@
 # Awesome Biomechanics 
 
-## [WIP = Work In Progress]
+## [Still a Work In Progress]
 
 Sections that do not look nice are work in progress - might include errors and incorrect descriptions.
 
