@@ -18,6 +18,8 @@ Sections that do not look nice are work in progress - might include errors and i
 * https://wwrichard.net/
 * https://github.com/mkjung99/biomechanics_dataset
 * https://github.com/topics/biomechanics
+* motoNMS - https://github.com/RehabEngGroup/MOtoNMS, https://simtk.org/projects/motonms
+* Bops - https://simtk.org/projects/bops https://github.com/RehabEngGroup/BOPS
 
 ## Online Courses :clapper:
 * [Lectures on animal locomotion](https://mchenrylab.bio.uci.edu/e139) by Manny Azizi and Matt McHenry, UC Irvine (2020).
