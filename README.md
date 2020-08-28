@@ -14,12 +14,13 @@ Sections that do not look nice are work in progress - might include errors and i
 * visualization tools: [Paraview](https://www.paraview.org), Mayavi
 * Winter's data from ISB/data in gait
 * MuscleForceDirection in FE related (release github)
-* https://www.cancerimagingarchive.net/access-data/
-* https://wwrichard.net/
+* anatomy dataset: https://www.cancerimagingarchive.net/access-data/
+* blog: https://wwrichard.net/
 * https://github.com/mkjung99/biomechanics_dataset
 * https://github.com/topics/biomechanics
-* motoNMS - https://github.com/RehabEngGroup/MOtoNMS, https://simtk.org/projects/motonms
-* Bops - https://simtk.org/projects/bops https://github.com/RehabEngGroup/BOPS
+* gait processing: motoNMS - https://github.com/RehabEngGroup/MOtoNMS, https://simtk.org/projects/motonms
+* simulation tools: Bops - https://simtk.org/projects/bops https://github.com/RehabEngGroup/BOPS
+* dataset walking: https://www.nature.com/articles/s41597-020-0563-y
 
 ## Online Courses :clapper:
 * [Lectures on animal locomotion](https://mchenrylab.bio.uci.edu/e139) by Manny Azizi and Matt McHenry, UC Irvine (2020).
