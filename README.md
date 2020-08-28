@@ -21,6 +21,8 @@ Sections that do not look nice are work in progress - might include errors and i
 * gait processing: motoNMS - https://github.com/RehabEngGroup/MOtoNMS, https://simtk.org/projects/motonms
 * simulation tools: Bops - https://simtk.org/projects/bops https://github.com/RehabEngGroup/BOPS
 * dataset walking: https://www.nature.com/articles/s41597-020-0563-y
+* facebook: https://fastmri.org/dataset/, [paper](https://arxiv.org/abs/1811.08839?fbclid=IwAR1MuusEHDfRwQYb72OHKfdsL5F0OkCbdiI5wQsjJIQKMyAK-cao_wPYUN0)
+* https://nda.nih.gov/oai
 
 ## Online Courses :clapper:
 * [Lectures on animal locomotion](https://mchenrylab.bio.uci.edu/e139) by Manny Azizi and Matt McHenry, UC Irvine (2020).
