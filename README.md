@@ -1,6 +1,6 @@
 # Awesome Biomechanics 
 
-## [Still a Work In Progress]
+## [Still a Work In Progress - feel free of contributing]
 
 Sections that do not look nice are work in progress - might include errors and incorrect descriptions.
 
