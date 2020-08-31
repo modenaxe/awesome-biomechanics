@@ -485,6 +485,10 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 :computer: [website](https://simtk.org/projects/stiffness) |
 :floppy_disk: [source](https://github.com/mitkof6/musculoskeletal-stiffness/tree/v1.0)
 
+* **SynO: Synergy Optimization** by Mohammad Shourijeh ad Benjamin Fregly (2020). SynO is a collection of MATLAB codes implementing a novel approach for estimating muscle forces/activations by imposing a synergy structure within optimization (termed “synergy optimization”).</br>
+:page_facing_up: [paper](https://doi.org/10.1115/1.4044310)
+:floppy_disk: [source](https://simtk.org/projects/syno/)
+
 
 ### Segmentation of Medical Images :art: [WIP - TODO: add descriptions, papers and sources]
 
