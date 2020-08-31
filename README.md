@@ -18,8 +18,6 @@ Sections that do not look nice are work in progress - might include errors and i
 * blog: https://wwrichard.net/
 * https://github.com/mkjung99/biomechanics_dataset
 * https://github.com/topics/biomechanics
-* gait processing: motoNMS - https://github.com/RehabEngGroup/MOtoNMS, https://simtk.org/projects/motonms
-* simulation tools: Bops - https://simtk.org/projects/bops https://github.com/RehabEngGroup/BOPS
 * dataset walking: https://www.nature.com/articles/s41597-020-0563-y
 * facebook: https://fastmri.org/dataset/, [paper](https://arxiv.org/abs/1811.08839?fbclid=IwAR1MuusEHDfRwQYb72OHKfdsL5F0OkCbdiI5wQsjJIQKMyAK-cao_wPYUN0)
 * https://nda.nih.gov/oai
@@ -313,6 +311,11 @@ Sections that do not look nice are work in progress - might include errors and i
 * [MOKKA](https://biomechanical-toolkit.github.io/mokka/): GUI built on BTK functionalities. 
 Allows visualisation of c3d contents and basic processing, such as filtering and event detection. Great open source alternative to Vicon Nexus for these functionalities.
 
+* **motoNMS** by Alice Mantoan et al. (2015). MATLAB tool that provides a complete, user friendly and highly configurable tool to automatically process experimental motion data from different laboratories in C3D format for their use into the OpenSim neuromusculoskeletal software. </br>
+:page_facing_up: [paper](https://link.springer.com/article/10.1186/s13029-015-0044-4)
+:computer: [website](https://simtk.org/projects/motonms)
+:floppy_disk: [source](https://github.com/RehabEngGroup/MOtoNMS)
+
 * **BiomechZoo** by Philippe C Dixon. BiomechZoo is a user-customizable toolbox for the analysis of biomechanical data within the MatLab programming environment. Please take a look at the Wiki for setup information and user instructions.  
 :computer: [website](https://www.biomechzoo.com)
 :floppy_disk: [source](https://github.com/PhilD001/biomechZoo)
@@ -447,6 +450,11 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 :floppy_disk: [source](https://github.com/opensim-org/SCONE)
 
 ### Neuromusculoskeletal Simulation Tools 
+
+* **Batch OpenSim Processing Scripts (BOPS)** by Alice Mantoan et al. (2020). MATLAB based, user friendly and easy-to-use tool to perform batch process of the most commonly used OpenSim Tools (IK, ID, MA, SO and JRA).</br>
+<!--:page_facing_up: [paper]()--> |
+:computer: [website](https://simtk.org/projects/bops ) |
+:floppy_disk: [source](https://github.com/RehabEngGroup/BOPS)
 
 * **OpenSim JAM: A framework to simulate Joint and Articular Mechanics in OpenSim** by Colin Smith (2020). OpenSim JAM is a collection of force component plugins, models, and executables (tools) that are designed to enable OpenSim musculoskeletal simulations that include detailed joint mechanics. The project extends the opensim-core capabilities to enable joint representations that include 6 degree of freedom (DOF) joints (without kinematic constraints) and explicit representations of articular contact and ligament structures.  
 :page_facing_up: [reference papers for each component](https://github.com/clnsmith/opensim-jam/tree/master/opensim-jam-release) |
