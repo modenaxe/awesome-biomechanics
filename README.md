@@ -212,6 +212,12 @@ Sections that do not look nice are work in progress - might include errors and i
 
 ### Walking :walking:
 
+* **A database of human gait performance on irregular and uneven surfaces collected by wearable sensors** by Luo et al. (2020). Data from Inertial Measurement Units (IMU) from thirty participants (fifteen males and fifteen females, 23.5 ± 4.2 years, 169.3 ± 21.5 cm, 70.9 ± 13.9 kg) who wore six IMUs while walking on nine outdoor surfaces with self-selected speed (16.4 ± 4.2 seconds per trial). Intended for machine learning purposes.</br>
+:page_facing_up: [paper](https://www.nature.com/articles/s41597-020-0563-y) |
+:dvd: [dataset](https://doi.org/10.6084/m9.figshare.c.4892463)
+:dvd: [metadata](https://springernature.figshare.com/articles/Metadata_record_for_A_database_of_human_gait_performance_on_irregular_and_uneven_surfaces_collected_by_wearable_sensors/12505022)
+:star: [resources](https://github.com/UF-ISE-HSE/UnevenWalkingSurface)
+
 * **An Open Data Set of Inertial, Magnetic, Foot–Ground Contact, and Electromyographic Signals From Wearable Sensors During Walking.** by Miraldo DC, Watanabe RN and Duarte M (2020).  Data were acquired from 22 healthy adults using wearable sensors and walking at self-selected comfortable, fast and slow speeds, and standing still. In total, there are data of 9,661 gait strides. The dataset includes gait events and notebooks exemplifying how to access and visualize the data.  
 :page_facing_up: [paper](https://doi.org/10.1123/mc.2020-0023) |
 :dvd: [dataset](https://figshare.com/articles/Dataset_of_gait_and_inertial_sensors/7778255) |
@@ -452,7 +458,6 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 ### Neuromusculoskeletal Simulation Tools 
 
 * **Batch OpenSim Processing Scripts (BOPS)** by Alice Mantoan et al. (2020). MATLAB based, user friendly and easy-to-use tool to perform batch process of the most commonly used OpenSim Tools (IK, ID, MA, SO and JRA).</br>
-<!--:page_facing_up: [paper]()--> |
 :computer: [website](https://simtk.org/projects/bops ) |
 :floppy_disk: [source](https://github.com/RehabEngGroup/BOPS)
 
