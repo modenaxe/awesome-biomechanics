@@ -163,7 +163,7 @@ Sections that do not look nice are work in progress - might include errors and i
 :dvd: [dataset](https://digitalcommons.du.edu/living_kinematics_knee/)
 :computer: [website](https://simtk.org/projects/knee_model)
 
-### Animal Anatomy :crocodile: [WIP]
+### Animal Anatomy :crocodile:
 
 * **CT scans of various animals** from John Hutchinson's group.  
 :dvd: [dataset](https://osf.io/4sc96/)
@@ -611,7 +611,7 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 
 ### Statistical Shape Modelling [WIP]
 
-* [Musculoskeletal Atlas Project (MAP)](https://simtk.org/projects/map) by Ju Zhang et al. (2014). Open-source software framework in Python :snake: with plug-in architecture for creating musculoskeletal models. The client-side application (MAP Client) facilitates dicom and motion capture integration, registration tools, and meshing capabilities, and uses statistical shape modelling to provide a best-match to mocap and medical imaging data and generate surface geometry to generate an OpenSim model.</br>
+* **Musculoskeletal Atlas Project (MAP)** by Ju Zhang et al. (2014). Open-source software framework in Python :snake: with plug-in architecture for creating musculoskeletal models. The client-side application (MAP Client) facilitates dicom and motion capture integration, registration tools, and meshing capabilities, and uses statistical shape modelling (based on the Melbourne Femur Collection, which consists of 320 full body CT scans) to provide a best-match to mocap and medical imaging data and generate surface geometry to generate an OpenSim model. **Looks not maintained.**</br>
 :page_facing_up: [paper](https://www.researchgate.net/profile/Ju_Zhang15/publication/301951056_The_MAP_Client_User-Friendly_Musculoskeletal_Modelling_Workflows/links/5735044508ae298602df08c8/The-MAP-Client-User-Friendly-Musculoskeletal-Modelling-Workflows.pdf) |
 :computer: [website](https://simtk.org/projects/map) |
 :computer: [docs](https://map-client.readthedocs.io/en/latest/) |
