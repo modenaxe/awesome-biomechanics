@@ -611,7 +611,12 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 
 ### Statistical Shape Modelling [WIP]
 
-* [Musculoskeletal Atlas Project](https://simtk.org/projects/map) with information about the MAP-Client available [here](https://mapclient.readthedocs.io/en/latest)
+* [Musculoskeletal Atlas Project (MAP)](https://simtk.org/projects/map) by Ju Zhang et al. (2014). Open-source software framework in Python :snake: with plug-in architecture for creating musculoskeletal models. The client-side application (MAP Client) facilitates dicom and motion capture integration, registration tools, and meshing capabilities, and uses statistical shape modelling to provide a best-match to mocap and medical imaging data and generate surface geometry to generate an OpenSim model.</br>
+:page_facing_up: [paper](https://www.researchgate.net/profile/Ju_Zhang15/publication/301951056_The_MAP_Client_User-Friendly_Musculoskeletal_Modelling_Workflows/links/5735044508ae298602df08c8/The-MAP-Client-User-Friendly-Musculoskeletal-Modelling-Workflows.pdf) |
+:computer: [website](https://simtk.org/projects/map) |
+:computer: [docs](https://map-client.readthedocs.io/en/latest/) |
+:floppy_disk: [source](https://github.com/MusculoskeletalAtlasProject/) |
+:star: [plugins](https://github.com/mapclient-plugins)
 
 * [Statistical Shape Modelling Research Toolkit (SSMRT)](https://www.msksoftware.org.uk/software/ssmrt/) by the MSk Dynamics group, Imperial College London.
 
