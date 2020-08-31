@@ -15,11 +15,8 @@ Sections that do not look nice are work in progress - might include errors and i
 * Winter's data from ISB/data in gait
 * MuscleForceDirection in FE related (release github)
 * anatomy dataset: https://www.cancerimagingarchive.net/access-data/
-* blog: https://wwrichard.net/
 * https://github.com/mkjung99/biomechanics_dataset
 * https://github.com/topics/biomechanics
-* dataset walking: https://www.nature.com/articles/s41597-020-0563-y
-* facebook: https://fastmri.org/dataset/, [paper](https://arxiv.org/abs/1811.08839?fbclid=IwAR1MuusEHDfRwQYb72OHKfdsL5F0OkCbdiI5wQsjJIQKMyAK-cao_wPYUN0)
 * https://nda.nih.gov/oai
 
 ## Online Courses :clapper:
@@ -88,7 +85,13 @@ Sections that do not look nice are work in progress - might include errors and i
 :page_facing_up: [paper](https://dx.doi.org/10.1111%2Fj.0021-8782.2004.00274.x) |
 :computer: [website](http://www.chinesevisiblehuman.com)
 
-* **Development and validation of statistical shape models of the primary functional bone segments of the foot.** by Tamara Grant et al. (2019). Dataset includes manually segmented three-dimensional bone geometry models (.STL) from magnetic resonance images of 34 subjects. The primary functional segments of the foot are modelled (**not all geometries are used**): first metatarsal (29 geometries), midfoot (second-to-fifth metatarsals, cuneiforms, cuboid, and navicular) (33 geometries), calcaneus (27 geometries), and talus (34 geometries). [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3464747.svg)](https://doi.org/10.5281/zenodo.3464747)  
+* **fastMRI dataset** by Facebook AI and NYU (2019-2020). Data from more than 1,500 fully sampled knee MRIs obtained on 3 and 1.5 Tesla magnets and DICOM images from 10,000 clinical knee MRIs also obtained at 3 or 1.5 Tesla. Includes also brain scans. **No segmentation available.**</br>
+:page_facing_up: [paper](https://arxiv.org/abs/1811.08839?fbclid=IwAR1MuusEHDfRwQYb72OHKfdsL5F0OkCbdiI5wQsjJIQKMyAK-cao_wPYUN0)
+:computer: [website](https://fastmri.org/dataset)
+:star: [resources](https://github.com/facebookresearch/fastMRI/)
+
+* **Development and validation of statistical shape models of the primary functional bone segments of the foot.** by Tamara Grant et al. (2019). Dataset includes manually segmented three-dimensional bone geometry models (.STL) from magnetic resonance images of 34 subjects of first metatarsal (29 geometries), midfoot (second-to-fifth metatarsals, cuneiforms, cuboid, and navicular) (33 geometries), calcaneus (27 geometries), and talus (34 geometries). **not all geometries are used**.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3464747.svg)](https://doi.org/10.5281/zenodo.3464747)</br>
 :page_facing_up: [paper](https://doi.org/10.7717/peerj.8397) |
 :dvd: [dataset](https://zenodo.org/record/3464747#.X0P2qMhKgdU)
 
@@ -214,14 +217,15 @@ Sections that do not look nice are work in progress - might include errors and i
 
 * **A database of human gait performance on irregular and uneven surfaces collected by wearable sensors** by Luo et al. (2020). Data from Inertial Measurement Units (IMU) from thirty participants (fifteen males and fifteen females, 23.5 ± 4.2 years, 169.3 ± 21.5 cm, 70.9 ± 13.9 kg) who wore six IMUs while walking on nine outdoor surfaces with self-selected speed (16.4 ± 4.2 seconds per trial). Intended for machine learning purposes.</br>
 :page_facing_up: [paper](https://www.nature.com/articles/s41597-020-0563-y) |
-:dvd: [dataset](https://doi.org/10.6084/m9.figshare.c.4892463)
-:dvd: [metadata](https://springernature.figshare.com/articles/Metadata_record_for_A_database_of_human_gait_performance_on_irregular_and_uneven_surfaces_collected_by_wearable_sensors/12505022)
+:dvd: [dataset](https://doi.org/10.6084/m9.figshare.c.4892463) |
+:dvd: [metadata](https://springernature.figshare.com/articles/Metadata_record_for_A_database_of_human_gait_performance_on_irregular_and_uneven_surfaces_collected_by_wearable_sensors/12505022) |
 :star: [resources](https://github.com/UF-ISE-HSE/UnevenWalkingSurface)
 
 * **An Open Data Set of Inertial, Magnetic, Foot–Ground Contact, and Electromyographic Signals From Wearable Sensors During Walking.** by Miraldo DC, Watanabe RN and Duarte M (2020).  Data were acquired from 22 healthy adults using wearable sensors and walking at self-selected comfortable, fast and slow speeds, and standing still. In total, there are data of 9,661 gait strides. The dataset includes gait events and notebooks exemplifying how to access and visualize the data.  
 :page_facing_up: [paper](https://doi.org/10.1123/mc.2020-0023) |
 :dvd: [dataset](https://figshare.com/articles/Dataset_of_gait_and_inertial_sensors/7778255) |
-:computer: [website](http://pesquisa.ufabc.edu.br/bmclab/datasets/geds/) and [resources](https://github.com/BMClab/datasets/tree/master/GEDS)
+:computer: [website](http://pesquisa.ufabc.edu.br/bmclab/datasets/geds/) |
+:star: [resources](https://github.com/BMClab/datasets/tree/master/GEDS)
 
 * **A multimodal dataset of human gait at different walking speeds established on injury-free adult participants** by Céline Schreiber & Florent Moissenet (2019). Dataset collected on 50 healthy and injury-free adults, with no lower and upper extremity surgery in the last two years. Participants walked at 5 speeds during one unique session. Three dimensional trajectories of 52 reflective markers spread over the whole body, 3D ground reaction forces and moment, and electromyographic signals were simultaneously recorded.  
 :page_facing_up: [paper](https://www.nature.com/articles/s41597-019-0124-4) 
@@ -685,6 +689,7 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 * https://www.biomechanist.net/
 * https://biomechsa.wordpress.com/resources
 * [ISB Data Resources](http://isbweb.org/data/)
+* [Richard Baker's blog](https://wwrichard.net/) (unmaintained).
 
 -----
 ### Contributing
