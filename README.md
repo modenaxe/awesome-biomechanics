@@ -2,6 +2,7 @@
 
 ## [Still a Work In Progress (might include incorrect descriptions) - feel free of contributing]
 
+## Table of Contents
 - [Online Courses :clapper:](#online-courses-clapper)
 - [YouTube Channels :tv:](#youtube-channels-tv)
 - [Videos :video_camera:](#videos-video-camera)
@@ -9,7 +10,7 @@
 - [Books :blue_book:](#books-blue-book)
 - [Datasets :dvd:](#datasets-dvd)
   * [Human Anatomy :muscle:](#human-anatomy-muscle)
-  * [Human Knee [WIP - TODO double check Denver's resources]](#human-knee-wip-todo-double-check-denver-s-resources)
+  * [Human Knee [WIP]](#human-knee-wip-todo-double-check-denver-s-resources)
   * [Animal Anatomy :crocodile:](#animal-anatomy-crocodile)
   * [Balance :balance_scale:](#balance-balance-scale)
   * [Energetics :fire:](#energetics-fire)
@@ -17,7 +18,7 @@
   * [Running :running:](#running-running)
   * [Measurements from Instrumented Prosthesis :chart_with_upwards_trend:](#measurements-from-instrumented-prosthesis-chart-with-upwards-trend)
 - [Gait Analysis and Motion Capture](#gait-analysis-and-motion-capture)
-  * [Gait Analysis Markersets [TODO: add references and resources]](#gait-analysis-markersets-todo-add-references-and-resources)
+  * [Gait Analysis Markersets [WIP]](#gait-analysis-markersets-todo-add-references-and-resources)
   * [Motion Capture Data Import and Processing [WIP]](#motion-capture-data-import-and-processing-wip)
     + [Marker Trajectory Gap filling](#marker-trajectory-gap-filling)
     + [Inertial Measurement Units](#inertial-measurement-units)
@@ -26,7 +27,7 @@
   * [Multibody and Physics Engines :sleeping::arrow_lower_left::apple:](#multibody-and-physics-engines-sleeping-arrow-lower-left-apple)
   * [Neuromusculoskeletal Simulation Software :computer:](#neuromusculoskeletal-simulation-software-computer)
   * [Neuromusculoskeletal Simulation Tools](#neuromusculoskeletal-simulation-tools)
-  * [Segmentation of Medical Images :art: [WIP - TODO: add descriptions, papers and sources]](#segmentation-of-medical-images-art-wip-todo-add-descriptions-papers-and-sources)
+  * [Segmentation of Medical Images :art: [WIP]](#segmentation-of-medical-images-art-wip)
   * [Resources for Building Biomechanical Models from Medical Images](#resources-for-building-biomechanical-models-from-medical-images)
   * [Automatic Definition of Bony Landmarks and Reference Systems :skull:](#automatic-definition-of-bony-landmarks-and-reference-systems-skull)
   * [Uncertainty Quantification in Musculoskeletal Simulations [WIP]](#uncertainty-quantification-in-musculoskeletal-simulations-wip)
@@ -546,7 +547,7 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 :floppy_disk: [source](https://simtk.org/projects/syno/)
 
 
-### Segmentation of Medical Images :art: [WIP - TODO: add descriptions, papers and sources]
+### Segmentation of Medical Images :art: [WIP]
 
 * **3DSlicer**-:computer: [website](https://www.slicer.org/)
 
@@ -736,7 +737,7 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 * [Richard Baker's blog](https://wwrichard.net/) (unmaintained).
 
 -----
-### Contributing
+## Contributing
 Have anything in mind that you think is awesome and would fit in this list? Feel free to send a pull request.  
 If you are adding elements to the `Dataset` section please use (roughly) this template:
 
