@@ -58,6 +58,10 @@
 * https://github.com/mkjung99/biomechanics_dataset
 * https://github.com/topics/biomechanics
 * https://nda.nih.gov/oai
+* https://github.com/facebookresearch/fairmotion
+* **Flexing Computational Muscle: Modeling and Simulation of Musculotendon Dynamics** by Matthew Millard. Source code and benchmarks to compare computational speed and physiological accuracy of several muscle models in OpenSim. 
+https://simtk.org/projects/opensim_muscle
+https://github.com/mjhmilla/Millard2012EquilibriumMuscleMatlabPort
 
 ## Online Courses :clapper:
 * [Lectures on animal locomotion](https://mchenrylab.bio.uci.edu/e139) by Manny Azizi and Matt McHenry, UC Irvine (2020).
