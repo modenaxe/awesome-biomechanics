@@ -27,15 +27,17 @@
   * [Multibody and Physics Engines :sleeping::arrow_lower_left::apple:](#multibody-and-physics-engines-sleeping-arrow-lower-left-apple)
   * [Neuromusculoskeletal Simulation Software :computer:](#neuromusculoskeletal-simulation-software-computer)
   * [Neuromusculoskeletal Simulation Tools](#neuromusculoskeletal-simulation-tools)
+  * [Uncertainty Quantification in Musculoskeletal Simulations [WIP]](#uncertainty-quantification-in-musculoskeletal-simulations-wip)
+- [Subject-Specific Modelling](#Subject-Specific-Modelling)
   * [Segmentation of Medical Images :art: [WIP]](#segmentation-of-medical-images-art-wip)
+  * [Manipulation and Processing of Surface Meshes [WIP]](#manipulation-and-processing-of-surface-meshes-wip)
   * [Resources for Building Biomechanical Models from Medical Images](#resources-for-building-biomechanical-models-from-medical-images)
   * [Automatic Definition of Bony Landmarks and Reference Systems :skull:](#automatic-definition-of-bony-landmarks-and-reference-systems-skull)
-  * [Uncertainty Quantification in Musculoskeletal Simulations [WIP]](#uncertainty-quantification-in-musculoskeletal-simulations-wip)
-  * [Manipulation and Processing of Surface Meshes [WIP]](#manipulation-and-processing-of-surface-meshes-wip)
-  * [Meshers of Surface Models](#meshers-of-surface-models)
   * [Statistical Shape Modelling [WIP]](#statistical-shape-modelling-wip)
-  * [Finite Element Analysis](#finite-element-analysis)
-    + [Tools related to Finite Element Analysis :mortar_board:](#tools-related-to-finite-element-analysis-mortar-board)
+- [Finite Element Modelling]
+  * [Meshers of Surface Models](#meshers-of-surface-models)
+  * [Finite Element Analysis Software](#finite-element-analysis)
+  * [Tools related to Finite Element Analysis](#tools-related-to-finite-element-analysis-mortar-board)
   * [Statistical Analysis](#statistical-analysis)
   * [Optimal Control and Trajectory Optimization :rocket: [WIP]](#optimal-control-and-trajectory-optimization-rocket-wip)
 - [Societies and Initiatives :office:](#societies-and-initiatives-office)
@@ -316,7 +318,7 @@ https://github.com/mjhmilla/Millard2012EquilibriumMuscleMatlabPort
 :page_facing_up: [paper](https://doi.org/10.1242/jeb.064527) |
 :dvd: [dataset](https://simtk.org/projects/runningspeeds)
 
-### Measurements from Instrumented Prosthesis :chart_with_upwards_trend:
+### Instrumented Prostheses :chart_with_upwards_trend:
 
 * **Grand Challenge Competition to Predict In Vivo Knee Loads** By BJ Fregly et al. (2012). Data sets from instrumented knee prostheses used in the "Grand Challenge Competition". Data include medical images and segmentations (for most participants), tibial contact force, video motion, ground reaction, muscle EMG, muscle strength, static and dynamic imaging, and implant geometry data for six patients. This is the most completely and easily accessible dataset of measurements from instrumented prostheses.   
 :page_facing_up: [paper1](https://doi.org/10.1002/jor.22023) |
@@ -550,16 +552,15 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 :page_facing_up: [paper](https://doi.org/10.1115/1.4044310)
 :floppy_disk: [source](https://simtk.org/projects/syno/)
 
+## Subject-Specific Modelling
 
 ### Segmentation of Medical Images :art: [WIP]
 
-* **3DSlicer**-:computer: [website](https://www.slicer.org/)
+* **3DSlicer** - :computer: [website](https://www.slicer.org/)
 
-* **ITK-Snap**  
-:computer: [website](http://www.itksnap.org/pmwiki/pmwiki.php)
+* **ITK-Snap** - :computer: [website](http://www.itksnap.org/pmwiki/pmwiki.php)
 
-* **Materialise Mimics**  
-:computer: [website](https://www.materialise.com/en/medical/mimics-innovation-suite) (commercial)
+* **Materialise Mimics** - :computer: [website](https://www.materialise.com/en/medical/mimics-innovation-suite) (commercial)
 
 * **MITK**  
 :computer: [website](https://docs.mitk.org/2016.11/index.html)
