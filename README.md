@@ -1,6 +1,6 @@
 # Awesome Biomechanics 
 
-## [Still a Work In Progress - feel free of contributing]
+## [Still a Work In Progress (might include incorrect descriptions) - feel free of contributing]
 
 - [Online Courses :clapper:](#online-courses-clapper)
 - [YouTube Channels :tv:](#youtube-channels-tv)
@@ -12,43 +12,39 @@
   * [Human Knee [WIP - TODO double check Denver's resources]](#human-knee-wip-todo-double-check-denver-s-resources)
   * [Animal Anatomy :crocodile:](#animal-anatomy-crocodile)
   * [Balance :balance_scale:](#balance-balance-scale)
-  * [Energetics :fire:](#energetics--fire-)
-  * [Walking :walking:](#walking--walking-)
-  * [Running :running:](#running--running-)
-  * [Measurements from Instrumented Prosthesis :chart_with_upwards_trend:](#measurements-from-instrumented-prosthesis--chart-with-upwards-trend-)
+  * [Energetics :fire:](#energetics-fire)
+  * [Walking :walking:](#walking-walking)
+  * [Running :running:](#running-running)
+  * [Measurements from Instrumented Prosthesis :chart_with_upwards_trend:](#measurements-from-instrumented-prosthesis-chart-with-upwards-trend)
 - [Gait Analysis and Motion Capture](#gait-analysis-and-motion-capture)
-  * [Gait Analysis Markersets [TODO: add references and resources]](#gait-analysis-markersets--todo--add-references-and-resources-)
-  * [Motion Capture Data Import and Processing [WIP]](#motion-capture-data-import-and-processing--wip-)
+  * [Gait Analysis Markersets [TODO: add references and resources]](#gait-analysis-markersets-todo-add-references-and-resources)
+  * [Motion Capture Data Import and Processing [WIP]](#motion-capture-data-import-and-processing-wip)
     + [Marker Trajectory Gap filling](#marker-trajectory-gap-filling)
     + [Inertial Measurement Units](#inertial-measurement-units)
-- [Modelling :computer:](#modelling--computer-)
+- [Modelling :computer:](#modelling-computer)
   * [Anthropometric models](#anthropometric-models)
-  * [Multibody and Physics Engines :sleeping::arrow_lower_left::apple:](#multibody-and-physics-engines--sleeping--arrow-lower-left--apple-)
-  * [Neuromusculoskeletal Simulation Software :computer:](#neuromusculoskeletal-simulation-software--computer-)
+  * [Multibody and Physics Engines :sleeping::arrow_lower_left::apple:](#multibody-and-physics-engines-sleeping-arrow-lower-left-apple)
+  * [Neuromusculoskeletal Simulation Software :computer:](#neuromusculoskeletal-simulation-software-computer)
   * [Neuromusculoskeletal Simulation Tools](#neuromusculoskeletal-simulation-tools)
-  * [Segmentation of Medical Images :art: [WIP - TODO: add descriptions, papers and sources]](#segmentation-of-medical-images--art---wip---todo--add-descriptions--papers-and-sources-)
+  * [Segmentation of Medical Images :art: [WIP - TODO: add descriptions, papers and sources]](#segmentation-of-medical-images-art-wip-todo-add-descriptions-papers-and-sources)
   * [Resources for Building Biomechanical Models from Medical Images](#resources-for-building-biomechanical-models-from-medical-images)
-  * [Automatic Definition of Bony Landmarks and Reference Systems :skull:](#automatic-definition-of-bony-landmarks-and-reference-systems--skull-)
-  * [Uncertainty Quantification in Musculoskeletal Simulations [WIP]](#uncertainty-quantification-in-musculoskeletal-simulations--wip-)
-  * [Manipulation and Processing of Surface Meshes [WIP]](#manipulation-and-processing-of-surface-meshes--wip-)
+  * [Automatic Definition of Bony Landmarks and Reference Systems :skull:](#automatic-definition-of-bony-landmarks-and-reference-systems-skull)
+  * [Uncertainty Quantification in Musculoskeletal Simulations [WIP]](#uncertainty-quantification-in-musculoskeletal-simulations-wip)
+  * [Manipulation and Processing of Surface Meshes [WIP]](#manipulation-and-processing-of-surface-meshes-wip)
   * [Meshers of Surface Models](#meshers-of-surface-models)
-  * [Statistical Shape Modelling [WIP]](#statistical-shape-modelling--wip-)
+  * [Statistical Shape Modelling [WIP]](#statistical-shape-modelling-wip)
   * [Finite Element Analysis](#finite-element-analysis)
-    + [Tools related to Finite Element Analysis :mortar_board:](#tools-related-to-finite-element-analysis--mortar-board-)
+    + [Tools related to Finite Element Analysis :mortar_board:](#tools-related-to-finite-element-analysis-mortar-board)
   * [Statistical Analysis](#statistical-analysis)
-  * [Optimal Control and Trajectory Optimization :rocket: [WIP]](#optimal-control-and-trajectory-optimization--rocket---wip-)
-- [Societies and Initiatives :office:](#societies-and-initiatives--office-)
+  * [Optimal Control and Trajectory Optimization :rocket: [WIP]](#optimal-control-and-trajectory-optimization-rocket-wip)
+- [Societies and Initiatives :office:](#societies-and-initiatives-office)
 - [Miscellaneous Online Resources](#miscellaneous-online-resources)
   * [Contributing](#contributing)
 - [License](#license)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
-
-Sections that do not look nice are work in progress - might include errors and incorrect descriptions.
 
 ## TO ADD/CHECK
-* add Table of Contents (see https://ecotrust-canada.github.io/markdown-toc/)
 * Check AnyBody resource websites
 * More resources from SimTK?
 * Database of simulations? (Few studies shared simulations, no raw data)
