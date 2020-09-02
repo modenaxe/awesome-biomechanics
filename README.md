@@ -61,9 +61,20 @@
 * https://github.com/topics/biomechanics
 * https://nda.nih.gov/oai
 * https://github.com/facebookresearch/fairmotion
+
+Computational Muscle Models
 * **Flexing Computational Muscle: Modeling and Simulation of Musculotendon Dynamics** by Matthew Millard. Source code and benchmarks to compare computational speed and physiological accuracy of several muscle models in OpenSim. 
 https://simtk.org/projects/opensim_muscle
 https://github.com/mjhmilla/Millard2012EquilibriumMuscleMatlabPort
+* **Virtual Muscle** by Chen et al. (2000). 
+https://1otylmrj2pd20xsmv2kci0wn-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/VM-4.0.1-Users-Manual.pdf
+http://e.guigon.free.fr/rsc/article/ChengEJEtAl00.pdf
+https://1otylmrj2pd20xsmv2kci0wn-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/VM-4.0.1.zip
+* **MyoSim**
+http://myosim.campbellmusclelab.org/myosim-exe
+
+
+
 
 ## Online Courses :clapper:
 * [Lectures on animal locomotion](https://mchenrylab.bio.uci.edu/e139) by Manny Azizi and Matt McHenry, UC Irvine (2020).
@@ -491,6 +502,10 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 :page_facing_up: [Config Reference Manual](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.705.9682&rep=rep1&type=pdf) |
 :computer: [Animal Simulation Laboratory website](https://www.animalsimulation.org/) |
 :floppy_disk: [source](https://github.com/wol101/GaitSym_2017)
+
+* **MSMS Software for VR Simulations of Neural Prostheses and Patient Training and Rehabilitation** by Rahman Davoodi and Gerald E. Loeb. MSMS is a software for modeling of paralyzed and prosthetic limbs and simulation of their movement under various neural control strategies. The simulations of MSMS models can be run in typical PCs to test and evaluate different prosthetic control strategies or in real-time PCs with stereoscopic displays to enable design engineers and prospective users to evaluate candidate neural prosthetic systems and learn to operate them before actually receiving them.</br>
+:page_facing_up: [paper](https://viterbi.usc.edu/pdfs/gloeb/95737.pdf) |
+:computer: [website](https://bme.usc.edu/msms-software-downloads/)
 
 * **OpenSim** by the National Center for Simulation in Rehabilitation Research, Stanford University. Open source software for biomechanical analysis and neuromusculoskeletal simulations.   
 :page_facing_up: [paper2007](https://ieeexplore.ieee.org/document/4352056) |
