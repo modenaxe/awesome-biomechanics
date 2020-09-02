@@ -686,25 +686,29 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 
 
 
-### Finite Element Analysis
+### Finite Element Analysis Software 
 * [Abaqus](https://www.3ds.com/products-services/simulia/products/abaqus/) (commercial)
 * [Ansys](https://www.ansys.com/en-gb) (commercial)
-* [Code_Aster](https://www.code-aster.org/)
+* [Code_Aster](https://www.code-aster.org/) - see https://www.code-aster.org/UPLOAD/DOC/Presentation/plaquette_aster_en.pdf
 * [FEBio](https://febio.org/)
 * [Salome_meca](https://www.code-aster.org/spip.php?article303)
 
-#### Tools related to Finite Element Analysis :mortar_board:
+#### Finite Element Analysis Software Tools
 
 * **GIBBON Toolbox** by [Kevin Moerman](https://kevinmoerman.org/). GIBBON (The Geometry and Image-Based Bioengineering add-On) is an open-source MATLAB toolbox that includes an array of image and geometry visualization and processing tools and is interfaced with free open source software such as TetGen, for robust tetrahedral meshing, and FEBio and Abaqus for finite element analysis. The combination provides a highly flexible image-based modelling environment and enables advanced inverse finite element analysis.  
 :page_facing_up: [paper](https://joss.theoj.org/papers/10.21105/joss.00506)
 :computer: [website](https://www.gibboncode.org/) 
 :floppy_disk: [source](https://github.com/gibbonCode/GIBBON)
 
-* [LMG: Lumbar Model Generator](https://github.com/CELavecchia/LMG) by Carolina Lavecchia **TODO: add paper and description**
+* **LMG: Lumbar Model Generator** by Carolina Lavecchia et al. (2017). LMG is a MATLAB toolbox for semi-automatic generation of lumbar finite element geometries. It generates the geometrical model of the lumbar spine (from the vertebrae L1 to the L5 including the intervertebral disc IVD), the surface models of the bodies involved (STL files) and the solid meshed model, generated with hexahedral elements for the IVD and tetrahedral elements for the vertebrae.</br>
+:page_facing_up: [paper](https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2017.0829)
+:floppy_disk: [source](https://github.com/CELavecchia/LMG)
 
-* [ReadySim](https://simtk.org/projects/readysim) **TODO: add paper and description**
+* **ReadySim** by Donald Hume et al. (2020). **TODO: add paper (?) and description**  </br>
+:computer: [website](https://simtk.org/projects/readysim)
 
-* [Surrogate Contact Modeling Toolbox](https://simtk.org/projects/scmt/) **TODO: add paper and description**
+* **Surrogate Contact Modeling Toolbox** by Ilan Eskinazi and Benjamin Fregly. **TODO: add paper and description**This opensource toolbox provides researchers with the capabilities to construct and use surrogate contact models, including multiple domains for sampling including out-of-contact configurations, a multi-threaded sampler that makes use of FEBio's contact modeling capabilities, flexible specification of surrogate model inputs and outputs, and architecture, parallelized training, testing module and surrogate models portable as DLLs.</br>
+:computer: [website](https://simtk.org/projects/scmt/) 
 
 * **Gridap: An extensible Finite Element toolbox in Julia** by Santiago Badia1 and Francesc Verdugo (2020).   
 :page_facing_up: [paper](https://joss.theoj.org/papers/10.21105/joss.02520) |
@@ -728,7 +732,9 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 :movie_camera: [webinar](https://www.youtube.com/watch?v=IYYZgyE33pU&feature=youtu.be)
 
 * [3dpredictsim](https://github.com/antoinefalisse/3dpredictsim) by Antoine Falisse: Generate 3D muscle-driven predictive simulations of human movement using direct collocation and algorithmic differentiation
+
 * [FROST: Fast Robot Optimization and Simulation Toolkit](https://github.com/ayonga/frost-dev): FROST (Fast Robot Optimization and Simulation Toolkit) for MATLAB provides a general full-body dynamics gait optimization and simulation framework for bipedal walking robots using virtual constraints based feedback controllers. It uses a Wolfram Mathematica backend. **ADD PUB FROM http://ayonga.github.io/frost-dev/**
+
 * [muscle redundancy solver](https://github.com/KULeuvenNeuromechanics/MuscleRedundancySolver) by KU Leuven: An algorithm to estimate muscle tendon properties and/or compute muscle coordination by tracking experimental data with a musculoskeletal model assuming optimal control to solve for the muscle redundancy. [dev_repo](https://github.com/antoinefalisse/solvemuscleredundancy_dev) website: https://simtk.org/projects/optcntrlmuscle
 
 * [opty](https://github.com/csu-hmc/opty) by Jason Moore and Ton van den Bogert
