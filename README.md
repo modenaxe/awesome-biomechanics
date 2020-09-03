@@ -25,7 +25,7 @@
   - [Anthropometric Models](#anthropometric-models)
   - [Multibody and Physics Engines :sleeping::arrow_lower_left::apple:](#multibody-and-physics-engines-sleepingarrowlowerleftapple)
   - [Computational Muscle Models](#computational-muscle-models)
-  - [Neuromusculoskeletal Simulation Software :computer:](#neuromusculoskeletal-simulation-software-computer)
+  - [Neuromusculoskeletal Simulation Software :computer:](#neuromusculoskeletal-simulation-software-joystick)
   - [Neuromusculoskeletal Simulation Tools](#neuromusculoskeletal-simulation-tools)
 - [Subject-Specific Modelling](#subject-specific-modelling)
   - [Segmentation of Medical Images :art: [WIP]](#segmentation-of-medical-images-art-wip)
@@ -480,7 +480,7 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 :video_camera: [video](https://www.youtube.com/watch?v=2CGRfJJEu38)
 
 
-### Neuromusculoskeletal Simulation Software :computer:
+### Neuromusculoskeletal Simulation Software :joystick:
 
 * **The AnyBody Modeling System** by AnyBody Technology. Commercial software for musculoskeletal modelling and simulation.  
 :page_facing_up: [paper](https://doi.org/10.1016/j.simpat.2006.09.001) |
