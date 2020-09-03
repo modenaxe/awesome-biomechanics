@@ -2,8 +2,7 @@
 
 ## [Still a Work In Progress (might include incorrect descriptions) - feel free of contributing]
 
-# Table of contents
-
+## Table of contents
 - [Online Courses :clapper:](#online-courses-clapper)
 - [YouTube Channels :tv:](#youtube-channels-tv)
 - [Videos :video_camera:](#videos-videocamera)
@@ -22,7 +21,7 @@
   - [Motion Capture Data Import and Processing [WIP]](#motion-capture-data-import-and-processing-wip)
     - [Marker Trajectory Gap filling](#marker-trajectory-gap-filling)
     - [Inertial Measurement Units](#inertial-measurement-units)
-- [Modelling :computer:](#modelling-computer)
+- [Modelling and Simulation :computer:](#modelling-and-simulation-computer)
   - [Anthropometric Models](#anthropometric-models)
   - [Multibody and Physics Engines :sleeping::arrow_lower_left::apple:](#multibody-and-physics-engines-sleepingarrowlowerleftapple)
   - [Computational Muscle Models](#computational-muscle-models)
@@ -30,20 +29,22 @@
   - [Neuromusculoskeletal Simulation Tools](#neuromusculoskeletal-simulation-tools)
 - [Subject-Specific Modelling](#subject-specific-modelling)
   - [Segmentation of Medical Images :art: [WIP]](#segmentation-of-medical-images-art-wip)
+  - [Manipulation and Processing of Surface Meshes](#manipulation-and-processing-of-surface-meshes)
   - [Resources for Building Biomechanical Models from Medical Images](#resources-for-building-biomechanical-models-from-medical-images)
   - [Automatic Definition of Bony Landmarks and Reference Systems :skull:](#automatic-definition-of-bony-landmarks-and-reference-systems-skull)
   - [Uncertainty Quantification in Musculoskeletal Simulations [WIP]](#uncertainty-quantification-in-musculoskeletal-simulations-wip)
-  - [Manipulation and Processing of Surface Meshes [WIP]](#manipulation-and-processing-of-surface-meshes-wip)
   - [Meshers of Surface Models](#meshers-of-surface-models)
   - [Statistical Shape Modelling [WIP]](#statistical-shape-modelling-wip)
+- [Finite Element Analysis](#finite-element-analysis)
   - [Finite Element Analysis Software](#finite-element-analysis-software)
   - [Finite Element Analysis Software Tools](#finite-element-analysis-software-tools)
-  - [Statistical Analysis](#statistical-analysis)
-  - [Optimal Control and Trajectory Optimization :rocket: [WIP]](#optimal-control-and-trajectory-optimization-rocket-wip)
+- [Statistical Analysis](#statistical-analysis)
+- [Optimal Control and Trajectory Optimization :rocket: [WIP]](#optimal-control-and-trajectory-optimization-rocket-wip)
 - [Societies and Initiatives :office:](#societies-and-initiatives-office)
 - [Miscellaneous Online Resources](#miscellaneous-online-resources)
 - [Contributing](#contributing)
 - [License](#license)
+
 
 ## TO ADD/CHECK
 * Check AnyBody resource websites
@@ -399,7 +400,7 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 :floppy_disk: [source](https://github.com/opensim-org/opensim-core)
 
 
-## Modelling :computer:
+## Modelling and Simulation :computer:
 
 ### Anthropometric Models
 
@@ -595,6 +596,13 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 * **Simpleware ScanIP**    
 :computer: [website](https://www.synopsys.com/simpleware/software/scanip.html)
 
+### Manipulation and Processing of Surface Meshes
+* [**Autodesk Netfabb**](https://www.autodesk.com/products/netfabb/overview)
+* [**Blender**](https://www.blender.org/)
+* [**Gmsh**](https://gmsh.info/)
+* [**MeshLab**](https://www.meshlab.net/) - **TO ADD PAPER**
+* [**MeshMixer**](http://www.meshmixer.com/)
+* [**Salome**](https://www.salome-platform.org/user-section/about/mesh)
 
 ### Resources for Building Biomechanical Models from Medical Images
 
@@ -645,31 +653,12 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 :page_facing_up: [paper](https://doi.org/10.1371/journal.pone.0112625)
 :computer: [website](https://simtk.org/frs/download_confirm.php/file/4298/PMM_module.rar?group_id=978)
 
-### Manipulation and Processing of Surface Meshes [WIP]
 
-* **Autodesk Netfabb**  
-:computer: [website](https://www.autodesk.com/products/netfabb/overview)
-
-* **Blender**   
-:computer: [website](https://www.blender.org/)
-
-* **Gmsh**    
-:computer: [website](https://gmsh.info/)
-
-* **MeshLab**    
-:computer: [website](https://www.meshlab.net/)
-
-* **MeshMixer**    
-:computer: [website](http://www.meshmixer.com/)
-
-* **Salome**    
-:computer: [website](https://www.salome-platform.org/user-section/about/mesh)
 
 
 ### Meshers of Surface Models
 * [TetGen](http://wias-berlin.de/software/index.jsp?id=TetGen&lang=1)
 * [NetGen](https://sourceforge.net/projects/netgen-mesher/) [source](https://github.com/NGSolve/netgen)
-
 
 
 ### Statistical Shape Modelling [WIP]
@@ -688,6 +677,7 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 * [Shape Model Builder](https://uk.mathworks.com/matlabcentral/fileexchange/49940-shape-model-builder?s_tid=prof_contriblnk) by Emmanuel Audenaert. Framework to develop shape models in MATLAB.
 
 
+## Finite Element Analysis
 
 ### Finite Element Analysis Software 
 * [Abaqus](https://www.3ds.com/products-services/simulia/products/abaqus/) (commercial)
@@ -719,13 +709,13 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 :floppy_disk: [code/source](lhttps://github.com/gridap/Gridap.jl)
 
 
-### Statistical Analysis
+## Statistical Analysis
 * [G*Power](https://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower.html)
 * [spm1d](https://spm1d.org/): package for one-dimensional [Statistical Parametric Mapping](http://www.scholarpedia.org/article/Statistical_parametric_mapping)
 * [SPSS Statistics](https://www.ibm.com/uk-en/products/spss-statistics) (commercial)
 
 
-### Optimal Control and Trajectory Optimization :rocket: [WIP]
+## Optimal Control and Trajectory Optimization :rocket: [WIP]
 
 * **OpenSim Moco** by Chris Dembia, Nick Bianco and the OpenSim team (2019). OpenSim Moco is a software toolkit to solve optimal control problems with musculoskeletal models defined in OpenSim, including those with kinematic constraints. Using the direct collocation method, Moco can solve a wide range of problems, including motion tracking, motion prediction, and parameter optimization. The design of Moco focuses on ease-of-use, customizability, and extensibility. Just like OpenSim itself, Moco has interfaces in XML/command-line, Matlab, Python, Java, and C++.  
 :page_facing_up: [preprint](https://www.biorxiv.org/content/10.1101/839381v1) |
