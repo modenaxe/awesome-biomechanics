@@ -61,7 +61,6 @@
 * https://github.com/topics/biomechanics
 * https://nda.nih.gov/oai
 * https://github.com/facebookresearch/fairmotion
-* **MyoSim**: http://myosim.campbellmusclelab.org/myosim-exe
 
 ## Online Courses :clapper:
 * [Lectures on animal locomotion](https://mchenrylab.bio.uci.edu/e139) by Manny Azizi and Matt McHenry, UC Irvine (2020).
@@ -470,13 +469,17 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 :floppy_disk: [Matlab version](https://github.com/mjhmilla/Millard2012EquilibriumMuscleMatlabPort) |
 :video_camera: [Webinar](https://www.youtube.com/watch?v=Q1rId1fOkjw)
 
+* **MyoSim** by the [Campbell Lab](https://sites.google.com/g.uky.edu/campbellmusclelab). MyoSim is an open source computer software for modeling the mechanical properties (force, shortening, power output) of striated muscles. The software models the behavior of half-sarcomeres by extending Huxley-based cross-bridge distribution techniques with Ca2+ activation and cooperative effects. MyoSim can also simulate arbitrary cross-bridge schemes set by the researcher.</br>
+:page_facing_up: [paper](https://rupress.org/jgp/article/143/3/387/43232/Dynamic-coupling-of-regulated-binding-sites-and)
+:computer::floppy_disk: [webpage-source-documentation](http://myosim.campbellmusclelab.org/home)
+
 * **Virtual Muscle** by Chen et al. (2000). Virtual Muscle provides a framework for constructing accurate muscle models that can be incorporated easily into complete
 neuromusculoskeletal systems. The muscle model includes motor nuclei that accept a single command input (e.g. net synaptic drive or EMG envelope) and apportion it into recruitment and frequency modulation of subgroups of motor units with type-specific properties, type-specific contractile elements that produce force as a function of firing frequency, length and velocity, passive elastic elements for passive muscle force, passive elastic elements for series-compliance of tendons and aponeuroses. </br> 
 :page_facing_up: [paper](http://e.guigon.free.fr/rsc/article/ChengEJEtAl00.pdf) |
 :floppy_disk: [source](https://1otylmrj2pd20xsmv2kci0wn-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/VM-4.0.1.zip) |
 :page_facing_up: [Manual](https://1otylmrj2pd20xsmv2kci0wn-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/VM-4.0.1-Users-Manual.pdf)
 
-* **Volume Invariant Position-based Elastic Rods (VIPER)** by Baptiste Angles et al. VIPER is a modified formulation of position-based rods to include elastic volumetric deformations. Rods can provide a compact alternative to tetrahedral meshes for the representation of complex muscle deformations, as well as providing a convenient representation for collision detection. Muscles can be modelled as a bundle of rods, for which a technique to automatically convert a muscle surface mesh into a rods-bundle is also presented. The method can run in real time.</br>
+* **Volume Invariant Position-based Elastic Rods (VIPER)** by Baptiste Angles et al. (2019). VIPER is a modified formulation of position-based rods to include elastic volumetric deformations. Rods can provide a compact alternative to tetrahedral meshes for the representation of complex muscle deformations, as well as providing a convenient representation for collision detection. Muscles can be modelled as a bundle of rods, for which a technique to automatically convert a muscle surface mesh into a rods-bundle is also presented. The method can run in real time.</br>
 :page_facing_up: [paper](https://dl.acm.org/doi/10.1145/3340260) |
 :floppy_disk: [source](https://github.com/vcg-uvic/viper) |
 :video_camera: [video](https://www.youtube.com/watch?v=2CGRfJJEu38)
