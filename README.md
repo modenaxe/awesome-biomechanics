@@ -59,6 +59,7 @@
 * https://github.com/topics/biomechanics
 * https://nda.nih.gov/oai
 * https://github.com/facebookresearch/fairmotion
+* https://github.com/bartbols/muscle_architecture_DTI
 
 ## Online Courses :clapper:
 * [Lectures on animal locomotion](https://mchenrylab.bio.uci.edu/e139) by Manny Azizi and Matt McHenry, UC Irvine (2020).
@@ -111,7 +112,7 @@
 
 ### Human Anatomy :muscle:
 
-* **Visible Human Project**: public-domain library of cross-sectional cryosection, CT, and MRI images obtained from one male cadaver and one female cadaver. The dataset in NIfTI format, easier to import and use in segmentation software, were provided by Bart Bolsterlee (see further details [here](https://twitter.com/bartbolsterlee/status/1296594646898892800)).      
+* **Visible Human Project**: public-domain library of cross-sectional cryosection, CT, and MRI images obtained from one male cadaver and one female cadaver. The dataset in NIfTI format, easier to import and use in segmentation software, were provided by Bart Bolsterlee (see further details [here](https://twitter.com/bartbolsterlee/status/1296594646898892800) and code for conversion [here](https://github.com/bartbols/VH2NIfTI)).      
 :page_facing_up: [paper](https://doi.org/10.1109/5.662875) |
 :dvd: [dataset](https://www.nlm.nih.gov/databases/download/vhp.html) |
 :dvd: [dataset in NIfTI format](https://drive.google.com/drive/folders/1LBBIax6wpWBsiEcyXDrXNqyDSEB9rinO) |
