@@ -2,54 +2,51 @@
 
 ## [Still a Work In Progress (might include incorrect descriptions) - feel free of contributing]
 
-## Table of Contents
+# Table of contents
+
 - [Online Courses :clapper:](#online-courses-clapper)
 - [YouTube Channels :tv:](#youtube-channels-tv)
-- [Videos :video_camera:](#videos-video-camera)
-- [Teaching Resources :triangular_ruler:](#teaching-resources-triangular-ruler)
-- [Books :blue_book:](#books-blue-book)
+- [Videos :video_camera:](#videos-videocamera)
+- [Teaching Resources :triangular_ruler:](#teaching-resources-triangularruler)
+- [Books :blue_book:](#books-bluebook)
 - [Datasets :dvd:](#datasets-dvd)
-  * [Human Anatomy :muscle:](#human-anatomy-muscle)
-  * [Human Knee [WIP]](#human-knee-wip-todo-double-check-denver-s-resources)
-  * [Animal Anatomy :crocodile:](#animal-anatomy-crocodile)
-  * [Balance :balance_scale:](#balance-balance-scale)
-  * [Energetics :fire:](#energetics-fire)
-  * [Walking :walking:](#walking-walking)
-  * [Running :running:](#running-running)
-  * [Measurements from Instrumented Prosthesis :chart_with_upwards_trend:](#measurements-from-instrumented-prosthesis-chart-with-upwards-trend)
+  - [Human Anatomy :muscle:](#human-anatomy-muscle)
+  - [Animal Anatomy :crocodile:](#animal-anatomy-crocodile)
+  - [Balance :balance_scale:](#balance-balancescale)
+  - [Energetics :fire:](#energetics-fire)
+  - [Walking :walking:](#walking-walking)
+  - [Running :running:](#running-running)
+  - [Instrumented Prostheses :chart_with_upwards_trend:](#instrumented-prostheses-chartwithupwardstrend)
 - [Gait Analysis and Motion Capture](#gait-analysis-and-motion-capture)
-  * [Gait Analysis Markersets [WIP]](#gait-analysis-markersets-todo-add-references-and-resources)
-  * [Motion Capture Data Import and Processing [WIP]](#motion-capture-data-import-and-processing-wip)
-    + [Marker Trajectory Gap filling](#marker-trajectory-gap-filling)
-    + [Inertial Measurement Units](#inertial-measurement-units)
+  - [Gait Analysis Markersets [TODO: add references and resources]](#gait-analysis-markersets-todo-add-references-and-resources)
+  - [Motion Capture Data Import and Processing [WIP]](#motion-capture-data-import-and-processing-wip)
+    - [Marker Trajectory Gap filling](#marker-trajectory-gap-filling)
+    - [Inertial Measurement Units](#inertial-measurement-units)
 - [Modelling :computer:](#modelling-computer)
-  * [Anthropometric models](#anthropometric-models)
-  * [Multibody and Physics Engines :sleeping::arrow_lower_left::apple:](#multibody-and-physics-engines-sleeping-arrow-lower-left-apple)
-  * [Neuromusculoskeletal Simulation Software :computer:](#neuromusculoskeletal-simulation-software-computer)
-  * [Neuromusculoskeletal Simulation Tools](#neuromusculoskeletal-simulation-tools)
-  * [Uncertainty Quantification in Musculoskeletal Simulations [WIP]](#uncertainty-quantification-in-musculoskeletal-simulations-wip)
-- [Subject-Specific Modelling](#Subject-Specific-Modelling)
-  * [Segmentation of Medical Images :art: [WIP]](#segmentation-of-medical-images-art-wip)
-  * [Manipulation and Processing of Surface Meshes [WIP]](#manipulation-and-processing-of-surface-meshes-wip)
-  * [Resources for Building Biomechanical Models from Medical Images](#resources-for-building-biomechanical-models-from-medical-images)
-  * [Automatic Definition of Bony Landmarks and Reference Systems :skull:](#automatic-definition-of-bony-landmarks-and-reference-systems-skull)
-  * [Statistical Shape Modelling [WIP]](#statistical-shape-modelling-wip)
-- [Finite Element Modelling]
-  * [Meshers of Surface Models](#meshers-of-surface-models)
-  * [Finite Element Analysis Software](#finite-element-analysis)
-  * [Tools related to Finite Element Analysis](#tools-related-to-finite-element-analysis-mortar-board)
-  * [Statistical Analysis](#statistical-analysis)
-  * [Optimal Control and Trajectory Optimization :rocket: [WIP]](#optimal-control-and-trajectory-optimization-rocket-wip)
+  - [Anthropometric Models](#anthropometric-models)
+  - [Multibody and Physics Engines :sleeping::arrow_lower_left::apple:](#multibody-and-physics-engines-sleepingarrowlowerleftapple)
+  - [Computational Muscle Models](#computational-muscle-models)
+  - [Neuromusculoskeletal Simulation Software :computer:](#neuromusculoskeletal-simulation-software-computer)
+  - [Neuromusculoskeletal Simulation Tools](#neuromusculoskeletal-simulation-tools)
+- [Subject-Specific Modelling](#subject-specific-modelling)
+  - [Segmentation of Medical Images :art: [WIP]](#segmentation-of-medical-images-art-wip)
+  - [Resources for Building Biomechanical Models from Medical Images](#resources-for-building-biomechanical-models-from-medical-images)
+  - [Automatic Definition of Bony Landmarks and Reference Systems :skull:](#automatic-definition-of-bony-landmarks-and-reference-systems-skull)
+  - [Uncertainty Quantification in Musculoskeletal Simulations [WIP]](#uncertainty-quantification-in-musculoskeletal-simulations-wip)
+  - [Manipulation and Processing of Surface Meshes [WIP]](#manipulation-and-processing-of-surface-meshes-wip)
+  - [Meshers of Surface Models](#meshers-of-surface-models)
+  - [Statistical Shape Modelling [WIP]](#statistical-shape-modelling-wip)
+  - [Finite Element Analysis Software](#finite-element-analysis-software)
+  - [Finite Element Analysis Software Tools](#finite-element-analysis-software-tools)
+  - [Statistical Analysis](#statistical-analysis)
+  - [Optimal Control and Trajectory Optimization :rocket: [WIP]](#optimal-control-and-trajectory-optimization-rocket-wip)
 - [Societies and Initiatives :office:](#societies-and-initiatives-office)
 - [Miscellaneous Online Resources](#miscellaneous-online-resources)
-  * [Contributing](#contributing)
+- [Contributing](#contributing)
 - [License](#license)
-
-
 
 ## TO ADD/CHECK
 * Check AnyBody resource websites
-* More resources from SimTK?
 * Database of simulations? (Few studies shared simulations, no raw data)
 * Anatomical and gait data sets from MD-Paedigree (Montefiori et al.)
 * Stanford Mobilize and mobile phone data
@@ -142,6 +139,16 @@
 :page_facing_up: [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0112625) |
 :dvd: [dataset](https://simtk.org/projects/subspecmodeling)
 
+* **MB Knee: Multibody Models of the Human Knee** by Trent Guess. The data set includes four knee models, one based on in vivo measurements from a 29 year old female and three based on cadaver knees that were physically tested in a dynamic knee simulator. Knee geometries (bone, cartilage, and mensici) were derived from Magnetic Resonance Imaging (MRI) and ligament insertions come from MRI, the literature, and probing the cadaver knees. The site also contains information on ligament modeling, such as bundle insertion locations and zero load lengths.  
+:dvd: [dataset](https://simtk.org/projects/mb_knee)
+
+* **OpenKnee** by Ahmet Erdemir. Open Knee(s) is aimed to provide free access to three-dimensional finite element representations of the knee joint. Dataset includes one knee specimen from the first generation of data collected and 21 specimens (knee id up to 22, missing one) for second generation.  
+:page_facing_up: [paper 2016](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4876308/) |
+:page_facing_up: [paper 2013](https://doi.org/10.1115/FMD2013-16033) |
+:page_facing_up: [ASB abstract 2010](http://www.asbweb.org/conferences/2010/abstracts/181.pdf) |
+:page_facing_up: [User's Guide 2010](https://simtk.org/websvn/wsvn/openknee/_gen1/doc/guide.pdf) |
+:dvd: [dataset](https://simtk.org/projects/openknee)
+
 * **Subject-specific muscle properties from diffusion tensor imaging significantly improve the accuracy of musculoskeletal models** by James Charles et al. (2020). Includes MRI scans (T1‐weighted anatomical turbo spin‐echo and diffusion tensor imaging) and Isokinetic and isometric torque measurement from 10 subjects (5 female). MRI images are segmented and processed to obtain muscle architecture.  
 :page_facing_up: [paper](https://doi.org/10.1111/joa.13261) |
 :dvd: [dataset](http://datacat.liverpool.ac.uk/1105/)
@@ -161,6 +168,14 @@
 * **Femur and tibia surface mesh set** by Nolte et al. (2020). The data set contains bone geometries of the left and right thigh (femur) and shank (tibia and fibula) segmented from magnetic resonance (MR) scans of 35 healthy volunteers (22 male, 13 female) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.167808.svg)](https://doi.org/10.5281/zenodo.167808) **NB: although published dataset appear to be still closed access**  
 :page_facing_up: [paper](https://doi.org/10.1016/j.gaitpost.2020.02.010) |
 :dvd: [dataset](https://zenodo.org/record/167808#.X0O4kMhKgdV)
+
+* **Natural Knee Data** by University of Denver Center for Orthopaedic Biomechanics. CT and MRI images are provided for 7 knee specimens (5 cadaveric subjects) plus solid models  created from the CT images. In addition, during dissection of the knees, surfaces and ligament insertions and origins were outlined on the bones and recorded as probed points.  
+:dvd: [dataset](https://digitalcommons.du.edu/natural_knee_data) |
+:computer: [website](https://simtk.org/projects/knee_model)
+
+* **Living Biomechanics of the Knee** by University of Denver Center for Orthopaedic Biomechanics.  Kinematic and loading data from an experiment that used quadriceps force to extend the knee. The objective of this data was to provide a foundation to create a computer model representation of the patella joint in order to predict motion and forces across healthy and pathological specimens.
+:dvd: [dataset](https://digitalcommons.du.edu/living_kinematics_knee/)
+:computer: [website](https://simtk.org/projects/knee_model)
 
 * **Twente Lower Extremity (TLEM) Dataset** by Martin Klein Horsman et al. (2007). Anatomical data intended for musculoskeletal modelling obtained by the dissection of a single male cadaver.  
 :page_facing_up: [PhD thesis](https://research.utwente.nl/en/publications/the-twente-lower-extremity-model-consistent-dynamic-simulation-of)
@@ -183,28 +198,7 @@
 :page_facing_up: [paper](https://link.springer.com/referenceworkentry/10.1007%2F978-3-319-30808-1_203-2) |
 :dvd: [dataset](https://figshare.com/articles/dataset/Muscle_model_parameters/4275854)
 
-
-### Human Knee [WIP - TODO double check Denver's resources]
-
 <!--* **Cal Poly Human Motion Biomechanics Lab Knee Joint Finite Element Model** https://simtk.org/projects/cphmbkneefem/ -->
-
-* **MB Knee: Multibody Models of the Human Knee** by Trent Guess. The data set includes four knee models. MBKnee_4 is based on in vivo measurements from a 29 year old female while MBKnee_1, MBKnee_2, and MBKnee_3 are based on cadaver knees that were physically tested in a dynamic knee simulator. Knee geometries (bone, cartilage, and mensici) were derived from Magnetic Resonance Imaging (MRI) and ligament insertions come from MRI, the literature, and probing the cadaver knees. The site also contains information on ligament modeling, such as bundle insertion locations and zero load lengths.  
-:dvd: [dataset](https://simtk.org/projects/mb_knee)
-
-* **OpenKnee** by Ahmet Erdemir. Open Knee(s) is aimed to provide free access to three-dimensional finite element representations of the knee joint. Dataset includes one knee specimen from the first generation of data collected and 21 specimens (knee id up to 22, missing one) for second generation.  
-:page_facing_up: [paper 2016](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4876308/) |
-:page_facing_up: [paper 2013](https://doi.org/10.1115/FMD2013-16033) |
-:page_facing_up: [ASB abstract 2010](http://www.asbweb.org/conferences/2010/abstracts/181.pdf) |
-:page_facing_up: [User's Guide 2010](https://simtk.org/websvn/wsvn/openknee/_gen1/doc/guide.pdf) |
-:dvd: [dataset](https://simtk.org/projects/openknee)
-
-* **Natural Knee Data** by University of Denver Center for Orthopaedic Biomechanics. CT and MRI images are provided for 7 knee specimens (5 cadaveric subjects). Solid models were created from the CT images. In addition, during dissection of the knees, surfaces and ligament insertions and origins were outlined on the bones and recorded as probed points.  
-:dvd: [dataset](https://digitalcommons.du.edu/natural_knee_data) |
-:computer: [website](https://simtk.org/projects/knee_model)
-
-* **Living Biomechanics of the Knee** by University of Denver Center for Orthopaedic Biomechanics.  Kinematic and loading data from an experiment that used quadriceps force to extend the knee. The objective of this data was to provide a foundation to create a computer model representation of the patella joint in order to predict motion and forces across healthy and pathological specimens.
-:dvd: [dataset](https://digitalcommons.du.edu/living_kinematics_knee/)
-:computer: [website](https://simtk.org/projects/knee_model)
 
 ### Animal Anatomy :crocodile:
 
