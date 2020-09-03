@@ -61,20 +61,7 @@
 * https://github.com/topics/biomechanics
 * https://nda.nih.gov/oai
 * https://github.com/facebookresearch/fairmotion
-
-Computational Muscle Models
-* **Flexing Computational Muscle: Modeling and Simulation of Musculotendon Dynamics** by Matthew Millard. Source code and benchmarks to compare computational speed and physiological accuracy of several muscle models in OpenSim. 
-https://simtk.org/projects/opensim_muscle
-https://github.com/mjhmilla/Millard2012EquilibriumMuscleMatlabPort
-* **Virtual Muscle** by Chen et al. (2000). 
-https://1otylmrj2pd20xsmv2kci0wn-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/VM-4.0.1-Users-Manual.pdf
-http://e.guigon.free.fr/rsc/article/ChengEJEtAl00.pdf
-https://1otylmrj2pd20xsmv2kci0wn-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/VM-4.0.1.zip
-* **MyoSim**
-http://myosim.campbellmusclelab.org/myosim-exe
-
-
-
+* **MyoSim**: http://myosim.campbellmusclelab.org/myosim-exe
 
 ## Online Courses :clapper:
 * [Lectures on animal locomotion](https://mchenrylab.bio.uci.edu/e139) by Manny Azizi and Matt McHenry, UC Irvine (2020).
@@ -421,7 +408,7 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 
 ## Modelling :computer:
 
-### Anthropometric models
+### Anthropometric Models
 
 * **Repository of body segment parameter models** by Will Robertson. Contains the raw data for a multitude of body segment parameter models (see repository for list).  
 :computer: [website](http://wspr.io/body-segment-param/) |
@@ -474,6 +461,25 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 :page_facing_up: [paper](https://www.sciencedirect.com/science/article/pii/S2210983811000241) |
 :computer: [website](https://simtk.org/projects/simbody) |
 :floppy_disk: [source](https://github.com/simbody)
+
+### Computational Muscle Models
+
+* **Flexing Computational Muscle: Modeling and Simulation of Musculotendon Dynamics** by Matthew Millard et al. (2013). Source code and benchmarks to compare computational speed and physiological accuracy of several muscle models in OpenSim. </br>
+:page_facing_up: [paper](https://doi.org/10.1115/1.4023390) |
+:floppy_disk: [source](https://simtk.org/projects/opensim_muscle) |
+:floppy_disk: [Matlab version](https://github.com/mjhmilla/Millard2012EquilibriumMuscleMatlabPort) |
+:video_camera: [Webinar](https://www.youtube.com/watch?v=Q1rId1fOkjw)
+
+* **Virtual Muscle** by Chen et al. (2000). Virtual Muscle provides a framework for constructing accurate muscle models that can be incorporated easily into complete
+neuromusculoskeletal systems. The muscle model includes motor nuclei that accept a single command input (e.g. net synaptic drive or EMG envelope) and apportion it into recruitment and frequency modulation of subgroups of motor units with type-specific properties, type-specific contractile elements that produce force as a function of firing frequency, length and velocity, passive elastic elements for passive muscle force, passive elastic elements for series-compliance of tendons and aponeuroses. </br> 
+:page_facing_up: [paper](http://e.guigon.free.fr/rsc/article/ChengEJEtAl00.pdf) |
+:floppy_disk: [source](https://1otylmrj2pd20xsmv2kci0wn-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/VM-4.0.1.zip) |
+:page_facing_up: [Manual](https://1otylmrj2pd20xsmv2kci0wn-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/VM-4.0.1-Users-Manual.pdf)
+
+* **Volume Invariant Position-based Elastic Rods (VIPER)** by Baptiste Angles et al. VIPER is a modified formulation of position-based rods to include elastic volumetric deformations. Rods can provide a compact alternative to tetrahedral meshes for the representation of complex muscle deformations, as well as providing a convenient representation for collision detection. Muscles can be modelled as a bundle of rods, for which a technique to automatically convert a muscle surface mesh into a rods-bundle is also presented. The method can run in real time.</br>
+:page_facing_up: [paper](https://dl.acm.org/doi/10.1145/3340260) |
+:floppy_disk: [source](https://github.com/vcg-uvic/viper) |
+:video_camera: [video](https://www.youtube.com/watch?v=2CGRfJJEu38)
 
 
 ### Neuromusculoskeletal Simulation Software :computer:
