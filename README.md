@@ -693,7 +693,7 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 * [FEBio](https://febio.org/)
 * [Salome_meca](https://www.code-aster.org/spip.php?article303)
 
-#### Finite Element Analysis Software Tools
+### Finite Element Analysis Software Tools
 
 * **GIBBON Toolbox** by [Kevin Moerman](https://kevinmoerman.org/). GIBBON (The Geometry and Image-Based Bioengineering add-On) is an open-source MATLAB toolbox that includes an array of image and geometry visualization and processing tools and is interfaced with free open source software such as TetGen, for robust tetrahedral meshing, and FEBio and Abaqus for finite element analysis. The combination provides a highly flexible image-based modelling environment and enables advanced inverse finite element analysis.  
 :page_facing_up: [paper](https://joss.theoj.org/papers/10.21105/joss.00506)
