@@ -60,6 +60,7 @@
 * https://nda.nih.gov/oai
 * https://github.com/facebookresearch/fairmotion
 * https://github.com/bartbols/muscle_architecture_DTI
+* http://hmc.csuohio.edu/projects/gait-control-id
 
 ## Online Courses :clapper:
 * [Lectures on animal locomotion](https://mchenrylab.bio.uci.edu/e139) by Manny Azizi and Matt McHenry, UC Irvine (2020).
