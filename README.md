@@ -445,6 +445,7 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 * **PyDy** by Jason Moore. A tool kit written in the Python programming language that utilizes an array of scientific programs to enable the study of multibody dynamics.  
 :page_facing_up: [paper](http://dx.doi.org/10.1115/DETC2013-13470) |
 :floppy_disk: [source](https://rbdl.github.io) |
+:star: [Human Standing Tutorial](https://github.com/pydy/pydy-tutorial-human-standing) |
 :movie_camera: [YouTube tutorials](https://www.youtube.com/watch?v=r4piIKV4sDw)
 
 * **RBDL (Rigid Body Dynamics Library)** by Martin L. Felis (Heidelberg University). A multibody engine heavily inspired by the pseudo code of the book "Rigid Body Dynamics Algorithms" of [Roy Featherstone](http://royfeatherstone.org/).  
