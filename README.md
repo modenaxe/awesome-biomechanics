@@ -3,47 +3,52 @@
 ## [Still a Work In Progress (might include incorrect descriptions) - feel free of contributing]
 
 ## Table of contents
-- [Online Courses :clapper:](#online-courses-clapper)
-- [YouTube Channels :tv:](#youtube-channels-tv)
-- [Videos :video_camera:](#videos-videocamera)
-- [Teaching Resources :triangular_ruler:](#teaching-resources-triangularruler)
-- [Books :blue_book:](#books-bluebook)
-- [Datasets :dvd:](#datasets-dvd)
-  - [Human Anatomy :muscle:](#human-anatomy-muscle)
-  - [Animal Anatomy :crocodile:](#animal-anatomy-crocodile)
-  - [Balance :balance_scale:](#balance-balancescale)
-  - [Energetics :fire:](#energetics-fire)
-  - [Walking :walking:](#walking-walking)
-  - [Running :running:](#running-running)
-  - [Instrumented Prostheses :chart_with_upwards_trend:](#instrumented-prostheses-chartwithupwardstrend)
-- [Gait Analysis and Motion Capture](#gait-analysis-and-motion-capture)
-  - [Gait Analysis Markersets [TODO: add references and resources]](#gait-analysis-markersets-todo-add-references-and-resources)
-  - [Motion Capture Data Import and Processing [WIP]](#motion-capture-data-import-and-processing-wip)
-    - [Marker Trajectory Gap filling](#marker-trajectory-gap-filling)
-    - [Inertial Measurement Units](#inertial-measurement-units)
-- [Modelling and Simulation :computer:](#modelling-and-simulation-computer)
-  - [Anthropometric Models](#anthropometric-models)
-  - [Multibody and Physics Engines :sleeping::arrow_lower_left::apple:](#multibody-and-physics-engines-sleepingarrowlowerleftapple)
-  - [Computational Muscle Models](#computational-muscle-models)
-  - [Neuromusculoskeletal Simulation Software :computer:](#neuromusculoskeletal-simulation-software-joystick)
-  - [Neuromusculoskeletal Simulation Tools](#neuromusculoskeletal-simulation-tools)
-- [Subject-Specific Modelling](#subject-specific-modelling)
-  - [Segmentation of Medical Images :art: [WIP]](#segmentation-of-medical-images-art-wip)
-  - [Manipulation and Processing of Surface Meshes](#manipulation-and-processing-of-surface-meshes)
-  - [Resources for Building Biomechanical Models from Medical Images](#resources-for-building-biomechanical-models-from-medical-images)
-  - [Automatic Definition of Bony Landmarks and Reference Systems :skull:](#automatic-definition-of-bony-landmarks-and-reference-systems-skull)
-  - [Uncertainty Quantification in Musculoskeletal Simulations [WIP]](#uncertainty-quantification-in-musculoskeletal-simulations-wip)
-  - [Meshers of Surface Models](#meshers-of-surface-models)
-  - [Statistical Shape Modelling [WIP]](#statistical-shape-modelling-wip)
-- [Finite Element Analysis](#finite-element-analysis)
-  - [Finite Element Analysis Software](#finite-element-analysis-software)
-  - [Finite Element Analysis Software Tools](#finite-element-analysis-software-tools)
-- [Statistical Analysis](#statistical-analysis)
-- [Optimal Control and Trajectory Optimization :rocket: [WIP]](#optimal-control-and-trajectory-optimization-rocket-wip)
-- [Societies and Initiatives :office:](#societies-and-initiatives-office)
-- [Miscellaneous Online Resources](#miscellaneous-online-resources)
-- [Contributing](#contributing)
-- [License](#license)
+- [Awesome Biomechanics](#awesome-biomechanics)
+  - [[Still a Work In Progress (might include incorrect descriptions) - feel free of contributing]](#still-a-work-in-progress-might-include-incorrect-descriptions---feel-free-of-contributing)
+  - [Table of contents](#table-of-contents)
+  - [TO ADD/CHECK](#to-addcheck)
+  - [Online Courses :clapper:](#online-courses-clapper)
+  - [YouTube Channels :tv:](#youtube-channels-tv)
+  - [Videos :video_camera:](#videos-video_camera)
+  - [Teaching Resources :triangular_ruler:](#teaching-resources-triangular_ruler)
+  - [Books :blue_book:](#books-blue_book)
+  - [Datasets :dvd:](#datasets-dvd)
+    - [Human Anatomy :muscle:](#human-anatomy-muscle)
+    - [Animal Anatomy :crocodile:](#animal-anatomy-crocodile)
+    - [Balance :balance_scale:](#balance-balance_scale)
+    - [Energetics :fire:](#energetics-fire)
+    - [Walking :walking:](#walking-walking)
+    - [Running :running:](#running-running)
+    - [Instrumented Prostheses :chart_with_upwards_trend:](#instrumented-prostheses-chart_with_upwards_trend)
+  - [Gait Analysis and Motion Capture](#gait-analysis-and-motion-capture)
+    - [Gait Analysis Markersets [TODO: add references and resources]](#gait-analysis-markersets-todo-add-references-and-resources)
+    - [Motion Capture Data Import and Processing [WIP]](#motion-capture-data-import-and-processing-wip)
+      - [Marker Trajectory Gap filling](#marker-trajectory-gap-filling)
+      - [Inertial Measurement Units](#inertial-measurement-units)
+  - [Modelling and Simulation :computer:](#modelling-and-simulation-computer)
+    - [Anthropometric Models](#anthropometric-models)
+    - [Multibody and Physics Engines :sleeping::arrow_lower_left::apple:](#multibody-and-physics-engines-sleepingarrow_lower_leftapple)
+    - [Computational Muscle Models](#computational-muscle-models)
+    - [Neuromusculoskeletal Simulation Software :joystick:](#neuromusculoskeletal-simulation-software-joystick)
+    - [Neuromusculoskeletal Simulation Tools](#neuromusculoskeletal-simulation-tools)
+  - [Subject-Specific Modelling](#subject-specific-modelling)
+    - [Segmentation of Medical Images :art: [WIP]](#segmentation-of-medical-images-art-wip)
+    - [Manipulation and Processing of Surface Meshes](#manipulation-and-processing-of-surface-meshes)
+    - [Resources for Building Biomechanical Models from Medical Images](#resources-for-building-biomechanical-models-from-medical-images)
+    - [Automatic Definition of Bony Landmarks and Reference Systems :skull:](#automatic-definition-of-bony-landmarks-and-reference-systems-skull)
+    - [Uncertainty Quantification in Musculoskeletal Simulations [WIP]](#uncertainty-quantification-in-musculoskeletal-simulations-wip)
+    - [Meshers of Surface Models](#meshers-of-surface-models)
+    - [Statistical Shape Modelling [WIP]](#statistical-shape-modelling-wip)
+  - [Finite Element Analysis](#finite-element-analysis)
+    - [Finite Element Analysis Software](#finite-element-analysis-software)
+    - [Finite Element Analysis Software Tools](#finite-element-analysis-software-tools)
+    - [Finite Element Models](#finite-element-models)
+  - [Statistical Analysis](#statistical-analysis)
+  - [Optimal Control and Trajectory Optimization :rocket: [WIP]](#optimal-control-and-trajectory-optimization-rocket-wip)
+  - [Societies and Initiatives :office:](#societies-and-initiatives-office)
+  - [Miscellaneous Online Resources](#miscellaneous-online-resources)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 
 ## TO ADD/CHECK
@@ -482,7 +487,6 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 :floppy_disk: [source](https://github.com/vcg-uvic/viper) |
 :video_camera: [video](https://www.youtube.com/watch?v=2CGRfJJEu38)
 
-
 ### Neuromusculoskeletal Simulation Software :joystick:
 
 * **The AnyBody Modeling System** by AnyBody Technology. Commercial software for musculoskeletal modelling and simulation.  
@@ -711,6 +715,12 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 :page_facing_up: [Users' Guide](https://arxiv.org/abs/1910.01412)
 :floppy_disk: [code/source](lhttps://github.com/gridap/Gridap.jl)
 
+### Finite Element Models
+
+* **PIPER Child Human Body Model** : Child finite element model scalable to different ages and posture, used to to study pediatric response to impact. This model is used for crash reconstruction studies. [![DOI](doi.org/10.1371/journal.pone.0187916
+)]</br>
+:page_facing_up: [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0187916)
+:floppy_disk: [source](https://gitlab.inria.fr/piper/child) |
 
 ## Statistical Analysis
 * [G*Power](https://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower.html)
