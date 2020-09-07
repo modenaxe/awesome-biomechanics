@@ -554,7 +554,7 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 :floppy_disk: [source](https://github.com/anmuller/CusToM) |
 :star: [workshop materials](https://github.com/cpontonn/CusToM-Workshop)
 
-* **FreeBody** by the Daniel Cleather and Anthony Bull, MSk Dynamics group, Imperial College London. Implementation of the TLEM anatomical dataset written in C including a Matlab code MATLAB interface. It can be used as a framework for the development of your own bespoke models.</br>
+* **FreeBody** by the Daniel Cleather and Anthony Bull, MSk Dynamics group, Imperial College London. FreeBody is a segment-based musculoskeletal model of the lower limb implementing TLEM anatomical dataset. FreeBody is a fully-open source Windows application and Matlab code that may be used as given or as a framework for the development of your own bespoke models.</br>
 :page_facing_up: [paper](https://doi.org/10.1098/rsos.140449) |
 :computer: [website](https://www.msksoftware.org.uk/software/freebody/)
 
@@ -580,26 +580,14 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 
 ### Segmentation of Medical Images :art: [WIP]
 
-* **3DSlicer** - :computer: [website](https://www.slicer.org/)
-
-* **ITK-Snap** - :computer: [website](http://www.itksnap.org/pmwiki/pmwiki.php)
-
-* **Materialise Mimics** - :computer: [website](https://www.materialise.com/en/medical/mimics-innovation-suite) (commercial)
-
-* **MITK**  
-:computer: [website](https://docs.mitk.org/2016.11/index.html)
-
-* **MITK-GEM** is based on MITK but includes also mesh processing functionalities. Aimed to generation of finite element models.
-:computer: [website](http://araex.github.io/mitk-gem-site/)
-
-* **SASHIMI Segmentation :sushi:** by Bart Bolsterlee. SASHIMI Segmentation is a MATLAB App for segmentation of multi-slice images.   
-:computer: [website](https://github.com/bartbols/SASHIMI) 
-
-* **Seg3D**    
-:computer: [website](https://www.sci.utah.edu/cibc-software/seg3d.html)
-
-* **Simpleware ScanIP**    
-:computer: [website](https://www.synopsys.com/simpleware/software/scanip.html)
+* **[3DSlicer](https://www.slicer.org/)**
+* **[ITK-Snap](http://www.itksnap.org/pmwiki/pmwiki.php)**
+* **[Materialise Mimics](https://www.materialise.com/en/medical/mimics-innovation-suite) (commercial)**
+* **[MITK](https://docs.mitk.org/2016.11/index.html)**  
+* **[MITK-GEM](http://araex.github.io/mitk-gem-site/)** is based on MITK but includes also mesh processing functionalities. Aimed to generation of finite element models. </br>
+* **[SASHIMI Segmentation](https://github.com/bartbols/SASHIMI) :sushi:** by Bart Bolsterlee. SASHIMI Segmentation is a MATLAB App for segmentation of multi-slice images. </br> 
+* **[Seg3D](https://www.sci.utah.edu/cibc-software/seg3d.html)**    
+* **[Simpleware ScanIP](https://www.synopsys.com/simpleware/software/scanip.html)**    
 
 ### Manipulation and Processing of Surface Meshes
 * [**Autodesk Netfabb**](https://www.autodesk.com/products/netfabb/overview)
