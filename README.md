@@ -170,7 +170,7 @@
 :page_facing_up: [paper](https://doi.org/10.1093/nar/gkn613) |
 :dvd: [dataset](http://lifesciencedb.jp/bp3d/) 
 
-* **Femur and tibia surface mesh set** by Nolte et al. (2020). The data set contains bone geometries of the left and right thigh (femur) and shank (tibia and fibula) segmented from magnetic resonance (MR) scans of 35 healthy volunteers (22 male, 13 female) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.167808.svg)](https://doi.org/10.5281/zenodo.167808) **NB: although published dataset appear to be still closed access**  
+* **Femur and tibia surface mesh set** by Nolte et al. (2020). The data set contains bone geometries of the left and right thigh (femur) and shank (tibia and fibula) segmented from magnetic resonance (MR) scans of 35 healthy volunteers (22 male, 13 female). [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.167808.svg)](https://doi.org/10.5281/zenodo.167808)</br>
 :page_facing_up: [paper](https://doi.org/10.1016/j.gaitpost.2020.02.010) |
 :dvd: [dataset](https://zenodo.org/record/167808#.X0O4kMhKgdV)
 
@@ -715,7 +715,7 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 ### Finite Element Models
 
 * **PIPER Child Human Body Model** : Child finite element model scalable to different ages and posture, used to to study pediatric response to impact. This model is used for crash reconstruction studies.</br>
-:page_facing_up: [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0187916)
+:page_facing_up: [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0187916) |
 :floppy_disk: [source](https://gitlab.inria.fr/piper/child) |
 
 ## Statistical Analysis
