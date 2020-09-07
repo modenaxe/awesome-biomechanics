@@ -673,12 +673,16 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 :floppy_disk: [source](https://github.com/MusculoskeletalAtlasProject/) |
 :star: [plugins](https://github.com/mapclient-plugins)
 
-* [Statistical Shape Modelling Research Toolkit (SSMRT)](https://www.msksoftware.org.uk/software/ssmrt/) by the MSk Dynamics group, Imperial College London.
+* **Statistical Shape Modelling Research Toolkit (SSMRT)** by Daniel Nolte and the MSk Dynamics group, Imperial College London (2016). The toolkit packages a set of powerful technologies that may be used to predict shape using one of the provided models or to create your own SSM. </br>
+:page_facing_up: [paper](https://doi.org/10.1016/j.jbiomech.2016.09.005) |
+:computer: [website](https://www.msksoftware.org.uk/software/ssmrt/) 
 
-* [ShapeWorks](https://www.sci.utah.edu/software/shapeworks.html) by the University of Utah: The ShapeWorks software is an open-source distribution of a new method for constructing compact statistical point-based models of ensembles of similar shapes that does not rely on any specific surface parameterization.
+* **ShapeWorks** by the University of Utah. The ShapeWorks software is an open-source distribution of a new method for constructing compact statistical point-based models of ensembles of similar shapes that does not rely on any specific surface parameterization. </br>
+:computer: [website](https://www.sci.utah.edu/software/shapeworks.html)
 
-* [Shape Model Builder](https://uk.mathworks.com/matlabcentral/fileexchange/49940-shape-model-builder?s_tid=prof_contriblnk) by Emmanuel Audenaert. Framework to develop shape models in MATLAB.
-
+* **Shape Model Builder** by Emmanuel Audenaert (2019). Framework to develop shape models in MATLAB. </br>
+:page_facing_up: [paper](https://doi.org/10.1080/10255842.2019.1577828) |
+:floppy_disk: [source](https://uk.mathworks.com/matlabcentral/fileexchange/49940-shape-model-builder?s_tid=prof_contriblnk)
 
 ## Finite Element Analysis
 
