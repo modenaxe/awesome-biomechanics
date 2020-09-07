@@ -714,8 +714,7 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 
 ### Finite Element Models
 
-* **PIPER Child Human Body Model** : Child finite element model scalable to different ages and posture, used to to study pediatric response to impact. This model is used for crash reconstruction studies. [![DOI](doi.org/10.1371/journal.pone.0187916
-)]</br>
+* **PIPER Child Human Body Model** : Child finite element model scalable to different ages and posture, used to to study pediatric response to impact. This model is used for crash reconstruction studies.</br>
 :page_facing_up: [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0187916)
 :floppy_disk: [source](https://gitlab.inria.fr/piper/child) |
 
@@ -771,7 +770,7 @@ Have anything in mind that you think is awesome and would fit in this list? Feel
 If you are adding elements to the `Dataset` section please use (roughly) this template:
 
 ```
-* **Template: DatasetName** by Authors (year). Description. [![DOI](yourDOI)]</br>
+* **Template: DatasetName** by Authors (year). Description. [![DOI](yourZenodoDOI)]</br>
 :page_facing_up: [paper](doi/link_to_paper) |
 :dvd: [dataset](link_to_dataset) |
 :computer: [website](link_to_website) |
