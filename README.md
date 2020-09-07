@@ -377,7 +377,8 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 :computer: [website](https://pycgm2.github.io/) |
 :floppy_disk: [source](https://github.com/pyCGM2/pyCGM2)
 
-* **Pyomeca** by the [S2M Lab](https://www.facebook.com/s2mlab/). Pyomeca is a Python :snake: library allowing you to carry out a complete biomechanical analysis; in a simple, logical and concise way.  
+* **Pyomeca** by the [S2M Lab](https://www.facebook.com/s2mlab/). Pyomeca is a Python :snake: library allowing you to carry out a complete biomechanical analysis; in a simple, logical and concise way. It enables extraction, processing and visualization of biomechanical data for use in research and education.</br> 
+:page_facing_up: [paper](https://joss.theoj.org/papers/10.21105/joss.02431)
 :computer: [website](https://pyomeca.github.io/)
 :floppy_disk: [source](https://github.com/pyomeca/pyomeca)
 
@@ -656,8 +657,6 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 * **Probabilistic Musculoskeletal Modeling module (PMM)** by Giordano Valente et al. (2014).  A description is on the supplementary materials of the paper.
 :page_facing_up: [paper](https://doi.org/10.1371/journal.pone.0112625)
 :computer: [website](https://simtk.org/frs/download_confirm.php/file/4298/PMM_module.rar?group_id=978)
-
-
 
 
 ### Meshers of Surface Models
