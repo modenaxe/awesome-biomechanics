@@ -667,6 +667,7 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 
 * **ShapeWorks** by the University of Utah. The ShapeWorks software is an open-source distribution of a new method for constructing compact statistical point-based models of ensembles of similar shapes that does not rely on any specific surface parameterization. </br>
 :computer: [website](https://www.sci.utah.edu/software/shapeworks.html)
+:floppy_disk: [source](https://github.com/SCIInstitute/ShapeWorks)
 
 * **Shape Model Builder** by Emmanuel Audenaert (2019). Framework to develop shape models in MATLAB. </br>
 :page_facing_up: [paper](https://doi.org/10.1080/10255842.2019.1577828) |
