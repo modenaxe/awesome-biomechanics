@@ -769,9 +769,13 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 :computer: [documentation](https://opty.readthedocs.io/en/latest/) |
 :floppy_disk: [source](https://github.com/csu-hmc/opty) 
 
-* https://simtk.org/projects/datatracking
+* **Data-tracking optimization using collocation** by Yi-Chung Lin and Marcus Pandy (2017). This is a MATLAB package that can be used to perform data-tracking optimization using collocation method. The codes and models are available. The tracking results for one subject during walking and running are also provided. </br>
+:page_facing_up: [paper](https://www.ncbi.nlm.nih.gov/pubmed/28583674) |
+[:computer: website | :floppy_disk: source ](https://simtk.org/projects/datatracking)
 
-* [Optimal Control of Musculoskeletal Movement Using OpenSim & MATLAB](https://simtk.org/projects/directcolloc/)
+* **Optimal Control of Musculoskeletal Movement Using OpenSim & MATLAB** by Leng-Feng Lee and Brian R. Umberger (2016). This package includes an approach for generating optimal control simulations of human movement using OpenSim and MATLAB based on the direct collocation approach. Models, results and a complete working example are provided. </br>
+:page_facing_up: [paper](https://peerj.com/articles/1638.pdf) |
+[:computer: website | :floppy_disk: source ](https://simtk.org/projects/directcolloc)
 
 
 ## Societies and Initiatives :office:
