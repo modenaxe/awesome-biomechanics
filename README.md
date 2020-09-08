@@ -30,7 +30,7 @@
   - [Neuromusculoskeletal Simulation Tools](#neuromusculoskeletal-simulation-tools)
 - [Subject-Specific Modelling](#subject-specific-modelling)
   - [Segmentation of Medical Images :art: [WIP]](#segmentation-of-medical-images-art-wip)
-  - [Manipulation and Processing of Surface Meshes](#manipulation-and-processing-of-surface-meshes)
+  - [Manipulation and Processing of Surface Meshes](#manipulation-processing-and-comparison-of-surface-meshes)
   - [Resources for Building Biomechanical Models from Medical Images](#resources-for-building-biomechanical-models-from-medical-images)
   - [Automatic Definition of Bony Landmarks and Reference Systems :skull:](#automatic-definition-of-bony-landmarks-and-reference-systems-skull)
   - [Uncertainty Quantification in Musculoskeletal Simulations [WIP]](#uncertainty-quantification-in-musculoskeletal-simulations-wip)
@@ -41,7 +41,7 @@
   - [Finite Element Analysis Software Tools](#finite-element-analysis-software-tools)
   - [Finite Element Models](#finite-element-models)
 - [Statistical Analysis](#statistical-analysis)
-- [Optimal Control and Trajectory Optimization :rocket: [WIP]](#optimal-control-and-trajectory-optimization-rocket-wip)
+- [Optimal Control and Trajectory Optimization :rocket:](#optimal-control-and-trajectory-optimization-rocket)
 - [Societies and Initiatives :office:](#societies-and-initiatives-office)
 - [Miscellaneous Online Resources](#miscellaneous-online-resources)
 - [Contributing](#contributing)
@@ -52,9 +52,7 @@
 * Database of simulations? (Some studies shared simulations, no raw data)
 * Anatomical and gait data sets from MD-Paedigree (Montefiori et al.)
 * Stanford Mobilize and mobile phone data
-* visualization tools: [Paraview](https://www.paraview.org), Mayavi
 * Winter's data from ISB/data in gait
-* MuscleForceDirection in FE related (release github)
 * anatomy dataset: https://www.cancerimagingarchive.net/access-data/
 * https://github.com/mkjung99/biomechanics_dataset
 * https://github.com/topics/biomechanics
@@ -62,8 +60,8 @@
 * https://github.com/facebookresearch/fairmotion
 * https://github.com/bartbols/muscle_architecture_DTI
 * http://hmc.csuohio.edu/projects/gait-control-id
-* http://www.cloudcompare.org/
 * MD-Paedigree simulations and geometries
+
 
 ## Online Courses :clapper:
 * [Lectures on animal locomotion](https://mchenrylab.bio.uci.edu/e139) by Manny Azizi and Matt McHenry, UC Irvine (2020).
@@ -593,13 +591,14 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 * **[Seg3D](https://www.sci.utah.edu/cibc-software/seg3d.html)**    
 * **[Simpleware ScanIP](https://www.synopsys.com/simpleware/software/scanip.html)**    
 
-### Manipulation and Processing of Surface Meshes
+### Manipulation, Processing and Comparison of Surface Meshes
 * [**Autodesk Netfabb**](https://www.autodesk.com/products/netfabb/overview)
 * [**Blender**](https://www.blender.org/)
 * [**Gmsh**](https://gmsh.info/)
 * [**MeshLab**](https://www.meshlab.net/) - **TO ADD PAPER**
 * [**MeshMixer**](http://www.meshmixer.com/)
 * [**Salome**](https://www.salome-platform.org/user-section/about/mesh)
+* [**CloudCompare**](http://www.cloudcompare.org) - allows quantitative comparison of surface meshes.
 
 ### Resources for Building Biomechanical Models from Medical Images
 
@@ -694,24 +693,32 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 
 ### Finite Element Analysis Software Tools
 
-* **GIBBON Toolbox** by [Kevin Moerman](https://kevinmoerman.org/). GIBBON (The Geometry and Image-Based Bioengineering add-On) is an open-source MATLAB toolbox that includes an array of image and geometry visualization and processing tools and is interfaced with free open source software such as TetGen, for robust tetrahedral meshing, and FEBio and Abaqus for finite element analysis. The combination provides a highly flexible image-based modelling environment and enables advanced inverse finite element analysis.  
-:page_facing_up: [paper](https://joss.theoj.org/papers/10.21105/joss.00506)
-:computer: [website](https://www.gibboncode.org/) 
+* **GIBBON Toolbox** by [Kevin Moerman](https://kevinmoerman.org/). GIBBON (The Geometry and Image-Based Bioengineering add-On) is an open-source MATLAB toolbox that includes an array of image and geometry visualization and processing tools and is interfaced with free open source software such as TetGen, for robust tetrahedral meshing, and FEBio and Abaqus for finite element analysis. The combination provides a highly flexible image-based modelling environment and enables advanced inverse finite element analysis. </br> 
+:page_facing_up: [paper](https://joss.theoj.org/papers/10.21105/joss.00506) |
+:computer: [website](https://www.gibboncode.org/) |
 :floppy_disk: [source](https://github.com/gibbonCode/GIBBON)
 
 * **LMG: Lumbar Model Generator** by Carolina Lavecchia et al. (2017). LMG is a MATLAB toolbox for semi-automatic generation of lumbar finite element geometries. It generates the geometrical model of the lumbar spine (from the vertebrae L1 to the L5 including the intervertebral disc IVD), the surface models of the bodies involved (STL files) and the solid meshed model, generated with hexahedral elements for the IVD and tetrahedral elements for the vertebrae.</br>
-:page_facing_up: [paper](https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2017.0829)
+:page_facing_up: [paper](https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2017.0829) |
 :floppy_disk: [source](https://github.com/CELavecchia/LMG)
 
-* **ReadySim** by Donald Hume et al. (2020). **TODO: add paper (?) and description**  </br>
-:computer: [website](https://simtk.org/projects/readysim)
+* **MuscleForceDirection OpenSim plugin** by Luca Modenese et al. (2013). This is an OpenSim plugin that extracts the muscle lines of action of user-selected muscles for a given kinematics. It was created to help setting up finite element models that are consistent with musculoskeletal models. **TODO: ADD SOURCE</br>
+:page_facing_up: [paper2013](https://onlinelibrary.wiley.com/doi/full/10.1002/jor.22364) |
+:page_facing_up: [paper2015](https://www.tandfonline.com/doi/full/10.1080/23335432.2015.1017609#.VWFr6k-qpBc) |
+:computer: [website](https://simtk.org/projects/force_direction) |
+:floppy_disk: [source-COMING-SOON](tba)
 
-* **Surrogate Contact Modeling Toolbox** by Ilan Eskinazi and Benjamin Fregly. **TODO: add paper and description**This opensource toolbox provides researchers with the capabilities to construct and use surrogate contact models, including multiple domains for sampling including out-of-contact configurations, a multi-threaded sampler that makes use of FEBio's contact modeling capabilities, flexible specification of surrogate model inputs and outputs, and architecture, parallelized training, testing module and surrogate models portable as DLLs.</br>
+* **ReadySim** by Donald Hume et al. (2020). ReadySim provides a means for researchers to perform musculoskeletal simulations directly in a finite element framework. The software uses MATLAB and Python to interface with ABAQUS/Explicit input and output files and includes modules for model segment scaling, kinematics estimation, and muscle force optimization. The JobQueue API allows for asynchronous process control via MATLAB to parallelize optimization problems and improve computational runtime when possible.</br>
+:page_facing_up: [paper](https://doi.org/10.1002/cnm.3396) |
+:computer: [website](https://simtk.org/projects/readysim) 
+
+* **Surrogate Contact Modeling Toolbox** by Ilan Eskinazi and Benjamin Fregly (2016). This opensource toolbox provides researchers with the capabilities to construct and use surrogate contact models, including multiple domains for sampling including out-of-contact configurations, a multi-threaded sampler that makes use of FEBio's contact modeling capabilities, flexible specification of surrogate model inputs and outputs, and architecture, parallelized training, testing module and surrogate models portable as DLLs.</br>
+[:computer: website | :floppy_disk: source ](https://doi.org/10.1109/TBME.2015.2455510)
 :computer: [website](https://simtk.org/projects/scmt/) 
 
-* **Gridap: An extensible Finite Element toolbox in Julia** by Santiago Badia1 and Francesc Verdugo (2020).   
+* **Gridap: An extensible Finite Element toolbox in Julia** by Santiago Badia1 and Francesc Verdugo (2020). </br>
 :page_facing_up: [paper](https://joss.theoj.org/papers/10.21105/joss.02520) |
-:page_facing_up: [Users' Guide](https://arxiv.org/abs/1910.01412)
+:page_facing_up: [Users' Guide](https://arxiv.org/abs/1910.01412) |
 :floppy_disk: [code/source](lhttps://github.com/gridap/Gridap.jl)
 
 ### Finite Element Models
@@ -734,18 +741,17 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 :floppy_disk: [source](https://figshare.shef.ac.uk/articles/The_Muscle_Standardised_Femur_model/4578298)
 
 ## Statistical Analysis
-* [G*Power](https://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower.html)
-* [spm1d](https://spm1d.org/): package for one-dimensional [Statistical Parametric Mapping](http://www.scholarpedia.org/article/Statistical_parametric_mapping)
-* [SPSS Statistics](https://www.ibm.com/uk-en/products/spss-statistics) (commercial)
+* [**G*Power**](https://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower.html)
+* [**spm1d**](https://spm1d.org/): package for one-dimensional [Statistical Parametric Mapping](http://www.scholarpedia.org/article/Statistical_parametric_mapping)
+* [**SPSS Statistics**](https://www.ibm.com/uk-en/products/spss-statistics) (commercial)
 
-
-## Optimal Control and Trajectory Optimization :rocket: [WIP]
+## Optimal Control and Trajectory Optimization :rocket:
 
 * **OpenSim Moco** by Chris Dembia, Nick Bianco and the OpenSim team (2019). OpenSim Moco is a software toolkit to solve optimal control problems with musculoskeletal models defined in OpenSim, including those with kinematic constraints. Using the direct collocation method, Moco can solve a wide range of problems, including motion tracking, motion prediction, and parameter optimization. The design of Moco focuses on ease-of-use, customizability, and extensibility. Just like OpenSim itself, Moco has interfaces in XML/command-line, Matlab, Python, Java, and C++.  
 :page_facing_up: [preprint](https://www.biorxiv.org/content/10.1101/839381v1) |
 :computer: [website](https://simtk.org/projects/opensim-moco) |
 :floppy_disk: [source](https://github.com/opensim-org/opensim-moco) |
-:star: [materials from preprint](https://github.com/stanfordnmbl/mocopaper)
+:star: [materials from preprint](https://github.com/stanfordnmbl/mocopaper) |
 :movie_camera: [webinar](https://www.youtube.com/watch?v=IYYZgyE33pU&feature=youtu.be)
 
 * **Rapid 3D muscle-driven predictive simulations** by Antoine Falisse et al. (2019). This framework relies on numerical tools including direct collocation, implicit differential equations, and algorithmic differentiation, and generates predictive simulations of gait in about 35 minutes (single core of a standard laptop computer) with muscle-driven 3D models (29 degrees of freedom and 92 muscles). The code contains a series of example predictive simulations in which we varied objective function, musculoskeletal properties, and gait speed. </br>
@@ -776,6 +782,11 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 * **Optimal Control of Musculoskeletal Movement Using OpenSim & MATLAB** by Leng-Feng Lee and Brian R. Umberger (2016). This package includes an approach for generating optimal control simulations of human movement using OpenSim and MATLAB based on the direct collocation approach. Models, results and a complete working example are provided. </br>
 :page_facing_up: [paper](https://peerj.com/articles/1638.pdf) |
 [:computer: website | :floppy_disk: source ](https://simtk.org/projects/directcolloc)
+
+
+## Scientific Data Visualization
+* [**Paraview**](https://www.paraview.org)
+* [**Mayavi**](https://docs.enthought.com/mayavi/mayavi/) - Python tool :snake:
 
 
 ## Societies and Initiatives :office:
