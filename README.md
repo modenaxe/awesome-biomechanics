@@ -1,6 +1,6 @@
 # Awesome Biomechanics 
 
-## [Still a Work In Progress (might include incorrect descriptions) - feel free of contributing]
+## [Still a Work In Progress (includes incomplete descriptions) - feel free of contributing]
 
 ## Table of contents
 
@@ -16,7 +16,7 @@
   - [Energetics :fire:](#energetics-fire)
   - [Walking :walking:](#walking-walking)
   - [Running :running:](#running-running)
-    - [Instrumented Prostheses :chart_with_upwards_trend:](#instrumented-prostheses-chart_with_upwards_trend)
+  - [Instrumented Prostheses :chart_with_upwards_trend:](#instrumented-prostheses-chart_with_upwards_trend)
 - [Gait Analysis and Motion Capture](#gait-analysis-and-motion-capture)
   - [Gait Analysis Markersets [TODO: add references and resources]](#gait-analysis-markersets-todo-add-references-and-resources)
   - [Motion Capture Data Import and Processing [WIP]](#motion-capture-data-import-and-processing-wip)
