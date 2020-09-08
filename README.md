@@ -621,6 +621,12 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 :computer: [website](http://www.nmsbuilder.org/) |
 :movie_camera: [YouTube tutorial](https://www.youtube.com/watch?v=UtAMTFM1vsI)
 
+* **Resources for creating musculoskeletal models from segmentations** by Luca Modenese et al. (2018). This includes materials (step-to-step guide and Matlab scripts) to guide users in creating musculoskeletal models of the lower limb from medical images using a workflow that includes MeshLab, MATLAB and NMSBuilder.</br>
+:page_facing_up: [paper](https://doi.org/10.1016/j.jbiomech.2018.03.039) |
+:computer: [website](https://simtk.org/projects/subj-spec-model/) |
+:page_facing_up: [step-by-step guide](https://figshare.shef.ac.uk/articles/dataset/Data_for_paper_Investigation_of_the_dependence_of_joint_contact_forces_on_musculotendon_parameters_using_a_codified_workflow_for_image-based_modelling_/5863422) |
+:floppy_disk: [scripts (MATLAB)](https://figshare.com/articles/Code_for_paper_Investigation_of_the_dependence_of_joint_contact_forces_on_musculotendon_parameters_using_a_codified_workflow_for_image-based_modelling_/6392423)
+
 
 ### Automatic Definition of Bony Landmarks and Reference Systems :skull:
 
