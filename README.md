@@ -764,7 +764,10 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 :floppy_disk: [source](https://github.com/KULeuvenNeuromechanics/MuscleRedundancySolver) |
 :floppy_disk: [dev_repo](https://github.com/antoinefalisse/solvemuscleredundancy_dev)
 
-* [opty](https://github.com/csu-hmc/opty) by Jason Moore and Ton van den Bogert
+* **opty** by Jason Moore and Ton van den Bogert (2018). Opty utilizes symbolic descriptions of ordinary differential equations expressed with [SymPy](https://www.sympy.org/en/index.html) to form the constraints needed to solve optimal control and parameter identification problems using the direct collocation method and non-linear programming. </br>
+:page_facing_up: [paper](https://joss.theoj.org/papers/10.21105/joss.00300) |
+:computer: [documentation](https://opty.readthedocs.io/en/latest/) |
+:floppy_disk: [source](https://github.com/csu-hmc/opty) 
 
 * https://simtk.org/projects/datatracking
 
