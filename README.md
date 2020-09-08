@@ -163,7 +163,7 @@
 :page_facing_up: [paper](https://dx.doi.org/10.2196%2Fjmir.2930) |
 :dvd: [dataset](https://www.smir.ch/objects/214315) |
 :computer: [website](https://www.smir.ch/)
-   * _SMIR pelves and selected pelvic landmarks_ from five experienced raters (20 pelves). [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3384055.svg)]
+   * _SMIR pelves and selected pelvic landmarks_ from five experienced raters (20 pelves). [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3384055.svg)]]
    :page_facing_up: [paper](https://www.nature.com/articles/s41598-019-49573-4) |
    :dvd: [dataset](https://doi.org/10.5281/zenodo.3384055)
    
