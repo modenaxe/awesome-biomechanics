@@ -47,10 +47,9 @@
 - [Contributing](#contributing)
 - [License](#license)
 
-
-## TO ADD/CHECK
+## STILL TO ADD/CHECK
 * Check AnyBody resource websites
-* Database of simulations? (Few studies shared simulations, no raw data)
+* Database of simulations? (Some studies shared simulations, no raw data)
 * Anatomical and gait data sets from MD-Paedigree (Montefiori et al.)
 * Stanford Mobilize and mobile phone data
 * visualization tools: [Paraview](https://www.paraview.org), Mayavi
@@ -163,11 +162,9 @@
 :page_facing_up: [paper](https://dx.doi.org/10.2196%2Fjmir.2930) |
 :dvd: [dataset](https://www.smir.ch/objects/214315) |
 :computer: [website](https://www.smir.ch/)
-   * _SMIR pelves and selected pelvic landmarks_ from five experienced raters (20 pelves). [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3384055.svg)]]
+   * _SMIR pelves and selected pelvic landmarks_ from five experienced raters (20 pelves). ![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3384055.svg)</br>
    :page_facing_up: [paper](https://www.nature.com/articles/s41598-019-49573-4) |
    :dvd: [dataset](https://doi.org/10.5281/zenodo.3384055)
-   
-   https://zenodo.org/record/3384055#.X1d_znlKgdU
    * _SMIR pelves and femurs_ segmented bone from 20 CT scans available in MATLAB format.  
    :dvd: [dataset](https://github.com/RWTHmediTEC/VSDFullBodyBoneModels)
    
@@ -711,9 +708,22 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 
 ### Finite Element Models
 
-* **PIPER Child Human Body Model** : Child finite element model scalable to different ages and posture, used to to study pediatric response to impact. This model is used for crash reconstruction studies.</br>
+* **PIPER Child Human Body Model**: Child finite element model scalable to different ages and posture, used to to study pediatric response to impact. This model is used for crash reconstruction studies.</br>
 :page_facing_up: [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0187916) |
-:floppy_disk: [source](https://gitlab.inria.fr/piper/child) |
+:floppy_disk: [source](https://gitlab.inria.fr/piper/child) 
+
+* **Orthotropic Femur Model** by Diogo Geraldes et al. (2015). </br>
+:page_facing_up: [paper](https://link.springer.com/article/10.1007/s10237-015-0740-7) |
+:floppy_disk: [source](https://figshare.com/articles/dataset/Orthotropic_Femur_Model/1419589)
+
+* **The "Standardised Femur" model** by Marco Viceconti.  The standardized femur is the 3D surface model of a femoral bone analogue (mod. #3103) produced by Pacific Research Labs (Vashon Island, Washington, USA) which was for a long while the "de facto" standard in experimental orthopaedic biomechanics. Much experimental data based on this bone analogue are available in the literature; this geometry is proposed as a reference for orthopaedic biomechanics finite element studies. </br>
+:page_facing_up: [paper](https://pubmed.ncbi.nlm.nih.gov/8872285/) |
+:floppy_disk: [source](https://figshare.shef.ac.uk/articles/The_Standardised_Femur_model/3839766)
+
+* **The "Muscle Standardised Femur" model** by Marco Viceconti. This is a version of the Standardised Femur with muscle insertions modelled as separate regions (surface patches). This makes much easier to create finite element models in which the muscles insertion areas are accurately modelled. </br>
+:page_facing_up: [paper1](https://doi.org/10.1016/S0021-9290(02)00175-6) |
+:page_facing_up: [paper2](https://doi.org/10.1243%2F09544110360579312) |
+:floppy_disk: [source](https://figshare.shef.ac.uk/articles/The_Muscle_Standardised_Femur_model/4578298)
 
 ## Statistical Analysis
 * [G*Power](https://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower.html)
