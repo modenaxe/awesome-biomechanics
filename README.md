@@ -56,11 +56,14 @@
 * anatomy dataset: https://www.cancerimagingarchive.net/access-data/
 * https://github.com/mkjung99/biomechanics_dataset
 * https://github.com/topics/biomechanics
-* https://nda.nih.gov/oai
 * https://github.com/facebookresearch/fairmotion
 * https://github.com/bartbols/muscle_architecture_DTI
 * http://hmc.csuohio.edu/projects/gait-control-id
 * MD-Paedigree simulations and geometries
+* https://saildatabank.com/
+* https://www.ukbiobank.ac.uk/
+* https://nda.nih.gov/oai
+* https://avehtari.github.io/BDA_course_Aalto
 
 
 ## Online Courses :clapper:
