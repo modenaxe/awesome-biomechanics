@@ -719,7 +719,7 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 :page_facing_up: [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0187916) |
 :floppy_disk: [source](https://gitlab.inria.fr/piper/child) 
 
-* **Orthotropic Femur Model** by Diogo Geraldes et al. (2015). </br>
+* **Orthotropic Femur Model** by Diogo Geraldes et al. (2015). A complete continuum heterogeneous orthotropic finite element model of the standardised femur, with material properties and directionality resulting from a mechanical loading environment incorporating multiple daily living activities. It is provided as mesh with material properties (similar to Abaqus input file). </br>
 :page_facing_up: [paper](https://link.springer.com/article/10.1007/s10237-015-0740-7) |
 :floppy_disk: [source](https://figshare.com/articles/dataset/Orthotropic_Femur_Model/1419589)
 
