@@ -748,14 +748,26 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 :star: [materials from preprint](https://github.com/stanfordnmbl/mocopaper)
 :movie_camera: [webinar](https://www.youtube.com/watch?v=IYYZgyE33pU&feature=youtu.be)
 
-* [3dpredictsim](https://github.com/antoinefalisse/3dpredictsim) by Antoine Falisse: Generate 3D muscle-driven predictive simulations of human movement using direct collocation and algorithmic differentiation
+* **Rapid 3D muscle-driven predictive simulations** by Antoine Falisse et al. (2019). This framework relies on numerical tools including direct collocation, implicit differential equations, and algorithmic differentiation, and generates predictive simulations of gait in about 35 minutes (single core of a standard laptop computer) with muscle-driven 3D models (29 degrees of freedom and 92 muscles). The code contains a series of example predictive simulations in which we varied objective function, musculoskeletal properties, and gait speed. </br>
+:page_facing_up: [paper](https://doi.org/10.1098/rsif.2019.0402) |
+:computer: [website](https://simtk.org/projects/3dpredictsim) |
+:floppy_disk: [source](https://github.com/antoinefalisse/3dpredictsim) 
 
-* [FROST: Fast Robot Optimization and Simulation Toolkit](https://github.com/ayonga/frost-dev): FROST (Fast Robot Optimization and Simulation Toolkit) for MATLAB provides a general full-body dynamics gait optimization and simulation framework for bipedal walking robots using virtual constraints based feedback controllers. It uses a Wolfram Mathematica backend. **ADD PUB FROM http://ayonga.github.io/frost-dev/**
+* **FROST: Fast Robot Optimization and Simulation Toolkit** by Hereid et al. (2016). FROST for MATLAB provides a general full-body dynamics gait optimization and simulation framework for bipedal walking robots using virtual constraints based feedback controllers. The Wolfram Mathematica backend enables generation of analytic expressions for multi-domain system dynamics and kinematics symbolically, compiled as .MEX files under MATLAB. FROST also features state-of-the-art direct collocation approaches for the full-order dynamics gait optimization problems to guarantee fast and reliable convergence. </br>
+:page_facing_up: [paper](https://ieeexplore.ieee.org/document/8202230) |
+:computer: [website](http://ayonga.github.io/frost-dev/) |
+:floppy_disk: [source](https://github.com/ayonga/frost-dev) 
 
-* [muscle redundancy solver](https://github.com/KULeuvenNeuromechanics/MuscleRedundancySolver) by KU Leuven: An algorithm to estimate muscle tendon properties and/or compute muscle coordination by tracking experimental data with a musculoskeletal model assuming optimal control to solve for the muscle redundancy. [dev_repo](https://github.com/antoinefalisse/solvemuscleredundancy_dev) website: https://simtk.org/projects/optcntrlmuscle
+* **Muscle Redundancy Solver** by Friedl de Groote et al. (2016). An algorithm to estimate muscle tendon properties and/or compute muscle coordination by tracking experimental data with a musculoskeletal model assuming optimal control to solve for the muscle redundancy. </br>
+:page_facing_up: [paper](https://link.springer.com/article/10.1007/s10439-016-1591-9) |
+:computer: [website](https://simtk.org/projects/optcntrlmuscle) |
+:floppy_disk: [source](https://github.com/KULeuvenNeuromechanics/MuscleRedundancySolver) |
+:floppy_disk: [dev_repo](https://github.com/antoinefalisse/solvemuscleredundancy_dev)
 
 * [opty](https://github.com/csu-hmc/opty) by Jason Moore and Ton van den Bogert
+
 * https://simtk.org/projects/datatracking
+
 * [Optimal Control of Musculoskeletal Movement Using OpenSim & MATLAB](https://simtk.org/projects/directcolloc/)
 
 
