@@ -588,6 +588,7 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 
 * **[3DSlicer](https://www.slicer.org/)**
 * **[ITK-Snap](http://www.itksnap.org/pmwiki/pmwiki.php)**
+* **[InVesalius]**(https://invesalius.github.io/)
 * **[Materialise Mimics](https://www.materialise.com/en/medical/mimics-innovation-suite) (commercial)**
 * **[MITK](https://docs.mitk.org/2016.11/index.html)**  
 * **[MITK-GEM](http://araex.github.io/mitk-gem-site/)** is based on MITK but includes also mesh processing functionalities. Aimed to generation of finite element models. </br>
