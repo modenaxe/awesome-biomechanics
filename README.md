@@ -49,6 +49,11 @@
 - [License](#license)
 
 ## STILL TO ADD/CHECK
+* **StradView** by Machine Intelligence Laboratory of Cambridge University, Department of Engineering. StradView was developed from Stradwin, which is a tool for freehand 3D ultrasound recording and visualisation. Stradwin is also a useful tool for visualisation from 3D medical data of any sort. It can load most types of DICOM data or image sequences, and produce very high quality surface models which can also be turned into movies using scripts. It can also be used for cortical bone mapping from DICOM CT data. </br>
+:computer: [website](https://mi.eng.cam.ac.uk/Main/StradView) |
+:page_facing_up: [How-To](http://mi.eng.cam.ac.uk/~gmt11/stradview/howto.htm)
+* **StradWin** Stradwin is an experimental, cross-platform tool primarily for freehand 3D ultrasound acquisition, visualisation and elastography. However, Stradwin can also be used with 3D medical data of any sort: its segmentation and surface extraction facilities are particularly powerful. It can load most types of DICOM image files and has unique facilities to measure bone cortical thickness from CT data. </br>
+:computer: [website](https://mi.eng.cam.ac.uk/Main/MedIMSoftware)
 * Check AnyBody resource websites
 * Database of simulations? (Some studies shared simulations, no raw data)
 * Anatomical and gait data sets from MD-Paedigree (Montefiori et al.)
@@ -705,6 +710,10 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 * [Salome_meca](https://www.code-aster.org/spip.php?article303)
 
 ### Finite Element Analysis Software Tools
+
+* **BoneMat** mainly developed at [Istituto Ortopedico Rizzoli in Bologna](http://www.ior.it/en), Italy. Bonemat is a freeware that maps on a Finite Element mesh bone elastic properties derived from Computed Tomography images. Bonemat can import CT images and FE models, interactively visualise them, and export the updated FE mesh once bone properties have been mapped. From this 3.2 version, Bonemat supports import/export to and from both Ansys and Abaqus, perhaps the two most used commercial FE packages. </br>
+:page_facing_up: [paper](https://doi.org/10.1016/j.medengphy.2006.10.014) |
+:computer: [website](http://www.bonemat.org/)
 
 * **GIBBON Toolbox** by [Kevin Moerman](https://kevinmoerman.org/). GIBBON (The Geometry and Image-Based Bioengineering add-On) is an open-source MATLAB toolbox that includes an array of image and geometry visualization and processing tools and is interfaced with free open source software such as TetGen, for robust tetrahedral meshing, and FEBio and Abaqus for finite element analysis. The combination provides a highly flexible image-based modelling environment and enables advanced inverse finite element analysis. </br> 
 :page_facing_up: [paper](https://joss.theoj.org/papers/10.21105/joss.00506) |
