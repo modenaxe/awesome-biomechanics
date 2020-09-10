@@ -54,6 +54,15 @@
 :page_facing_up: [How-To](http://mi.eng.cam.ac.uk/~gmt11/stradview/howto.htm)
 * **StradWin** Stradwin is an experimental, cross-platform tool primarily for freehand 3D ultrasound acquisition, visualisation and elastography. However, Stradwin can also be used with 3D medical data of any sort: its segmentation and surface extraction facilities are particularly powerful. It can load most types of DICOM image files and has unique facilities to measure bone cortical thickness from CT data. </br>
 :computer: [website](https://mi.eng.cam.ac.uk/Main/MedIMSoftware)
+https://mi.eng.cam.ac.uk/Main/StradWin
+* **UltraTrack** - https://doi.org/10.1016/j.cmpb.2016.02.016
+* **automatic fascicle tracking algorithm** for gastrocs https://zenodo.org/record/2598553#.X1o-b3lKgdU
+* **ImageJ + FIJI**
+* youtube tutorials and publications for segmentation software ([Invesalius](https://www.youtube.com/channel/UChTsspNY3aO-nYmNnB2DPyA/featured), 3DSlicer, [ITKSnap](http://www.itksnap.org/pmwiki/pmwiki.php?n=Videos.SNAP3))
+https://invesalius.github.io/publication.html
+https://www.youtube.com/channel/UC11x1iQ7ydSIFYw4L6wveXg
+https://www.slicer.org/wiki/Documentation/Nightly/Training
+https://www.slicer.org/wiki/Main_Page
 * Check AnyBody resource websites
 * Database of simulations? (Some studies shared simulations, no raw data)
 * Anatomical and gait data sets from MD-Paedigree (Montefiori et al.)
