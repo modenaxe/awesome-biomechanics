@@ -1,6 +1,6 @@
 # Awesome Biomechanics 
 
-## [Still a Work In Progress (includes incomplete descriptions) - feel free of contributing]
+## [Still a Work In Progress (might include incomplete descriptions)]
 
 ## Table of contents
 
@@ -347,6 +347,13 @@
 :cd: [data request](https://cams-knee.orthoload.com/data/data-request/) |
 :cd: [live dataset (CAMS-KNEE workshop)](https://cams-knee.orthoload.com/workshop-data/) |
 :computer: [website](https://cams-knee.orthoload.com/)
+
+### Upper Limb
+
+* **Shoulder movements database** by Bart Bolsterlee et al. (2013). Data for five subjects (2 females, age 29.2 ± 2.3 year, height 176.3 ± 7.2 cm) performing range of motion and activities of daily living for the shoulder. Dataset includes kinematic, force and EMG data. A user guide and Matlab scripts are also available. </br>
+:page_facing_up: [paper](https://link.springer.com/article/10.1007%2Fs11517-013-1065-2) |
+:dvd: [dataset](https://simtk.org/frs/?group_id=465) |
+:computer: [website](https://simtk.org/projects/dsem)
 
 ## Gait Analysis and Motion Capture
 
