@@ -390,6 +390,9 @@ https://mi.eng.cam.ac.uk/Main/StradWin
 * [MOKKA](https://biomechanical-toolkit.github.io/mokka/): GUI built on BTK functionalities. 
 Allows visualisation of c3d contents and basic processing, such as filtering and event detection. Great open source alternative to Vicon Nexus for these functionalities.
 
+* **CMAS open-code** by CMAS (Clinical Movement Analysis Society - UK & Ireland) is a project with the goal of creating an online platform where everyone interested in movement analysis can share coding resources. Include tools for anonymization, importing, calculating gait profile scores, etc. </br>
+:floppy_disk: [source](https://github.com/cmasuki/open-code)
+
 * **motoNMS** by Alice Mantoan et al. (2015). MATLAB tool that provides a complete, user friendly and highly configurable tool to automatically process experimental motion data from different laboratories in C3D format for their use into the OpenSim neuromusculoskeletal software. </br>
 :page_facing_up: [paper](https://link.springer.com/article/10.1186/s13029-015-0044-4)
 :computer: [website](https://simtk.org/projects/motonms)
