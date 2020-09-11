@@ -697,6 +697,9 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 :floppy_disk: [source](https://github.com/MusculoskeletalAtlasProject/) |
 :star: [plugins](https://github.com/mapclient-plugins)
 
+* **Statistical Shape Model of the Knee** by Lowell Smoger et al. (2019). A statistical shape and alignment model was created for the structures of the knee: the femur, tibia and patella, associated articular cartilage, and soft tissue structures for a training set of 50 subjects/specimens. The statistical model describes intersubject anatomic variability in the shape and alignment of the knee structures and provides the ability to automatedly generate the geometry for a joint-level finite element analysis for members of the training set or virtual subjects derived from the statistical model, thus facilitating population-based evaluations.</br>
+:computer: [website](https://simtk.org/projects/ssm_knee)
+
 * **Statistical Shape Modelling Research Toolkit (SSMRT)** by Daniel Nolte and the MSk Dynamics group, Imperial College London (2016). The toolkit packages a set of powerful technologies that may be used to predict shape using one of the provided models or to create your own SSM. </br>
 :page_facing_up: [paper](https://doi.org/10.1016/j.jbiomech.2016.09.005) |
 :computer: [website](https://www.msksoftware.org.uk/software/ssmrt/) 
