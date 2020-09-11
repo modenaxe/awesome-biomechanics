@@ -77,7 +77,7 @@ https://mi.eng.cam.ac.uk/Main/StradWin
 * https://nda.nih.gov/oai
 * https://avehtari.github.io/BDA_course_Aalto
 * collection of image resources: http://www.aylward.org/notes/open-access-medical-image-repositories
-   
+* ML topics: https://distill.pub/
 
 
 ## Online Courses :clapper:
