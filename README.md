@@ -1,22 +1,21 @@
-# Awesome Biomechanics 
+# Awesome Biomechanics <!-- omit in toc -->
 
-## [Still a Work In Progress (might include incomplete descriptions)]
+## [Still a Work In Progress (might include incomplete descriptions)] <!-- omit in toc -->
 
-## Table of contents
-
+## Table of contents <!-- omit in toc -->
 - [Online Courses :clapper:](#online-courses-clapper)
 - [YouTube Channels :tv:](#youtube-channels-tv)
-- [Videos :video_camera:](#videos-videocamera)
-- [Teaching Resources :triangular_ruler:](#teaching-resources-triangularruler)
-- [Books :blue_book:](#books-bluebook)
+- [Videos :video_camera:](#videos-video_camera)
+- [Teaching Resources :triangular_ruler:](#teaching-resources-triangular_ruler)
+- [Books :blue_book:](#books-blue_book)
 - [Datasets :dvd:](#datasets-dvd)
   - [Human Anatomy :muscle:](#human-anatomy-muscle)
   - [Animal Anatomy :crocodile:](#animal-anatomy-crocodile)
-  - [Balance :balance_scale:](#balance-balancescale)
+  - [Balance :balance_scale:](#balance-balance_scale)
   - [Energetics :fire:](#energetics-fire)
   - [Walking :walking:](#walking-walking)
   - [Running :running:](#running-running)
-  - [Instrumented Prostheses :chart_with_upwards_trend:](#instrumented-prostheses-chartwithupwardstrend)
+  - [Instrumented Prostheses :chart_with_upwards_trend:](#instrumented-prostheses-chart_with_upwards_trend)
   - [Upper Limb](#upper-limb)
 - [Gait Analysis and Motion Capture](#gait-analysis-and-motion-capture)
   - [Gait Analysis Markersets [TODO: add references and resources]](#gait-analysis-markersets-todo-add-references-and-resources)
@@ -25,7 +24,7 @@
     - [Inertial Measurement Units](#inertial-measurement-units)
 - [Modelling and Simulation :computer:](#modelling-and-simulation-computer)
   - [Anthropometric Models](#anthropometric-models)
-  - [Multibody and Physics Engines :sleeping::arrow_lower_left::apple:](#multibody-and-physics-engines-sleepingarrowlowerleftapple)
+  - [Multibody and Physics Engines :sleeping::arrow_lower_left::apple:](#multibody-and-physics-engines-sleepingarrow_lower_leftapple)
   - [Computational Muscle Models](#computational-muscle-models)
   - [Neuromusculoskeletal Simulation Software :joystick:](#neuromusculoskeletal-simulation-software-joystick)
   - [Neuromusculoskeletal Simulation Tools](#neuromusculoskeletal-simulation-tools)
@@ -49,18 +48,18 @@
 - [Contributing](#contributing)
 - [License](#license)
 
-## STILL TO ADD/CHECK
+## STILL TO ADD/CHECK <!-- omit in toc -->
 
-### Ultrasound
+### Ultrasound  <!-- omit in toc -->
 * **StradWin** Stradwin is an experimental, cross-platform tool primarily for freehand 3D ultrasound acquisition, visualisation and elastography. However, Stradwin can also be used with 3D medical data of any sort: its segmentation and surface extraction facilities are particularly powerful. It can load most types of DICOM image files and has unique facilities to measure bone cortical thickness from CT data. </br>
 :computer: [website](https://mi.eng.cam.ac.uk/Main/MedIMSoftware)
 https://mi.eng.cam.ac.uk/Main/StradWin
 * **UltraTrack** - https://doi.org/10.1016/j.cmpb.2016.02.016
 * **automatic fascicle tracking algorithm** for gastrocs https://zenodo.org/record/2598553#.X1o-b3lKgdU
-----
-### DTI and tractography
+
+### DTI and tractography <!-- omit in toc -->
 * https://github.com/bartbols/muscle_architecture_DTI
-----
+
 * Check AnyBody/SimTK for further resources
 * Database of simulations? (Some studies shared simulations, no raw data)
 * Anatomical and gait data sets from MD-Paedigree (Montefiori et al.)
@@ -76,9 +75,11 @@ https://mi.eng.cam.ac.uk/Main/StradWin
 * https://www.ukbiobank.ac.uk/
 * https://nda.nih.gov/oai
 * https://avehtari.github.io/BDA_course_Aalto
-* collection of image resources: http://www.aylward.org/notes/open-access-medical-image-repositories
-* ML topics: https://distill.pub/
-
+* collection of image resources - http://www.aylward.org/notes/open-access-medical-image-repositories
+* ML topics - https://distill.pub/
+  
+  
+----
 
 ## Online Courses :clapper:
 * [Lectures on animal locomotion](https://mchenrylab.bio.uci.edu/e139) by Manny Azizi and Matt McHenry, UC Irvine (2020).
