@@ -63,7 +63,6 @@ https://mi.eng.cam.ac.uk/Main/StradWin
 * Check AnyBody/SimTK for further resources
 * Database of simulations? (Some studies shared simulations, no raw data)
 * Anatomical and gait data sets from MD-Paedigree (Montefiori et al.)
-* Stanford Mobilize and mobile phone data
 * Winter's data from ISB/data in gait
 * anatomy dataset: https://www.cancerimagingarchive.net/access-data/
 * https://github.com/mkjung99/biomechanics_dataset
@@ -71,9 +70,13 @@ https://mi.eng.cam.ac.uk/Main/StradWin
 * https://github.com/facebookresearch/fairmotion
 * http://hmc.csuohio.edu/projects/gait-control-id
 * MD-Paedigree simulations and geometries
+
 * https://saildatabank.com/
 * https://www.ukbiobank.ac.uk/
 * https://nda.nih.gov/oai
+* http://mobilize.stanford.edu/
+* https://archive.ics.uci.edu/ml/datasets/MHEALTH+Dataset
+* https://www.physionet.org/about/database/
 * https://avehtari.github.io/BDA_course_Aalto
 * collection of image resources - http://www.aylward.org/notes/open-access-medical-image-repositories
 * ML topics - https://distill.pub/
