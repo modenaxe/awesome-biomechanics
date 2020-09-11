@@ -49,9 +49,7 @@
 - [License](#license)
 
 ## STILL TO ADD/CHECK
-* **StradView** by Machine Intelligence Laboratory of Cambridge University, Department of Engineering. StradView was developed from Stradwin, which is a tool for freehand 3D ultrasound recording and visualisation. Stradwin is also a useful tool for visualisation from 3D medical data of any sort. It can load most types of DICOM data or image sequences, and produce very high quality surface models which can also be turned into movies using scripts. It can also be used for cortical bone mapping from DICOM CT data. </br>
-:computer: [website](https://mi.eng.cam.ac.uk/Main/StradView) |
-:page_facing_up: [How-To](http://mi.eng.cam.ac.uk/~gmt11/stradview/howto.htm)
+
 * **StradWin** Stradwin is an experimental, cross-platform tool primarily for freehand 3D ultrasound acquisition, visualisation and elastography. However, Stradwin can also be used with 3D medical data of any sort: its segmentation and surface extraction facilities are particularly powerful. It can load most types of DICOM image files and has unique facilities to measure bone cortical thickness from CT data. </br>
 :computer: [website](https://mi.eng.cam.ac.uk/Main/MedIMSoftware)
 https://mi.eng.cam.ac.uk/Main/StradWin
@@ -821,6 +819,12 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 ## Scientific Data Visualization
 * [**Paraview**](https://www.paraview.org)
 * [**Mayavi**](https://docs.enthought.com/mayavi/mayavi/) - Python tool :snake:
+* [**ImageJ**](https://imagej.net/)
+* [**Fiji**](https://imagej.net/Fiji) - version of ImageJ with pre-built plugins
+* **StradView** by Machine Intelligence Laboratory of Cambridge University, Department of Engineering. StradView was developed from Stradwin, which is a tool for freehand 3D ultrasound recording and visualisation. Stradwin is also a useful tool for visualisation from 3D medical data of any sort. It can load most types of DICOM data or image sequences, and produce very high quality surface models which can also be turned into movies using scripts. It can also be used for cortical bone mapping from DICOM CT data. </br>
+:computer: [website](https://mi.eng.cam.ac.uk/Main/StradView) |
+:page_facing_up: [How-To](http://mi.eng.cam.ac.uk/~gmt11/stradview/howto.htm)
+* [**MicroDicom**](https://www.microdicom.com/): MicroDicom is application for primary processing and preservation of medical images in DICOM format. It is equipped with most common tools for manipulation of DICOM images and it has an intuitive user interface. Free for use and accessible to everyone for non-commercial use.
 
 
 ## Societies and Initiatives :office:
