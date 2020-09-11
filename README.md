@@ -51,18 +51,17 @@
 
 ## STILL TO ADD/CHECK
 
+### Ultrasound
 * **StradWin** Stradwin is an experimental, cross-platform tool primarily for freehand 3D ultrasound acquisition, visualisation and elastography. However, Stradwin can also be used with 3D medical data of any sort: its segmentation and surface extraction facilities are particularly powerful. It can load most types of DICOM image files and has unique facilities to measure bone cortical thickness from CT data. </br>
 :computer: [website](https://mi.eng.cam.ac.uk/Main/MedIMSoftware)
 https://mi.eng.cam.ac.uk/Main/StradWin
 * **UltraTrack** - https://doi.org/10.1016/j.cmpb.2016.02.016
 * **automatic fascicle tracking algorithm** for gastrocs https://zenodo.org/record/2598553#.X1o-b3lKgdU
-* **ImageJ + FIJI**
-* youtube tutorials and publications for segmentation software ([Invesalius](https://www.youtube.com/channel/UChTsspNY3aO-nYmNnB2DPyA/featured), 3DSlicer, [ITKSnap](http://www.itksnap.org/pmwiki/pmwiki.php?n=Videos.SNAP3))
-https://invesalius.github.io/publication.html
-https://www.youtube.com/channel/UC11x1iQ7ydSIFYw4L6wveXg
-https://www.slicer.org/wiki/Documentation/Nightly/Training
-https://www.slicer.org/wiki/Main_Page
-* Check AnyBody resource websites
+----
+### DTI and tractography
+* https://github.com/bartbols/muscle_architecture_DTI
+----
+* Check AnyBody/SimTK for further resources
 * Database of simulations? (Some studies shared simulations, no raw data)
 * Anatomical and gait data sets from MD-Paedigree (Montefiori et al.)
 * Stanford Mobilize and mobile phone data
@@ -71,13 +70,14 @@ https://www.slicer.org/wiki/Main_Page
 * https://github.com/mkjung99/biomechanics_dataset
 * https://github.com/topics/biomechanics
 * https://github.com/facebookresearch/fairmotion
-* https://github.com/bartbols/muscle_architecture_DTI
 * http://hmc.csuohio.edu/projects/gait-control-id
 * MD-Paedigree simulations and geometries
 * https://saildatabank.com/
 * https://www.ukbiobank.ac.uk/
 * https://nda.nih.gov/oai
 * https://avehtari.github.io/BDA_course_Aalto
+* collection of image resources: http://www.aylward.org/notes/open-access-medical-image-repositories
+   
 
 
 ## Online Courses :clapper:
@@ -606,10 +606,12 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 ## Subject-Specific Modelling
 
 ### Segmentation of Medical Images :art: [WIP]
-
-* **[3DSlicer](https://www.slicer.org/)**
-* **[ITK-Snap](http://www.itksnap.org/pmwiki/pmwiki.php)**
-* **[InVesalius]**(https://invesalius.github.io/)
+* **[3DSlicer](https://www.slicer.org/)** - 
+:computer: [website](https://www.slicer.org/wiki/Main_Page) |
+:page_facing_up: [Documentation](https://www.slicer.org/wiki/Documentation/Nightly/Training) | 
+:video_camera: [Youtube tutorials](https://www.youtube.com/channel/UC11x1iQ7ydSIFYw4L6wveXg)
+* **[ITK-Snap](http://www.itksnap.org/pmwiki/pmwiki.php)** - :video_camera: [Youtube tutorials](http://www.itksnap.org/pmwiki/pmwiki.php?n=Videos.SNAP3)
+* **[InVesalius](https://invesalius.github.io/)** - :page_facing_up: [paper list](https://invesalius.github.io/publication.html) | :video_camera: [Youtube tutorials](https://www.youtube.com/channel/UChTsspNY3aO-nYmNnB2DPyA/featured)
 * **[Materialise Mimics](https://www.materialise.com/en/medical/mimics-innovation-suite) (commercial)**
 * **[MITK](https://docs.mitk.org/2016.11/index.html)**  
 * **[MITK-GEM](http://araex.github.io/mitk-gem-site/)** is based on MITK but includes also mesh processing functionalities. Aimed to generation of finite element models. </br>
