@@ -607,17 +607,27 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 
 ### Segmentation of Medical Images :art: [WIP]
 * **[3DSlicer](https://www.slicer.org/)** - 
+:page_facing_up: [paper (Slicer v4)](https://dx.doi.org/10.1016%2Fj.mri.2012.05.001) |
 :computer: [website](https://www.slicer.org/wiki/Main_Page) |
 :page_facing_up: [Documentation](https://www.slicer.org/wiki/Documentation/Nightly/Training) | 
 :video_camera: [Youtube tutorials](https://www.youtube.com/channel/UC11x1iQ7ydSIFYw4L6wveXg)
-* **[ITK-Snap](http://www.itksnap.org/pmwiki/pmwiki.php)** - :video_camera: [Youtube tutorials](http://www.itksnap.org/pmwiki/pmwiki.php?n=Videos.SNAP3)
-* **[InVesalius](https://invesalius.github.io/)** - :page_facing_up: [paper list](https://invesalius.github.io/publication.html) | :video_camera: [Youtube tutorials](https://www.youtube.com/channel/UChTsspNY3aO-nYmNnB2DPyA/featured)
+* **[ITK-Snap](http://www.itksnap.org/pmwiki/pmwiki.php)** - 
+:page_facing_up: [paper](https://doi.org/10.1016/j.neuroimage.2006.01.015) |
+:video_camera: [Video tutorials](http://www.itksnap.org/pmwiki/pmwiki.php?n=Videos.SNAP3)
+* **[InVesalius](https://invesalius.github.io/)** - 
+:page_facing_up: [paper list](https://invesalius.github.io/publication.html) | 
+:video_camera: [Youtube tutorials](https://www.youtube.com/channel/UChTsspNY3aO-nYmNnB2DPyA/featured)
 * **[Materialise Mimics](https://www.materialise.com/en/medical/mimics-innovation-suite) (commercial)**
-* **[MITK](https://docs.mitk.org/2016.11/index.html)**  
+* **[MITK](https://docs.mitk.org/2016.11/index.html)** - 
+:page_facing_up: [paper](https://doi.org/10.1117/12.535112) |
+:page_facing_up: [tutorials](https://www.mitk.org/wiki/Tutorials)
 * **[MITK-GEM](http://araex.github.io/mitk-gem-site/)** is based on MITK but includes also mesh processing functionalities. Aimed to generation of finite element models. </br>
+:page_facing_up: [paper](https://doi.org/10.1080/10255842.2016.1181173) |
+:computer: [website](https://simtk.org/projects/mitk-gem) |
+:star: [resources](https://github.com/araex/mitk-gem/tree/master/Scripts)
 * **[SASHIMI Segmentation](https://github.com/bartbols/SASHIMI) :sushi:** by Bart Bolsterlee. SASHIMI Segmentation is a MATLAB App for segmentation of multi-slice images. </br> 
 * **[Seg3D](https://www.sci.utah.edu/cibc-software/seg3d.html)**    
-* **[Simpleware ScanIP](https://www.synopsys.com/simpleware/software/scanip.html)**    
+* **[Simpleware ScanIP](https://www.synopsys.com/simpleware/software/scanip.html) (commercial)**.  
 
 ### Manipulation, Processing and Comparison of Surface Meshes
 * [**Autodesk Netfabb**](https://www.autodesk.com/products/netfabb/overview)
