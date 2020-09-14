@@ -809,6 +809,7 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
    * [International Shoulder Group](https://isbweb.org/isg)
    * [Motor Control Group](http://www.mcg.isbweb.org/)
    * [Technical Group on Computer Simulation (TGCS)](https://isbweb.org/~tgcs/iscsb-2019/canmore.html)
+* [International Society of Biomechanics in Sports](https://isbs.org)
 * [National Biomechanics Day](http://thebiomechanicsinitiative.org/)
 
 ## Miscellaneous Online Resources 
