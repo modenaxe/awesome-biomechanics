@@ -17,6 +17,7 @@
   - [Running :running:](#running-running)
   - [Instrumented Prostheses :chart_with_upwards_trend:](#instrumented-prostheses-chart_with_upwards_trend)
   - [Upper Limb](#upper-limb)
+  - [Hand](#hand)
 - [Gait Analysis and Motion Capture](#gait-analysis-and-motion-capture)
   - [Gait Analysis Markersets [TODO: add references and resources]](#gait-analysis-markersets-todo-add-references-and-resources)
   - [Motion Capture Data Import and Processing [WIP]](#motion-capture-data-import-and-processing-wip)
@@ -384,6 +385,13 @@ https://mi.eng.cam.ac.uk/Main/StradWin
 :page_facing_up: [paper](https://link.springer.com/article/10.1007%2Fs11517-013-1065-2) |
 :dvd: [dataset](https://simtk.org/frs/?group_id=465) |
 :computer: [website](https://simtk.org/projects/dsem)
+
+### Hand
+
+* **A large calibrated database of hand movements and grasps kinematics** by Néstor J. Jarque-Bou et al. (2020). The dataset includes calibrated kinematic data for 77 subjects and 40 movements (each repeated several times), resulting in the largest available kinematic dataset. The dataset derives from three multimodal datasets, previously released (Ninapro DB1, DB2 and DB5, that include electromyography, inertial and dynamic data). Hand kinematics was measured for all subjects using a 22-sensor CyberGlove II data glove. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3357966.svg)](https://doi.org/10.5281/zenodo.3357966)</br>
+:page_facing_up: [paper](https://www.nature.com/articles/s41597-019-0349-2) |
+:dvd: [dataset](https://zenodo.org/record/3480074#.X1_ocWhKgdU) |
+:star: [code](https://zenodo.org/record/3357966#.X1_n9mhKgdU)
 
 ## Gait Analysis and Motion Capture
 
