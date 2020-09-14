@@ -80,6 +80,7 @@ https://mi.eng.cam.ac.uk/Main/StradWin
 * http://hmc.csuohio.edu/projects/gait-control-id
 * MD-Paedigree simulations and geometries
 * https://github.com/Kitware
+* http://salt.slicer.org/  shape analysis + data+ tutorials
 
 * https://saildatabank.com/
 * https://www.ukbiobank.ac.uk/
