@@ -79,6 +79,7 @@ https://mi.eng.cam.ac.uk/Main/StradWin
 * https://github.com/facebookresearch/fairmotion
 * http://hmc.csuohio.edu/projects/gait-control-id
 * MD-Paedigree simulations and geometries
+* https://github.com/Kitware
 
 * https://saildatabank.com/
 * https://www.ukbiobank.ac.uk/
@@ -723,12 +724,27 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 
 ### Statistical Shape Modelling
 
+* **Deformetrica** is a software (Python tool :snake:) for the statistical analysis of 2D and 3D shape data. Deformetrica comes with three main applications: registration, atlas construction and geodesic regression. </br>
+:page_facing_up: [list of papers](http://www.deformetrica.org/#references) |
+:computer: [website](https://www.deformetrica.org/) |
+:floppy_disk: [source](https://gitlab.com/icm-institute/aramislab/deformetrica)
+
 * **Musculoskeletal Atlas Project (MAP)** by Ju Zhang et al. (2014). Open-source software framework in Python :snake: with plug-in architecture for creating musculoskeletal models. The client-side application (MAP Client) facilitates dicom and motion capture integration, registration tools, and meshing capabilities, and uses statistical shape modelling (based on the Melbourne Femur Collection, which consists of 320 full body CT scans) to provide a best-match to mocap and medical imaging data and generate surface geometry to generate an OpenSim model. **Looks not maintained.**</br>
 :page_facing_up: [paper](https://www.researchgate.net/profile/Ju_Zhang15/publication/301951056_The_MAP_Client_User-Friendly_Musculoskeletal_Modelling_Workflows/links/5735044508ae298602df08c8/The-MAP-Client-User-Friendly-Musculoskeletal-Modelling-Workflows.pdf) |
 :computer: [website](https://simtk.org/projects/map) |
 :computer: [docs](https://map-client.readthedocs.io/en/latest/) |
 :floppy_disk: [source](https://github.com/MusculoskeletalAtlasProject/) |
 :star: [plugins](https://github.com/mapclient-plugins)
+
+* **Scalismo** by the [Graphics and Vision Research Group](http://gravis.cs.unibas.ch/) at the University of Basel. Scalismo is a library for statistical shape modeling and model-based image analysis in Scala. </br>
+:computer: [website (includes tutorials)](https://scalismo.org/) |
+:floppy_disk: [source](https://github.com/unibas-gravis/scalismo)
+
+* **SPHARM-PDM Toolbox** is a tool that computes point-based models using a parametric boundary description for the computing of Shape analysis. It is now available as a [3D Slicer](http://www.slicer.org) extension and as part of [SlicerSALT](salt.slicer.org) module. </br>
+:computer: [SPHARM-PDM website](https://www.nitrc.org/projects/spharm-pdm) |
+:computer: [SlicerSALT website](http://salt.slicer.org/) |
+:floppy_disk: [source](https://github.com/NIRALUser/SPHARM-PDM)
+
 
 * **Statistical Shape Model of the Knee** by Lowell Smoger et al. (2019). A statistical shape and alignment model was created for the structures of the knee: the femur, tibia and patella, associated articular cartilage, and soft tissue structures for a training set of 50 subjects/specimens. The statistical model describes intersubject anatomic variability in the shape and alignment of the knee structures and provides the ability to automatedly generate the geometry for a joint-level finite element analysis for members of the training set or virtual subjects derived from the statistical model, thus facilitating population-based evaluations.</br>
 :computer: [website](https://simtk.org/projects/ssm_knee)
