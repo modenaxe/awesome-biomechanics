@@ -95,6 +95,7 @@
 * [F8 2019 - VR Full Body Tracking & Avatars](https://www.youtube.com/watch?v=FhiAFo9U_sM) and [blog post](https://uploadvr.com/facebook-f8-2019-body-tracking/)
 * [Running with bone pins](https://www.youtube.com/watch?v=nf6jkyNgkwE): video of data collection in subject running with bone pins shared by Ton Van den Bogert.
 * [Introduction to Trajectory Optimization](https://www.youtube.com/watch?v=wlkRYMVUZTs) by [Matthew Kelly](http://www.matthewpeterkelly.com/index.html). Very clear introduction to the topic with MATLAB resources linked in the video description.
+* [Version Control for Researchers](https://www.youtube.com/watch?v=6OkOmPqumWo&feature=emb_title) by [Ryan Alcantara](https://www.ryan-alcantara.com). Tutorial for ASB2020 introducing GitHub and version control for biomechanists. Accompanying tutorial material located at the [ASB_Tutorial repository](https://github.com/alcantarar/asb_tutorial). 
 <!-- * https://www.goatstream.com/research/ -->
 
 ## Teaching Resources :triangular_ruler:
@@ -108,7 +109,6 @@
 * [Tutorial: 3D Kinematics and Inverse Dynamics MATLAB scripts](https://uk.mathworks.com/matlabcentral/fileexchange/58021-3d-kinematics-and-inverse-dynamics?s_tid=prof_contriblnk) by Raphael Dumas, including some examples.
 * [Tutorial: Musculoskeletal Model for Simulation of Walking](https://www.youtube.com/watch?v=Z4BoVVpju88) by Van den Bogert's tutorial (Dynamic Walking, 2011), including a section on computational muscle modelling and one on walking simulation using a 2D musculoskeletal model.
 * [Tutorial: Kane’s Method for an inverted pendulum](https://figshare.com/articles/journal_contribution/Kane_pdf/7791647) by Ross Miller. A tutorial on Kane's Method for deriving equations of motion, demonstrated on an inverted pendulum.
-* [Version Control for Researchers](https://www.youtube.com/watch?v=6OkOmPqumWo&feature=emb_title) by [Ryan Alcantara](https://www.ryan-alcantara.com). Tutorial for ASB2020 introducing GitHub and version control for biomechanists. Accompanying tutorial material located at the [ASB_Tutorial repository](https://github.com/alcantarar/asb_tutorial). 
 
 ## Books :blue_book:
 * [Calculus made Easy](http://calculusmadeeasy.org) by Silvanus P. Thompson.
