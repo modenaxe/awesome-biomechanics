@@ -108,11 +108,12 @@
 * [Tutorial: 3D Kinematics and Inverse Dynamics MATLAB scripts](https://uk.mathworks.com/matlabcentral/fileexchange/58021-3d-kinematics-and-inverse-dynamics?s_tid=prof_contriblnk) by Raphael Dumas, including some examples.
 * [Tutorial: Musculoskeletal Model for Simulation of Walking](https://www.youtube.com/watch?v=Z4BoVVpju88) by Van den Bogert's tutorial (Dynamic Walking, 2011), including a section on computational muscle modelling and one on walking simulation using a 2D musculoskeletal model.
 * [Tutorial: Kane’s Method for an inverted pendulum](https://figshare.com/articles/journal_contribution/Kane_pdf/7791647) by Ross Miller. A tutorial on Kane's Method for deriving equations of motion, demonstrated on an inverted pendulum.
+* [Version Control for Researchers](https://www.youtube.com/watch?v=6OkOmPqumWo&feature=emb_title) by [Ryan Alcantara](https://www.ryan-alcantara.com). Tutorial for ASB2020 introducing GitHub and version control for biomechanists. Accompanying tutorial material located at the [ASB_Tutorial repository](https://github.com/alcantarar/asb_tutorial). 
 
 ## Books :blue_book:
 * [Calculus made Easy](http://calculusmadeeasy.org) by Silvanus P. Thompson.
 * [Dynamics: Theory and Applications](https://ecommons.cornell.edu/handle/1813/638) by Kane and Levinson.
-
+* [Biomechanics and Motor Control of Human Movement (4th Edition)](https://edisciplinas.usp.br/pluginfile.php/4174628/mod_resource/content/2/David%20A.%20Winter-Biomechanics%20and%20Motor%20Control%20of%20Human%20Movement-Wiley%20%282009%29.pdf) by David A. Winter
 
 ## Datasets :dvd:
 
@@ -386,6 +387,11 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 :page_facing_up: [paper](https://joss.theoj.org/papers/10.21105/joss.02431)
 :computer: [website](https://pyomeca.github.io/)
 :floppy_disk: [source](https://github.com/pyomeca/pyomeca)
+
+* **Dryft** by [Ryan Alcantara](https://www.ryan-alcantara.com). Dryft is an open-source Python :snake: and MATLAB package that corrects running ground reaction force signal drift. It also contains an optimized utility function `dryft.signal.splitsteps()` for identifying start/end of stance phase from vertical ground reaction force data without loops.</br> 
+:page_facing_up: [publication](https://joss.theoj.org/papers/10.21105/joss.01910)
+:computer: [website](https://www.ryan-alcantara.com/dryft/)
+:floppy_disk: [source](https://github.com/alcantarar/dryft)
 
 #### Marker Trajectory Gap filling
 
