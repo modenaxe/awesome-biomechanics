@@ -741,9 +741,13 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 ### Finite Element Analysis Software 
 * [Abaqus](https://www.3ds.com/products-services/simulia/products/abaqus/) (commercial)
 * [Ansys](https://www.ansys.com/en-gb) (commercial)
-* [Code_Aster](https://www.code-aster.org/) - see https://www.code-aster.org/UPLOAD/DOC/Presentation/plaquette_aster_en.pdf
-* [FEBio](https://febio.org/)
-* [Salome_meca](https://www.code-aster.org/spip.php?article303)
+* **Code_Aster** - TO ADD DESCRIPTION</br>
+:computer: [website](https://www.code-aster.org/) |
+:computer: [Salome_meca](https://www.code-aster.org/spip.php?article303)
+:page_facing_up: [Aster-description](https://www.code-aster.org/UPLOAD/DOC/Presentation/plaquette_aster_en.pdf) |
+:movie_camera: [tutorials](https://www.youtube.com/channel/UCWBV4PbsfizSkmcq88roGeQ/playlists) |
+:movie_camera: [tutorials](https://www.youtube.com/watch?v=g9Kvv7PYF34&list=PLvkU6i2iQ2frC7YB1A9Pqcfhwe9T3Vuy-)
+* [FEBio](https://febio.org/) **TODO - needs description and resources**
 
 ### Finite Element Analysis Software Tools
 
