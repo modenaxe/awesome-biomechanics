@@ -914,8 +914,8 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 
 -----
 ## Contributing
-Have anything in mind that you think is awesome and would fit in this list? Feel free to send a pull request.  
-If you are adding elements to the `Dataset` section please use (roughly) this template:
+Have anything in mind that you think is awesome and would fit in this list? Feel free to send a pull request or open an Issue.  
+If you are adding elements please use (roughly) this template (or the format of similar items in the same list):
 
 ```
 * **Template: DatasetName** by Authors (year). Description. [![DOI](yourZenodoDOI)]</br>
@@ -926,7 +926,17 @@ If you are adding elements to the `Dataset` section please use (roughly) this te
 :star: [resources](link_to_resources)
 ```
 
+so that it will look roughly like this:
+
+* **Template: DatasetName** by Authors (year). Description. [![DOI](yourZenodoDOI)]</br>
+:page_facing_up: [paper](doi/link_to_paper) |
+:dvd: [dataset](link_to_dataset) |
+:computer: [website](link_to_website) |
+:floppy_disk: [code/source](link_to_source_code) |
+:star: [resources](link_to_resources)
+
 -----
+
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
