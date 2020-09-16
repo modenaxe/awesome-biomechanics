@@ -45,6 +45,7 @@
 - [Statistical Analysis](#statistical-analysis)
 - [Optimal Control and Trajectory Optimization :rocket:](#optimal-control-and-trajectory-optimization-rocket)
 - [Scientific Data Visualization](#scientific-data-visualization)
+- [Reproducibility](#reproducibility)
 - [Societies and Initiatives :office:](#societies-and-initiatives-office)
 - [Miscellaneous Online Resources](#miscellaneous-online-resources)
 - [Contributing](#contributing)
@@ -55,6 +56,7 @@
 ### DTI and tractography <!-- omit in toc -->
 * https://github.com/bartbols/muscle_architecture_DTI
 
+* https://icerm.brown.edu/topical_workshops/tw12-5-rcem/icerm_report.pdf
 
 * Database of simulations? (Some studies shared simulations, no raw data)
 * Anatomical and gait data sets from MD-Paedigree (Montefiori et al.)
@@ -909,6 +911,11 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 :page_facing_up: [How-To](http://mi.eng.cam.ac.uk/~gmt11/stradview/howto.htm)
 * [**MicroDicom**](https://www.microdicom.com/): MicroDicom is application for primary processing and preservation of medical images in DICOM format. It is equipped with most common tools for manipulation of DICOM images and it has an intuitive user interface. Free for use and accessible to everyone for non-commercial use.
 
+## Reproducibility
+
+* **Reproducibility PI Manifesto** by Lorena Barba (2012). Slides of the talk `Reproducibility in Computational and Experimental Mathematics` at the ICERM workshop. </br>
+:computer: [website](https://lorenabarba.com/gallery/reproducibility-pi-manifesto/) |
+:bar_chart: [slides](https://figshare.com/articles/presentation/Reproducibility_PI_Manifesto/104539)
 
 ## Societies and Initiatives :office:
 * [Americal Society of Biomechanics](https://www.asbweb.org/)
