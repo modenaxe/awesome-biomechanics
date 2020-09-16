@@ -546,9 +546,11 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 
 ### Neuromusculoskeletal Simulation Software :joystick:
 
-* **The AnyBody Modeling System** by AnyBody Technology. Commercial software for musculoskeletal modelling and simulation.  
+* **The AnyBody Modeling System** by AnyBody Technology. Commercial software for musculoskeletal modelling and simulation.</br>
 :page_facing_up: [paper](https://doi.org/10.1016/j.simpat.2006.09.001) |
 :computer: [website](http://www.anybodytech.com) |
+:page_facing_up: [tutorials](https://t.co/5vG76al6jv) |
+:page_facing_up: [Wiki](https://t.co/IkVRN1WKWB) |
 :star: [model repository](http://www.anybodytech.com/software/model-repository-ammr)
 
 * **AnimatLab** - neuromechanical and neurorobotic simulator for building the body of a robot or biolgical organism in a physically accurate 3-D virtual world, and then layout a biologically realistic nervous system to control the animats behavior.   
