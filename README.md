@@ -269,7 +269,7 @@
 :page_facing_up: [paper](https://doi.org/10.1016/j.jneumeth.2020.108580) |
 :dvd: [dataset](https://zenodo.org/record/3819630#.X2JMTmhKgdU) 
 
-* **BDS: A public data set of human balance evaluations** by Damiana dos Santos and Marco Duarte (2016).  
+* **BDS: A public data set of human balance evaluations** by Damiana dos Santos and Marco Duarte (2016). The data set comprises signals from the force platform (raw data for the force, moments of forces, and centers of pressure) of 163 subjects plus one file with information about the subjects and balance conditions and the results of the other evaluations. Subject’s balance was evaluated by posturography using a force platform and by the Mini Balance Evaluation Systems Tests in four conditions (standing still for 60 s on a rigid surface with eyes open; on a rigid surface with eyes closed; on an unstable surface with eyes open; on an unstable surface with eyes closed). Each condition was performed three times and the order of the conditions was randomized among subjects.</br>
 :page_facing_up: [paper](https://peerj.com/articles/2648/) |
 :dvd: [dataset](https://figshare.com/articles/A_public_data_set_of_quantitative_and_qualitative_evaluations_of_human_balance/3394432) |
 :computer: [website](http://pesquisa.ufabc.edu.br/bmclab/datasets/bds/) |
