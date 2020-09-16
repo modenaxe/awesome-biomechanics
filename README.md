@@ -426,9 +426,17 @@
 
 * [c3dserver](https://www.c3dserver.com/) C++/MATLAB)
 
+* **PyC3Dserver** by Moon Ki Jung (2020). Python interface of C3Dserver software for reading and editing C3D motion capture files. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3942388.svg)](https://doi.org/10.5281/zenodo.3942388)</br>
+:floppy_disk: [source](https://github.com/mkjung99/pyc3dserver)
+
 * [ezc3d](https://github.com/pyomeca/ezc3d) (C++/MATLAB/Python)
 
-* [BTK - Biomechanical ToolKit](http://biomechanical-toolkit.github.io/) (C++/MATLAB/Python)
+* **BTK - Biomechanical ToolKit** by Arnault Barre and Stephane Armand (2014). (C++/MATLAB/Python)</br>
+:page_facing_up: [paper](https://doi.org/10.1016/j.cmpb.2014.01.012) |
+:computer: [website](http://biomechanical-toolkit.github.io/)
+:floppy_disk: [source](https://github.com/Biomechanical-ToolKit/BTKCore) |
+:floppy_disk: [conda](https://anaconda.org/conda-forge/btk) |
+:floppy_disk: [pyBTK (Python>=3.7)](https://pypi.org/project/pyBTK/)
 
 * [MOKKA](https://biomechanical-toolkit.github.io/mokka/): GUI built on BTK functionalities. 
 Allows visualisation of c3d contents and basic processing, such as filtering and event detection. Great open source alternative to Vicon Nexus for these functionalities.
