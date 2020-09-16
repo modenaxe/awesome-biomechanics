@@ -606,6 +606,13 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 :computer: [website and binaries](https://simtk.org/projects/opensim-jam) |
 :floppy_disk: [source](https://github.com/clnsmith/opensim-jam)
 
+* **EMGD-FE: EMG Driven Force Estimator** by Luciano Menegaldo et al. (2014). EMG-FE is a MATLAB tool consisting of an open source graphical user interface for estimating isometric muscle forces in the lower limb using an EMG-driven model. Includes a graphical user interface. </br>
+:page_facing_up: [paper](https://biomedical-engineering-online.biomedcentral.com/articles/10.1186/1475-925X-13-37) |
+:computer: [website](http://www.peb.ufrj.br/docentes/Luciano/EMG-FE.htm) |
+:page_facing_up: [users guide](http://www.peb.ufrj.br/docentes/Luciano/user_guide.pdf) |
+:floppy_disk: [source](http://www.peb.ufrj.br/docentes/Luciano/EMGDM_FEv1R7_dist1.zip)
+
+
 * **CEINMS: Calibrated EMG-Informed Neuromusculoskeletal Modelling Toolbox** by Claudio Pizzolato et al. (2015). OpenSim toolbox that implements various techniques for running musculoskeletal simulations from experimental measurements of electromyography (EMG). See CEINMS paper for list and examples.</br>
 :page_facing_up: [paper](https://doi.org/10.1016/j.jbiomech.2015.09.021)
 :computer: [website](https://simtk.org/projects/ceinms) |
