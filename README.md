@@ -614,7 +614,7 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 
 
 * **CEINMS: Calibrated EMG-Informed Neuromusculoskeletal Modelling Toolbox** by Claudio Pizzolato et al. (2015). OpenSim toolbox that implements various techniques for running musculoskeletal simulations from experimental measurements of electromyography (EMG). See CEINMS paper for list and examples.</br>
-:page_facing_up: [paper](https://doi.org/10.1016/j.jbiomech.2015.09.021)
+:page_facing_up: [paper](https://doi.org/10.1016/j.jbiomech.2015.09.021) |
 :computer: [website](https://simtk.org/projects/ceinms) |
 :floppy_disk: [source](https://github.com/CEINMS/CEINMS)
 
@@ -637,7 +637,7 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 
 * **Modeling musculoskeletal kinematic and dynamic redundancy using null space projection** by Dimitar Stanev and Konstantinos Moustakas (2019). Python :snake: methods for modeling, simulation and analysis of redundant musculoskeletal systems based on muscle space projection on segmental level reflexes and the computation of the feasible muscle forces for arbitrary movements. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2000421.svg)](https://doi.org/10.5281/zenodo.2000421)  
 :page_facing_up: [paper](https://doi.org/10.1371/journal.pone.0209171) |
-:computer: [website](https://simtk.org/projects/redundancy)
+:computer: [website](https://simtk.org/projects/redundancy) |
 :floppy_disk: [source](https://github.com/mitkof6/musculoskeletal-redundancy)
 
 * **Stiffness modulation of redundant musculoskeletal systems** by Dimitar Stanev and Konstantinos Moustakas (2019). Python tool :snake: implementing an approach that explores the entire space of possible solutions of the muscle redundancy problem using the notion of null space and rigorously accounts for the effect of muscle redundancy in the computation of the feasible stiffness characteristics. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2575332.svg)](https://doi.org/10.5281/zenodo.2575332)  
@@ -646,7 +646,7 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 :floppy_disk: [source](https://github.com/mitkof6/musculoskeletal-stiffness/tree/v1.0)
 
 * **SynO: Synergy Optimization** by Mohammad Shourijeh ad Benjamin Fregly (2020). SynO is a collection of MATLAB codes implementing a novel approach for estimating muscle forces/activations by imposing a synergy structure within optimization (termed “synergy optimization”).</br>
-:page_facing_up: [paper](https://doi.org/10.1115/1.4044310)
+:page_facing_up: [paper](https://doi.org/10.1115/1.4044310) |
 :floppy_disk: [source](https://simtk.org/projects/syno/)
 
 ## Subject-Specific Modelling
