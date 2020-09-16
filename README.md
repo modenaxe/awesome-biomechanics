@@ -78,6 +78,7 @@
 * https://www.physionet.org/about/database/
 * https://avehtari.github.io/BDA_course_Aalto
 * collection of image resources - http://www.aylward.org/notes/open-access-medical-image-repositories
+* https://lorenabarba.com/blog/how-repro-packs-can-save-your-future-self/
 * ML topics - https://distill.pub/
   
   
@@ -264,7 +265,11 @@
 
 ### Balance :balance_scale:
 
-* **BDS: A public data set of human balance evaluations**  by Damiana dos Santos and Marco Duarte (2016).  
+* **Standing Balance Experiment with Long Duration Random Pulses Perturbation** by Huawei Wang and Ton van den Bogert (2020). The data-set includes the perturbation reaction data from eight subjects. Each subject performed four experiment trials, including two quiet standing and two perturbed trials. Each trial lasted five minutes for a total of 80 minutes quiet standing and 80 minutes perturbed standing data. Recorded information including three dimensional trajectories of thirty-two markers (27 on subjects' trunk and legs and 5 on the treadmill frame), six dimensional ground reaction forces, and nine Electromyography signals (EMGs, on subjects' right leg). [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3819630.svg)](https://doi.org/10.5281/zenodo.3819630) </br>
+:page_facing_up: [paper](https://doi.org/10.1016/j.jneumeth.2020.108580) |
+:dvd: [dataset](https://zenodo.org/record/3819630#.X2JMTmhKgdU) 
+
+* **BDS: A public data set of human balance evaluations** by Damiana dos Santos and Marco Duarte (2016).  
 :page_facing_up: [paper](https://peerj.com/articles/2648/) |
 :dvd: [dataset](https://figshare.com/articles/A_public_data_set_of_quantitative_and_qualitative_evaluations_of_human_balance/3394432) |
 :computer: [website](http://pesquisa.ufabc.edu.br/bmclab/datasets/bds/) |
