@@ -18,6 +18,7 @@
   - [Instrumented Prostheses :chart_with_upwards_trend:](#instrumented-prostheses-chart_with_upwards_trend)
   - [Upper Limb](#upper-limb)
   - [Hand](#hand)
+- [Ultrasound Fascicle Tracking](#ultrasound-fascicle-tracking)
 - [Gait Analysis and Motion Capture](#gait-analysis-and-motion-capture)
   - [Gait Analysis Markersets [TODO: add references and resources]](#gait-analysis-markersets-todo-add-references-and-resources)
   - [Motion Capture Data Import and Processing [WIP]](#motion-capture-data-import-and-processing-wip)
@@ -51,26 +52,10 @@
 
 ## STILL TO ADD/CHECK <!-- omit in toc -->
 
-### Ultrasound  <!-- omit in toc -->
-* **StradWin** Stradwin is an experimental, cross-platform tool primarily for freehand 3D ultrasound acquisition, visualisation and elastography. However, Stradwin can also be used with 3D medical data of any sort: its segmentation and surface extraction facilities are particularly powerful. It can load most types of DICOM image files and has unique facilities to measure bone cortical thickness from CT data. </br>
-:computer: [website](https://mi.eng.cam.ac.uk/Main/MedIMSoftware)
-https://mi.eng.cam.ac.uk/Main/StradWin
-
-* **UltraTrack** by Dominic Farris and Glen Lichtwark (2016). UltraTrack implements an affine extension to an optic flow algorithm to track movement of the muscle fascicle end-points throughout dynamically recorded sequences of images. The algorithm )previously described and tested for reliability) is implemented as software for tracking multiple fascicles in multiple muscles at the same time; correcting temporal drift in measurements; manually adjusting tracking results; saving and re-loading of tracking results and loading a range of file formats.</br>
-:page_facing_up: [paper](https://doi.org/10.1016/j.cmpb.2016.02.016) |
-:computer: [website-software]( https://sites.google.com/site/ultratracksoftware/file-cabinet) |
-:floppy_disk: [source-algorithm](https://uk.mathworks.com/matlabcentral/fileexchange/32770-muscle-fascicle-tracking-ultrasound?s_tid=prof_contriblnk)
-
-* **Automatic fascicle tracking algorithm** for gastrocs https://zenodo.org/record/2598553#.X1o-b3lKgdU
-
-* **DL_Track** by Neil Cronin et al. (2020).
-:page_facing_up: [preprint](https://arxiv.org/pdf/2009.04790.pdf) |
-[:dvd: dataset | :floppy_disk: source](https://github.com/njcronin/DL_Track)
-
 ### DTI and tractography <!-- omit in toc -->
 * https://github.com/bartbols/muscle_architecture_DTI
 
-* Check AnyBody/SimTK for further resources
+
 * Database of simulations? (Some studies shared simulations, no raw data)
 * Anatomical and gait data sets from MD-Paedigree (Montefiori et al.)
 * Winter's data from ISB/data in gait
@@ -392,6 +377,27 @@ https://mi.eng.cam.ac.uk/Main/StradWin
 :page_facing_up: [paper](https://www.nature.com/articles/s41597-019-0349-2) |
 :dvd: [dataset](https://zenodo.org/record/3480074#.X1_ocWhKgdU) |
 :star: [code](https://zenodo.org/record/3357966#.X1_n9mhKgdU)
+
+## Ultrasound Fascicle Tracking
+
+* **StradWin** Stradwin is an experimental, cross-platform tool primarily for freehand 3D ultrasound acquisition, visualisation and elastography. However, Stradwin can also be used with 3D medical data of any sort: its segmentation and surface extraction facilities are particularly powerful. It can load most types of DICOM image files and has unique facilities to measure bone cortical thickness from CT data. </br>
+:computer: [website](https://mi.eng.cam.ac.uk/Main/MedIMSoftware)
+https://mi.eng.cam.ac.uk/Main/StradWin
+
+* **UltraTrack** by Dominic Farris and Glen Lichtwark (2016). UltraTrack implements an affine extension to an optic flow algorithm to track movement of the muscle fascicle end-points throughout dynamically recorded sequences of images. The algorithm )previously described and tested for reliability) is implemented as software for tracking multiple fascicles in multiple muscles at the same time; correcting temporal drift in measurements; manually adjusting tracking results; saving and re-loading of tracking results and loading a range of file formats.</br>
+:page_facing_up: [paper](https://doi.org/10.1016/j.cmpb.2016.02.016) |
+:computer: [website-software]( https://sites.google.com/site/ultratracksoftware/file-cabinet) |
+:floppy_disk: [source-algorithm](https://uk.mathworks.com/matlabcentral/fileexchange/32770-muscle-fascicle-tracking-ultrasound?s_tid=prof_contriblnk)
+
+* **Automatic fascicle tracking algorithm** by Drazan et al. (2019). The links include all the experimental data, tracking code, and tracked trials reported in the publication, presenting an automatic fascicle tracking algorithm quantifying gastrocnemius architecture during maximal effort contractions. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2598553.svg)](https://doi.org/10.5281/zenodo.2598553)</br>
+:page_facing_up: [paper](https://doi.org/10.7717/peerj.7120) |
+:dvd: [dataset and paper code](https://zenodo.org/record/2598553#.X1o-b3lKgdU) |
+:floppy_disk: [source](https://github.com/joshrbaxter/ultrasound_tracking)
+
+* **DL_Track** by Neil Cronin et al. (2020). A deep learning approach for analysing muscle architecture from musculoskeletal ultrasound images. It allows to train new models, using new images or labelling those provided. It provides a trained model as well. </br>
+:page_facing_up: [preprint](https://arxiv.org/pdf/2009.04790.pdf) |
+[:dvd: dataset | :floppy_disk: source](https://github.com/njcronin/DL_Track)
+
 
 ## Gait Analysis and Motion Capture
 
