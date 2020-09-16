@@ -275,7 +275,7 @@
 :computer: [website](http://pesquisa.ufabc.edu.br/bmclab/datasets/bds/) |
 :star: [resources](https://github.com/BMClab/datasets/tree/master/BDS)
 
-* **PDS: A data set with kinematic and ground reaction forces of human balance** by Damiana dos Santos et al. (2017).  
+* **PDS: A data set with kinematic and ground reaction forces of human balance** by Damiana dos Santos et al. (2017). This data set comprises signals from two force platforms (raw data for the force, moments of forces, and center of pressure) and the full-body three-dimensional kinematics of 49 subjects plus one file with meta data about the subjects and balance conditions and the results. </br>
 :page_facing_up: [paper](https://peerj.com/articles/3626/) |
 :dvd: [dataset](https://figshare.com/articles/A_data_set_with_kinematic_and_ground_reaction_forces_of_human_balance/4525082) |
 :computer: [website](http://pesquisa.ufabc.edu.br/bmclab/datasets/pds/)
