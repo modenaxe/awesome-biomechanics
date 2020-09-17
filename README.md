@@ -80,7 +80,9 @@
 * https://avehtari.github.io/BDA_course_Aalto
 * collection of image resources - http://www.aylward.org/notes/open-access-medical-image-repositories
 * https://lorenabarba.com/blog/how-repro-packs-can-save-your-future-self/
-* ML topics - https://distill.pub/
+* ML topics 
+    - https://distill.pub/
+    - https://paperswithcode.com/
   
   
 ----
