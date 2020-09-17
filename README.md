@@ -714,6 +714,10 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 * [**MeshMixer**](http://www.meshmixer.com/)
 * [**Salome**](https://www.salome-platform.org/user-section/about/mesh)
 * [**CloudCompare**](http://www.cloudcompare.org) - allows quantitative comparison of surface meshes.
+* **Trimesh**  by Michael Dawson-Haggerty et al. (2019). Trimesh is a pure Python (2.7-3.4+) :snake: library for loading and using triangular meshes with an emphasis on watertight surfaces. The goal of the library is to provide a full featured and well tested Trimesh object which allows for easy manipulation and analysis. </br>
+:computer: [website](https://trimsh.org/index.html) |
+:floppy_disk: [source](https://github.com/mikedh/trimesh)
+
 
 ### Resources for Building Biomechanical Models from Medical Images
 
