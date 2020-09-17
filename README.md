@@ -398,7 +398,8 @@
 * **Standardization proposal of soft tissue artefact description for data sharing in human motion measurements** by Andrea Cereatti et al. (2017). This dataset includes open-access and standard-format soft tissues artefact data from several previous studies (both upper and lower limbs) that will be useful for the evaluation and development of bone pose estimators in three-dimensional human movement analysis. </br>
 :page_facing_up: [paper](https://doi.org/10.1016/j.jbiomech.2017.02.004) |
 :dvd: [dataset (journal website)](https://ars.els-cdn.com/content/image/1-s2.0-S0021929017301008-mmc2.zip) |
-:dvd: [dataset (GitHub](https://github.com/STAOpenData/Data)
+:dvd: [dataset (GitHub](https://github.com/STAOpenData/Data) |
+:page_facing_up: [description of included datasets](https://ars.els-cdn.com/content/image/1-s2.0-S0021929017301008-mmc1.docx)
 
 ## Ultrasound Fascicle Tracking
 
