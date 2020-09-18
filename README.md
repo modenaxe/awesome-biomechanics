@@ -233,7 +233,8 @@
 :dvd: [dataset](http://homepage.tudelft.nl/g6u61/repository/shoulder/overview.htm)
 
 * **Twente spine model** by Riza Bayoglu et al. (2017). This dataset represents a complete and coherent dataset for the lumbar spine, based on medical images and dissection measurements from one embalmed human cadaver. </br>
-:page_facing_up: [paper](https://doi.org/10.1016/j.jbiomech.2017.01.009) |
+:page_facing_up: [paper-lumbar spine](https://doi.org/10.1016/j.jbiomech.2017.01.009) |
+:page_facing_up: [paper-thoracic and cervical](https://doi.org/10.1016/j.jbiomech.2017.04.003) |
 :page_facing_up: [PhD thesis](https://research.utwente.nl/en/publications/twente-spine-model-development-validation-and-application-of-a-co) |
 [:computer: website | :dvd: dataset](https://www.twentespinemodel.eu/) 
 
