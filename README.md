@@ -232,6 +232,11 @@
 :page_facing_up: [paper1992](http://homepage.tudelft.nl/g6u61/repository/shoulder/files_to_link/JB1992_Helm.pdf) |
 :dvd: [dataset](http://homepage.tudelft.nl/g6u61/repository/shoulder/overview.htm)
 
+* **Twente spine model** by Riza Bayoglu et al. (2017). This dataset represents a complete and coherent dataset for the lumbar spine, based on medical images and dissection measurements from one embalmed human cadaver. </br>
+:page_facing_up: [paper](https://doi.org/10.1016/j.jbiomech.2017.01.009) |
+:page_facing_up: [PhD thesis](https://research.utwente.nl/en/publications/twente-spine-model-development-validation-and-application-of-a-co) |
+[:computer: website | :dvd: dataset](https://www.twentespinemodel.eu/) 
+
 * **Hand and Wrist Dataset** by Goislard de Monsabert et al. (2018). Data set intended for modelling including the musculoskeletal geometry and muscle morphology from the elbow to the finger tips. Clinical imaging, optical motion capture and microscopy were used to create a dataset from a single specimen.  
 :page_facing_up: [paper](https://link.springer.com/article/10.1007/s10439-017-1936-z#SecESM1) |
 :dvd: [dataset](https://static-content.springer.com/esm/art%3A10.1007%2Fs10439-017-1936-z/MediaObjects/10439_2017_1936_MOESM1_ESM.pdf)
