@@ -53,6 +53,9 @@
 - [License](#license)
 
 ## STILL TO ADD/CHECK <!-- omit in toc -->
+* https://classroom.github.com/classrooms
+* BPK SFU - Wearables: https://github.com/patmorli/BPK-409 / https://www.youtube.com/channel/UClU9XVBC0mDwJBIVJTUbtwg/videos
+* Kuo courses: https://github.com/kuo-courses
 
 ### DTI and tractography <!-- omit in toc -->
 * https://github.com/bartbols/muscle_architecture_DTI
