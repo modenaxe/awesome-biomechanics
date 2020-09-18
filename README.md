@@ -227,7 +227,9 @@
 :dvd: [dataset - requires registration](https://tlemsafe.eu/) |
 :computer: [website](https://tlemsafe.eu/)
 
-* **Shoulder morphological data** by the Dutch Shoulder Group. Includes data from several studies performed in 1988-2002 period.  
+* **Shoulder morphological data** by the Dutch Shoulder Group. Includes data about mass and inertia, muscle contraction parameters and muscle geometries collected during several studies performed in 1988-2002 period.</br>
+:page_facing_up: [paper1991](http://homepage.tudelft.nl/g6u61/repository/shoulder/files_to_link/JB1991_Veeger.pdf) |
+:page_facing_up: [paper1992](http://homepage.tudelft.nl/g6u61/repository/shoulder/files_to_link/JB1992_Helm.pdf) |
 :dvd: [dataset](http://homepage.tudelft.nl/g6u61/repository/shoulder/overview.htm)
 
 * **Hand and Wrist Dataset** by Goislard de Monsabert et al. (2018). Data set intended for modelling including the musculoskeletal geometry and muscle morphology from the elbow to the finger tips. Clinical imaging, optical motion capture and microscopy were used to create a dataset from a single specimen.  
