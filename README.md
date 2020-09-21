@@ -953,8 +953,12 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 ## Scientific Data Visualization
 * [**Paraview**](https://www.paraview.org)
 * [**Mayavi**](https://docs.enthought.com/mayavi/mayavi/) - Python tool :snake:
-* [**ImageJ**](https://imagej.net/)
-* [**Fiji**](https://imagej.net/Fiji) - version of ImageJ with pre-built plugins
+* **ImageJ** - TO ADD DESCRIPTION </br>
+:computer: [website](https://imagej.net/) |
+:floppy_disk: [source](https://github.com/imagej/imagej)
+* **Fiji** - version of ImageJ with pre-built plugins. </br>
+:computer: [website](https://imagej.net/Fiji) |
+:floppy_disk: [source](https://github.com/fiji/fiji)
 * **StradView** by Machine Intelligence Laboratory of Cambridge University, Department of Engineering. StradView was developed from Stradwin, which is a tool for freehand 3D ultrasound recording and visualisation. Stradwin is also a useful tool for visualisation from 3D medical data of any sort. It can load most types of DICOM data or image sequences, and produce very high quality surface models which can also be turned into movies using scripts. It can also be used for cortical bone mapping from DICOM CT data. </br>
 :computer: [website](https://mi.eng.cam.ac.uk/Main/StradView) |
 :page_facing_up: [How-To](http://mi.eng.cam.ac.uk/~gmt11/stradview/howto.htm)
