@@ -167,8 +167,8 @@
 :computer: [website](http://www.chinesevisiblehuman.com)
 
 * **fastMRI dataset** by Facebook AI and NYU (2019-2020). Data from more than 1,500 fully sampled knee MRIs obtained on 3 and 1.5 Tesla magnets and DICOM images from 10,000 clinical knee MRIs also obtained at 3 or 1.5 Tesla. Includes also brain scans. **No segmentation available.**</br>
-:page_facing_up: [paper](https://arxiv.org/abs/1811.08839?fbclid=IwAR1MuusEHDfRwQYb72OHKfdsL5F0OkCbdiI5wQsjJIQKMyAK-cao_wPYUN0)
-:computer: [website](https://fastmri.org/dataset)
+:page_facing_up: [paper](https://arxiv.org/abs/1811.08839?fbclid=IwAR1MuusEHDfRwQYb72OHKfdsL5F0OkCbdiI5wQsjJIQKMyAK-cao_wPYUN0) |
+:computer: [website](https://fastmri.org/dataset) |
 :star: [resources](https://github.com/facebookresearch/fastMRI/)
 
 * **New Mexico Decedent Image Database (NMDID)** by HJH Edgar et al. (2020). NMDID includes whole body CT scans of over 15,000 New Mexicans who died between 2010-2017. Each individual is represented by approximately 10,000 images in DICOM format. Slice thickness is 1 mm with 0.5 mm overlap. Normal and thin slice reconstructions are available for bone, lung, and brain. 3D reconstructions are possible with this data, depending on what viewer you use. Metadata includes almost 60 variables about the individuals’ demography, life and death (accessible for research separately from the CT scans). </br>
