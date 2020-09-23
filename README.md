@@ -457,7 +457,7 @@
 
 * [ezc3d](https://github.com/pyomeca/ezc3d) (C++/MATLAB/Python)
 
-* **BTK - Biomechanical ToolKit** by Arnault Barre and Stephane Armand (2014). (C++/MATLAB/Python)</br>
+* **BTK - Biomechanical ToolKit** by Arnault Barre and Stephane Armand (2014). One of the most versatile, robust and reliable libraries for reading, importing nad handling motion capture data. Written in C++ with MATLAB and Python bindings. A fork of this library is used for importing c3d in OpenSim. </br>
 :page_facing_up: [paper](https://doi.org/10.1016/j.cmpb.2014.01.012) |
 :computer: [website](http://biomechanical-toolkit.github.io/)
 :floppy_disk: [source](https://github.com/Biomechanical-ToolKit/BTKCore) |
@@ -791,7 +791,7 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 :page_facing_up: [Users Guide](https://simtk.org/docman/view.php/886/1884/OpenSim+Probabilistic+Plugin+Users+Guide+%28v1.0%29.pdf)
 :computer: [website](https://simtk.org/projects/prob_tool)
 
-* **Probabilistic Musculoskeletal Modeling module (PMM)** by Giordano Valente et al. (2014).  A description is on the supplementary materials of the paper.
+* **Probabilistic Musculoskeletal Modeling module (PMM)** by Giordano Valente et al. (2014).  A description is on the supplementary materials of the paper. </br>
 :page_facing_up: [paper](https://doi.org/10.1371/journal.pone.0112625)
 :computer: [website](https://simtk.org/frs/download_confirm.php/file/4298/PMM_module.rar?group_id=978)
 
