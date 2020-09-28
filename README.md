@@ -735,6 +735,10 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 * [**Gmsh**](https://gmsh.info/)
 * [**MeshLab**](https://www.meshlab.net/) - **TO ADD PAPER**
 * [**MeshMixer**](http://www.meshmixer.com/)
+* **OpenFlipper** by RWTH Aachen University (Prof Leif Kobbelt). OpenFlipper is an OpenSource multi-platform application and programming framework designed for processing, modeling and rendering of geometric data. More tools are available at the [Graphics, Geometry and Multimedia software page](https://www.graphics.rwth-aachen.de/software/)</br>
+:computer: [website](https://www.graphics.rwth-aachen.de/software/openflipper/) |
+:floppy_disk: [source](https://www.graphics.rwth-aachen.de:9000/OpenFlipper-Free/OpenFlipper-Free)
+
 * [**Salome**](https://www.salome-platform.org/user-section/about/mesh)
 * [**CloudCompare**](http://www.cloudcompare.org) - allows quantitative comparison of surface meshes.
 * **Trimesh**  by Michael Dawson-Haggerty et al. (2019). Trimesh is a pure Python (2.7-3.4+) :snake: library for loading and using triangular meshes with an emphasis on watertight surfaces. The goal of the library is to provide a full featured and well tested Trimesh object which allows for easy manipulation and analysis. </br>
