@@ -814,7 +814,7 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 :computer: [website](https://www.deformetrica.org/) |
 :floppy_disk: [source](https://gitlab.com/icm-institute/aramislab/deformetrica)
 
-* **Musculoskeletal Atlas Project (MAP)** by Ju Zhang et al. (2014). Open-source software framework in Python :snake: with plug-in architecture for creating musculoskeletal models. The client-side application (MAP Client) facilitates dicom and motion capture integration, registration tools, and meshing capabilities, and uses statistical shape modelling (based on the Melbourne Femur Collection, which consists of 320 full body CT scans) to provide a best-match to mocap and medical imaging data and generate surface geometry to generate an OpenSim model. **Looks not maintained.**</br>
+* **Musculoskeletal Atlas Project (MAP)** by Ju Zhang et al. (2014). Open-source software framework in Python :snake: with plug-in architecture for creating musculoskeletal models. The client-side application (MAP Client) facilitates dicom and motion capture integration, registration tools, and meshing capabilities, and uses statistical shape modelling (based on the Melbourne Femur Collection, which consists of 320 full body CT scans) to provide a best-match to mocap and medical imaging data and generate surface geometry to generate an OpenSim model. **Not maintained.**</br>
 :page_facing_up: [paper](https://www.researchgate.net/profile/Ju_Zhang15/publication/301951056_The_MAP_Client_User-Friendly_Musculoskeletal_Modelling_Workflows/links/5735044508ae298602df08c8/The-MAP-Client-User-Friendly-Musculoskeletal-Modelling-Workflows.pdf) |
 :computer: [website](https://simtk.org/projects/map) |
 :computer: [docs](https://map-client.readthedocs.io/en/latest/) |
@@ -830,7 +830,6 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 :computer: [SlicerSALT website](http://salt.slicer.org/) |
 :floppy_disk: [source](https://github.com/NIRALUser/SPHARM-PDM)
 
-
 * **Statistical Shape Model of the Knee** by Lowell Smoger et al. (2019). A statistical shape and alignment model was created for the structures of the knee: the femur, tibia and patella, associated articular cartilage, and soft tissue structures for a training set of 50 subjects/specimens. The statistical model describes intersubject anatomic variability in the shape and alignment of the knee structures and provides the ability to automatedly generate the geometry for a joint-level finite element analysis for members of the training set or virtual subjects derived from the statistical model, thus facilitating population-based evaluations.</br>
 :computer: [website](https://simtk.org/projects/ssm_knee)
 
@@ -845,6 +844,14 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 * **Shape Model Builder** by Emmanuel Audenaert (2019). Framework to develop shape models in MATLAB. </br>
 :page_facing_up: [paper](https://doi.org/10.1080/10255842.2019.1577828) |
 :floppy_disk: [source](https://uk.mathworks.com/matlabcentral/fileexchange/49940-shape-model-builder?s_tid=prof_contriblnk)
+
+* **Statistical Shape Models and Statistical Density Models of the Shoulder Bones** by Pendar Soltanmohammadi et al. J Biomech Eng. (2020). Project making available a statistical shape model (SSM) and statistical density model (SDM) of the humerus and scapula bones through a MATLAB app. Models are based on  57 male (20 pairs) and 18 female shoulders (1 pair) from 54 donors. The SSM will create a surface model whose shape is sensitive to the normalized principal component (PC) scores chosen in the app. The SDM will apply node-by-node HU values to a 3D template volumetric mesh (from the average geometry), allowing you to visualize the bone density distribution. The output files can be visualized using open-source software like [ParaView](www.paraview.org).</br>
+:page_facing_up: [paper](https://doi.org/10.1115/1.4047664) |
+:computer: [website](https://simtk.org/projects/shoulder-ssdm)
+
+* **A statistical shape model of the healthy first carpometacarpal joint** by Marco Schneider et al. (2015). CT image data and segmented point clouds of 50 carpometacarpal (CMC) bones from the dominant wrists and thumbs of 40 right hands and 10 left hands of 50 healthy non-osteoarthritic volunteers. This project contains instructions, python scripts, and example data for generating statistical shape models (SSM) using the [GIAS2 library](https://bitbucket.org/jangle/gias2).</br>
+:page_facing_up: [paper](https://doi.org/10.1016/j.jbiomech.2015.05.031) |
+:computer: [website](https://simtk.org/projects/shoulder-ssdm)https://simtk.org/projects/cmc-ssm)
 
 ## Finite Element Analysis
 
