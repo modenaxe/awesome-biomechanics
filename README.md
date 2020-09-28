@@ -36,7 +36,7 @@
   - [Manipulation, Processing and Comparison of Surface Meshes](#manipulation-processing-and-comparison-of-surface-meshes)
   - [Resources for Building Biomechanical Models from Medical Images](#resources-for-building-biomechanical-models-from-medical-images)
   - [Automatic Definition of Bony Landmarks and Reference Systems :skull:](#automatic-definition-of-bony-landmarks-and-reference-systems-skull)
-  - [Uncertainty Quantification in Musculoskeletal Simulations [WIP]](#uncertainty-quantification-in-musculoskeletal-simulations-wip)
+  - [Uncertainty Quantification in Musculoskeletal Simulations](#uncertainty-quantification-in-musculoskeletal-simulations)
   - [Meshers of Surface Models](#meshers-of-surface-models)
   - [Statistical Shape Modelling](#statistical-shape-modelling)
 - [Finite Element Analysis](#finite-element-analysis)
@@ -790,7 +790,7 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 :page_facing_up: [paper](https://doi.org/10.1016/j.jbiomech.2018.08.028) |
 :floppy_disk: [source](https://github.com/renaultJB/GIBOC-Knee-Coordinate-System)
 
-### Uncertainty Quantification in Musculoskeletal Simulations [WIP]
+### Uncertainty Quantification in Musculoskeletal Simulations
 
 * **Probabilistic Tool for Considering Patient Populations & Model Uncertainty** by Casey A. Myers et al. (2015). This is a probabilistic tool to assess model parameter uncertainty and intersubject variability.  
 :page_facing_up: [paper](https://link.springer.com/article/10.1007%2Fs10439-014-1181-7)
