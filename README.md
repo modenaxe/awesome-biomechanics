@@ -851,7 +851,7 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 
 * **A statistical shape model of the healthy first carpometacarpal joint** by Marco Schneider et al. (2015). CT image data and segmented point clouds of 50 carpometacarpal (CMC) bones from the dominant wrists and thumbs of 40 right hands and 10 left hands of 50 healthy non-osteoarthritic volunteers. This project contains instructions, python scripts, and example data for generating statistical shape models (SSM) using the [GIAS2 library](https://bitbucket.org/jangle/gias2).</br>
 :page_facing_up: [paper](https://doi.org/10.1016/j.jbiomech.2015.05.031) |
-:computer: [website](https://simtk.org/projects/shoulder-ssdm)https://simtk.org/projects/cmc-ssm)
+:computer: [website](https://simtk.org/projects/cmc-ssm)
 
 ## Finite Element Analysis
 
