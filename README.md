@@ -52,42 +52,6 @@
 - [Contributing](#contributing)
 - [License](#license)
 
-## STILL TO ADD/CHECK <!-- omit in toc -->
-* https://classroom.github.com/classrooms
-* BPK SFU - Wearables: https://github.com/patmorli/BPK-409 / https://www.youtube.com/channel/UClU9XVBC0mDwJBIVJTUbtwg/videos
-* Kuo courses: https://github.com/kuo-courses
-* PRACTICAL GUIDE TO DATA SMOOTHING AND FILTERING: https://d1wqtxts1xzle7.cloudfront.net/49975323/filter.pdf
-### DTI and tractography <!-- omit in toc -->
-* https://github.com/bartbols/muscle_architecture_DTI
-
-* https://icerm.brown.edu/topical_workshops/tw12-5-rcem/icerm_report.pdf
-
-* Database of simulations? (Some studies shared simulations, no raw data)
-* Anatomical and gait data sets from MD-Paedigree (Montefiori et al.)
-* Winter's data from ISB/data in gait
-* anatomy dataset: https://www.cancerimagingarchive.net/access-data/
-* https://github.com/mkjung99/biomechanics_dataset
-* https://github.com/topics/biomechanics
-* https://github.com/facebookresearch/fairmotion
-* http://hmc.csuohio.edu/projects/gait-control-id
-* MD-Paedigree simulations and geometries
-* https://github.com/Kitware
-* http://salt.slicer.org/  shape analysis + data+ tutorials
-
-* https://saildatabank.com/
-* https://www.ukbiobank.ac.uk/
-* https://nda.nih.gov/oai
-* http://mobilize.stanford.edu/
-* https://archive.ics.uci.edu/ml/datasets/MHEALTH+Dataset
-* https://www.physionet.org/about/database/
-* https://avehtari.github.io/BDA_course_Aalto
-* collection of image resources - http://www.aylward.org/notes/open-access-medical-image-repositories
-* https://lorenabarba.com/blog/how-repro-packs-can-save-your-future-self/
-* ML topics 
-    - https://distill.pub/
-    - https://paperswithcode.com/
-  
-  
 ----
 
 ## Online Courses :clapper:
@@ -129,6 +93,7 @@
 * [Scientific Animation of Human Locomotion](http://brule.co/faire-comprendre/projet/locomotion) by [Brule Design Studio](http://brule.co). Press `Demo` to try it.
 * [Kwon3d website](http://www.kwon3d.com/theory/prac.html): website with theory about most basic topics in biomechanics.
 * [How to review a paper](https://www.sciencemag.org/careers/2016/09/how-review-paper) from Science Magazine.
+* [Kuo's course homeworks](https://github.com/kuo-courses): interesting homework materials used in Art Kuo's courses (public on GitHub).
 * [Trajectory Optimization Toolbox](https://github.com/MatthewPeterKelly/OptimTraj) by Matthew Kelly, including some [excellent examples](https://github.com/MatthewPeterKelly/dscTutorials) and some [course materials](https://github.com/MatthewPeterKelly/ME149_Spring2018).
 * [Notes on Scientific Computing for Biomechanics and Motor Control](https://github.com/BMClab/BMC) by Marcos Duarte and Renato Watanabe. A beautiful collection of lecture notes and code on scientific computing and data analysis for Biomechanics and Motor Control in the form of Jupyter notebooks (python).
 * [Optimal Control Workshop](https://simtk.org/projects/ocworkshop/) by BJ Fregly. Files distributed at the NSF-funded Optimal Control Workshop held on July 9, 2015 at the University of Edinburgh as part of the XV International Symposium on Computer Simulation in Biomechanics.
@@ -176,6 +141,9 @@
 * **New Mexico Decedent Image Database (NMDID)** by HJH Edgar et al. (2020). NMDID includes whole body CT scans of over 15,000 New Mexicans who died between 2010-2017. Each individual is represented by approximately 10,000 images in DICOM format. Slice thickness is 1 mm with 0.5 mm overlap. Normal and thin slice reconstructions are available for bone, lung, and brain. 3D reconstructions are possible with this data, depending on what viewer you use. Metadata includes almost 60 variables about the individuals’ demography, life and death (accessible for research separately from the CT scans). </br>
 :page_facing_up: [how to cite](https://nmdid.unm.edu/about/citation) |
 [:dvd: dataset | :computer: website](https://nmdid.unm.edu)
+
+* **Cancer Imaging Archive** is a service which de-identifies and hosts a large archive of medical images of cancer accessible for public download. The data are organized as “collections”; typically patients’ imaging related by a common disease (e.g. lung cancer), image modality or type (MRI, CT, digital distopathology, etc) or research focus. DICOM is the primary file format used by TCIA for radiology imaging. Supporting data related to the images such as patient outcomes, treatment details, genomics and expert analyses are also provided when available.</br>
+[:dvd: dataset | :computer: website](https://www.cancerimagingarchive.net/)
 
 * **Development and validation of statistical shape models of the primary functional bone segments of the foot.** by Tamara Grant et al. (2019). Dataset includes manually segmented three-dimensional bone geometry models (.STL) from magnetic resonance images of 34 subjects of first metatarsal (29 geometries), midfoot (second-to-fifth metatarsals, cuneiforms, cuboid, and navicular) (33 geometries), calcaneus (27 geometries), and talus (34 geometries). **not all geometries are used**.
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3464747.svg)](https://doi.org/10.5281/zenodo.3464747)</br>
@@ -346,6 +314,10 @@
 * **Normative gait data** from Chris Kirtley's [website](http://www.clinicalgaitanalysis.com/) on clinical gait analysis. **Website does not seem maintained.**  
 :computer: [website](http://www.clinicalgaitanalysis.com/data/) 
 
+* **2-D walking: kinematics and force plate data** by David Winter. Originally published as Appendix in the book _Biomechanics and Motor Control of Human Movement_, 2nd edition, John Wiley & Sons, 1990.</br>
+:computer: [website](https://isbweb.org/resources/data-resources/140-movement-data/508-gait-data) |
+:dvd: [dataset](https://isbweb.org/docs/resources/data-resources/gait-data/266-winter-zip)
+
 
 ### Running :running:
 
@@ -495,6 +467,9 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 :page_facing_up: [publication](https://joss.theoj.org/papers/10.21105/joss.01910)
 :computer: [website](https://www.ryan-alcantara.com/dryft/)
 :floppy_disk: [source](https://github.com/alcantarar/dryft)
+
+* **Practical Guide to Data Smoothing and Filtering** written by Ton Van den Bogert. </br>
+:page_facing_up: [publication](https://d1wqtxts1xzle7.cloudfront.net/49975323/filter.pdf)
 
 #### Marker Trajectory Gap filling
 
@@ -981,6 +956,7 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 
 * **Reproducibility PI Manifesto** by Lorena Barba (2012). Slides of the talk `Reproducibility in Computational and Experimental Mathematics` at the ICERM workshop outlining a list of commitment that principal investigators could take to ensure reproducibility. </br>
 :computer: [website](https://lorenabarba.com/gallery/reproducibility-pi-manifesto/) |
+:page_facing_up: [blog-repro-pack-example](https://lorenabarba.com/blog/how-repro-packs-can-save-your-future-self/) |
 :bar_chart: [slides](https://figshare.com/articles/presentation/Reproducibility_PI_Manifesto/104539)
 
 * **Resources that helps in choosing a license for shared resources**:
@@ -1007,6 +983,40 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 * https://biomechsa.wordpress.com/resources
 * [ISB Data Resources](http://isbweb.org/data/)
 * [Richard Baker's blog](https://wwrichard.net/) (unmaintained).
+* [List of other Datasets](https://github.com/mkjung99/biomechanics_dataset) by Moon Ki Jung (Imperial College London).
+* [List of GitHub Biomechnical repositories](https://github.com/topics/biomechanics)
+
+## STILL TO ADD/CHECK <!-- omit in toc -->
+* https://classroom.github.com/classrooms
+* BPK SFU - Wearables: https://github.com/patmorli/BPK-409 / https://www.youtube.com/channel/UClU9XVBC0mDwJBIVJTUbtwg/videos
+ 
+### DTI and tractography <!-- omit in toc -->
+* https://github.com/bartbols/muscle_architecture_DTI
+
+* https://icerm.brown.edu/topical_workshops/tw12-5-rcem/icerm_report.pdf
+* Anatomical and gait data sets from MD-Paedigree (Montefiori et al.)
+* https://github.com/facebookresearch/fairmotion
+* http://hmc.csuohio.edu/projects/gait-control-id
+* MD-Paedigree simulations and geometries
+* https://github.com/Kitware
+* http://salt.slicer.org/  shape analysis + data+ tutorials
+* 
+### Big Data <!-- omit in toc -->
+* https://saildatabank.com/
+* https://www.ukbiobank.ac.uk/
+* https://nda.nih.gov/oai
+* http://mobilize.stanford.edu/
+* 
+* **MHEALTH (Mobile Health) dataset** by Oresti Banos et al. (University of Granada). MHEALTH is devised to benchmark techniques dealing with human behavior analysis based on multimodal body sensing (acceleration, rate of turn and magnetic field orientation at the limbs and 2-lead ECG measurements on the chest). It comprises body motion and vital signs recordings for ten volunteers of diverse profile while performing several physical activities.</br>
+:dvd: [dataset](https://archive.ics.uci.edu/ml/datasets/MHEALTH+Dataset)
+
+* https://www.physionet.org/about/database/
+* https://avehtari.github.io/BDA_course_Aalto
+* collection of image resources - http://www.aylward.org/notes/open-access-medical-image-repositories
+* ML topics 
+    - https://distill.pub/
+    - https://paperswithcode.com/
+
 
 -----
 ## Contributing
