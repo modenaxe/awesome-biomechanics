@@ -199,8 +199,8 @@
 :dvd: [dataset](https://digitalcommons.du.edu/natural_knee_data) |
 :computer: [website](https://simtk.org/projects/knee_model)
 
-* **Living Biomechanics of the Knee** by University of Denver Center for Orthopaedic Biomechanics.  Kinematic and loading data from an experiment that used quadriceps force to extend the knee. The objective of this data was to provide a foundation to create a computer model representation of the patella joint in order to predict motion and forces across healthy and pathological specimens.
-:dvd: [dataset](https://digitalcommons.du.edu/living_kinematics_knee/)
+* **Living Biomechanics of the Knee** by University of Denver Center for Orthopaedic Biomechanics.  Kinematic and loading data from an experiment that used quadriceps force to extend the knee. The objective of this data was to provide a foundation to create a computer model representation of the patella joint in order to predict motion and forces across healthy and pathological specimens.</br>
+:dvd: [dataset](https://digitalcommons.du.edu/living_kinematics_knee/) |
 :computer: [website](https://simtk.org/projects/knee_model)
 
 * **Twente Lower Extremity (TLEM) Dataset** by Martin Klein Horsman et al. (2007). Anatomical data intended for musculoskeletal modelling obtained by the dissection of a single male cadaver.  
@@ -210,7 +210,7 @@
 
 * **TLEM2.0: A New Complete and Consistent Musculoskeletal Geometry Dataset for Subject-Specific Modelling of the Lower Extremity** by Vincenzo Carbone and René Fluit et al. (2015. New comprehensive dataset of the musculoskeletal geometry of the lower extremity, which is based on medical imaging data and dissection performed on the right lower extremity of a fresh male cadaver. A complete cadaver dissection was performed, in which bony landmarks, attachments sites and lines-of-action of 55 muscle actuators and 12 ligaments, bony wrapping surfaces, and joint geometry were measured.  
 :page_facing_up: [paper](https://doi.org/10.1016/j.jbiomech.2014.12.034) |
-:dvd: [dataset - requires registration](https://tlemsafe.eu/) |
+:dvd: [dataset (requires registration)](https://tlemsafe.eu/) |
 :computer: [website](https://tlemsafe.eu/)
 
 * **Shoulder morphological data** by the Dutch Shoulder Group. Includes data about mass and inertia, muscle contraction parameters and muscle geometries collected during several studies performed in 1988-2002 period.</br>
@@ -279,11 +279,11 @@
 
 ### Energetics :fire:
 
-* **ISB2019 Metabolic cost session_: Data for participants in ISB2019 session on model-based prediction of the metabolic cost of human locomotion.** by Ross Miller (2019).    
-:page_facing_up: [users' guide](https://figshare.com/articles/journal_contribution/User_Guide/7086770)
+* **ISB2019 Metabolic cost session_: Data for participants in ISB2019 session on model-based prediction of the metabolic cost of human locomotion.** by Ross Miller (2019).</br>
+:page_facing_up: [users' guide](https://figshare.com/articles/journal_contribution/User_Guide/7086770) |
 :dvd: [dataset](https://figshare.com/projects/ISB2019_Metabolic_cost_session/38738)
 
-* **Dataset for Metabolic Cost Calculations of Gait using Musculoskeletal Energy Models, a Comparison Study** by Anne D. Koelewijn et al. (2019). The data set contains raw and processed data of gait analysis experiments of level and inclined walking at two speeds for 12 participants. The slopes were uphill and downhill with 8% incline. The raw data contains the output of the force plates and marker data, as well as raw measurements from an K4B2 system. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1973799.svg)](https://doi.org/10.5281/zenodo.1973799)  
+* **Dataset for Metabolic Cost Calculations of Gait using Musculoskeletal Energy Models, a Comparison Study** by Anne D. Koelewijn et al. (2019). The data set contains raw and processed data of gait analysis experiments of level and inclined walking at two speeds for 12 participants. The slopes were uphill and downhill with 8% incline. The raw data contains the output of the force plates and marker data, as well as raw measurements from an K4B2 system. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1973799.svg)](https://doi.org/10.5281/zenodo.1973799)</br>
 :page_facing_up: [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0222037) |
 :dvd: [dataset](https://zenodo.org/record/1973799#.X0PtVshKgdU)
 
@@ -303,7 +303,7 @@
 :star: [resources](https://github.com/BMClab/datasets/tree/master/GEDS)
 
 * **A multimodal dataset of human gait at different walking speeds established on injury-free adult participants** by Céline Schreiber & Florent Moissenet (2019). Dataset collected on 50 healthy and injury-free adults, with no lower and upper extremity surgery in the last two years. Participants walked at 5 speeds during one unique session. Three dimensional trajectories of 52 reflective markers spread over the whole body, 3D ground reaction forces and moment, and electromyographic signals were simultaneously recorded.  
-:page_facing_up: [paper](https://www.nature.com/articles/s41597-019-0124-4) 
+:page_facing_up: [paper](https://www.nature.com/articles/s41597-019-0124-4) |
 :dvd: [dataset](https://doi.org/10.6084/m9.figshare.7734767)
 
 * **A public data set of overground and treadmill walking kinematics and kinetics of healthy individuals** by Claudiane A. Fukuchi et al. (2018). Dataset of 42 healthy volunteers (24 young adults and 18 older adults) who walked both overground and on a treadmill at a range of gait speeds.  
@@ -454,27 +454,27 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 :floppy_disk: [source](https://github.com/cmasuki/open-code)
 
 * **motoNMS** by Alice Mantoan et al. (2015). MATLAB tool that provides a complete, user friendly and highly configurable tool to automatically process experimental motion data from different laboratories in C3D format for their use into the OpenSim neuromusculoskeletal software. </br>
-:page_facing_up: [paper](https://link.springer.com/article/10.1186/s13029-015-0044-4)
-:computer: [website](https://simtk.org/projects/motonms)
+:page_facing_up: [paper](https://link.springer.com/article/10.1186/s13029-015-0044-4) |
+:computer: [website](https://simtk.org/projects/motonms) |
 :floppy_disk: [source](https://github.com/RehabEngGroup/MOtoNMS)
 
-* **BiomechZoo** by Philippe C Dixon. BiomechZoo is a user-customizable toolbox for the analysis of biomechanical data within the MatLab programming environment. Please take a look at the Wiki for setup information and user instructions.  
-:computer: [website](https://www.biomechzoo.com)
+* **BiomechZoo** by Philippe C Dixon. BiomechZoo is a user-customizable toolbox for the analysis of biomechanical data within the MatLab programming environment. Please take a look at the Wiki for setup information and user instructions.</br>
+:computer: [website](https://www.biomechzoo.com) |
 :floppy_disk: [source](https://github.com/PhilD001/biomechZoo)
 
-* **The CGM 2.i Project** by Fabian Leboeuf et al. (2019). Python :snake: implementation of an evolved conventional gait model.  
+* **The CGM 2.i Project** by Fabian Leboeuf et al. (2019). Python :snake: implementation of an evolved conventional gait model.</br>
 :page_facing_up: [paper](https://doi.org/10.1016/j.gaitpost.2019.01.034) |
 :computer: [website](https://pycgm2.github.io/) |
 :floppy_disk: [source](https://github.com/pyCGM2/pyCGM2)
 
 * **Pyomeca** by the [S2M Lab](https://www.facebook.com/s2mlab/). Pyomeca is a Python :snake: library allowing you to carry out a complete biomechanical analysis; in a simple, logical and concise way. It enables extraction, processing and visualization of biomechanical data for use in research and education.</br> 
-:page_facing_up: [paper](https://joss.theoj.org/papers/10.21105/joss.02431)
-:computer: [website](https://pyomeca.github.io/)
+:page_facing_up: [paper](https://joss.theoj.org/papers/10.21105/joss.02431) |
+:computer: [website](https://pyomeca.github.io/) |
 :floppy_disk: [source](https://github.com/pyomeca/pyomeca)
 
 * **Dryft** by [Ryan Alcantara](https://www.ryan-alcantara.com). Dryft is an open-source Python :snake: and MATLAB package that corrects running ground reaction force signal drift. It also contains an optimized utility function `dryft.signal.splitsteps()` for identifying start/end of stance phase from vertical ground reaction force data without loops.</br> 
-:page_facing_up: [publication](https://joss.theoj.org/papers/10.21105/joss.01910)
-:computer: [website](https://www.ryan-alcantara.com/dryft/)
+:page_facing_up: [publication](https://joss.theoj.org/papers/10.21105/joss.01910) |
+:computer: [website](https://www.ryan-alcantara.com/dryft/) |
 :floppy_disk: [source](https://github.com/alcantarar/dryft)
 
 * **Practical Guide to Data Smoothing and Filtering** written by Ton Van den Bogert. </br>
@@ -482,12 +482,12 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 
 #### Marker Trajectory Gap filling
 
-* **Automated Gap Filling and Tools for Motion Capture** by the Sensor-Fusion team from EPIC lab @GeorgiaTech. Gap filling is based on inverse kinematics approach.
+* **Automated Gap Filling and Tools for Motion Capture** by the Sensor-Fusion team from EPIC lab @GeorgiaTech. Gap filling is based on inverse kinematics approach. </br>
 :page_facing_up: [paper](https://doi.org/10.1080/10255842.2020.1789971) |
-:computer: [website](https://simtk.org/projects/opensense)
+:computer: [website](https://simtk.org/projects/opensense) |
 :floppy_disk: [source](https://github.com/JonathanCamargo/MoCapTools)
 
-* **MoGapFill** implemented by Fabian Leboeuf (Python :snake:). Low dimensional Kalman smoother that fills gaps in motion capture marker trajectories based on Burke and Lasenby 2016 paper.  
+* **MoGapFill** implemented by Fabian Leboeuf (Python :snake:). Low dimensional Kalman smoother that fills gaps in motion capture marker trajectories based on Burke and Lasenby 2016 paper.</br>
 :page_facing_up: [Burke's paper 2016](http://dx.doi.org/10.1016/j.jbiomech.2016.04.016) |
 :floppy_disk: [source](https://github.com/pyCGM2/MoGapFill)
 
@@ -497,9 +497,9 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 :computer: [website](https://pypi.org/project/gaitpy/) |
 :floppy_disk: [source](https://github.com/matt002/GaitPy)
 
-* **OpenSense** TODO add description  
-:page_facing_up: [documentation and examples](https://simtk-confluence.stanford.edu:8443/display/OpenSim/OpenSense+-+Kinematics+with+IMU+Data)
-:computer: [website](https://simtk.org/projects/opensense)
+* **OpenSense** TODO add description </br>
+:page_facing_up: [documentation and examples](https://simtk-confluence.stanford.edu:8443/display/OpenSim/OpenSense+-+Kinematics+with+IMU+Data) |
+:computer: [website](https://simtk.org/projects/opensense) |
 :floppy_disk: [source](https://github.com/opensim-org/opensim-core)
 
 
@@ -776,13 +776,13 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 
 ### Uncertainty Quantification in Musculoskeletal Simulations
 
-* **Probabilistic Tool for Considering Patient Populations & Model Uncertainty** by Casey A. Myers et al. (2015). This is a probabilistic tool to assess model parameter uncertainty and intersubject variability.  
-:page_facing_up: [paper](https://link.springer.com/article/10.1007%2Fs10439-014-1181-7)
-:page_facing_up: [Users Guide](https://simtk.org/docman/view.php/886/1884/OpenSim+Probabilistic+Plugin+Users+Guide+%28v1.0%29.pdf)
+* **Probabilistic Tool for Considering Patient Populations & Model Uncertainty** by Casey A. Myers et al. (2015). This is a probabilistic tool to assess model parameter uncertainty and intersubject variability.</br>  
+:page_facing_up: [paper](https://link.springer.com/article/10.1007%2Fs10439-014-1181-7) |
+:page_facing_up: [Users Guide](https://simtk.org/docman/view.php/886/1884/OpenSim+Probabilistic+Plugin+Users+Guide+%28v1.0%29.pdf) |
 :computer: [website](https://simtk.org/projects/prob_tool)
 
 * **Probabilistic Musculoskeletal Modeling module (PMM)** by Giordano Valente et al. (2014).  A description is on the supplementary materials of the paper. </br>
-:page_facing_up: [paper](https://doi.org/10.1371/journal.pone.0112625)
+:page_facing_up: [paper](https://doi.org/10.1371/journal.pone.0112625) |
 :computer: [website](https://simtk.org/frs/download_confirm.php/file/4298/PMM_module.rar?group_id=978)
 
 
@@ -822,7 +822,7 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 :computer: [website](https://www.msksoftware.org.uk/software/ssmrt/) 
 
 * **ShapeWorks** by the University of Utah. The ShapeWorks software is an open-source distribution of a new method for constructing compact statistical point-based models of ensembles of similar shapes that does not rely on any specific surface parameterization. </br>
-:computer: [website](https://www.sci.utah.edu/software/shapeworks.html)
+:computer: [website](https://www.sci.utah.edu/software/shapeworks.html) |
 :floppy_disk: [source](https://github.com/SCIInstitute/ShapeWorks)
 
 * **Shape Model Builder** by Emmanuel Audenaert (2019). Framework to develop shape models in MATLAB. </br>
@@ -844,7 +844,7 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 * [Ansys](https://www.ansys.com/en-gb) (commercial)
 * **Code_Aster** - TO ADD DESCRIPTION</br>
 :computer: [website](https://www.code-aster.org/) |
-:computer: [Salome_meca](https://www.code-aster.org/spip.php?article303)
+:computer: [Salome_meca](https://www.code-aster.org/spip.php?article303) |
 :page_facing_up: [Aster-description](https://www.code-aster.org/UPLOAD/DOC/Presentation/plaquette_aster_en.pdf) |
 :movie_camera: [tutorials](https://www.youtube.com/channel/UCWBV4PbsfizSkmcq88roGeQ/playlists) |
 :movie_camera: [tutorials](https://www.youtube.com/watch?v=g9Kvv7PYF34&list=PLvkU6i2iQ2frC7YB1A9Pqcfhwe9T3Vuy-)
@@ -1007,8 +1007,6 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 ### DTI and tractography <!-- omit in toc -->
 * https://github.com/bartbols/muscle_architecture_DTI
 
-* https://icerm.brown.edu/topical_workshops/tw12-5-rcem/icerm_report.pdf
-* Anatomical and gait data sets from MD-Paedigree (Montefiori et al.)
 * https://github.com/facebookresearch/fairmotion
 * MD-Paedigree simulations and geometries
 * https://github.com/Kitware
@@ -1019,12 +1017,15 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 * https://www.ukbiobank.ac.uk/
 * https://nda.nih.gov/oai
 * http://mobilize.stanford.edu/
-* 
+
 * **MHEALTH (Mobile Health) dataset** by Oresti Banos et al. (University of Granada). MHEALTH is devised to benchmark techniques dealing with human behavior analysis based on multimodal body sensing (acceleration, rate of turn and magnetic field orientation at the limbs and 2-lead ECG measurements on the chest). It comprises body motion and vital signs recordings for ten volunteers of diverse profile while performing several physical activities.</br>
 :dvd: [dataset](https://archive.ics.uci.edu/ml/datasets/MHEALTH+Dataset)
+* **Bayesian Data Analysis course** by AKi Vehtari (2020)
+https://avehtari.github.io/BDA_course_Aalto/
+https://github.com/avehtari/BDA_course_Aalto
+https://users.aalto.fi/~ave/BDA3.pdf
 
-* https://avehtari.github.io/BDA_course_Aalto
-* ML topics 
+* Websites I find between the best in Machine Learning and Deep Learning topics:
     - https://distill.pub/
     - https://paperswithcode.com/
 
@@ -1032,7 +1033,7 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 -----
 ## Contributing
 Have anything in mind that you think is awesome and would fit in this list? Feel free to send a pull request or open an Issue.  
-If you are adding elements please use (roughly) this template (or the format of similar items in the same list):
+If you are adding elements please use (roughly) this template or the format of similar items in the same subsection of the list:
 
 ```
 * **Template: DatasetName** by Authors (year). Description. [![DOI](yourZenodoDOI)]</br>
