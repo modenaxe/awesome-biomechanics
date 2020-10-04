@@ -88,6 +88,8 @@
 <!-- * https://www.goatstream.com/research/ -->
 
 ## Teaching Resources :triangular_ruler:
+* [Anatomy Standard](https://www.anatomystandard.com/) by Jānis Šavlovskis and Kristaps Raits (2020). Project aiming at creating an evidence-based 3D model of the human body, create high-quality, interactive illustrations of the model, and share them here to provide a resource for teaching and explaining anatomy. Images are licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). </br>
+* [Muscle Atlas](https://rad.washington.edu/muscle-atlas/) by the Dept of Radiology of the University of Whashington. The medical illustrations contained in this online atlas are copyrighted © 1997 by the University of Washingto but receiving a license to use these images is generally quite easy, particularly for academic and scholarly purposes. For more information and obtaining a license [see this link](https://els2.comotion.uw.edu/product/musculoskeletal-atlas).
 * [ASB Teaching Repository](http://asbteachingrepository.herokuapp.com/) by the American Society of Biomechanics. Does not require membership to access.
 * [Scientific Animation of Muscle Contraction](http://brule.co/lab/UGA/Contraction-musculaire-2/) by [Brule Design Studio](http://brule.co).  Press `Demo` to try it.
 * [Scientific Animation of Human Locomotion](http://brule.co/faire-comprendre/projet/locomotion) by [Brule Design Studio](http://brule.co). Press `Demo` to try it.
