@@ -49,6 +49,7 @@
 - [Reproducibility](#reproducibility)
 - [Societies and Initiatives :office:](#societies-and-initiatives-office)
 - [Miscellaneous Online Resources](#miscellaneous-online-resources)
+- [More Datasets and repositories](#more-datasets-and-repositories)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -94,6 +95,7 @@
 * [Scientific Animation of Muscle Contraction](http://brule.co/lab/UGA/Contraction-musculaire-2/) by [Brule Design Studio](http://brule.co).  Press `Demo` to try it.
 * [Scientific Animation of Human Locomotion](http://brule.co/faire-comprendre/projet/locomotion) by [Brule Design Studio](http://brule.co). Press `Demo` to try it.
 * [Kwon3d website](http://www.kwon3d.com/theory/prac.html): website with theory about most basic topics in biomechanics.
+* [GitHub resources for teaching](https://classroom.github.com/classrooms): GitHub offers support for automating certain aspects of teaching.
 * [How to review a paper](https://www.sciencemag.org/careers/2016/09/how-review-paper) from Science Magazine.
 * [Kuo's course homeworks](https://github.com/kuo-courses): interesting homework materials used in Art Kuo's courses (public on GitHub).
 * [Trajectory Optimization Toolbox](https://github.com/MatthewPeterKelly/OptimTraj) by Matthew Kelly, including some [excellent examples](https://github.com/MatthewPeterKelly/dscTutorials) and some [course materials](https://github.com/MatthewPeterKelly/ME149_Spring2018).
@@ -991,11 +993,15 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 * [ISB Data Resources](http://isbweb.org/data/)
 * [Richard Baker's blog](https://wwrichard.net/) (unmaintained).
 * [Stuart McErlain-Naylor's personal website](https://www.stuartmcnaylor.com/): includes [a list of resources](https://www.stuartmcnaylor.com/resources/) for PhD students.
-* [List of other Datasets](https://github.com/mkjung99/biomechanics_dataset) by Moon Ki Jung (Imperial College London).
-* [List of GitHub Biomechnical repositories](https://github.com/topics/biomechanics)
+
+## More Datasets and repositories
+* [Biomechanical Datasets](https://github.com/mkjung99/biomechanics_dataset) by Moon Ki Jung (Imperial College London).
+* [Datasets of complex physiological signals](https://www.physionet.org/about/database/) from [Physionet](https://www.physionet.org/).
+* [GitHub Biomechnical repositories](https://github.com/topics/biomechanics)
+* [Open-Access Medical Image Repositories](http://www.aylward.org/notes/open-access-medical-image-repositories)
 
 ## CARPENTRY - STILL TO ADD/CHECK <!-- omit in toc -->
-* https://classroom.github.com/classrooms
+
 * BPK SFU - Wearables: https://github.com/patmorli/BPK-409 / https://www.youtube.com/channel/UClU9XVBC0mDwJBIVJTUbtwg/videos
  
 ### DTI and tractography <!-- omit in toc -->
@@ -1004,7 +1010,6 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 * https://icerm.brown.edu/topical_workshops/tw12-5-rcem/icerm_report.pdf
 * Anatomical and gait data sets from MD-Paedigree (Montefiori et al.)
 * https://github.com/facebookresearch/fairmotion
-* http://hmc.csuohio.edu/projects/gait-control-id
 * MD-Paedigree simulations and geometries
 * https://github.com/Kitware
 * http://salt.slicer.org/  shape analysis + data+ tutorials
@@ -1018,12 +1023,7 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 * **MHEALTH (Mobile Health) dataset** by Oresti Banos et al. (University of Granada). MHEALTH is devised to benchmark techniques dealing with human behavior analysis based on multimodal body sensing (acceleration, rate of turn and magnetic field orientation at the limbs and 2-lead ECG measurements on the chest). It comprises body motion and vital signs recordings for ten volunteers of diverse profile while performing several physical activities.</br>
 :dvd: [dataset](https://archive.ics.uci.edu/ml/datasets/MHEALTH+Dataset)
 
-* https://www.physionet.org/
-* https://www.physionet.org/about/database/
-
-
 * https://avehtari.github.io/BDA_course_Aalto
-* collection of image resources - http://www.aylward.org/notes/open-access-medical-image-repositories
 * ML topics 
     - https://distill.pub/
     - https://paperswithcode.com/
