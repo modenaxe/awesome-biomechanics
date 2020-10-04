@@ -140,6 +140,11 @@
 :computer: [website](https://fastmri.org/dataset) |
 :star: [resources](https://github.com/facebookresearch/fastMRI/)
 
+* **MRNet Dataset** by Stanford University Medical Center. The MRNet dataset consists of 1,370 knee MRI exams: 1,104 (80.6%) abnormal exams, with 319 (23.3%) ACL tears and 508 (37.1%) meniscal tears; labels were obtained through manual extraction from clinical reports. </br>
+* :page_facing_up: [paper](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002699) |
+:dvd: [dataset](https://stanfordmlgroup.github.io/competitions/mrnet/) |
+:computer: [website](https://stanfordmlgroup.github.io/competitions/mrnet/)
+
 * **New Mexico Decedent Image Database (NMDID)** by HJH Edgar et al. (2020). NMDID includes whole body CT scans of over 15,000 New Mexicans who died between 2010-2017. Each individual is represented by approximately 10,000 images in DICOM format. Slice thickness is 1 mm with 0.5 mm overlap. Normal and thin slice reconstructions are available for bone, lung, and brain. 3D reconstructions are possible with this data, depending on what viewer you use. Metadata includes almost 60 variables about the individuals’ demography, life and death (accessible for research separately from the CT scans). </br>
 :page_facing_up: [how to cite](https://nmdid.unm.edu/about/citation) |
 [:dvd: dataset | :computer: website](https://nmdid.unm.edu)
