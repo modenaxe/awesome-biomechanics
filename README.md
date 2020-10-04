@@ -985,7 +985,7 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 * https://biomechsa.wordpress.com/resources
 * [ISB Data Resources](http://isbweb.org/data/)
 * [Richard Baker's blog](https://wwrichard.net/) (unmaintained).
-* [Stuart McErlain-Naylor's personal website](https://www.stuartmcnaylor.com/) includes [a list of resources](https://www.stuartmcnaylor.com/resources/) for PhD students.
+* [Stuart McErlain-Naylor's personal website](https://www.stuartmcnaylor.com/): includes [a list of resources](https://www.stuartmcnaylor.com/resources/) for PhD students.
 * [List of other Datasets](https://github.com/mkjung99/biomechanics_dataset) by Moon Ki Jung (Imperial College London).
 * [List of GitHub Biomechnical repositories](https://github.com/topics/biomechanics)
 
