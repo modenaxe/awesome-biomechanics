@@ -842,6 +842,8 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 ### Finite Element Analysis Software 
 * [Abaqus](https://www.3ds.com/products-services/simulia/products/abaqus/) (commercial)
 * [Ansys](https://www.ansys.com/en-gb) (commercial)
+* [FEAP: A Finite Element Analysis Program](http://projects.ce.berkeley.edu/feap/) by University of Berkeley
+* [Z88](https://en.z88.de/)
 * **Code_Aster** - TO ADD DESCRIPTION</br>
 :computer: [website](https://www.code-aster.org/) |
 :computer: [Salome_meca](https://www.code-aster.org/spip.php?article303) |
@@ -950,6 +952,7 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 ## Scientific Data Visualization
 * [**Paraview**](https://www.paraview.org)
 * [**Mayavi**](https://docs.enthought.com/mayavi/mayavi/) - Python tool :snake:
+* [**OpenCmiss**](http://opencmiss.org/)
 * **ImageJ** - TO ADD DESCRIPTION </br>
 :computer: [website](https://imagej.net/) |
 :floppy_disk: [source](https://github.com/imagej/imagej)
