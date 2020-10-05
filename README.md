@@ -239,10 +239,8 @@
 * **CT scans of various animals** from John Hutchinson's group.  
 :dvd: [dataset](https://osf.io/4sc96/)
 
-* **New Mexico Decedent Image Database (NMDID)**: provides researchers with access to whole human body computed tomography (CT) scans and a rich body of associated metadata.   
-:computer: [website](https://nmdid.unm.edu/welcome)
-
-* **Digital Morphology Museum of Kyoto University (KUPRI)**: DMM provides a large collection of CT and MRI tomography scans of various primates.   :computer: [website](http://dmm.pri.kyoto-u.ac.jp/dmm/WebGallery/index.html)
+* **Digital Morphology Museum of Kyoto University (KUPRI)**: DMM provides a large collection of CT and MRI tomography scans of various primates.</br>
+:computer: [website](http://dmm.pri.kyoto-u.ac.jp/dmm/WebGallery/index.html)
 
 * **DigiMorph**: Digital Morphology library is a dynamic archive of information on digital morphology and high-resolution X-ray computed tomography of biological specimens.  
 :computer: [website](http://digimorph.org)
@@ -1023,10 +1021,11 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 
 * **MHEALTH (Mobile Health) dataset** by Oresti Banos et al. (University of Granada). MHEALTH is devised to benchmark techniques dealing with human behavior analysis based on multimodal body sensing (acceleration, rate of turn and magnetic field orientation at the limbs and 2-lead ECG measurements on the chest). It comprises body motion and vital signs recordings for ten volunteers of diverse profile while performing several physical activities.</br>
 :dvd: [dataset](https://archive.ics.uci.edu/ml/datasets/MHEALTH+Dataset)
+
 * **Bayesian Data Analysis course** by AKi Vehtari (2020)
-https://avehtari.github.io/BDA_course_Aalto/
-https://github.com/avehtari/BDA_course_Aalto
-https://users.aalto.fi/~ave/BDA3.pdf
+:computer: [website](https://avehtari.github.io/BDA_course_Aalto/)
+:floppy_disk: [code](https://github.com/avehtari/BDA_course_Aalto)
+:page_facing_up: [book](https://users.aalto.fi/~ave/BDA3.pdf)
 
 * Websites I find between the best in Machine Learning and Deep Learning topics:
     - https://distill.pub/
