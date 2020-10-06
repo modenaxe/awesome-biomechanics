@@ -113,7 +113,7 @@
     - [Jumping model with foot (6 dof)](https://figshare.com/articles/dataset/Jumping_model_with_foot/7856141)
     - [Sit-to-stand model](https://figshare.com/articles/software/Sit-to-stand_model/11987277)
     - [Elbow model in Matlab](https://figshare.com/articles/software/Elbow_model_in_Matlab/9983402)
-* [Bayesian Data Analysis course](https://avehtari.github.io/BDA_course_Aalto) by AKi Vehtari at Aalto University (2020)</br>
+* [Bayesian Data Analysis course](https://avehtari.github.io/BDA_course_Aalto) by AKi Vehtari at Aalto University (2020).</br>
 :floppy_disk: [code](https://github.com/avehtari/BDA_course_Aalto) |
 :page_facing_up: [book](https://users.aalto.fi/~ave/BDA3.pdf)
 
@@ -1039,7 +1039,7 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 * [Data Sources from Stanford's Mobilize Center](http://mobilize.stanford.edu/data-sources/)
 
 
-## CARPENTRY - STILL TO ADD/CHECK <!-- omit in toc -->
+## Sandbox <!-- omit in toc -->
  
 ## DTI and fibre tractography <!-- omit in toc -->
 * https://github.com/bartbols/muscle_architecture_DTI
