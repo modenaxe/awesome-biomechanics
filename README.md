@@ -186,7 +186,10 @@
    :dvd: [dataset](https://doi.org/10.5281/zenodo.3384055)
    * _SMIR pelves and femurs_ segmented bone from 20 CT scans available in MATLAB format.  
    :dvd: [dataset](https://github.com/RWTHmediTEC/VSDFullBodyBoneModels)
-   
+
+* **The Osteoarthritis Initiative** The Osteoarthritis Initiative (OAI) is a multi-center, ten-year observational study of men and women, sponsored by the National Institutes of Health (part of the Department of Health and Human Services). The goals of the OAI are to provide resources to enable a better understanding of prevention and treatment of knee osteoarthritis, one of the most common causes of disability in adults. The dataset contains the permanent archive of the clinical data, patient reported outcomes, biospecimen analyses, quantitative image analyses, radiographs (X-Rays) and magnetic resonance images (MRIs) acquired during this study. There are longitudinal assessments and measurements from 4,796 subjects, with data from over 431,000 clinical and imaging visits, and almost 26,626,000 images.</br>
+:computer: [website](https://nda.nih.gov/oai)
+
 * **BodyParts3D** by Nobutaka Mitsuhashi et al. (2003). This is a 3D structure database for anatomical concepts that extends beyond biomechanics.  
 :page_facing_up: [paper](https://doi.org/10.1093/nar/gkn613) |
 :dvd: [dataset](http://lifesciencedb.jp/bp3d/) 
@@ -723,6 +726,12 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 
 * [**Salome**](https://www.salome-platform.org/user-section/about/mesh)
 * [**CloudCompare**](http://www.cloudcompare.org) - allows quantitative comparison of surface meshes.
+
+* **SlicerSALT (Slicer Shape AnaLysis Toolbox)** by Vicory et al. (2018). SlicerSALT is open-source, free comprehensive software design for biomedical scientists to precisely locate shape changes in their imaging studies. SlicerSALT will enhance the intuitiveness and ease of use for such studies, as well as allow researchers to find shape changes with higher statistical power. </br>
+:page_facing_up: [paper](https://link.springer.com/chapter/10.1007/978-3-030-04747-4_6) |
+:computer: [website and tutorials](http://salt.slicer.org/) |
+:floppy_disk: [source](https://github.com/Kitware/SlicerSALT)
+
 * **Trimesh**  by Michael Dawson-Haggerty et al. (2019). Trimesh is a pure Python (2.7-3.4+) :snake: library for loading and using triangular meshes with an emphasis on watertight surfaces. The goal of the library is to provide a full featured and well tested Trimesh object which allows for easy manipulation and analysis. </br>
 :computer: [website](https://trimsh.org/index.html) |
 :floppy_disk: [source](https://github.com/mikedh/trimesh)
@@ -1000,6 +1009,7 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 * [Datasets of complex physiological signals](https://www.physionet.org/about/database/) from [Physionet](https://www.physionet.org/).
 * [GitHub Biomechnical repositories](https://github.com/topics/biomechanics)
 * [Open-Access Medical Image Repositories](http://www.aylward.org/notes/open-access-medical-image-repositories)
+* [Data Sources from Stanford's Mobilize Center](http://mobilize.stanford.edu/data-sources/)
 
 ## CARPENTRY - STILL TO ADD/CHECK <!-- omit in toc -->
 
@@ -1010,19 +1020,20 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 
 * https://github.com/facebookresearch/fairmotion
 * MD-Paedigree simulations and geometries
-* https://github.com/Kitware
-* http://salt.slicer.org/  shape analysis + data+ tutorials
-* 
+
 ### Big Data <!-- omit in toc -->
-* https://saildatabank.com/
-* https://www.ukbiobank.ac.uk/
-* https://nda.nih.gov/oai
-* http://mobilize.stanford.edu/
+
+* **Secure Anonymised Information Linkage (SAIL) Databank**: databank of anonymised data about the population of Wales. It ensures robust secure storage and use of anonymised person-based data for research to improve health, well-being and services.The Health section includes many aspects of population health, primary and secondary care, and social care services.</br>
+:dvd: [Health datasets](https://data.ukserp.ac.uk/Organisation/Category?nodeId=1&orgId=0) |
+:computer: [website](https://saildatabank.com/)
+
+* **UK Biobank** is a health resource that follows the health and well-being of 500,000 volunteer participants and provides health information, which does not identify them, to approved researchers in the UK and overseas. The aim of UK Biobank is to improve the prevention, diagnosis and treatment of a wide range of serious and life-threatening illnesses – including cancer, heart diseases, stroke, diabetes, arthritis, osteoporosis, eye disorders, depression and forms of dementia. </br>
+:computer: [website](https://www.ukbiobank.ac.uk/)
 
 * **MHEALTH (Mobile Health) dataset** by Oresti Banos et al. (University of Granada). MHEALTH is devised to benchmark techniques dealing with human behavior analysis based on multimodal body sensing (acceleration, rate of turn and magnetic field orientation at the limbs and 2-lead ECG measurements on the chest). It comprises body motion and vital signs recordings for ten volunteers of diverse profile while performing several physical activities.</br>
 :dvd: [dataset](https://archive.ics.uci.edu/ml/datasets/MHEALTH+Dataset)
 
-* **Bayesian Data Analysis course** by AKi Vehtari (2020)
+* **Bayesian Data Analysis course** by AKi Vehtari at Aalto University (2020). 
 :computer: [website](https://avehtari.github.io/BDA_course_Aalto/)
 :floppy_disk: [code](https://github.com/avehtari/BDA_course_Aalto)
 :page_facing_up: [book](https://users.aalto.fi/~ave/BDA3.pdf)
