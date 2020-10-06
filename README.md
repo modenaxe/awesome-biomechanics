@@ -63,6 +63,9 @@
 * [Neuromechanics course material](https://github.com/joshcash9/Neuromechanics_Course) by Joshua Cashaback (University of Delaware).
 * [Neuromatch Academy](https://www.youtube.com/channel/UC4LoD4yNBuLKQwDOV6t-KPw): [the Neuromatch Academy](https://www.neuromatchacademy.org/) aims to introduce traditional and emerging tools of computational neuroscience to trainees.
 * [Sport Biomechanics Lecture Series](https://www.youtube.com/channel/UCmG-bd1JL1ACP7hMzIUXwOg) curated by Stuart McErlain-Naylor. Includes introductory topics like  presentations of motion capture techniques by Vicon ([lecture 1](https://www.youtube.com/watch?v=1zJ14cW-JqY) and [lecture 2](https://www.youtube.com/watch?v=hM7xEoyP-4o)) and an [introduction](https://www.youtube.com/watch?v=2xgyTpsa14M#) of electromyography (EMG) by Delsys.
+* * [BPK 409: Wearable Technology and Human Physiology](https://www.youtube.com/channel/UClU9XVBC0mDwJBIVJTUbtwg/videos) by Max Donelan (Simon Fraser University). </br>
+:page_facing_up: [description of labs](https://docs.google.com/document/d/e/2PACX-1vTr1zOyrUedA1yx76olfDe5jn88miCNb3EJcC3INmy8nDmbJ8N5Y0B30EBoOunsWbA2DGOVWpgJzIs9/pub) |
+:floppy_disk: [code](https://github.com/patmorli/BPK-409)
 
 ## YouTube Channels :tv:
 * [AnyBody Technology Videos and Webcasts](https://www.youtube.com/channel/UCbgDnEKXyYOETR_Nb6YdehA)
@@ -110,6 +113,10 @@
     - [Jumping model with foot (6 dof)](https://figshare.com/articles/dataset/Jumping_model_with_foot/7856141)
     - [Sit-to-stand model](https://figshare.com/articles/software/Sit-to-stand_model/11987277)
     - [Elbow model in Matlab](https://figshare.com/articles/software/Elbow_model_in_Matlab/9983402)
+* [Bayesian Data Analysis course](https://avehtari.github.io/BDA_course_Aalto) by AKi Vehtari at Aalto University (2020)</br>
+:floppy_disk: [code](https://github.com/avehtari/BDA_course_Aalto) |
+:page_facing_up: [book](https://users.aalto.fi/~ave/BDA3.pdf)
+
 
 ## Books :blue_book:
 * [The ABC of EMG](https://hermanwallace.com/download/The_ABC_of_EMG_by_Peter_Konrad.pdf) by Peter Konrad (2005).
@@ -153,6 +160,10 @@
 
 * **Cancer Imaging Archive** is a service which de-identifies and hosts a large archive of medical images of cancer accessible for public download. The data are organized as “collections”; typically patients’ imaging related by a common disease (e.g. lung cancer), image modality or type (MRI, CT, digital distopathology, etc) or research focus. DICOM is the primary file format used by TCIA for radiology imaging. Supporting data related to the images such as patient outcomes, treatment details, genomics and expert analyses are also provided when available.</br>
 [:dvd: dataset | :computer: website](https://www.cancerimagingarchive.net/)
+
+* **An image-based kinematic model of the tibiotalar and subtalar joints and its application to gait analysis in children with Juvenile Idiopathic Arthritis** by Erica Montefiori et al. (2019). Study with twenty enrolled participants. For each participant, the opensim model of the foot and ankle joint complex and the relative bone geometries were shared, together with motion capture data (marker data) and results of inverse kinematics simulations for around six gait trials per participant.</br>
+:page_facing_up: [paper](https://doi.org/10.1016/j.jbiomech.2018.12.041) |
+:dvd: [dataset](https://figshare.shef.ac.uk/articles/Data_for_paper_An_image-based_kinematic_model_of_the_tibiotalar_and_subtalar_joints_and_its_application_to_gait_analysis_in_children_with_Juvenile_Idiopathic_Arthritis_/5863443/1)
 
 * **Development and validation of statistical shape models of the primary functional bone segments of the foot.** by Tamara Grant et al. (2019). Dataset includes manually segmented three-dimensional bone geometry models (.STL) from magnetic resonance images of 34 subjects of first metatarsal (29 geometries), midfoot (second-to-fifth metatarsals, cuneiforms, cuboid, and navicular) (33 geometries), calcaneus (27 geometries), and talus (34 geometries). **not all geometries are used**.
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3464747.svg)](https://doi.org/10.5281/zenodo.3464747)</br>
@@ -402,6 +413,16 @@
 :dvd: [dataset (GitHub](https://github.com/STAOpenData/Data) |
 :page_facing_up: [description of included datasets](https://ars.els-cdn.com/content/image/1-s2.0-S0021929017301008-mmc1.docx)
 
+### Health Datasets
+
+* **Secure Anonymised Information Linkage (SAIL) Databank**: databank of anonymised data about the population of Wales. It ensures robust secure storage and use of anonymised person-based data for research to improve health, well-being and services.The Health section includes many aspects of population health, primary and secondary care, and social care services.</br>
+:dvd: [Health datasets](https://data.ukserp.ac.uk/Organisation/Category?nodeId=1&orgId=0) |
+:computer: [website](https://saildatabank.com/)
+
+* **UK Biobank** is a health resource that follows the health and well-being of 500,000 volunteer participants and provides health information, which does not identify them, to approved researchers in the UK and overseas. The aim of UK Biobank is to improve the prevention, diagnosis and treatment of a wide range of serious and life-threatening illnesses – including cancer, heart diseases, stroke, diabetes, arthritis, osteoporosis, eye disorders, depression and forms of dementia. </br>
+:computer: [website](https://www.ukbiobank.ac.uk/)
+
+
 ## Ultrasound Fascicle Tracking
 
 * **StradWin** Stradwin is an experimental, cross-platform tool primarily for freehand 3D ultrasound acquisition, visualisation and elastography. However, Stradwin can also be used with 3D medical data of any sort: its segmentation and surface extraction facilities are particularly powerful. It can load most types of DICOM image files and has unique facilities to measure bone cortical thickness from CT data. </br>
@@ -453,6 +474,9 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 
 * **CMAS open-code** by CMAS (Clinical Movement Analysis Society - UK & Ireland) is a project with the goal of creating an online platform where everyone interested in movement analysis can share coding resources. Include tools for anonymization, importing, calculating gait profile scores, etc. </br>
 :floppy_disk: [source](https://github.com/cmasuki/open-code)
+
+* **fairmotion** by Deepak Gopinath and Jungdam (2020). Fairmotion provides easy-to-use interfaces and tools to work with motion capture data. The objective of the library is to manage the complexity of motion representation, 3D transformations, file formats and visualization, and let users focus on high level learning tasks. **Scarse documentation**</br>
+:floppy_disk: [code](https://github.com/facebookresearch/fairmotion)
 
 * **motoNMS** by Alice Mantoan et al. (2015). MATLAB tool that provides a complete, user friendly and highly configurable tool to automatically process experimental motion data from different laboratories in C3D format for their use into the OpenSim neuromusculoskeletal software. </br>
 :page_facing_up: [paper](https://link.springer.com/article/10.1186/s13029-015-0044-4) |
@@ -1003,7 +1027,10 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 * [ISB Data Resources](http://isbweb.org/data/)
 * [Richard Baker's blog](https://wwrichard.net/) (unmaintained).
 * [Stuart McErlain-Naylor's personal website](https://www.stuartmcnaylor.com/): includes [a list of resources](https://www.stuartmcnaylor.com/resources/) for PhD students.
-
+* Websites of interest for Machine Learning and Deep Learning topics:
+    - https://distill.pub/
+    - https://paperswithcode.com/
+    
 ## More Datasets and repositories
 * [Biomechanical Datasets](https://github.com/mkjung99/biomechanics_dataset) by Moon Ki Jung (Imperial College London).
 * [Datasets of complex physiological signals](https://www.physionet.org/about/database/) from [Physionet](https://www.physionet.org/).
@@ -1011,37 +1038,14 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 * [Open-Access Medical Image Repositories](http://www.aylward.org/notes/open-access-medical-image-repositories)
 * [Data Sources from Stanford's Mobilize Center](http://mobilize.stanford.edu/data-sources/)
 
+
 ## CARPENTRY - STILL TO ADD/CHECK <!-- omit in toc -->
-
-* BPK SFU - Wearables: https://github.com/patmorli/BPK-409 / https://www.youtube.com/channel/UClU9XVBC0mDwJBIVJTUbtwg/videos
  
-### DTI and tractography <!-- omit in toc -->
+## DTI and fibre tractography <!-- omit in toc -->
 * https://github.com/bartbols/muscle_architecture_DTI
-
-* https://github.com/facebookresearch/fairmotion
-* MD-Paedigree simulations and geometries
-
-### Big Data <!-- omit in toc -->
-
-* **Secure Anonymised Information Linkage (SAIL) Databank**: databank of anonymised data about the population of Wales. It ensures robust secure storage and use of anonymised person-based data for research to improve health, well-being and services.The Health section includes many aspects of population health, primary and secondary care, and social care services.</br>
-:dvd: [Health datasets](https://data.ukserp.ac.uk/Organisation/Category?nodeId=1&orgId=0) |
-:computer: [website](https://saildatabank.com/)
-
-* **UK Biobank** is a health resource that follows the health and well-being of 500,000 volunteer participants and provides health information, which does not identify them, to approved researchers in the UK and overseas. The aim of UK Biobank is to improve the prevention, diagnosis and treatment of a wide range of serious and life-threatening illnesses – including cancer, heart diseases, stroke, diabetes, arthritis, osteoporosis, eye disorders, depression and forms of dementia. </br>
-:computer: [website](https://www.ukbiobank.ac.uk/)
 
 * **MHEALTH (Mobile Health) dataset** by Oresti Banos et al. (University of Granada). MHEALTH is devised to benchmark techniques dealing with human behavior analysis based on multimodal body sensing (acceleration, rate of turn and magnetic field orientation at the limbs and 2-lead ECG measurements on the chest). It comprises body motion and vital signs recordings for ten volunteers of diverse profile while performing several physical activities.</br>
 :dvd: [dataset](https://archive.ics.uci.edu/ml/datasets/MHEALTH+Dataset)
-
-* **Bayesian Data Analysis course** by AKi Vehtari at Aalto University (2020). 
-:computer: [website](https://avehtari.github.io/BDA_course_Aalto/)
-:floppy_disk: [code](https://github.com/avehtari/BDA_course_Aalto)
-:page_facing_up: [book](https://users.aalto.fi/~ave/BDA3.pdf)
-
-* Websites I find between the best in Machine Learning and Deep Learning topics:
-    - https://distill.pub/
-    - https://paperswithcode.com/
-
 
 -----
 ## Contributing
