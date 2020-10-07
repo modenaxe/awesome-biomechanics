@@ -1,6 +1,7 @@
 # Awesome Biomechanics <!-- omit in toc -->
 
-## [Still a Work In Progress (might include incomplete descriptions)] <!-- omit in toc -->
+### A curated repository of biomechanical resources  <!-- omit in toc -->
+#### Still a work in progress, so it might include incomplete descriptions, but [contributions](#contributing) are welcome at any stage! :heart_eyes:<!-- omit in toc -->
 
 ## Table of contents <!-- omit in toc -->
 - [Online Courses :clapper:](#online-courses-clapper)
