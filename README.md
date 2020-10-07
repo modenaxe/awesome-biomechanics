@@ -1005,6 +1005,12 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 :page_facing_up: [blog-repro-pack-example](https://lorenabarba.com/blog/how-repro-packs-can-save-your-future-self/) |
 :bar_chart: [slides](https://figshare.com/articles/presentation/Reproducibility_PI_Manifesto/104539)
 
+* **Make code accessible with cloud services** by Jeffrey M. Perkel. This Nature article describes some technical solutions applicable for making the results of a paper accessible and reproducible for other scientistis.</br>
+:page_facing_up: [paper](https://www.nature.com/articles/d41586-019-03366-x) |
+:computer: [Docker](https://www.docker.com/) |
+:computer: [Binder](https://mybinder.org/) |
+:computer: [Colab](https://colab.research.google.com/)
+
 * **Resources that helps in choosing a license for shared resources**:
     - **[Choose a license](https://choosealicense.com/)** by GitHub Inc. This is a website with can help you choosing the license for your shared data based the intended use that you want to allow. </br> 
     - **[CreativeCommons](https://creativecommons.org/choose/)** by Creative Commons. This website can guide you in the process of choosing a Creative Commons license based on your preferences.</br> 
