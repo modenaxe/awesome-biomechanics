@@ -953,6 +953,8 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 :floppy_disk: [source](https://github.com/opensim-org/opensim-moco) |
 :star: [materials from preprint](https://github.com/stanfordnmbl/mocopaper) |
 :movie_camera: [webinar](https://www.youtube.com/watch?v=IYYZgyE33pU&feature=youtu.be)
+    - **Moco simulations at University of Maryland** by Ross Miller (2020). Models and codes from the University of Maryland "Neuromechanics Research Core" for performing optimal control simulations of human movement with OpenSim Moco software: 2D and 3D versions of the Rajagopal et al. (2016) model and code for performing "tracking" and "predictive" simulations of locomotion.</br>
+    :computer: [website](https://simtk.org/projects/umocod)
 
 * **Rapid 3D muscle-driven predictive simulations** by Antoine Falisse et al. (2019). This framework relies on numerical tools including direct collocation, implicit differential equations, and algorithmic differentiation, and generates predictive simulations of gait in about 35 minutes (single core of a standard laptop computer) with muscle-driven 3D models (29 degrees of freedom and 92 muscles). The code contains a series of example predictive simulations in which we varied objective function, musculoskeletal properties, and gait speed. </br>
 :page_facing_up: [paper](https://doi.org/10.1098/rsif.2019.0402) |
