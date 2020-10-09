@@ -1,7 +1,7 @@
 # Awesome Biomechanics <!-- omit in toc -->
 
 ### A curated repository of biomechanical resources  <!-- omit in toc -->
-#### Still a work in progress, so it might include incomplete descriptions, but [contributions](#contributing) are welcome at any stage! :heart_eyes:<!-- omit in toc -->
+#### Still a work in progress (might include incomplete descriptions), but [contributions](#contributing) are welcome at any stage! :heart_eyes:<!-- omit in toc -->
 
 ## Table of contents <!-- omit in toc -->
 - [Online Courses :clapper:](#online-courses-clapper)
@@ -416,6 +416,11 @@
 :dvd: [dataset (journal website)](https://ars.els-cdn.com/content/image/1-s2.0-S0021929017301008-mmc2.zip) |
 :dvd: [dataset (GitHub](https://github.com/STAOpenData/Data) |
 :page_facing_up: [description of included datasets](https://ars.els-cdn.com/content/image/1-s2.0-S0021929017301008-mmc1.docx)
+
+* **To what extent is joint and muscle mechanics predicted by musculoskeletal models sensitive to soft tissue artefacts?** by Giuliano Lamberto et al. (2017). Models and data used in the the paper to simulate the soft tissue artefacts occurring during gait and their influence on the internal forces estimated by three musculoskeletal models of the lower limb.</br>
+:page_facing_up: [paper](https://doi.org/10.1016/j.jbiomech.2016.07.042) |
+:dvd: [simulations data](https://figshare.shef.ac.uk/articles/dataset/To_what_extent_is_joint_and_muscle_mechanics_predicted_by_musculoskeletal_models_sensitive_to_soft_tissue_artefacts_/3502652)
+
 
 ### Health Datasets
 
