@@ -103,6 +103,7 @@
 * [Kwon3d website](http://www.kwon3d.com/theory/prac.html): website with theory about most basic topics in biomechanics.
 * [GitHub resources for teaching](https://classroom.github.com/classrooms): GitHub offers support for automating certain aspects of teaching.
 * [How to review a paper](https://www.sciencemag.org/careers/2016/09/how-review-paper) from Science Magazine.
+* [How to write a systematic review for Health](https://utas.libguides.com/SystematicReviews/) by the University of Tasmania.
 * [Kuo's course homeworks](https://github.com/kuo-courses): interesting homework materials used in Art Kuo's courses (public on GitHub).
 * [Trajectory Optimization Toolbox](https://github.com/MatthewPeterKelly/OptimTraj) by Matthew Kelly, including some [excellent examples](https://github.com/MatthewPeterKelly/dscTutorials) and some [course materials](https://github.com/MatthewPeterKelly/ME149_Spring2018).
 * [Notes on Scientific Computing for Biomechanics and Motor Control](https://github.com/BMClab/BMC) by Marcos Duarte and Renato Watanabe. A beautiful collection of lecture notes and code on scientific computing and data analysis for Biomechanics and Motor Control in the form of Jupyter notebooks (python).
