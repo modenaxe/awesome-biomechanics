@@ -484,7 +484,8 @@
 :floppy_disk: [pyBTK (Python>=3.7)](https://pypi.org/project/pyBTK/)
 
 * [MOKKA](https://biomechanical-toolkit.github.io/mokka/): GUI built on BTK functionalities. 
-Allows visualisation of c3d contents and basic processing, such as filtering and event detection. Great open source alternative to Vicon Nexus for these functionalities.
+Allows visualisation of c3d contents and basic processing, such as filtering and event detection. Great open source alternative to Vicon Nexus for these functionalities.</br>
+:computer: [(unofficial) tutorial by biomechanist.net](https://www.biomechanist.net/btk-and-mokka/)
 
 * **CMAS open-code** by CMAS (Clinical Movement Analysis Society - UK & Ireland) is a project with the goal of creating an online platform where everyone interested in movement analysis can share coding resources. Include tools for anonymization, importing, calculating gait profile scores, etc. </br>
 :floppy_disk: [source](https://github.com/cmasuki/open-code)
