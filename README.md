@@ -333,6 +333,10 @@
 :dvd: [dataset](https://zenodo.org/record/13030#.Xz1FeehKgdU) |
 :computer: [resources](https://github.com/csu-hmc/perturbed-data-paper) 
 
+* **Human kinematic, kinetic and EMG data during level walking, toe/heel-walking, stairs ascending/descending** by Tiziana Lencioni et al. (2019). kinematic, kinetic and electromyographic (EMG) data acquired from 50 healthy subjects (age between 6 and 72 years) during level walking at different velocities, toe- and heel-walking, stairs ascending and descending.</br>
+:page_facing_up: [paper](https://www.nature.com/articles/s41597-019-0323-z) |
+:dvd: [dataset](https://springernature.figshare.com/collections/Human_kinematic_kinetic_and_EMG_data_during_level_walking_toe_heel-walking_stairs_ascending_descending/4494755/1)
+
 * **Multiple Speed Walking Simulations** by May Liu et al. (2008). Data set with eight subjects (two males) walking overground at very slow, slow, free, and fast speeds.</br>
 :page_facing_up: [paper](https://doi.org/10.1016/j.jbiomech.2008.07.031) |
 :dvd: [dataset](https://simtk.org/projects/mspeedwalksims) 
@@ -459,7 +463,7 @@
 
 * CAST
 * IORGait
-* LAMB
+* [LAMB](https://journals.sagepub.com/doi/10.1177/0954411919827033) by Marco Rabuffetti et al. (2019).
 * SAFLo
 * T3Dg
 
