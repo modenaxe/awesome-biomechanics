@@ -1064,6 +1064,10 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 
 ## Sandbox <!-- omit in toc -->
  
+ * **JointTrack**
+ https://sourceforge.net/projects/jointtrack/files/JointTrack/2.0%20%28stable%29/
+ https://ufdcimages.uflib.ufl.edu/UF/E0/02/17/84/00001/mu_s.pdf
+ 
 ## DTI and fibre tractography <!-- omit in toc -->
 * https://github.com/bartbols/muscle_architecture_DTI
 
