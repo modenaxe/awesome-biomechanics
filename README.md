@@ -1064,6 +1064,13 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 
 ## Sandbox <!-- omit in toc -->
  
+ * **UG stats Lectures** by Andy Field (2020): 
+ https://www.youtube.com/playlist?list=PLEzw67WWDg81n3N3yfr_MW7f6cEl_XibX&feature=share
+ 
+ * **Hypothesis testing demonstration** by Michael Pyrcz 
+  youtube: https://www.youtube.com/watch?v=bcb3m3LBtRk
+  github: https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/Interactive_Hypothesis_Testing.ipynb
+ 
  * **JointTrack**
  https://sourceforge.net/projects/jointtrack/files/JointTrack/2.0%20%28stable%29/
  https://ufdcimages.uflib.ufl.edu/UF/E0/02/17/84/00001/mu_s.pdf
