@@ -84,7 +84,7 @@
 * [Manoj Srinivasan's channel](https://www.youtube.com/user/sjonam/videos)
 * [Ross Miller's channel](https://www.youtube.com/channel/UCO_H7aZoIcwZiNc4KjiQQkg/videos) 
 * [Stuart McErlain-Naylor channel](https://www.youtube.com/channel/UCmG-bd1JL1ACP7hMzIUXwOg)
-* [Analysis of upright posture by force platform - by Felipe Fava de Lima](https://www.youtube.com/playlist?list=PLw8zLrKDgyodwSxhtVFaFMrdhaS1H6jzB)
+* [Analysis of upright posture by force platform](https://www.youtube.com/playlist?list=PLw8zLrKDgyodwSxhtVFaFMrdhaS1H6jzB): videos produced by Felipe Fava de Lima about the use of force plataforms.
 
 ## Videos :video_camera:
 * [CNB-ASB Muscle Workshop](https://www.youtube.com/watch?v=Ur9wYYR0nac&feature=youtu.be): presentations on the topic `Integrative Muscle Modelling for Neuromechanics`.
