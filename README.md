@@ -1066,6 +1066,11 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 
 ## Sandbox <!-- omit in toc -->
  
+* **Kinovea** by Joan Charmant. Kinovea is a video player for sport analysis. It provides a set of tools to capture, slow down, study, compare, annotate and measure technical performances.</br>
+:computer: [website](https://www.kinovea.org/) |
+:floppy_disk: [source]( https://github.com/Kinovea/Kinovea) |
+:star: [resources]( https://www.kinovea.org/help/en/index.htm)
+ 
  * **UG stats Lectures** by Andy Field (2020): 
  https://www.youtube.com/playlist?list=PLEzw67WWDg81n3N3yfr_MW7f6cEl_XibX&feature=share
  
