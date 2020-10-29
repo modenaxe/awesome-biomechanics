@@ -1,4 +1,4 @@
-# Awesome Biomechanics <!-- omit in toc -->
+# Awesome Biomechanics [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)<!-- omit in toc -->
 
 ### A curated repository of biomechanical resources  <!-- omit in toc -->
 #### Still a work in progress (might include incomplete descriptions), but [contributions](#contributing) are welcome at any stage! :heart_eyes:<!-- omit in toc -->
