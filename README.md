@@ -65,7 +65,7 @@
 * [Neuromechanics course material](https://github.com/joshcash9/Neuromechanics_Course) by Joshua Cashaback (University of Delaware).
 * [Neuromatch Academy](https://www.youtube.com/channel/UC4LoD4yNBuLKQwDOV6t-KPw): [the Neuromatch Academy](https://www.neuromatchacademy.org/) aims to introduce traditional and emerging tools of computational neuroscience to trainees.
 * [Sport Biomechanics Lecture Series](https://www.youtube.com/channel/UCmG-bd1JL1ACP7hMzIUXwOg) curated by Stuart McErlain-Naylor. Includes introductory topics like  presentations of motion capture techniques by Vicon ([lecture 1](https://www.youtube.com/watch?v=1zJ14cW-JqY) and [lecture 2](https://www.youtube.com/watch?v=hM7xEoyP-4o)) and an [introduction](https://www.youtube.com/watch?v=2xgyTpsa14M#) of electromyography (EMG) by Delsys.
-* [BPK 409: Wearable Technology and Human Physiology](https://www.youtube.com/channel/UClU9XVBC0mDwJBIVJTUbtwg/videos) by Max Donelan (Simon Fraser University). </br>
+* [BPK 409: Wearable Technology and Human Physiology](https://www.youtube.com/channel/UClU9XVBC0mDwJBIVJTUbtwg/videos) by Max Donelan (Simon Fraser University). The course teaches to use state-of-the-art wearable technology to measure, analyze, and understand human physiological systems including muscular, nervous, and cardiovascular systems.</br>
 :page_facing_up: [description of labs](https://docs.google.com/document/d/e/2PACX-1vTr1zOyrUedA1yx76olfDe5jn88miCNb3EJcC3INmy8nDmbJ8N5Y0B30EBoOunsWbA2DGOVWpgJzIs9/pub) |
 :floppy_disk: [code](https://github.com/patmorli/BPK-409)
 
