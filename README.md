@@ -738,6 +738,9 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 :computer: [website](https://www.slicer.org/wiki/Main_Page) |
 :page_facing_up: [Documentation](https://www.slicer.org/wiki/Documentation/Nightly/Training) | 
 :video_camera: [Youtube tutorials](https://www.youtube.com/channel/UC11x1iQ7ydSIFYw4L6wveXg)
+* **[Dragonfly](https://www.theobjects.com/dragonfly/index.html)** by Object Research Systems. Dragonfly is a software platform for the intuitive inspection and processing of multi-scale multi-modality image data. Includes a Deep Learning tool for training deep models for image segmentation and regression tasks. It also offers rendering capabilities and extensibility through Python.</br>
+:computer: [website](https://www.theobjects.com/dragonfly/index.html) |
+:video_camera: [Video tutorials](http://www.theobjects.com/dragonfly/tutorials.html)
 * **[ITK-Snap](http://www.itksnap.org/pmwiki/pmwiki.php)** - 
 :page_facing_up: [paper](https://doi.org/10.1016/j.neuroimage.2006.01.015) |
 :video_camera: [Video tutorials](http://www.itksnap.org/pmwiki/pmwiki.php?n=Videos.SNAP3)
