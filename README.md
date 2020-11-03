@@ -1074,6 +1074,11 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 :computer: [website](https://www.kinovea.org/) |
 :floppy_disk: [source]( https://github.com/Kinovea/Kinovea) |
 :star: [resources]( https://www.kinovea.org/help/en/index.htm)
+
+* **Chordata** by Bruno Laurencich et al. Chordata is a motion capture system that can be easily assembled by anyone in order for them to start capturing as soon as they are able to build it. Additionally, it is an open hardware-software framework that can be freely tweaked, enhanced, or used as part of another project. </br>
+:page_facing_up: [project introduction](https://hackaday.com/2018/09/24/a-motion-capture-system-for-everyone/) |
+:computer: [website](https://chordata.cc/) |
+:star: [website with links](https://hackaday.io/project/27519-motion-capture-system-that-you-can-build-yourself)
  
  * **UG stats Lectures** by Andy Field (2020): 
  https://www.youtube.com/playlist?list=PLEzw67WWDg81n3N3yfr_MW7f6cEl_XibX&feature=share
