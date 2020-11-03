@@ -1072,8 +1072,12 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
  
 * **Kinovea** by Joan Charmant. Kinovea is a video player for sport analysis. It provides a set of tools to capture, slow down, study, compare, annotate and measure technical performances.</br>
 :computer: [website](https://www.kinovea.org/) |
-:floppy_disk: [source]( https://github.com/Kinovea/Kinovea) |
+:floppy_disk: [source](https://github.com/Kinovea/Kinovea) |
 :star: [resources]( https://www.kinovea.org/help/en/index.htm)
+
+* **MoJoXlab** by Riasat Islam et al. (2020). MoJoXlab is a MATLAB based custom motion capture analysis software toolkit whose aim is to produce freely available motion capture analysis software to be used by anyone interested in generating lower limb joint kinematics waveforms using any suitable wearable inertial measurement units (IMUs).</br>
+:page_facing_up: [paper](https://mhealth.jmir.org/2020/6/e17872/pdf) |
+:floppy_disk: [source](https://ordo.open.ac.uk/collections/MoJoXlab/4815567)
 
 * **Chordata** by Bruno Laurencich et al. Chordata is a motion capture system that can be easily assembled by anyone in order for them to start capturing as soon as they are able to build it. Additionally, it is an open hardware-software framework that can be freely tweaked, enhanced, or used as part of another project. </br>
 :page_facing_up: [project introduction](https://hackaday.com/2018/09/24/a-motion-capture-system-for-everyone/) |
