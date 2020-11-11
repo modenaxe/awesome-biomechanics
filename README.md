@@ -34,7 +34,7 @@
   - [Neuromusculoskeletal Simulation Software :joystick:](#neuromusculoskeletal-simulation-software-joystick)
   - [Neuromusculoskeletal Simulation Tools](#neuromusculoskeletal-simulation-tools)
 - [Subject-Specific Modelling](#subject-specific-modelling)
-  - [Segmentation of Medical Images :art: [WIP]](#segmentation-of-medical-images-art-wip)
+  - [Segmentation of Medical Images :art: [WIP]](#segmentation-of-medical-images-art)
   - [Manipulation, Processing and Comparison of Surface Meshes](#manipulation-processing-and-comparison-of-surface-meshes)
   - [Resources for Building Biomechanical Models from Medical Images](#resources-for-building-biomechanical-models-from-medical-images)
   - [Automatic Definition of Bony Landmarks and Reference Systems :skull:](#automatic-definition-of-bony-landmarks-and-reference-systems-skull)
@@ -617,7 +617,8 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 
 * **MyoSim** by the [Campbell Lab](https://sites.google.com/g.uky.edu/campbellmusclelab). MyoSim is an open source computer software for modeling the mechanical properties (force, shortening, power output) of striated muscles. The software models the behavior of half-sarcomeres by extending Huxley-based cross-bridge distribution techniques with Ca2+ activation and cooperative effects. MyoSim can also simulate arbitrary cross-bridge schemes set by the researcher.</br>
 :page_facing_up: [paper](https://rupress.org/jgp/article/143/3/387/43232/Dynamic-coupling-of-regulated-binding-sites-and) |
-[:computer: webpage | :floppy_disk: source | :page_facing_up: documentation](http://myosim.campbellmusclelab.org/home)
+:computer: [webpage](http://myosim.campbellmusclelab.org/home) |
+:floppy_disk: [source](https://github.com/Campbell-Muscle-Lab/MATMyoSim)
 
 * **Virtual Muscle** by Chen et al. (2000). Virtual Muscle provides a framework for constructing accurate muscle models that can be incorporated easily into complete
 neuromusculoskeletal systems. The muscle model includes motor nuclei that accept a single command input (e.g. net synaptic drive or EMG envelope) and apportion it into recruitment and frequency modulation of subgroups of motor units with type-specific properties, type-specific contractile elements that produce force as a function of firing frequency, length and velocity, passive elastic elements for passive muscle force, passive elastic elements for series-compliance of tendons and aponeuroses. </br> 
@@ -732,7 +733,7 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 
 ## Subject-Specific Modelling
 
-### Segmentation of Medical Images :art: [WIP]
+### Segmentation of Medical Images :art:
 * **[3DSlicer](https://www.slicer.org/)** - 
 :page_facing_up: [paper (Slicer v4)](https://dx.doi.org/10.1016%2Fj.mri.2012.05.001) |
 :computer: [website](https://www.slicer.org/wiki/Main_Page) |
