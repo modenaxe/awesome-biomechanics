@@ -618,7 +618,8 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 * **MyoSim** by the [Campbell Lab](https://sites.google.com/g.uky.edu/campbellmusclelab). MyoSim is an open source computer software for modeling the mechanical properties (force, shortening, power output) of striated muscles. The software models the behavior of half-sarcomeres by extending Huxley-based cross-bridge distribution techniques with Ca2+ activation and cooperative effects. MyoSim can also simulate arbitrary cross-bridge schemes set by the researcher.</br>
 :page_facing_up: [paper](https://rupress.org/jgp/article/143/3/387/43232/Dynamic-coupling-of-regulated-binding-sites-and) |
 :computer: [webpage](http://myosim.campbellmusclelab.org/home) |
-:floppy_disk: [source](https://github.com/Campbell-Muscle-Lab/MATMyoSim)
+:floppy_disk: [installation package (includes source)](http://myosim.campbellmusclelab.org/download)
+:floppy_disk: [source (MATLAB version)](https://github.com/Campbell-Muscle-Lab/MATMyoSim)
 
 * **Virtual Muscle** by Chen et al. (2000). Virtual Muscle provides a framework for constructing accurate muscle models that can be incorporated easily into complete
 neuromusculoskeletal systems. The muscle model includes motor nuclei that accept a single command input (e.g. net synaptic drive or EMG envelope) and apportion it into recruitment and frequency modulation of subgroups of motor units with type-specific properties, type-specific contractile elements that produce force as a function of firing frequency, length and velocity, passive elastic elements for passive muscle force, passive elastic elements for series-compliance of tendons and aponeuroses. </br> 
@@ -693,7 +694,6 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 :computer: [website](http://www.peb.ufrj.br/docentes/Luciano/EMG-FE.htm) |
 :page_facing_up: [users guide](http://www.peb.ufrj.br/docentes/Luciano/user_guide.pdf) |
 :floppy_disk: [source](http://www.peb.ufrj.br/docentes/Luciano/EMGDM_FEv1R7_dist1.zip)
-
 
 * **CEINMS: Calibrated EMG-Informed Neuromusculoskeletal Modelling Toolbox** by Claudio Pizzolato et al. (2015). OpenSim toolbox that implements various techniques for running musculoskeletal simulations from experimental measurements of electromyography (EMG). See CEINMS paper for list and examples.</br>
 :page_facing_up: [paper](https://doi.org/10.1016/j.jbiomech.2015.09.021) |
