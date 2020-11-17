@@ -60,7 +60,7 @@
 ## Online Courses :clapper:
 * [Lectures on animal locomotion](https://mchenrylab.bio.uci.edu/e139) by Manny Azizi and Matt McHenry, UC Irvine (2020).
 * [Lectures on optimal control](http://www.anilvrao.com/Optimal-Control-Videos.html) by Anil Rao (University of Florida).
-* [Lectures on multibody dynamics](https://www.youtube.com/watch?v=1Tyxgv7RUdk&list=PLzAwokZEM7auZEBOJKNa_lCgz2rdgpYLL) by Jason Moore at UC Davis (2017).
+* [Lectures on multibody dynamics](https://www.youtube.com/watch?v=1Tyxgv7RUdk&list=PLzAwokZEM7auZEBOJKNa_lCgz2rdgpYLL) by [Jason Moore](https://www.moorepants.info/) at UC Davis (2017).
 * [KNES 789W - Advanced Projects in Kinesiology; Modeling & Simulation of Human Movement](https://www.youtube.com/watch?v=JXz5BHQBJhk&list=PLFNfmB3IG2Cf_0V5N9w_ZBKIHD2xg1H_g) by Ross Miller, University of Maryland (2020).
 * [Neuromechanics course material](https://github.com/joshcash9/Neuromechanics_Course) by Joshua Cashaback (University of Delaware).
 * [Neuromatch Academy](https://www.youtube.com/channel/UC4LoD4yNBuLKQwDOV6t-KPw): [the Neuromatch Academy](https://www.neuromatchacademy.org/) aims to introduce traditional and emerging tools of computational neuroscience to trainees.
@@ -113,6 +113,7 @@
 * [Notes on Scientific Computing for Biomechanics and Motor Control](https://github.com/BMClab/BMC) by Marcos Duarte and Renato Watanabe. A beautiful collection of lecture notes and code on scientific computing and data analysis for Biomechanics and Motor Control in the form of Jupyter notebooks (python).
 * [Optimal Control Workshop](https://simtk.org/projects/ocworkshop/) by BJ Fregly. Files distributed at the NSF-funded Optimal Control Workshop held on July 9, 2015 at the University of Edinburgh as part of the XV International Symposium on Computer Simulation in Biomechanics.
 * [OpenSim teaching Hub](https://simtk-confluence.stanford.edu/display/OpenSim/Teaching+Hub) by the OpenSim Team. Includes materials from the Neuromuscular Biomechanics Lab in the Department of Bioengineering at Stanford University. Does not require membership to access.
+* [ODE Integration Best Practices With Octave/Matlab](https://moorepants.github.io/eme171/ode-integration-best-practices-with-octavematlab.html) by by [Jason Moore](https://www.moorepants.info/) from his [EME 171: Analysis, Simulation and Design of Mechatronic Systems](https://moorepants.github.io/eme171/) course at UC Davis.
 * [Teaching and Learning with Jupyter](https://jupyter4edu.github.io/jupyter-edu-book/) by Lorena Barba et al. (2019). This is a collaboratively written book including explanations and examples on many key topics of interest for those interested in using [Jupyter](https://jupyter.org/) in the classroom. 
 * [Tips for setting up remote lessons](https://www.3blue1brown.com/blog/livestream-setup) by Grant Sanderson, from the [3blue1brown Youtube Channel](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/videos).
 * [Tutorial: 3D Kinematics and Inverse Dynamics MATLAB scripts](https://uk.mathworks.com/matlabcentral/fileexchange/58021-3d-kinematics-and-inverse-dynamics?s_tid=prof_contriblnk) by Raphael Dumas, including some examples.
