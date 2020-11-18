@@ -1108,6 +1108,7 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
  
 ## DTI and fibre tractography <!-- omit in toc -->
 * https://github.com/bartbols/muscle_architecture_DTI
+* http://dsi-studio.labsolver.org/
 
 * **MHEALTH (Mobile Health) dataset** by Oresti Banos et al. (University of Granada). MHEALTH is devised to benchmark techniques dealing with human behavior analysis based on multimodal body sensing (acceleration, rate of turn and magnetic field orientation at the limbs and 2-lead ECG measurements on the chest). It comprises body motion and vital signs recordings for ten volunteers of diverse profile while performing several physical activities.</br>
 :dvd: [dataset](https://archive.ics.uci.edu/ml/datasets/MHEALTH+Dataset)
