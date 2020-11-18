@@ -216,9 +216,13 @@
 :page_facing_up: [paper](https://doi.org/10.1093/nar/gkn613) |
 :dvd: [dataset](http://lifesciencedb.jp/bp3d/) 
 
-* **Femur and tibia surface mesh set** by Nolte et al. (2020). The data set contains bone geometries of the left and right thigh (femur) and shank (tibia and fibula) segmented from magnetic resonance (MR) scans of 35 healthy volunteers (22 male, 13 female). [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.167808.svg)](https://doi.org/10.5281/zenodo.167808)</br>
+* **Femur and tibia surface mesh set** by Daniel Nolte et al. (2020). The data set contains bone geometries of the left and right thigh (femur) and shank (tibia and fibula) segmented from magnetic resonance (MR) scans of 35 healthy volunteers (22 male, 13 female). [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.167808.svg)](https://doi.org/10.5281/zenodo.167808)</br>
 :page_facing_up: [paper](https://doi.org/10.1016/j.gaitpost.2020.02.010) |
 :dvd: [dataset](https://zenodo.org/record/167808#.X0O4kMhKgdV)
+
+* **MRI-based anatomical characterisation of lower-limb muscles in older women** by Erica Montefiori et al. (2020). The dataset contains segmentations for the eleven subjects investigated in the study (mean (sd), age: 69 (7), mass: 66.9 (7.7) kg, height: 159 (3) cm). Segmentations include 1) bone and soft tissue (skin), 2) muscle volumes and 3) muscle centrelines. The first two are in stl format, the latter in vtk format.</br>
+:page_facing_up: [preprint](https://www.researchgate.net/publication/345942391_MRI-based_anatomical_characterisation_of_lower-limb_muscles_in_older_women) |
+:dvd: [dataset](https://figshare.shef.ac.uk/articles/dataset/Data_for_paper_MRI-based_anatomical_characterisation_of_lower-limb_muscles_in_older_women_/9934055/2)
 
 * **Natural Knee Data** by University of Denver Center for Orthopaedic Biomechanics. CT and MRI images are provided for 7 knee specimens (5 cadaveric subjects) plus solid models  created from the CT images. In addition, during dissection of the knees, surfaces and ligament insertions and origins were outlined on the bones and recorded as probed points.  
 :dvd: [dataset](https://digitalcommons.du.edu/natural_knee_data) |
