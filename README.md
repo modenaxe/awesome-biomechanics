@@ -830,6 +830,10 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 :page_facing_up: [paper](https://doi.org/10.1016/j.jbiomech.2018.08.028) |
 :floppy_disk: [source](https://github.com/renaultJB/GIBOC-Knee-Coordinate-System)
 
+* **STAPLE toolbox** by Luca Modenese and Jean-Baptiste Renault et al. (2020). STAPLE (Shared Tools for Automatic Personalised Lower Extremity modelling) consists of a collection of methods for generating skeletal models from three-dimensional bone geometries, usually segmented from medical images. The methods are currently being expanded to create complete musculoskeletal models. Toolbox is currently in beta version.</br>
+:page_facing_up: [preprint](https://www.biorxiv.org/content/10.1101/2020.06.23.162727v2) |
+:floppy_disk: [source (beta)](https://github.com/modenaxe/msk-STAPLE)
+
 ### Uncertainty Quantification in Musculoskeletal Simulations
 
 * **Probabilistic Tool for Considering Patient Populations & Model Uncertainty** by Casey A. Myers et al. (2015). This is a probabilistic tool to assess model parameter uncertainty and intersubject variability.</br>  
