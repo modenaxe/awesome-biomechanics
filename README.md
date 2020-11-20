@@ -818,6 +818,10 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 :page_facing_up: [step-by-step guide](https://figshare.shef.ac.uk/articles/dataset/Data_for_paper_Investigation_of_the_dependence_of_joint_contact_forces_on_musculotendon_parameters_using_a_codified_workflow_for_image-based_modelling_/5863422) |
 :floppy_disk: [scripts (MATLAB)](https://figshare.com/articles/Code_for_paper_Investigation_of_the_dependence_of_joint_contact_forces_on_musculotendon_parameters_using_a_codified_workflow_for_image-based_modelling_/6392423)
 
+* **STAPLE toolbox** by Luca Modenese and Jean-Baptiste Renault et al. (2020). STAPLE (Shared Tools for Automatic Personalised Lower Extremity modelling) consists of a collection of methods for generating skeletal models from three-dimensional bone geometries, usually segmented from medical images. The methods are currently being expanded to create complete musculoskeletal models. Toolbox is currently in beta version. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4275285.svg)](https://doi.org/10.5281/zenodo.4275285)</br>
+:page_facing_up: [preprint](https://www.biorxiv.org/content/10.1101/2020.06.23.162727v2) |
+:floppy_disk: [source (beta)](https://github.com/modenaxe/msk-STAPLE)
+
 
 ### Automatic Definition of Bony Landmarks and Reference Systems :skull:
 
@@ -833,10 +837,6 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 * **GIBOC-Knee toolbox** by Jean-Baptiste Renault et al. (2018). The toolbox includes three automatic algorithms for reference system identification on femur, tibia and patella. Each algorithm is implemeted with 3 variants, and compared against five other methods from the literature on a dataset of 24 lower-limb CT-scans (not included in the repository).  
 :page_facing_up: [paper](https://doi.org/10.1016/j.jbiomech.2018.08.028) |
 :floppy_disk: [source](https://github.com/renaultJB/GIBOC-Knee-Coordinate-System)
-
-* **STAPLE toolbox** by Luca Modenese and Jean-Baptiste Renault et al. (2020). STAPLE (Shared Tools for Automatic Personalised Lower Extremity modelling) consists of a collection of methods for generating skeletal models from three-dimensional bone geometries, usually segmented from medical images. The methods are currently being expanded to create complete musculoskeletal models. Toolbox is currently in beta version. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4275285.svg)](https://doi.org/10.5281/zenodo.4275285)</br>
-:page_facing_up: [preprint](https://www.biorxiv.org/content/10.1101/2020.06.23.162727v2) |
-:floppy_disk: [source (beta)](https://github.com/modenaxe/msk-STAPLE)
 
 ### Uncertainty Quantification in Musculoskeletal Simulations
 
@@ -970,9 +970,13 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 :floppy_disk: [source](https://figshare.shef.ac.uk/articles/The_Muscle_Standardised_Femur_model/4578298)
 
 ## Statistical Analysis
+This section needs to be improved.
 * [**G*Power**](https://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower.html)
 * [**spm1d**](https://spm1d.org/): package for one-dimensional [Statistical Parametric Mapping](http://www.scholarpedia.org/article/Statistical_parametric_mapping)
 * [**SPSS Statistics**](https://www.ibm.com/uk-en/products/spss-statistics) (commercial)
+* **PCA of Waveforms and Functional PCA: A Primer for Biomechanics** by John Warmenhoven et al. (2020). Scripts presenting functional principal components analysis (fPCA) and PCA of waveforms on an exemplar biomechanical data set. </br>
+:page_facing_up: [paper](https://doi.org/10.1016/j.jbiomech.2020.110106) |
+:floppy_disk: [code](https://github.com/johnwarmenhoven/PCA-FPCA)
 
 ## Optimal Control and Trajectory Optimization :rocket:
 
