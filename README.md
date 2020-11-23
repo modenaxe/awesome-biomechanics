@@ -1105,6 +1105,10 @@ This section needs to be improved.
 :page_facing_up: [project introduction](https://hackaday.com/2018/09/24/a-motion-capture-system-for-everyone/) |
 :computer: [website](https://chordata.cc/) |
 :star: [website with links](https://hackaday.io/project/27519-motion-capture-system-that-you-can-build-yourself)
+
+* **pyomo** Python-based, open-source optimization modeling language with a diverse set of optimization capabilities.
+http://www.pyomo.org/
+https://github.com/Pyomo/PyomoGallery
  
  * **UG stats Lectures** by Andy Field (2020): 
  https://www.youtube.com/playlist?list=PLEzw67WWDg81n3N3yfr_MW7f6cEl_XibX&feature=share
