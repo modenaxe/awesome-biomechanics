@@ -920,7 +920,10 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 :page_facing_up: [Aster-description](https://www.code-aster.org/UPLOAD/DOC/Presentation/plaquette_aster_en.pdf) |
 :movie_camera: [tutorials](https://www.youtube.com/channel/UCWBV4PbsfizSkmcq88roGeQ/playlists) |
 :movie_camera: [tutorials](https://www.youtube.com/watch?v=g9Kvv7PYF34&list=PLvkU6i2iQ2frC7YB1A9Pqcfhwe9T3Vuy-)
-* [FEBio](https://febio.org/) **TODO - needs description and resources**
+
+* **FEBio** **TODO - needs description and resources** </br>
+:computer: [website](https://febio.org/) |
+:movie_camera: [introductory webinar](https://www.youtube.com/watch?v=I3_PKL4x45g&t=944s)
 
 ### Finite Element Analysis Software Tools
 
