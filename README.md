@@ -29,11 +29,12 @@
     - [Inertial Measurement Units](#inertial-measurement-units)
 - [Ultrasound Fascicle Tracking](#ultrasound-fascicle-tracking)
 - [Modelling and Simulation :computer:](#modelling-and-simulation-computer)
-  - [Anthropometric Models](#anthropometric-models)
+  - [Anthropometric Models :standing_person:](#anthropometric-models-standing_person)
   - [Multibody and Physics Engines :sleeping::arrow_lower_left::apple:](#multibody-and-physics-engines-sleepingarrow_lower_leftapple)
-  - [Computational Muscle Models](#computational-muscle-models)
+  - [Computational Muscle Models 	:mechanical_arm:](#computational-muscle-models-mechanical_arm)
   - [Neuromusculoskeletal Simulation Software :joystick:](#neuromusculoskeletal-simulation-software-joystick)
   - [Neuromusculoskeletal Simulation Tools](#neuromusculoskeletal-simulation-tools)
+- [Optimal Control and Trajectory Optimization :rocket:](#optimal-control-and-trajectory-optimization-rocket)
 - [Subject-Specific Modelling](#subject-specific-modelling)
   - [Segmentation of Medical Images :art:](#segmentation-of-medical-images-art)
   - [Manipulation, Processing and Comparison of Surface Meshes](#manipulation-processing-and-comparison-of-surface-meshes)
@@ -47,7 +48,6 @@
   - [Finite Element Analysis Software Tools](#finite-element-analysis-software-tools)
   - [Finite Element Models](#finite-element-models)
 - [Statistical Analysis](#statistical-analysis)
-- [Optimal Control and Trajectory Optimization :rocket:](#optimal-control-and-trajectory-optimization-rocket)
 - [Scientific Data Visualization](#scientific-data-visualization)
 - [Reproducibility](#reproducibility)
 - [Societies and Initiatives :office:](#societies-and-initiatives-office)
@@ -559,7 +559,7 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 
 ## Modelling and Simulation :computer:
 
-### Anthropometric Models
+### Anthropometric Models :standing_person:
 
 * **Repository of body segment parameter models** by Will Robertson. Contains the raw data for a multitude of body segment parameter models (see repository for list).  
 :computer: [website](http://wspr.io/body-segment-param/) |
@@ -618,7 +618,7 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 :computer: [website](https://simtk.org/projects/simbody) |
 :floppy_disk: [source](https://github.com/simbody)
 
-### Computational Muscle Models
+### Computational Muscle Models 	:mechanical_arm:
 
 * **Flexing Computational Muscle: Modeling and Simulation of Musculotendon Dynamics** by Matthew Millard et al. (2013). Source code and benchmarks to compare computational speed and physiological accuracy of several muscle models in OpenSim. </br>
 :page_facing_up: [paper](https://doi.org/10.1115/1.4023390) |
@@ -741,6 +741,48 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 * **SynO: Synergy Optimization** by Mohammad Shourijeh ad Benjamin Fregly (2020). SynO is a collection of MATLAB codes implementing a novel approach for estimating muscle forces/activations by imposing a synergy structure within optimization (termed “synergy optimization”).</br>
 :page_facing_up: [paper](https://doi.org/10.1115/1.4044310) |
 :floppy_disk: [source](https://simtk.org/projects/syno/)
+
+
+## Optimal Control and Trajectory Optimization :rocket:
+
+* **OpenSim Moco** by Chris Dembia, Nick Bianco and the OpenSim team (2019). OpenSim Moco is a software toolkit to solve optimal control problems with musculoskeletal models defined in OpenSim, including those with kinematic constraints. Using the direct collocation method, Moco can solve a wide range of problems, including motion tracking, motion prediction, and parameter optimization. The design of Moco focuses on ease-of-use, customizability, and extensibility. Just like OpenSim itself, Moco has interfaces in XML/command-line, Matlab, Python, Java, and C++.  
+:page_facing_up: [preprint](https://www.biorxiv.org/content/10.1101/839381v1) |
+:computer: [website](https://simtk.org/projects/opensim-moco) |
+:floppy_disk: [source](https://github.com/opensim-org/opensim-moco) |
+:star: [materials from preprint](https://github.com/stanfordnmbl/mocopaper) |
+:movie_camera: [webinar](https://www.youtube.com/watch?v=IYYZgyE33pU&feature=youtu.be)
+    - **Moco simulations at University of Maryland** by Ross Miller (2020). Models and codes from the University of Maryland "Neuromechanics Research Core" for performing optimal control simulations of human movement with OpenSim Moco software: 2D and 3D versions of the Rajagopal et al. (2016) model and code for performing "tracking" and "predictive" simulations of locomotion.</br>
+    :computer: [website](https://simtk.org/projects/umocod)
+
+* **Rapid 3D muscle-driven predictive simulations** by Antoine Falisse et al. (2019). This framework relies on numerical tools including direct collocation, implicit differential equations, and algorithmic differentiation, and generates predictive simulations of gait in about 35 minutes (single core of a standard laptop computer) with muscle-driven 3D models (29 degrees of freedom and 92 muscles). The code contains a series of example predictive simulations in which we varied objective function, musculoskeletal properties, and gait speed. </br>
+:page_facing_up: [paper](https://doi.org/10.1098/rsif.2019.0402) |
+:computer: [website](https://simtk.org/projects/3dpredictsim) |
+:floppy_disk: [source](https://github.com/antoinefalisse/3dpredictsim) 
+
+* **FROST: Fast Robot Optimization and Simulation Toolkit** by Hereid et al. (2016). FROST for MATLAB provides a general full-body dynamics gait optimization and simulation framework for bipedal walking robots using virtual constraints based feedback controllers. The Wolfram Mathematica backend enables generation of analytic expressions for multi-domain system dynamics and kinematics symbolically, compiled as .MEX files under MATLAB. FROST also features state-of-the-art direct collocation approaches for the full-order dynamics gait optimization problems to guarantee fast and reliable convergence. </br>
+:page_facing_up: [paper](https://ieeexplore.ieee.org/document/8202230) |
+:computer: [website](http://ayonga.github.io/frost-dev/) |
+:floppy_disk: [source](https://github.com/ayonga/frost-dev) 
+
+* **Muscle Redundancy Solver** by Friedl de Groote et al. (2016). An algorithm to estimate muscle tendon properties and/or compute muscle coordination by tracking experimental data with a musculoskeletal model assuming optimal control to solve for the muscle redundancy. </br>
+:page_facing_up: [paper](https://link.springer.com/article/10.1007/s10439-016-1591-9) |
+:computer: [website](https://simtk.org/projects/optcntrlmuscle) |
+:floppy_disk: [source](https://github.com/KULeuvenNeuromechanics/MuscleRedundancySolver) |
+:floppy_disk: [dev_repo](https://github.com/antoinefalisse/solvemuscleredundancy_dev)
+
+* **opty** by Jason Moore and Ton van den Bogert (2018). Opty utilizes symbolic descriptions of ordinary differential equations expressed with [SymPy](https://www.sympy.org/en/index.html) to form the constraints needed to solve optimal control and parameter identification problems using the direct collocation method and non-linear programming. </br>
+:page_facing_up: [paper](https://joss.theoj.org/papers/10.21105/joss.00300) |
+:computer: [documentation](https://opty.readthedocs.io/en/latest/) |
+:floppy_disk: [source](https://github.com/csu-hmc/opty) 
+
+* **Data-tracking optimization using collocation** by Yi-Chung Lin and Marcus Pandy (2017). This is a MATLAB package that can be used to perform data-tracking optimization using collocation method. The codes and models are available. The tracking results for one subject during walking and running are also provided. </br>
+:page_facing_up: [paper](https://www.ncbi.nlm.nih.gov/pubmed/28583674) |
+[:computer: website | :floppy_disk: source ](https://simtk.org/projects/datatracking)
+
+* **Optimal Control of Musculoskeletal Movement Using OpenSim & MATLAB** by Leng-Feng Lee and Brian R. Umberger (2016). This package includes an approach for generating optimal control simulations of human movement using OpenSim and MATLAB based on the direct collocation approach. Models, results and a complete working example are provided. </br>
+:page_facing_up: [paper](https://peerj.com/articles/1638.pdf) |
+[:computer: website | :floppy_disk: source ](https://simtk.org/projects/directcolloc)
+
 
 ## Subject-Specific Modelling
 
@@ -990,47 +1032,6 @@ This section needs to be improved.
 * **PCA of Waveforms and Functional PCA: A Primer for Biomechanics** by John Warmenhoven et al. (2020). Scripts presenting functional principal components analysis (fPCA) and PCA of waveforms on an exemplar biomechanical data set. </br>
 :page_facing_up: [paper](https://doi.org/10.1016/j.jbiomech.2020.110106) |
 :floppy_disk: [code](https://github.com/johnwarmenhoven/PCA-FPCA)
-
-## Optimal Control and Trajectory Optimization :rocket:
-
-* **OpenSim Moco** by Chris Dembia, Nick Bianco and the OpenSim team (2019). OpenSim Moco is a software toolkit to solve optimal control problems with musculoskeletal models defined in OpenSim, including those with kinematic constraints. Using the direct collocation method, Moco can solve a wide range of problems, including motion tracking, motion prediction, and parameter optimization. The design of Moco focuses on ease-of-use, customizability, and extensibility. Just like OpenSim itself, Moco has interfaces in XML/command-line, Matlab, Python, Java, and C++.  
-:page_facing_up: [preprint](https://www.biorxiv.org/content/10.1101/839381v1) |
-:computer: [website](https://simtk.org/projects/opensim-moco) |
-:floppy_disk: [source](https://github.com/opensim-org/opensim-moco) |
-:star: [materials from preprint](https://github.com/stanfordnmbl/mocopaper) |
-:movie_camera: [webinar](https://www.youtube.com/watch?v=IYYZgyE33pU&feature=youtu.be)
-    - **Moco simulations at University of Maryland** by Ross Miller (2020). Models and codes from the University of Maryland "Neuromechanics Research Core" for performing optimal control simulations of human movement with OpenSim Moco software: 2D and 3D versions of the Rajagopal et al. (2016) model and code for performing "tracking" and "predictive" simulations of locomotion.</br>
-    :computer: [website](https://simtk.org/projects/umocod)
-
-* **Rapid 3D muscle-driven predictive simulations** by Antoine Falisse et al. (2019). This framework relies on numerical tools including direct collocation, implicit differential equations, and algorithmic differentiation, and generates predictive simulations of gait in about 35 minutes (single core of a standard laptop computer) with muscle-driven 3D models (29 degrees of freedom and 92 muscles). The code contains a series of example predictive simulations in which we varied objective function, musculoskeletal properties, and gait speed. </br>
-:page_facing_up: [paper](https://doi.org/10.1098/rsif.2019.0402) |
-:computer: [website](https://simtk.org/projects/3dpredictsim) |
-:floppy_disk: [source](https://github.com/antoinefalisse/3dpredictsim) 
-
-* **FROST: Fast Robot Optimization and Simulation Toolkit** by Hereid et al. (2016). FROST for MATLAB provides a general full-body dynamics gait optimization and simulation framework for bipedal walking robots using virtual constraints based feedback controllers. The Wolfram Mathematica backend enables generation of analytic expressions for multi-domain system dynamics and kinematics symbolically, compiled as .MEX files under MATLAB. FROST also features state-of-the-art direct collocation approaches for the full-order dynamics gait optimization problems to guarantee fast and reliable convergence. </br>
-:page_facing_up: [paper](https://ieeexplore.ieee.org/document/8202230) |
-:computer: [website](http://ayonga.github.io/frost-dev/) |
-:floppy_disk: [source](https://github.com/ayonga/frost-dev) 
-
-* **Muscle Redundancy Solver** by Friedl de Groote et al. (2016). An algorithm to estimate muscle tendon properties and/or compute muscle coordination by tracking experimental data with a musculoskeletal model assuming optimal control to solve for the muscle redundancy. </br>
-:page_facing_up: [paper](https://link.springer.com/article/10.1007/s10439-016-1591-9) |
-:computer: [website](https://simtk.org/projects/optcntrlmuscle) |
-:floppy_disk: [source](https://github.com/KULeuvenNeuromechanics/MuscleRedundancySolver) |
-:floppy_disk: [dev_repo](https://github.com/antoinefalisse/solvemuscleredundancy_dev)
-
-* **opty** by Jason Moore and Ton van den Bogert (2018). Opty utilizes symbolic descriptions of ordinary differential equations expressed with [SymPy](https://www.sympy.org/en/index.html) to form the constraints needed to solve optimal control and parameter identification problems using the direct collocation method and non-linear programming. </br>
-:page_facing_up: [paper](https://joss.theoj.org/papers/10.21105/joss.00300) |
-:computer: [documentation](https://opty.readthedocs.io/en/latest/) |
-:floppy_disk: [source](https://github.com/csu-hmc/opty) 
-
-* **Data-tracking optimization using collocation** by Yi-Chung Lin and Marcus Pandy (2017). This is a MATLAB package that can be used to perform data-tracking optimization using collocation method. The codes and models are available. The tracking results for one subject during walking and running are also provided. </br>
-:page_facing_up: [paper](https://www.ncbi.nlm.nih.gov/pubmed/28583674) |
-[:computer: website | :floppy_disk: source ](https://simtk.org/projects/datatracking)
-
-* **Optimal Control of Musculoskeletal Movement Using OpenSim & MATLAB** by Leng-Feng Lee and Brian R. Umberger (2016). This package includes an approach for generating optimal control simulations of human movement using OpenSim and MATLAB based on the direct collocation approach. Models, results and a complete working example are provided. </br>
-:page_facing_up: [paper](https://peerj.com/articles/1638.pdf) |
-[:computer: website | :floppy_disk: source ](https://simtk.org/projects/directcolloc)
-
 
 ## Scientific Data Visualization
 * [**Paraview**](https://www.paraview.org)
