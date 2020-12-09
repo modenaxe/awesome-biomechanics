@@ -4,29 +4,30 @@
 #### Still a work in progress (might include incomplete descriptions), but [contributions](#contributing) are welcome at any stage! :heart_eyes:<!-- omit in toc -->
 
 ## Table of contents <!-- omit in toc -->
-- [Online Courses :clapper:](#online-courses-clapper)
-- [YouTube Channels :tv:](#youtube-channels-tv)
-- [Videos :video_camera:](#videos-video_camera)
-- [Teaching Resources :triangular_ruler:](#teaching-resources-triangular_ruler)
-- [Books :blue_book:](#books-blue_book)
+- [Learning](#learning)
+  - [Online Courses :clapper:](#online-courses-clapper)
+  - [YouTube Channels :tv:](#youtube-channels-tv)
+  - [Videos :video_camera:](#videos-video_camera)
+  - [Teaching Resources :triangular_ruler:](#teaching-resources-triangular_ruler)
+  - [Books :blue_book:](#books-blue_book)
 - [Datasets :dvd:](#datasets-dvd)
-  - [Human Anatomy :muscle:](#human-anatomy-muscle)
+  - [Human Anatomy :bone:](#human-anatomy-bone)
   - [Animal Anatomy :crocodile:](#animal-anatomy-crocodile)
   - [Balance :balance_scale:](#balance-balance_scale)
   - [Energetics :fire:](#energetics-fire)
   - [Walking :walking:](#walking-walking)
   - [Running :running:](#running-running)
   - [Instrumented Prostheses :chart_with_upwards_trend:](#instrumented-prostheses-chart_with_upwards_trend)
-  - [Upper Limb](#upper-limb)
-  - [Hand](#hand)
-  - [Soft Tissue Artefacts](#soft-tissue-artefacts)
-  - [Health Datasets](#health-datasets)
-- [Ultrasound Fascicle Tracking](#ultrasound-fascicle-tracking)
+  - [Upper Limb :muscle:](#upper-limb-muscle)
+  - [Hand :palms_up_together:](#hand-palms_up_together)
+  - [Soft Tissue Artefacts :leg:](#soft-tissue-artefacts-leg)
+  - [Health Datasets :heart:](#health-datasets-heart)
 - [Gait Analysis and Motion Capture](#gait-analysis-and-motion-capture)
   - [Gait Analysis Markersets [TODO: add references and resources]](#gait-analysis-markersets-todo-add-references-and-resources)
   - [Motion Capture Data Import and Processing [WIP]](#motion-capture-data-import-and-processing-wip)
     - [Marker Trajectory Gap filling](#marker-trajectory-gap-filling)
     - [Inertial Measurement Units](#inertial-measurement-units)
+- [Ultrasound Fascicle Tracking](#ultrasound-fascicle-tracking)
 - [Modelling and Simulation :computer:](#modelling-and-simulation-computer)
   - [Anthropometric Models](#anthropometric-models)
   - [Multibody and Physics Engines :sleeping::arrow_lower_left::apple:](#multibody-and-physics-engines-sleepingarrow_lower_leftapple)
@@ -34,7 +35,7 @@
   - [Neuromusculoskeletal Simulation Software :joystick:](#neuromusculoskeletal-simulation-software-joystick)
   - [Neuromusculoskeletal Simulation Tools](#neuromusculoskeletal-simulation-tools)
 - [Subject-Specific Modelling](#subject-specific-modelling)
-  - [Segmentation of Medical Images :art: [WIP]](#segmentation-of-medical-images-art)
+  - [Segmentation of Medical Images :art:](#segmentation-of-medical-images-art)
   - [Manipulation, Processing and Comparison of Surface Meshes](#manipulation-processing-and-comparison-of-surface-meshes)
   - [Resources for Building Biomechanical Models from Medical Images](#resources-for-building-biomechanical-models-from-medical-images)
   - [Automatic Definition of Bony Landmarks and Reference Systems :skull:](#automatic-definition-of-bony-landmarks-and-reference-systems-skull)
@@ -57,7 +58,9 @@
 
 ----
 
-## Online Courses :clapper:
+## Learning
+
+### Online Courses :clapper:
 * [Lectures on animal locomotion](https://mchenrylab.bio.uci.edu/e139) by Manny Azizi and Matt McHenry, UC Irvine (2020).
 * [Lectures on optimal control](http://www.anilvrao.com/Optimal-Control-Videos.html) by Anil Rao (University of Florida).
 * [Lectures on multibody dynamics](https://www.youtube.com/watch?v=1Tyxgv7RUdk&list=PLzAwokZEM7auZEBOJKNa_lCgz2rdgpYLL) by [Jason Moore](https://www.moorepants.info/) at UC Davis (2017).
@@ -70,7 +73,7 @@
 :floppy_disk: [code](https://github.com/patmorli/BPK-409)
 
 
-## YouTube Channels :tv:
+### YouTube Channels :tv:
 * [AnyBody Technology Videos and Webcasts](https://www.youtube.com/channel/UCbgDnEKXyYOETR_Nb6YdehA)
 * [American Society Biomechanics (ASB)](https://www.youtube.com/channel/UC0_WoykR3nSBrHAwyfLPzzw)
 * [BassettBiomechanics](https://www.youtube.com/c/Bassettbiomechanics/videos): includes a _Biomechanics of the Musculoskeletal System_ course and Visual3D tutorials.
@@ -86,7 +89,7 @@
 * [Stuart McErlain-Naylor channel](https://www.youtube.com/channel/UCmG-bd1JL1ACP7hMzIUXwOg)
 * [Analysis of upright posture by force platform](https://www.youtube.com/playlist?list=PLw8zLrKDgyodwSxhtVFaFMrdhaS1H6jzB): videos produced by Felipe Fava de Lima about the use of force plataforms.
 
-## Videos :video_camera:
+### Videos :video_camera:
 * [CNB-ASB Muscle Workshop](https://www.youtube.com/watch?v=Ur9wYYR0nac&feature=youtu.be): presentations on the topic `Integrative Muscle Modelling for Neuromechanics`.
 * [A critique of Induced Acceleration Analysis](https://www.youtube.com/watch?v=2EmwIM_uQnk&t=18s) by Andy Ruina (WCB2014).
 * [F8 2019 - VR Full Body Tracking & Avatars](https://www.youtube.com/watch?v=FhiAFo9U_sM) and [blog post](https://uploadvr.com/facebook-f8-2019-body-tracking/)
@@ -97,7 +100,7 @@
 <!-- * https://www.goatstream.com/research/ -->
 
 
-## Teaching Resources :triangular_ruler:
+### Teaching Resources :triangular_ruler:
 * [Anatomy Standard](https://www.anatomystandard.com/) by Jānis Šavlovskis and Kristaps Raits (2020). Project aiming at creating an evidence-based 3D model of the human body, create high-quality, interactive illustrations of the model, and share them here to provide a resource for teaching and explaining anatomy. Images are licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). </br>
 * [Muscle Atlas](https://rad.washington.edu/muscle-atlas/) by the Dept of Radiology of the University of Washington. The medical illustrations contained in this online atlas are copyrighted © 1997 by the University of Washington but receiving a license to use these images is generally quite easy, particularly for academic and scholarly purposes. For more information and obtaining a license [see this link](https://els2.comotion.uw.edu/product/musculoskeletal-atlas).
 * [ASB Teaching Repository](http://asbteachingrepository.herokuapp.com/) by the American Society of Biomechanics. Does not require membership to access.
@@ -129,7 +132,7 @@
 :page_facing_up: [book](https://users.aalto.fi/~ave/BDA3.pdf)
 
 
-## Books :blue_book:
+### Books :blue_book:
 * [The ABC of EMG](https://hermanwallace.com/download/The_ABC_of_EMG_by_Peter_Konrad.pdf) by Peter Konrad (2005).
 * [Calculus made Easy](http://calculusmadeeasy.org) by Silvanus P. Thompson.
 * [Dynamics: Theory and Applications](https://ecommons.cornell.edu/handle/1813/638) by Kane and Levinson (1985).
@@ -138,7 +141,7 @@
 
 ## Datasets :dvd:
 
-### Human Anatomy :muscle:
+### Human Anatomy :bone:
 
 * **Visible Human Project**: public-domain library of cross-sectional cryosection, CT, and MRI images obtained from one male cadaver and one female cadaver. The dataset in NIfTI format, easier to import and use in segmentation software, were provided by Bart Bolsterlee (see further details [here](https://twitter.com/bartbolsterlee/status/1296594646898892800) and code for conversion [here](https://github.com/bartbols/VH2NIfTI)).      
 :page_facing_up: [paper](https://doi.org/10.1109/5.662875) |
@@ -410,21 +413,21 @@
 :cd: [live dataset (CAMS-KNEE workshop)](https://cams-knee.orthoload.com/workshop-data/) |
 :computer: [website](https://cams-knee.orthoload.com/)
 
-### Upper Limb
+### Upper Limb :muscle:
 
 * **Shoulder movements database** by Bart Bolsterlee et al. (2013). Data for five subjects (2 females, age 29.2 ± 2.3 year, height 176.3 ± 7.2 cm) performing range of motion and activities of daily living for the shoulder. Dataset includes kinematic, force and EMG data. A user guide and Matlab scripts are also available. </br>
 :page_facing_up: [paper](https://link.springer.com/article/10.1007%2Fs11517-013-1065-2) |
 :dvd: [dataset](https://simtk.org/frs/?group_id=465) |
 :computer: [website](https://simtk.org/projects/dsem)
 
-### Hand
+### Hand :palms_up_together:
 
 * **A large calibrated database of hand movements and grasps kinematics** by Néstor J. Jarque-Bou et al. (2020). The dataset includes calibrated kinematic data for 77 subjects and 40 movements (each repeated several times), resulting in the largest available kinematic dataset. The dataset derives from three multimodal datasets, previously released (Ninapro DB1, DB2 and DB5, that include electromyography, inertial and dynamic data). Hand kinematics was measured for all subjects using a 22-sensor CyberGlove II data glove. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3357966.svg)](https://doi.org/10.5281/zenodo.3357966)</br>
 :page_facing_up: [paper](https://www.nature.com/articles/s41597-019-0349-2) |
 :dvd: [dataset](https://zenodo.org/record/3480074#.X1_ocWhKgdU) |
 :star: [code](https://zenodo.org/record/3357966#.X1_n9mhKgdU)
 
-### Soft Tissue Artefacts
+### Soft Tissue Artefacts :leg:
 
 * **Standardization proposal of soft tissue artefact description for data sharing in human motion measurements** by Andrea Cereatti et al. (2017). This dataset includes open-access and standard-format soft tissues artefact data from several previous studies (both upper and lower limbs) that will be useful for the evaluation and development of bone pose estimators in three-dimensional human movement analysis. </br>
 :page_facing_up: [paper](https://doi.org/10.1016/j.jbiomech.2017.02.004) |
@@ -437,7 +440,7 @@
 :dvd: [simulations data](https://figshare.shef.ac.uk/articles/dataset/To_what_extent_is_joint_and_muscle_mechanics_predicted_by_musculoskeletal_models_sensitive_to_soft_tissue_artefacts_/3502652)
 
 
-### Health Datasets
+### Health Datasets :heart:
 
 * **Secure Anonymised Information Linkage (SAIL) Databank**: databank of anonymised data about the population of Wales. It ensures robust secure storage and use of anonymised person-based data for research to improve health, well-being and services.The Health section includes many aspects of population health, primary and secondary care, and social care services.</br>
 :dvd: [Health datasets](https://data.ukserp.ac.uk/Organisation/Category?nodeId=1&orgId=0) |
@@ -445,26 +448,6 @@
 
 * **UK Biobank** is a health resource that follows the health and well-being of 500,000 volunteer participants and provides health information, which does not identify them, to approved researchers in the UK and overseas. The aim of UK Biobank is to improve the prevention, diagnosis and treatment of a wide range of serious and life-threatening illnesses – including cancer, heart diseases, stroke, diabetes, arthritis, osteoporosis, eye disorders, depression and forms of dementia. </br>
 :computer: [website](https://www.ukbiobank.ac.uk/)
-
-
-## Ultrasound Fascicle Tracking
-
-* **StradWin** Stradwin is an experimental, cross-platform tool primarily for freehand 3D ultrasound acquisition, visualisation and elastography. However, Stradwin can also be used with 3D medical data of any sort: its segmentation and surface extraction facilities are particularly powerful. It can load most types of DICOM image files and has unique facilities to measure bone cortical thickness from CT data. </br>
-:computer: [website](https://mi.eng.cam.ac.uk/Main/StradWin)
-
-* **UltraTrack** by Dominic Farris and Glen Lichtwark (2016). UltraTrack implements an affine extension to an optic flow algorithm to track movement of the muscle fascicle end-points throughout dynamically recorded sequences of images. The algorithm )previously described and tested for reliability) is implemented as software for tracking multiple fascicles in multiple muscles at the same time; correcting temporal drift in measurements; manually adjusting tracking results; saving and re-loading of tracking results and loading a range of file formats.</br>
-:page_facing_up: [paper](https://doi.org/10.1016/j.cmpb.2016.02.016) |
-:computer: [website-software]( https://sites.google.com/site/ultratracksoftware/file-cabinet) |
-:floppy_disk: [source-algorithm](https://uk.mathworks.com/matlabcentral/fileexchange/32770-muscle-fascicle-tracking-ultrasound?s_tid=prof_contriblnk)
-
-* **Automatic fascicle tracking algorithm** by Drazan et al. (2019). The links include all the experimental data, tracking code, and tracked trials reported in the publication, presenting an automatic fascicle tracking algorithm quantifying gastrocnemius architecture during maximal effort contractions. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2598553.svg)](https://doi.org/10.5281/zenodo.2598553)</br>
-:page_facing_up: [paper](https://doi.org/10.7717/peerj.7120) |
-:dvd: [dataset and paper code](https://zenodo.org/record/2598553#.X1o-b3lKgdU) |
-:floppy_disk: [source](https://github.com/joshrbaxter/ultrasound_tracking)
-
-* **DL_Track** by Neil Cronin et al. (2020). A deep learning approach for analysing muscle architecture from musculoskeletal ultrasound images. It allows to train new models, using new images or labelling those provided. It provides a trained model as well. </br>
-:page_facing_up: [preprint](https://arxiv.org/pdf/2009.04790.pdf) |
-[:dvd: dataset | :floppy_disk: source](https://github.com/njcronin/DL_Track)
 
 
 ## Gait Analysis and Motion Capture
@@ -551,6 +534,26 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 :page_facing_up: [documentation and examples](https://simtk-confluence.stanford.edu:8443/display/OpenSim/OpenSense+-+Kinematics+with+IMU+Data) |
 :computer: [website](https://simtk.org/projects/opensense) |
 :floppy_disk: [source](https://github.com/opensim-org/opensim-core)
+
+
+## Ultrasound Fascicle Tracking
+
+* **StradWin** Stradwin is an experimental, cross-platform tool primarily for freehand 3D ultrasound acquisition, visualisation and elastography. However, Stradwin can also be used with 3D medical data of any sort: its segmentation and surface extraction facilities are particularly powerful. It can load most types of DICOM image files and has unique facilities to measure bone cortical thickness from CT data. </br>
+:computer: [website](https://mi.eng.cam.ac.uk/Main/StradWin)
+
+* **UltraTrack** by Dominic Farris and Glen Lichtwark (2016). UltraTrack implements an affine extension to an optic flow algorithm to track movement of the muscle fascicle end-points throughout dynamically recorded sequences of images. The algorithm )previously described and tested for reliability) is implemented as software for tracking multiple fascicles in multiple muscles at the same time; correcting temporal drift in measurements; manually adjusting tracking results; saving and re-loading of tracking results and loading a range of file formats.</br>
+:page_facing_up: [paper](https://doi.org/10.1016/j.cmpb.2016.02.016) |
+:computer: [website-software]( https://sites.google.com/site/ultratracksoftware/file-cabinet) |
+:floppy_disk: [source-algorithm](https://uk.mathworks.com/matlabcentral/fileexchange/32770-muscle-fascicle-tracking-ultrasound?s_tid=prof_contriblnk)
+
+* **Automatic fascicle tracking algorithm** by Drazan et al. (2019). The links include all the experimental data, tracking code, and tracked trials reported in the publication, presenting an automatic fascicle tracking algorithm quantifying gastrocnemius architecture during maximal effort contractions. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2598553.svg)](https://doi.org/10.5281/zenodo.2598553)</br>
+:page_facing_up: [paper](https://doi.org/10.7717/peerj.7120) |
+:dvd: [dataset and paper code](https://zenodo.org/record/2598553#.X1o-b3lKgdU) |
+:floppy_disk: [source](https://github.com/joshrbaxter/ultrasound_tracking)
+
+* **DL_Track** by Neil Cronin et al. (2020). A deep learning approach for analysing muscle architecture from musculoskeletal ultrasound images. It allows to train new models, using new images or labelling those provided. It provides a trained model as well. </br>
+:page_facing_up: [preprint](https://arxiv.org/pdf/2009.04790.pdf) |
+[:dvd: dataset | :floppy_disk: source](https://github.com/njcronin/DL_Track)
 
 
 ## Modelling and Simulation :computer:
