@@ -278,9 +278,14 @@
 * **DigiMorph**: Digital Morphology library is a dynamic archive of information on digital morphology and high-resolution X-ray computed tomography of biological specimens. </br> 
 :computer: [website](http://digimorph.org)
 
-* **Phenome10K**: A free online repository for 3-D scans of biological and palaeontological specimens. </br> 
-:computer: [website](https://phenome10k.org)|
-:dvd: [dataset](http://pantodon.science.helsinki.fi/morphobrowser/sp_list.php)
+* **GB3D Type Fossils Online project** aims to develop a single database of the type specimens, held in British collections, of macrofossil species and subspecies found in the UK, including links to photographs (including 'anaglyph' stereo pairs) and a selection of 3D digital models.</br>
+:dvd: [dataset](http://www.3d-fossils.ac.uk/search.cfm) |
+:computer: [website](http://www.3d-fossils.ac.uk/home.html)|
+:camera: [introductory video](https://www.youtube.com/watch?v=bXhhmS-HGEI&feature=emb_logo)
+
+* **Phenome10K**: A free online repository for 3-D scans of biological and palaeontological specimens. This site provides 3D scans – CT and surface – of biological and palaeontological specimens for free download by the academic and educational community.</br> 
+:dvd: [dataset](http://pantodon.science.helsinki.fi/morphobrowser/sp_list.php) |
+:computer: [website](https://phenome10k.org)
 
 * **MorphoBrowser** by Jukka Jervall et al. MorphoBrowser is a 3D visualisation and searching tool for mammalian teeth, accessible over the web. It allows the user to ‘browse’ through the diverse range of tooth morphologies found in mammals, both extinct and extant.</br>
 :computer: [website](http://morphobrowser.biocenter.helsinki.fi/)
@@ -291,7 +296,7 @@
 * **MorphoSource** by Duke University. MorphoSource has approximately 27,000 published 3D models of biological specimens (largely skeletal material). You can view all of these in your web browser with no required software. Around 13,000 of these are open access and can be freely downloaded for further visualization or measurement. </br> 
 :computer: [website](https://www.morphosource.org)
 
-* **The Open Research Scan Archive (formerly: Penn Cranial CT Database)** contains high resolution (sub-millimeter) scans of human and non-human crania from the Penn University Museum and other institutions. </br>  
+* **The Open Research Scan Archive (formerly: Penn Cranial CT Database)** by the University of Pennsylvania Museum of Archaeology and Anthropology (curators: Thomas Schoenemann and Janet Monge). contains high resolution (sub-millimeter) scans of human and non-human crania from the Penn University Museum and other institutions. The collection includes approximately 1800 crania (1200 from the Samuel George Morton Collection, then extended by J. Aitken Meigs). </br>  
 :computer: [website](https://penn.museum/sites/orsa/Overview.html)
 
 
