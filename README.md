@@ -834,6 +834,8 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 :page_facing_up: [paper](https://doi.org/10.1080/10255842.2016.1181173) |
 :computer: [website](https://simtk.org/projects/mitk-gem) |
 :star: [resources](https://github.com/araex/mitk-gem/tree/master/Scripts)
+* **[Rhino3Dmedical](https://rhino3dmedical.com/)** commercial.</br>
+:camera: [webinar](https://www.youtube.com/watch?v=MYuX2iGxU-Y&feature=youtu.be&ab_channel=McNeelEurope)
 * **[SASHIMI Segmentation](https://github.com/bartbols/SASHIMI) :sushi:** by Bart Bolsterlee. SASHIMI Segmentation is a MATLAB App for segmentation of multi-slice images. </br> 
 * **[Seg3D](https://www.sci.utah.edu/cibc-software/seg3d.html)**    
 * **[Simpleware ScanIP](https://www.synopsys.com/simpleware/software/scanip.html) (commercial)**.  
@@ -1141,6 +1143,15 @@ This section needs to be improved.
 :page_facing_up: [project introduction](https://hackaday.com/2018/09/24/a-motion-capture-system-for-everyone/) |
 :computer: [website](https://chordata.cc/) |
 :star: [website with links](https://hackaday.io/project/27519-motion-capture-system-that-you-can-build-yourself)
+
+* **Meshroom**: Meshroom is a free, open-source 3D Reconstruction Software based on the AliceVision framework.
+:computer: [website](https://alicevision.org/#meshroom) 
+
+* **GeoGram** is a programming library of geometric algorithms.
+http://alice.loria.fr/index.php/home.html
+https://homepages.loria.fr/BLevy/GEOGRAM/
+http://alice.loria.fr/software/geogram/doc/html/index.html
+https://gforge.inria.fr/frs/?group_id=5833
 
 * **pyomo** Python-based, open-source optimization modeling language with a diverse set of optimization capabilities.
 http://www.pyomo.org/
