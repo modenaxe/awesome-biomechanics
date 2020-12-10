@@ -54,6 +54,9 @@
 - [Miscellaneous Online Resources](#miscellaneous-online-resources)
 - [More Datasets and repositories](#more-datasets-and-repositories)
 - [Contributing](#contributing)
+  - [How to contribute](#how-to-contribute)
+  - [Resources for learning how to contribute](#resources-for-learning-how-to-contribute)
+  - [Items suggested template](#items-suggested-template)
 - [License](#license)
 
 ----
