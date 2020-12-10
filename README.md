@@ -810,6 +810,10 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
         :computer: [website](https://slicermorph.github.io/) |
         :floppy_disk: [source](https://github.com/SlicerMorph/SlicerMorph) |
         :video_camera: [tutorials](https://www.youtube.com/channel/UCy3Uz1ikRH1B7WSMfaldcjQ)
+       * **SlicerSALT (Slicer Shape AnaLysis Toolbox)** by Vicory et al. (2018). SlicerSALT is open-source, free comprehensive software design for biomedical scientists to precisely locate shape changes in their imaging studies. SlicerSALT will enhance the intuitiveness and ease of use for such studies, as well as allow researchers to find shape changes with higher statistical power. </br>
+       :page_facing_up: [paper](https://link.springer.com/chapter/10.1007/978-3-030-04747-4_6) |
+       :computer: [website and tutorials](http://salt.slicer.org/) |
+       :floppy_disk: [source](https://github.com/Kitware/SlicerSALT)
 * **[Dragonfly](https://www.theobjects.com/dragonfly/index.html)** by Object Research Systems. Dragonfly is a software platform for the intuitive inspection and processing of multi-scale multi-modality image data. Includes a Deep Learning tool for training deep models for image segmentation and regression tasks. It also offers rendering capabilities and extensibility through Python.</br>
 :computer: [website](https://www.theobjects.com/dragonfly/index.html) |
 :video_camera: [Video tutorials](http://www.theobjects.com/dragonfly/tutorials.html)
@@ -844,10 +848,7 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 * [**Salome**](https://www.salome-platform.org/user-section/about/mesh)
 * [**CloudCompare**](http://www.cloudcompare.org) - allows quantitative comparison of surface meshes.
 
-* **SlicerSALT (Slicer Shape AnaLysis Toolbox)** by Vicory et al. (2018). SlicerSALT is open-source, free comprehensive software design for biomedical scientists to precisely locate shape changes in their imaging studies. SlicerSALT will enhance the intuitiveness and ease of use for such studies, as well as allow researchers to find shape changes with higher statistical power. </br>
-:page_facing_up: [paper](https://link.springer.com/chapter/10.1007/978-3-030-04747-4_6) |
-:computer: [website and tutorials](http://salt.slicer.org/) |
-:floppy_disk: [source](https://github.com/Kitware/SlicerSALT)
+* **SlicerSALT (Slicer Shape AnaLysis Toolbox)** by Vicory et al. (2018). See description on 3DSlicer extensions section.
 
 * **Trimesh**  by Michael Dawson-Haggerty et al. (2019). Trimesh is a pure Python (2.7-3.4+) :snake: library for loading and using triangular meshes with an emphasis on watertight surfaces. The goal of the library is to provide a full featured and well tested Trimesh object which allows for easy manipulation and analysis. </br>
 :computer: [website](https://trimsh.org/index.html) |
