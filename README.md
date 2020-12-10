@@ -278,6 +278,9 @@
 * **DigiMorph**: Digital Morphology library is a dynamic archive of information on digital morphology and high-resolution X-ray computed tomography of biological specimens. </br> 
 :computer: [website](http://digimorph.org)
 
+* **Genetics of craniofacial shape in Mus** by Murat Maga (2017). This dataset includes ~500 high-resolution 3D mouse head microCT scans, associated anatomical landmarks, and individual genotypes suitable to study quantitative genetics of head shape. Scans are of a mouse panel between C57BL/6J and A/J mouse strains and associated genotype data.</br>
+  :computer: [website](https://osf.io/w4wvg/)
+
 * **GB3D Type Fossils Online project** aims to develop a single database of the type specimens, held in British collections, of macrofossil species and subspecies found in the UK, including links to photographs (including 'anaglyph' stereo pairs) and a selection of 3D digital models.</br>
 :dvd: [dataset](http://www.3d-fossils.ac.uk/search.cfm) |
 :computer: [website](http://www.3d-fossils.ac.uk/home.html)|
