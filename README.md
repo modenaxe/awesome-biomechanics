@@ -1115,6 +1115,12 @@ This section needs to be improved.
 
 ## Sandbox <!-- omit in toc -->
  
+* **SPIERS (Serial Palaeontological Image Editing and Rendering System)** by Mark Sutton et al. (2012). SPIERS is a package of three programs for the digital visualisation and analysis of tomographic (serial image) datasets, such as those obtained from serial-grinding of specimens, or from CT scanning.</br>
+:computer: [website](https://spiers-software.org)
+[paper](https://palaeo-electronica.org/content/issue-2-2012-technical-articles/226-virtual-palaeontology-toolkit)
+:floppy_disk: [source](https://github.com/palaeoware/SPIERS) |
+
+
 * **Kinovea** by Joan Charmant. Kinovea is a video player for sport analysis. It provides a set of tools to capture, slow down, study, compare, annotate and measure technical performances.</br>
 :computer: [website](https://www.kinovea.org/) |
 :floppy_disk: [source](https://github.com/Kinovea/Kinovea) |
