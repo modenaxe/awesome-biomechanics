@@ -269,26 +269,30 @@
 
 ### Animal Anatomy :crocodile:
 
-* **CT scans of various animals** from John Hutchinson's group.  
+* **CT scans of various animals** from John Hutchinson's group. </br> 
 :dvd: [dataset](https://osf.io/4sc96/)
 
-* **Digital Morphology Museum of Kyoto University (KUPRI)**: DMM provides a large collection of CT and MRI tomography scans of various primates.</br>
+* **Digital Morphology Museum of Kyoto University (KUPRI)**: The Digital Morphology Museum (DMM) provides an environment in which you can readily examine skeletal anatomy using the Primate Research Institute’s (PRI) collection of CT and MRI tomography scans. The goal of this site is to enable you to view the scans of non-human primates and mammals and to download scan data from our database for your original research. </br>
 :computer: [website](http://dmm.pri.kyoto-u.ac.jp/dmm/WebGallery/index.html)
 
-* **DigiMorph**: Digital Morphology library is a dynamic archive of information on digital morphology and high-resolution X-ray computed tomography of biological specimens.  
+* **DigiMorph**: Digital Morphology library is a dynamic archive of information on digital morphology and high-resolution X-ray computed tomography of biological specimens. </br> 
 :computer: [website](http://digimorph.org)
 
-* **The Open Research Scan Archive (formerly: Penn Cranial CT Database)** contains high resolution (sub-millimeter) scans of human and non-human crania from the Penn University Museum and other institutions.   
-:computer: [website](https://penn.museum/sites/orsa/Overview.html)
+* **Phenome10K**: A free online repository for 3-D scans of biological and palaeontological specimens. </br> 
+:computer: [website](https://phenome10k.org)|
+:dvd: [dataset](http://pantodon.science.helsinki.fi/morphobrowser/sp_list.php)
 
-* **Phenome10K**: A free online repository for 3-D scans of biological and palaeontological specimens.  
-:computer: [website](https://phenome10k.org)
+* **MorphoBrowser** by Jukka Jervall et al. MorphoBrowser is a 3D visualisation and searching tool for mammalian teeth, accessible over the web. It allows the user to ‘browse’ through the diverse range of tooth morphologies found in mammals, both extinct and extant.</br>
+:computer: [website](http://morphobrowser.biocenter.helsinki.fi/)
 
-* **MorphoMuseuM (M3)**: is a peer reviewed, online journal that publishes 3D models of vertebrates, including models of type specimens, anatomy atlases, reconstruction of deformed or damaged specimens, and 3D datasets. 
+* **MorphoMuseuM (M3)**: is a peer reviewed, online journal that publishes 3D models of vertebrates, including models of type specimens, anatomy atlases, reconstruction of deformed or damaged specimens, and 3D datasets. </br>
 :computer: [website](https://morphomuseum.com/collections)
 
-* **Morphosource** by Duke University. MorphoSource has approximately 27,000 published 3D models of biological specimens (largely skeletal material). You can view all of these in your web browser with no required software. Around 13,000 of these are open access and can be freely downloaded for further visualization or measurement.  
+* **MorphoSource** by Duke University. MorphoSource has approximately 27,000 published 3D models of biological specimens (largely skeletal material). You can view all of these in your web browser with no required software. Around 13,000 of these are open access and can be freely downloaded for further visualization or measurement. </br> 
 :computer: [website](https://www.morphosource.org)
+
+* **The Open Research Scan Archive (formerly: Penn Cranial CT Database)** contains high resolution (sub-millimeter) scans of human and non-human crania from the Penn University Museum and other institutions. </br>  
+:computer: [website](https://penn.museum/sites/orsa/Overview.html)
 
 
 ### Balance :balance_scale:
