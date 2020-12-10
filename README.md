@@ -799,7 +799,7 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 ## Subject-Specific Modelling
 
 ### Segmentation of Medical Images :art:
-* **[3DSlicer](https://www.slicer.org/)** - 
+* **[3DSlicer](https://www.slicer.org/)** 3D Slicer is an open source software platform for medical image informatics, image processing, and three-dimensional visualization.</br> 
 :page_facing_up: [paper (Slicer v4)](https://dx.doi.org/10.1016%2Fj.mri.2012.05.001) |
 :computer: [website](https://www.slicer.org/wiki/Main_Page) |
 :page_facing_up: [Documentation](https://www.slicer.org/wiki/Documentation/Nightly/Training) | 
