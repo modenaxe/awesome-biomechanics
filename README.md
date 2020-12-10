@@ -792,6 +792,12 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 :computer: [website](https://www.slicer.org/wiki/Main_Page) |
 :page_facing_up: [Documentation](https://www.slicer.org/wiki/Documentation/Nightly/Training) | 
 :video_camera: [Youtube tutorials](https://www.youtube.com/channel/UC11x1iQ7ydSIFYw4L6wveXg)
+    * Extensions of 3DSlicer:
+        * **SlicerMorph** by Sara Rolfe et al. (2020). SliceMorph is a toolkit with the aim of  retrieve, visualize, measure, annotate, and perform geometric morphometric analyses from high-resolution specimen data both from volumetric scans (CTs and MRs) as well as from 3D surface scanners effectively within 3D Slicer.</br>
+        :page_facing_up: [preprint](https://www.biorxiv.org/content/10.1101/2020.11.09.374926v1) |
+        :computer: [website](https://slicermorph.github.io/) |
+        :floppy_disk: [source](https://github.com/SlicerMorph/SlicerMorph) |
+        :video_camera: [tutorials](https://www.youtube.com/channel/UCy3Uz1ikRH1B7WSMfaldcjQ)
 * **[Dragonfly](https://www.theobjects.com/dragonfly/index.html)** by Object Research Systems. Dragonfly is a software platform for the intuitive inspection and processing of multi-scale multi-modality image data. Includes a Deep Learning tool for training deep models for image segmentation and regression tasks. It also offers rendering capabilities and extensibility through Python.</br>
 :computer: [website](https://www.theobjects.com/dragonfly/index.html) |
 :video_camera: [Video tutorials](http://www.theobjects.com/dragonfly/tutorials.html)
