@@ -1,5 +1,5 @@
 # Awesome Biomechanics [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)<!-- omit in toc -->
-
+![logo](./images/awesome biomechanics.png)
 ### A curated repository of biomechanical resources  <!-- omit in toc -->
 #### Still a work in progress (might include incomplete descriptions), but [contributions](#contributing) are welcome at any stage! :heart_eyes:<!-- omit in toc -->
 
@@ -33,7 +33,7 @@
   - [Multibody and Physics Engines :sleeping::arrow_lower_left::apple:](#multibody-and-physics-engines-sleepingarrow_lower_leftapple)
   - [Computational Muscle Models 	:mechanical_arm:](#computational-muscle-models-mechanical_arm)
   - [Neuro-musculoskeletal Simulation Software :brain::arrow_right::leg:](#neuro-musculoskeletal-simulation-software-brainarrow_rightleg)
-  - [Neuromusculoskeletal Simulation Tools :hammer::brain:](#neuromusculoskeletal-simulation-tools-hammerbrain)
+  - [Neuromusculoskeletal Simulation Tools :brain::hammer:](#neuromusculoskeletal-simulation-tools-brainhammer)
 - [Optimal Control and Trajectory Optimization :rocket:](#optimal-control-and-trajectory-optimization-rocket)
 - [Subject-Specific Modelling](#subject-specific-modelling)
   - [Segmentation of Medical Images :art:](#segmentation-of-medical-images-art)
@@ -704,7 +704,7 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 :computer: [binaries](https://simtk.org/projects/scone) |
 :floppy_disk: [source](https://github.com/opensim-org/SCONE)
 
-### Neuromusculoskeletal Simulation Tools :hammer::brain:
+### Neuromusculoskeletal Simulation Tools :brain::hammer:
 
 * **Batch OpenSim Processing Scripts (BOPS)** by Alice Mantoan et al. (2020). MATLAB based, user friendly and easy-to-use tool to perform batch process of the most commonly used OpenSim Tools (IK, ID, MA, SO and JRA).</br>
 :computer: [website](https://simtk.org/projects/bops ) |
