@@ -32,8 +32,8 @@
   - [Anthropometric Models :standing_person:](#anthropometric-models-standing_person)
   - [Multibody and Physics Engines :sleeping::arrow_lower_left::apple:](#multibody-and-physics-engines-sleepingarrow_lower_leftapple)
   - [Computational Muscle Models 	:mechanical_arm:](#computational-muscle-models-mechanical_arm)
-  - [Neuromusculoskeletal Simulation Software :joystick:](#neuromusculoskeletal-simulation-software-joystick)
-  - [Neuromusculoskeletal Simulation Tools](#neuromusculoskeletal-simulation-tools)
+  - [Neuro-musculoskeletal Simulation Software :brain::arrow_right::leg:](#neuro-musculoskeletal-simulation-software-brainarrow_rightleg)
+  - [Neuromusculoskeletal Simulation Tools :hammer::brain:](#neuromusculoskeletal-simulation-tools-hammerbrain)
 - [Optimal Control and Trajectory Optimization :rocket:](#optimal-control-and-trajectory-optimization-rocket)
 - [Subject-Specific Modelling](#subject-specific-modelling)
   - [Segmentation of Medical Images :art:](#segmentation-of-medical-images-art)
@@ -658,7 +658,7 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 :floppy_disk: [source](https://github.com/vcg-uvic/viper) |
 :video_camera: [video](https://www.youtube.com/watch?v=2CGRfJJEu38)
 
-### Neuromusculoskeletal Simulation Software :joystick:
+### Neuro-musculoskeletal Simulation Software :brain::arrow_right::leg:
 
 * **The AnyBody Modeling System** by AnyBody Technology. Commercial software for musculoskeletal modelling and simulation.</br>
 :page_facing_up: [paper](https://doi.org/10.1016/j.simpat.2006.09.001) |
@@ -704,7 +704,7 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 :computer: [binaries](https://simtk.org/projects/scone) |
 :floppy_disk: [source](https://github.com/opensim-org/SCONE)
 
-### Neuromusculoskeletal Simulation Tools 
+### Neuromusculoskeletal Simulation Tools :hammer::brain:
 
 * **Batch OpenSim Processing Scripts (BOPS)** by Alice Mantoan et al. (2020). MATLAB based, user friendly and easy-to-use tool to perform batch process of the most commonly used OpenSim Tools (IK, ID, MA, SO and JRA).</br>
 :computer: [website](https://simtk.org/projects/bops ) |
