@@ -22,7 +22,7 @@
   - [Hand :palms_up_together:](#hand-palms_up_together)
   - [Soft Tissue Artefacts :leg:](#soft-tissue-artefacts-leg)
   - [Health Datasets :heart:](#health-datasets-heart)
-- [Gait Analysis and Motion Capture](#gait-analysis-and-motion-capture)
+- [Gait Analysis and Motion Capture :cartwheeling:](#gait-analysis-and-motion-capture-cartwheeling)
   - [Gait Analysis Markersets [TODO: add references and resources]](#gait-analysis-markersets-todo-add-references-and-resources)
   - [Motion Capture Data Import and Processing [WIP]](#motion-capture-data-import-and-processing-wip)
     - [Marker Trajectory Gap filling](#marker-trajectory-gap-filling)
@@ -42,15 +42,15 @@
   - [Automatic Definition of Bony Landmarks and Reference Systems :skull:](#automatic-definition-of-bony-landmarks-and-reference-systems-skull)
   - [Uncertainty Quantification in Musculoskeletal Simulations](#uncertainty-quantification-in-musculoskeletal-simulations)
   - [Meshers of Surface Models](#meshers-of-surface-models)
-  - [Statistical Shape Modelling](#statistical-shape-modelling)
+  - [Statistical Shape Modelling :bone:](#statistical-shape-modelling-bone)
 - [Finite Element Analysis](#finite-element-analysis)
   - [Finite Element Analysis Software](#finite-element-analysis-software)
   - [Finite Element Analysis Software Tools](#finite-element-analysis-software-tools)
   - [Finite Element Models](#finite-element-models)
 - [Statistical Analysis](#statistical-analysis)
 - [Scientific Data Visualization](#scientific-data-visualization)
-- [Reproducibility](#reproducibility)
-- [Societies and Initiatives :office:](#societies-and-initiatives-office)
+- [Reproducibility :gem:](#reproducibility-gem)
+- [Societies and Initiatives :classical_building:](#societies-and-initiatives-classical_building)
 - [Miscellaneous Online Resources](#miscellaneous-online-resources)
 - [More Datasets and repositories](#more-datasets-and-repositories)
 - [Contributing](#contributing)
@@ -466,7 +466,7 @@
 :computer: [website](https://www.ukbiobank.ac.uk/)
 
 
-## Gait Analysis and Motion Capture
+## Gait Analysis and Motion Capture :cartwheeling:
 
 ### Gait Analysis Markersets [TODO: add references and resources]
 
@@ -924,7 +924,7 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 * [NetGen](https://sourceforge.net/projects/netgen-mesher/) [source](https://github.com/NGSolve/netgen)
 
 
-### Statistical Shape Modelling
+### Statistical Shape Modelling :bone:
 
 * **Deformetrica** is a software (Python tool :snake:) for the statistical analysis of 2D and 3D shape data. Deformetrica comes with three main applications: registration, atlas construction and geodesic regression. </br>
 :page_facing_up: [list of papers](http://www.deformetrica.org/#references) |
@@ -1070,7 +1070,7 @@ This section needs to be improved.
 :page_facing_up: [How-To](http://mi.eng.cam.ac.uk/~gmt11/stradview/howto.htm)
 * [**MicroDicom**](https://www.microdicom.com/): MicroDicom is application for primary processing and preservation of medical images in DICOM format. It is equipped with most common tools for manipulation of DICOM images and it has an intuitive user interface. Free for use and accessible to everyone for non-commercial use.
 
-## Reproducibility
+## Reproducibility :gem:
 
 * **Reproducibility PI Manifesto** by Lorena Barba (2012). Slides of the talk `Reproducibility in Computational and Experimental Mathematics` at the ICERM workshop outlining a list of commitment that principal investigators could take to ensure reproducibility. </br>
 :computer: [website](https://lorenabarba.com/gallery/reproducibility-pi-manifesto/) |
@@ -1087,7 +1087,7 @@ This section needs to be improved.
     - **[Choose a license](https://choosealicense.com/)** by GitHub Inc. This is a website with can help you choosing the license for your shared data based the intended use that you want to allow. </br> 
     - **[CreativeCommons](https://creativecommons.org/choose/)** by Creative Commons. This website can guide you in the process of choosing a Creative Commons license based on your preferences.</br> 
 
-## Societies and Initiatives :office:
+## Societies and Initiatives :classical_building:
 * [Americal Society of Biomechanics](https://www.asbweb.org/)
 * [European Society of Biomechanics](https://esbiomech.org/)
 * [International Society of Biomechanics](https://isbweb.org/)
