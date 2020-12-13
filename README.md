@@ -1156,6 +1156,22 @@ https://gforge.inria.fr/frs/?group_id=5833
 * **pyomo** Python-based, open-source optimization modeling language with a diverse set of optimization capabilities.
 http://www.pyomo.org/
 https://github.com/Pyomo/PyomoGallery
+
+* **Motor-Unit-Model-Fuglevand**
+:floppy_disk: [source](https://github.com/anagamori/Motor-Unit-Model-Fuglevand)
+
+* **pymuscle**: Used to simulate the input-output relationship between motor neuron excitation and muscle fibers contractile state over time.
+:floppy_disk: [source](https://github.com/iandanforth/pymuscle)
+https://iandanforth.github.io/pymuscle-docs/
+
+* **PyMUS v2.0** PyMUS v2.0 allows the simulations to be fully operated using a graphical user interface (GUI). The GUI was designed to allow for a generic computational procedure to be performed using modeling and simulation approaches. The Main Window of PyMUS v2.0 consists of one state window and six buttons for controlling simulation of motor unit system. 
+:floppy_disk: [source](https://github.com/NMSL-DGIST/PyMUS)
+ 
+ * **Developing a fatigable muscle model** by Apoorva Rajagopal and Jennifer Yong (2013).</br>
+ :floppy_disk: [plugin files](https://simtk.org/frs/?group_id=863)
+ 
+* **optim2d** by Ton van den Bogert and Anne Koelewijn. Matlab code to do trajectory optimization on a 2D gait model. The musculoskeletal dynamics can be augmented with prosthetic components (above knee, below knee), and the corresponding muscles can be amputated.</br>
+ https://github.com/csu-hmc/optim2d
  
  * **UG stats Lectures** by Andy Field (2020): 
  https://www.youtube.com/playlist?list=PLEzw67WWDg81n3N3yfr_MW7f6cEl_XibX&feature=share
