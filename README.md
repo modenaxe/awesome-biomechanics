@@ -1183,6 +1183,17 @@ https://iandanforth.github.io/pymuscle-docs/
  * **Python for Everybody**
  https://www.py4e.com/book
  
+ * FEM libraries
+ * **FreeFEM** https://doc.freefem.org/introduction/index.html
+ * **Firedrake** https://www.firedrakeproject.org/
+ * **FEniCS Project** https://fenicsproject.org/
+ * **deal.II** https://www.dealii.org/
+ * **MFEM** https://mfem.org/
+ * **GLVis** is a lightweight tool for accurate and flexible finite element visualization. 
+ https://glvis.org/
+ 
+  
+ 
  * **JointTrack**
  https://sourceforge.net/projects/jointtrack/files/JointTrack/2.0%20%28stable%29/
  https://ufdcimages.uflib.ufl.edu/UF/E0/02/17/84/00001/mu_s.pdf
