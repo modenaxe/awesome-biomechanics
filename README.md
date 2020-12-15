@@ -133,6 +133,7 @@
 * [Bayesian Data Analysis course](https://avehtari.github.io/BDA_course_Aalto) by AKi Vehtari at Aalto University (2020).</br>
 :floppy_disk: [code](https://github.com/avehtari/BDA_course_Aalto) |
 :page_facing_up: [book](https://users.aalto.fi/~ave/BDA3.pdf)
+* [Anybodyrun](https://anybodyrun.com) by AnyBody Technology. This is a website where you can generate videos of full-body models of running based on principal components analysis. The approach behind the application is described on John Rasmussen's [blog](https://biomechanicsforeverybody.wordpress.com/).
 
 
 ### Books :blue_book:
