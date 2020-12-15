@@ -1196,8 +1196,16 @@ https://iandanforth.github.io/pymuscle-docs/
  * **GLVis** is a lightweight tool for accurate and flexible finite element visualization. 
  https://glvis.org/
  
-  
- 
+ * **Blogging platforms**:
+  - https://www.wix.com/
+  - https://wordpress.com/
+  - https://substack.com/
+  - https://www.weebly.com/uk
+  - https://blog.getpelican.com/
+  - https://jekyllrb.com/
+      - https://github.com/academicpages/academicpages.github.io
+  - https://gohugo.io/
+      - https://themes.gohugo.io/academic/
  * **JointTrack**
  https://sourceforge.net/projects/jointtrack/files/JointTrack/2.0%20%28stable%29/
  https://ufdcimages.uflib.ufl.edu/UF/E0/02/17/84/00001/mu_s.pdf
