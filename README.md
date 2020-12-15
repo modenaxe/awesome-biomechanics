@@ -264,6 +264,10 @@
 :page_facing_up: [paper](https://link.springer.com/article/10.1007/s10439-017-1936-z#SecESM1) |
 :dvd: [dataset](https://static-content.springer.com/esm/art%3A10.1007%2Fs10439-017-1936-z/MediaObjects/10439_2017_1936_MOESM1_ESM.pdf)
 
+* **The digital human forearm and hand** by Faes D. Kerkhof et al. (2018). An un‐embalmed cadaveric arm was digitized using 7T MRI and CT scans and 3D geometrical models of bones, cartilage, muscle and muscle pathways were generated.  Muscle volume, mass, length, pennation angle, physiological cross‐sectional area, tendon length were measured during dissection and, after that, muscle biopsies were used to visualize and measure sarcomere lengths with confocal microscopy. The result is an integrated anatomical dataset that can be used for creating complete and accurate musculoskeletal models of the hand.</br>
+:page_facing_up: [paper](https://doi.org/10.1111/joa.12877) |
+:dvd: [dataset](https://www.morphosource.org/Detail/MediaDetail/Show/media_id/21064)
+
 * **Muscle Modelling Database** by Ross Miller (2018). A summary of muscle mechanical parameters in the human lower limb from the anatomy, muscle/exercise physiology, and biomechanics literature for use in Hill-based muscle model.  
 :page_facing_up: [paper](https://link.springer.com/referenceworkentry/10.1007%2F978-3-319-30808-1_203-2) |
 :dvd: [dataset](https://figshare.com/articles/dataset/Muscle_model_parameters/4275854)
