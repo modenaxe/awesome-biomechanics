@@ -286,8 +286,12 @@
 * **DigiMorph**: Digital Morphology library is a dynamic archive of information on digital morphology and high-resolution X-ray computed tomography of biological specimens. </br> 
 :computer: [website](http://digimorph.org)
 
+* **eLucy** by the Dept of Anthropology of University of Texas at Austin. eLucy is dedicated to sharing information about 'Lucy', an early fossil hominin represented by the 3.2 million year old remains of a relatively complete skeleton. Through this website is possible to request access for research and teaching purposes to the digital reconstruction (STL files) of right shoulder and left knee of ‘Lucy’, an early fossil hominin (_Australopithecus afarensis_) represented by the 3.2 million year old remains of a relatively complete skeleton.</br>
+:page_facing_up: [paper](http://dx.doi.org/10.1038/nature19332) |
+:computer: [website](https://elucy.org/) 
+
 * **Genetics of craniofacial shape in Mus** by Murat Maga (2017). This dataset includes ~500 high-resolution 3D mouse head microCT scans, associated anatomical landmarks, and individual genotypes suitable to study quantitative genetics of head shape. Scans are of a mouse panel between C57BL/6J and A/J mouse strains and associated genotype data.</br>
-  :computer: [website](https://osf.io/w4wvg/)
+:computer: [website](https://osf.io/w4wvg/)
 
 * **GB3D Type Fossils Online project** aims to develop a single database of the type specimens, held in British collections, of macrofossil species and subspecies found in the UK, including links to photographs (including 'anaglyph' stereo pairs) and a selection of 3D digital models.</br>
 :dvd: [dataset](http://www.3d-fossils.ac.uk/search.cfm) |
@@ -304,10 +308,10 @@
 * **MorphoMuseuM (M3)**: is a peer reviewed, online journal that publishes 3D models of vertebrates, including models of type specimens, anatomy atlases, reconstruction of deformed or damaged specimens, and 3D datasets. </br>
 :computer: [website](https://morphomuseum.com/collections)
 
-* **MorphoSource** by Duke University. MorphoSource has approximately 27,000 published 3D models of biological specimens (largely skeletal material). You can view all of these in your web browser with no required software. Around 13,000 of these are open access and can be freely downloaded for further visualization or measurement. </br> 
+* **MorphoSource** by Duke University. MorphoSource has approximately 27,000 published 3D models of biological specimens (largely skeletal material). You can view all of these in your web browser with no required software. Around 13,000 of these are open access and can be freely downloaded for further visualization or measurement.</br>
 :computer: [website](https://www.morphosource.org)
 
-* **The Open Research Scan Archive (formerly: Penn Cranial CT Database)** by the University of Pennsylvania Museum of Archaeology and Anthropology (curators: Thomas Schoenemann and Janet Monge). contains high resolution (sub-millimeter) scans of human and non-human crania from the Penn University Museum and other institutions. The collection includes approximately 1800 crania (1200 from the Samuel George Morton Collection, then extended by J. Aitken Meigs). </br>  
+* **The Open Research Scan Archive (formerly: Penn Cranial CT Database)** by the University of Pennsylvania Museum of Archaeology and Anthropology (curators: Thomas Schoenemann and Janet Monge). contains high resolution (sub-millimeter) scans of human and non-human crania from the Penn University Museum and other institutions. The collection includes approximately 1800 crania (1200 from the Samuel George Morton Collection, then extended by J. Aitken Meigs).</br>
 :computer: [website](https://penn.museum/sites/orsa/Overview.html)
 
 
