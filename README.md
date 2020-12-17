@@ -1188,6 +1188,9 @@ https://iandanforth.github.io/pymuscle-docs/
  * **Python for Everybody**
  https://www.py4e.com/book
  
+ * **ipycanvas** by Martin Renou. Ipycanvas is a lightweight, fast and stable library exposing the browser's Canvas API to IPython. It allows you to draw simple primitives directly from Python like text, lines, polygons, arcs, images etc. This simple toolset allows you to draw literally anything!</br>
+ https://github.com/martinRenou/ipycanvas
+ 
  * FEM libraries
  * **FreeFEM** https://doc.freefem.org/introduction/index.html
  * **Firedrake** https://www.firedrakeproject.org/
