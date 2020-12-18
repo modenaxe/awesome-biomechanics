@@ -387,7 +387,7 @@
 :dvd: [dataset](https://isbweb.org/docs/resources/data-resources/gait-data/266-winter-zip)
 
 
-* **GaiTRec, a large-scale ground reaction force dataset of healthy and impaired gait** by Horsak et al. (2020). GAITREC is a comprehensive and annotated large-scale dataset containing bi-lateral GRF walking trials of 2,084 patients with various musculoskeletal impairments and data from 211 healthy controls. The data sum up to a total of 75,732 bi-lateral walking trials.</br>
+* **GaitRec, a large-scale ground reaction force dataset of healthy and impaired gait** by Horsak et al. (2020). GAITREC is a comprehensive and annotated large-scale dataset containing bi-lateral GRF walking trials of 2,084 patients with various musculoskeletal impairments and data from 211 healthy controls. The data sum up to a total of 75,732 bi-lateral walking trials.</br>
 :page_facing_up: [paper](https://www.nature.com/articles/s41597-020-0481-z) |
 :dvd: [dataset](https://doi.org/10.6084/m9.figshare.c.4788012)
 
