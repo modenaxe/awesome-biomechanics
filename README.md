@@ -1253,12 +1253,12 @@ Feel free to send a pull request or open an Issue.
 Feel free of contributing as by standard [GitHub workflow](https://guides.github.com/activities/forking/):
 1. forking this repository
 2. creating your own branch, where you make your modifications and improvements
-3. once you are happy with the new feature you have implemented create a pull
-   request
+3. once you are happy with the new feature you have implemented create a pull request
 
 ### Resources for learning how to contribute
 * If you want to contribute but you are not familiar with [Git](https://git-scm.com/), the [Software Carpentry Lessons](https://swcarpentry.github.io/git-novice/) are a perfect place to start with Git and GitHub.
 * If you have used Git before but you are not familiar with GitHub, you can check resources like ["First Contributions"](https://github.com/firstcontributions/first-contributions) and learn how to contribute to existing projects.
+* If you are not familiar with the Markdown format used in this document you can quickly learn it from cheatsheets [like this one](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 ### Items suggested template
 
