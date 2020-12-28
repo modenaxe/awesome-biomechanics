@@ -115,6 +115,7 @@
 * [How to review a paper](https://www.sciencemag.org/careers/2016/09/how-review-paper) from Science Magazine.
 * [How to write a systematic review for Health](https://utas.libguides.com/SystematicReviews/) by the University of Tasmania.
 * [Kuo's course homeworks](https://github.com/kuo-courses): interesting homework materials used in Art Kuo's courses (public on GitHub).
+* [MoLib (Motion Library)](https://www.biomechanist.net/multimedia-libraries/motion-library/) from [The Biomechanist](https://www.biomechanist.net/): sample experimental data collected on one participant intended as tutorial for OpenSim processing. See related [post](https://www.biomechanist.net/how-to-use-motion-library/) by Markus Kurz.
 * [Trajectory Optimization Toolbox](https://github.com/MatthewPeterKelly/OptimTraj) by Matthew Kelly, including some [excellent examples](https://github.com/MatthewPeterKelly/dscTutorials) and some [course materials](https://github.com/MatthewPeterKelly/ME149_Spring2018).
 * [Notes on Scientific Computing for Biomechanics and Motor Control](https://github.com/BMClab/BMC) by Marcos Duarte and Renato Watanabe. A beautiful collection of lecture notes and code on scientific computing and data analysis for Biomechanics and Motor Control in the form of Jupyter notebooks (python).
 * [Optimal Control Workshop](https://simtk.org/projects/ocworkshop/) by BJ Fregly. Files distributed at the NSF-funded Optimal Control Workshop held on July 9, 2015 at the University of Edinburgh as part of the XV International Symposium on Computer Simulation in Biomechanics.
