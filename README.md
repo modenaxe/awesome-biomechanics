@@ -1215,6 +1215,13 @@ https://iandanforth.github.io/pymuscle-docs/
  * **GLVis** is a lightweight tool for accurate and flexible finite element visualization. 
  https://glvis.org/
  
+ * *ANTHROPOLOGY
+ * https://africanfossils.org/
+ * https://www.nature.com/articles/497183a
+ * http://paleo.eva.mpg.de/
+ 
+ * https://morphobank.org/
+ 
  * **Blogging platforms**:
   - https://www.wix.com/
   - https://wordpress.com/
