@@ -684,7 +684,8 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 :computer: [website](http://www.anybodytech.com) |
 :page_facing_up: [tutorials](https://t.co/5vG76al6jv) |
 :page_facing_up: [Wiki](https://t.co/IkVRN1WKWB) |
-:star: [model repository](http://www.anybodytech.com/software/model-repository-ammr)
+:star: [model repository](http://www.anybodytech.com/software/model-repository-ammr) |
+:star: [Python tools](https://pypi.org/project/AnyPyTools/)
 
 * **AnimatLab** - neuromechanical and neurorobotic simulator for building the body of a robot or biolgical organism in a physically accurate 3-D virtual world, and then layout a biologically realistic nervous system to control the animats behavior.   
 :page_facing_up: [paper](https://www.sciencedirect.com/science/article/pii/S0165027010000087) |
