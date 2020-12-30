@@ -274,6 +274,11 @@
 :page_facing_up: [paper](https://doi.org/10.1111/joa.12877) |
 :dvd: [dataset](https://www.morphosource.org/Detail/MediaDetail/Show/media_id/21064)
 
+* **Hand muscles attachments: A Geometrical model** by Havelková L et al. (2020).  Sixteen cadaveric preparations were dissected to draw up the anatomical maps including the position of muscle attachments, dimensions, shapes, cross section areas and variations. The magnetic resonance imaging of cadaveric upper extremity was performed to reconstruct the geometry of all bones and hand muscles.</br>
+:page_facing_up: [dataset paper (not published yet)]() |
+:page_facing_up: [AnyBody model's paper](https://doi.org/10.1080/10255842.2020.1851367) |
+:dvd: [dataset](https://zenodo.org/record/3954024#.X-zKitj7QdV)
+
 * **Muscle Modelling Database** by Ross Miller (2018). A summary of muscle mechanical parameters in the human lower limb from the anatomy, muscle/exercise physiology, and biomechanics literature for use in Hill-based muscle model.  
 :page_facing_up: [paper](https://link.springer.com/referenceworkentry/10.1007%2F978-3-319-30808-1_203-2) |
 :dvd: [dataset](https://figshare.com/articles/dataset/Muscle_model_parameters/4275854)
