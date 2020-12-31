@@ -1099,6 +1099,15 @@ This section needs to be improved.
 
 ## Reproducibility :gem:
 
+* **Challenge to scientists: does your ten-year-old code still run?** by Jeffrey M. Perkel (2020). Article including a reproducibility checklist and other interesting considerations orinating from the `ten year challenge`. </br>
+:page_facing_up: [paper](https://www.nature.com/articles/d41586-019-03366-x) |
+:page_facing_up: [ten-years-challenge](https://rescience.github.io/ten-years/)
+
+* **Sustainable computational science: the ReScience initiative** is a platinum open-access peer-reviewed journal that targets computational research and encourages the explicit replication of already published research, promoting new and open-source implementations in order to ensure that the original research is reproducible.</br>
+:computer: [RESCIENCE C website](http://rescience.github.io/)
+:page_facing_up: [paper](https://peerj.com/articles/cs-142/) |
+:floppy_disk: [GitHub page](https://github.com/rescience/)
+
 * **Reproducibility PI Manifesto** by Lorena Barba (2012). Slides of the talk `Reproducibility in Computational and Experimental Mathematics` at the ICERM workshop outlining a list of commitment that principal investigators could take to ensure reproducibility. </br>
 :computer: [website](https://lorenabarba.com/gallery/reproducibility-pi-manifesto/) |
 :page_facing_up: [blog-repro-pack-example](https://lorenabarba.com/blog/how-repro-packs-can-save-your-future-self/) |
