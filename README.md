@@ -1220,6 +1220,12 @@ https://iandanforth.github.io/pymuscle-docs/
  * **ipycanvas** by Martin Renou. Ipycanvas is a lightweight, fast and stable library exposing the browser's Canvas API to IPython. It allows you to draw simple primitives directly from Python like text, lines, polygons, arcs, images etc. This simple toolset allows you to draw literally anything!</br>
  https://github.com/martinRenou/ipycanvas
  
+ * reproducibility initiatives
+ [reprohack]: https://reprohack.github.io/reprohack-hq/
+[reproducibilitea]: https://reproducibilitea.org/
+[turing-way]: https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science
+[software carpentry]: https://swcarpentry.github.io/r-novice-gapminder/
+ 
  * FEM libraries
  * **FreeFEM** https://doc.freefem.org/introduction/index.html
  * **Firedrake** https://www.firedrakeproject.org/
