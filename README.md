@@ -1,4 +1,4 @@
-# Awesome Biomechanics [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)<!-- omit in toc -->
+# Awesome Biomechanics [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)![visitors](https://visitor-badge.glitch.me/badge?page_id=modenaxe.awesome-biomechanics)<!-- omit in toc -->
 ![logo](./images/awesome_biomechanics_logo.png)
 ### A curated repository of biomechanical resources  <!-- omit in toc -->
 #### Still a work in progress (might include incomplete descriptions), but [contributions](#contributing) are welcome at any stage! :heart_eyes:<!-- omit in toc -->
