@@ -37,6 +37,7 @@
 - [Optimal Control and Trajectory Optimization :rocket:](#optimal-control-and-trajectory-optimization-rocket)
 - [Subject-Specific Modelling](#subject-specific-modelling)
   - [Segmentation of Medical Images :art:](#segmentation-of-medical-images-art)
+  - [Automatic Segmentation](#automatic-segmentation)
   - [Manipulation, Processing and Comparison of Surface Meshes](#manipulation-processing-and-comparison-of-surface-meshes)
   - [Resources for Building Biomechanical Models from Medical Images](#resources-for-building-biomechanical-models-from-medical-images)
   - [Automatic Definition of Bony Landmarks and Reference Systems :skull:](#automatic-definition-of-bony-landmarks-and-reference-systems-skull)
@@ -844,6 +845,15 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 * **[SASHIMI Segmentation](https://github.com/bartbols/SASHIMI) :sushi:** by Bart Bolsterlee. SASHIMI Segmentation is a MATLAB App for segmentation of multi-slice images. </br> 
 * **[Seg3D](https://www.sci.utah.edu/cibc-software/seg3d.html)**    
 * **[Simpleware ScanIP](https://www.synopsys.com/simpleware/software/scanip.html) (commercial)**.  
+
+### Automatic Segmentation 
+* **Personalized knee geometry modelling based on multi-atlas segmentation and mesh refinement** by Nikolopoulos et al. (2020). Tools for performing automatic segmentation from MRI and geometry refinement targeting the human knee joint. The user can import an unsegmented MRI sequence and obtain the label maps as well as .stl and .msh files of the individual parts. This includes the femur, tibia and fibula bones, femoral and tibial cartilages, menisci and ligaments.</br>
+:page_facing_up: [paper](https://doi.org/10.1109/ACCESS.2020.2982061) |
+:floppy_disk: [code](https://gitlab.com/vvr/OActive/knee_segmentation_tools)
+
+* **Automatic subregional assessment of knee cartilage degradation** by Thomas et al. (2020).  286 MRI volumes (multi-echo spin-echo T2-weighted) from 143 subjects from the Osteoarthritis Initiative (Kellgren-Lawrence grade of 0). Each MRI was segmented with a semi-automated process and refined by a radiologist. These segmentations were used as ground truth. A Convolutional Neural Network was used to learn MRI features predictive of cartilage location.  Segmented cartilage was divided into 12 subregions. </br>
+:page_facing_up: [pre-print](https://arxiv.org/ftp/arxiv/papers/2012/2012.12406.pdf) |
+:floppy_disk: [code](https://github.com/kathoma/AutomaticKneeMRISegmentation)
 
 ### Manipulation, Processing and Comparison of Surface Meshes
 * [**Autodesk Netfabb**](https://www.autodesk.com/products/netfabb/overview)
