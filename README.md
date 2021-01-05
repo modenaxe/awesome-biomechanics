@@ -1,4 +1,4 @@
-# Awesome Biomechanics [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)<!-- omit in toc -->
+# Awesome Biomechanics [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)   ![visitors](https://visitor-badge.glitch.me/badge?page_id=modenaxe.awesome-biomechanics)<!-- omit in toc -->
 ![logo](./images/awesome_biomechanics_logo.png)
 ### A curated repository of biomechanical resources  <!-- omit in toc -->
 #### Still a work in progress (might include incomplete descriptions), but [contributions](#contributing) are welcome at any stage! :heart_eyes:<!-- omit in toc -->
@@ -71,6 +71,7 @@
 * [KNES 789W - Advanced Projects in Kinesiology; Modeling & Simulation of Human Movement](https://www.youtube.com/watch?v=JXz5BHQBJhk&list=PLFNfmB3IG2Cf_0V5N9w_ZBKIHD2xg1H_g) by Ross Miller, University of Maryland (2020).
 * [Neuromechanics course material](https://github.com/joshcash9/Neuromechanics_Course) by Joshua Cashaback (University of Delaware).
 * [Neuromatch Academy](https://www.youtube.com/channel/UC4LoD4yNBuLKQwDOV6t-KPw): [the Neuromatch Academy](https://www.neuromatchacademy.org/) aims to introduce traditional and emerging tools of computational neuroscience to trainees.
+* [Robotics 101: Computational Linear Algebra](https://robotics.umich.edu/2020/now-available-robotics-101-online/) by University of Michigan Robotics Institute (Fall 2020). The course includes [lecture videos](https://www.youtube.com/playlist?list=PLdPQZLMHRjDK8ZbLIcq1Q2PQobIi68dpv) and [GitHub resources](https://github.com/michiganrobotics/rob101), including the [lecture notes](https://github.com/michiganrobotics/rob101/tree/main/Lecture%20Notes).
 * [Sport Biomechanics Lecture Series](https://www.youtube.com/channel/UCmG-bd1JL1ACP7hMzIUXwOg) curated by Stuart McErlain-Naylor. Includes introductory topics like  presentations of motion capture techniques by Vicon ([lecture 1](https://www.youtube.com/watch?v=1zJ14cW-JqY) and [lecture 2](https://www.youtube.com/watch?v=hM7xEoyP-4o)) and an [introduction](https://www.youtube.com/watch?v=2xgyTpsa14M#) of electromyography (EMG) by Delsys.
 * [BPK 409: Wearable Technology and Human Physiology](https://www.youtube.com/channel/UClU9XVBC0mDwJBIVJTUbtwg/videos) by Max Donelan (Simon Fraser University). The course teaches to use state-of-the-art wearable technology to measure, analyze, and understand human physiological systems including muscular, nervous, and cardiovascular systems.</br>
 :page_facing_up: [description of labs](https://docs.google.com/document/d/e/2PACX-1vTr1zOyrUedA1yx76olfDe5jn88miCNb3EJcC3INmy8nDmbJ8N5Y0B30EBoOunsWbA2DGOVWpgJzIs9/pub) |
@@ -96,6 +97,7 @@
 ### Videos :video_camera:
 * [CNB-ASB Muscle Workshop](https://www.youtube.com/watch?v=Ur9wYYR0nac&feature=youtu.be): presentations on the topic `Integrative Muscle Modelling for Neuromechanics`.
 * [A critique of Induced Acceleration Analysis](https://www.youtube.com/watch?v=2EmwIM_uQnk&t=18s) by Andy Ruina (WCB2014).
+* [Biomechanics playlist](https://www.youtube.com/playlist?list=PLH144fs5LXOPFtafyiTVpXQBEpdrnfn3m) by Kath Boyer. Playlist of Youtube videos of biomechanical interest.
 * [F8 2019 - VR Full Body Tracking & Avatars](https://www.youtube.com/watch?v=FhiAFo9U_sM) and [blog post](https://uploadvr.com/facebook-f8-2019-body-tracking/)
 * [Running with bone pins](https://www.youtube.com/watch?v=nf6jkyNgkwE): video of data collection in subject running with bone pins shared by Ton Van den Bogert.
 * [Introduction to Trajectory Optimization](https://www.youtube.com/watch?v=wlkRYMVUZTs) by [Matthew Kelly](http://www.matthewpeterkelly.com/index.html). Very clear introduction to the topic with MATLAB resources linked in the video description.
@@ -116,6 +118,7 @@
 * [How to review a paper](https://www.sciencemag.org/careers/2016/09/how-review-paper) from Science Magazine.
 * [How to write a systematic review for Health](https://utas.libguides.com/SystematicReviews/) by the University of Tasmania.
 * [Kuo's course homeworks](https://github.com/kuo-courses): interesting homework materials used in Art Kuo's courses (public on GitHub).
+* [MoLib (Motion Library)](https://www.biomechanist.net/multimedia-libraries/motion-library/) from [The Biomechanist](https://www.biomechanist.net/): sample experimental data collected on one participant intended as tutorial for OpenSim processing. See related [post](https://www.biomechanist.net/how-to-use-motion-library/) by Markus Kurz.
 * [Trajectory Optimization Toolbox](https://github.com/MatthewPeterKelly/OptimTraj) by Matthew Kelly, including some [excellent examples](https://github.com/MatthewPeterKelly/dscTutorials) and some [course materials](https://github.com/MatthewPeterKelly/ME149_Spring2018).
 * [Notes on Scientific Computing for Biomechanics and Motor Control](https://github.com/BMClab/BMC) by Marcos Duarte and Renato Watanabe. A beautiful collection of lecture notes and code on scientific computing and data analysis for Biomechanics and Motor Control in the form of Jupyter notebooks (python).
 * [Optimal Control Workshop](https://simtk.org/projects/ocworkshop/) by BJ Fregly. Files distributed at the NSF-funded Optimal Control Workshop held on July 9, 2015 at the University of Edinburgh as part of the XV International Symposium on Computer Simulation in Biomechanics.
@@ -144,6 +147,8 @@
 * [Dynamics: Theory and Applications](https://ecommons.cornell.edu/handle/1813/638) by Kane and Levinson (1985).
 * [Dynamics of Human Gait (2nd Edition)](http://www.analizaruchu.awf.wroc.pl/materialy/vaughan-gaitbook.pdf) by Christopher Vaughan, Brian Davis and Jeremy O'Connor (1999).
 * [Biomechanics and Motor Control of Human Movement (4th Edition)](https://edisciplinas.usp.br/pluginfile.php/4174628/mod_resource/content/2/David%20A.%20Winter-Biomechanics%20and%20Motor%20Control%20of%20Human%20Movement-Wiley%20%282009%29.pdf) by David A. Winter.
+* [Computer-Aided Analysis of Mechanical Systems](http://www.u.arizona.edu/~pen/ame553/) by P.E. Nikravesh (1998).
+* [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) by Steven Boyd and Lieven Vandenberghe (2004).
 
 ## Datasets :dvd:
 
@@ -270,6 +275,11 @@
 :page_facing_up: [paper](https://doi.org/10.1111/joa.12877) |
 :dvd: [dataset](https://www.morphosource.org/Detail/MediaDetail/Show/media_id/21064)
 
+* **Hand muscles attachments: A Geometrical model** by Havelková L et al. (2020).  Sixteen cadaveric preparations were dissected to draw up the anatomical maps including the position of muscle attachments, dimensions, shapes, cross section areas and variations. The magnetic resonance imaging of cadaveric upper extremity was performed to reconstruct the geometry of all bones and hand muscles.</br>
+:page_facing_up: [dataset paper (not published yet)]() |
+:page_facing_up: [AnyBody model's paper](https://doi.org/10.1080/10255842.2020.1851367) |
+:dvd: [dataset](https://zenodo.org/record/3954024#.X-zKitj7QdV)
+
 * **Muscle Modelling Database** by Ross Miller (2018). A summary of muscle mechanical parameters in the human lower limb from the anatomy, muscle/exercise physiology, and biomechanics literature for use in Hill-based muscle model.  
 :page_facing_up: [paper](https://link.springer.com/referenceworkentry/10.1007%2F978-3-319-30808-1_203-2) |
 :dvd: [dataset](https://figshare.com/articles/dataset/Muscle_model_parameters/4275854)
@@ -287,8 +297,12 @@
 * **DigiMorph**: Digital Morphology library is a dynamic archive of information on digital morphology and high-resolution X-ray computed tomography of biological specimens. </br> 
 :computer: [website](http://digimorph.org)
 
+* **eLucy** by the Dept of Anthropology of University of Texas at Austin. eLucy is dedicated to sharing information about 'Lucy', an early fossil hominin represented by the 3.2 million year old remains of a relatively complete skeleton. Through this website is possible to request access for research and teaching purposes to the digital reconstruction (STL files) of right shoulder and left knee of ‘Lucy’, an early fossil hominin (_Australopithecus afarensis_) represented by the 3.2 million year old remains of a relatively complete skeleton.</br>
+:page_facing_up: [paper](http://dx.doi.org/10.1038/nature19332) |
+:computer: [website](https://elucy.org/) 
+
 * **Genetics of craniofacial shape in Mus** by Murat Maga (2017). This dataset includes ~500 high-resolution 3D mouse head microCT scans, associated anatomical landmarks, and individual genotypes suitable to study quantitative genetics of head shape. Scans are of a mouse panel between C57BL/6J and A/J mouse strains and associated genotype data.</br>
-  :computer: [website](https://osf.io/w4wvg/)
+:computer: [website](https://osf.io/w4wvg/)
 
 * **GB3D Type Fossils Online project** aims to develop a single database of the type specimens, held in British collections, of macrofossil species and subspecies found in the UK, including links to photographs (including 'anaglyph' stereo pairs) and a selection of 3D digital models.</br>
 :dvd: [dataset](http://www.3d-fossils.ac.uk/search.cfm) |
@@ -305,10 +319,10 @@
 * **MorphoMuseuM (M3)**: is a peer reviewed, online journal that publishes 3D models of vertebrates, including models of type specimens, anatomy atlases, reconstruction of deformed or damaged specimens, and 3D datasets. </br>
 :computer: [website](https://morphomuseum.com/collections)
 
-* **MorphoSource** by Duke University. MorphoSource has approximately 27,000 published 3D models of biological specimens (largely skeletal material). You can view all of these in your web browser with no required software. Around 13,000 of these are open access and can be freely downloaded for further visualization or measurement. </br> 
+* **MorphoSource** by Duke University. MorphoSource has approximately 27,000 published 3D models of biological specimens (largely skeletal material). You can view all of these in your web browser with no required software. Around 13,000 of these are open access and can be freely downloaded for further visualization or measurement.</br>
 :computer: [website](https://www.morphosource.org)
 
-* **The Open Research Scan Archive (formerly: Penn Cranial CT Database)** by the University of Pennsylvania Museum of Archaeology and Anthropology (curators: Thomas Schoenemann and Janet Monge). contains high resolution (sub-millimeter) scans of human and non-human crania from the Penn University Museum and other institutions. The collection includes approximately 1800 crania (1200 from the Samuel George Morton Collection, then extended by J. Aitken Meigs). </br>  
+* **The Open Research Scan Archive (formerly: Penn Cranial CT Database)** by the University of Pennsylvania Museum of Archaeology and Anthropology (curators: Thomas Schoenemann and Janet Monge). contains high resolution (sub-millimeter) scans of human and non-human crania from the Penn University Museum and other institutions. The collection includes approximately 1800 crania (1200 from the Samuel George Morton Collection, then extended by J. Aitken Meigs).</br>
 :computer: [website](https://penn.museum/sites/orsa/Overview.html)
 
 
@@ -382,6 +396,11 @@
 * **2-D walking: kinematics and force plate data** by David Winter. Originally published as Appendix in the book _Biomechanics and Motor Control of Human Movement_, 2nd edition, John Wiley & Sons, 1990.</br>
 :computer: [website](https://isbweb.org/resources/data-resources/140-movement-data/508-gait-data) |
 :dvd: [dataset](https://isbweb.org/docs/resources/data-resources/gait-data/266-winter-zip)
+
+
+* **GaitRec, a large-scale ground reaction force dataset of healthy and impaired gait** by Horsak et al. (2020). GAITREC is a comprehensive and annotated large-scale dataset containing bi-lateral GRF walking trials of 2,084 patients with various musculoskeletal impairments and data from 211 healthy controls. The data sum up to a total of 75,732 bi-lateral walking trials.</br>
+:page_facing_up: [paper](https://www.nature.com/articles/s41597-020-0481-z) |
+:dvd: [dataset](https://doi.org/10.6084/m9.figshare.c.4788012)
 
 
 ### Running :running:
@@ -671,7 +690,8 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 :computer: [website](http://www.anybodytech.com) |
 :page_facing_up: [tutorials](https://t.co/5vG76al6jv) |
 :page_facing_up: [Wiki](https://t.co/IkVRN1WKWB) |
-:star: [model repository](http://www.anybodytech.com/software/model-repository-ammr)
+:star: [model repository](http://www.anybodytech.com/software/model-repository-ammr) |
+:star: [Python tools](https://pypi.org/project/AnyPyTools/)
 
 * **AnimatLab** - neuromechanical and neurorobotic simulator for building the body of a robot or biolgical organism in a physically accurate 3-D virtual world, and then layout a biologically realistic nervous system to control the animats behavior.   
 :page_facing_up: [paper](https://www.sciencedirect.com/science/article/pii/S0165027010000087) |
@@ -1089,6 +1109,15 @@ This section needs to be improved.
 
 ## Reproducibility :gem:
 
+* **Challenge to scientists: does your ten-year-old code still run?** by Jeffrey M. Perkel (2020). Article including a reproducibility checklist and other interesting considerations orinating from the `ten year challenge`. </br>
+:page_facing_up: [paper](https://www.nature.com/articles/d41586-019-03366-x) |
+:page_facing_up: [ten-years-challenge](https://rescience.github.io/ten-years/)
+
+* **Sustainable computational science: the ReScience initiative** is a platinum open-access peer-reviewed journal that targets computational research and encourages the explicit replication of already published research, promoting new and open-source implementations in order to ensure that the original research is reproducible.</br>
+:computer: [RESCIENCE C website](http://rescience.github.io/)
+:page_facing_up: [paper](https://peerj.com/articles/cs-142/) |
+:floppy_disk: [GitHub page](https://github.com/rescience/)
+
 * **Reproducibility PI Manifesto** by Lorena Barba (2012). Slides of the talk `Reproducibility in Computational and Experimental Mathematics` at the ICERM workshop outlining a list of commitment that principal investigators could take to ensure reproducibility. </br>
 :computer: [website](https://lorenabarba.com/gallery/reproducibility-pi-manifesto/) |
 :page_facing_up: [blog-repro-pack-example](https://lorenabarba.com/blog/how-repro-packs-can-save-your-future-self/) |
@@ -1201,6 +1230,12 @@ https://iandanforth.github.io/pymuscle-docs/
  * **ipycanvas** by Martin Renou. Ipycanvas is a lightweight, fast and stable library exposing the browser's Canvas API to IPython. It allows you to draw simple primitives directly from Python like text, lines, polygons, arcs, images etc. This simple toolset allows you to draw literally anything!</br>
  https://github.com/martinRenou/ipycanvas
  
+ * reproducibility initiatives
+ [reprohack]: https://reprohack.github.io/reprohack-hq/
+[reproducibilitea]: https://reproducibilitea.org/
+[turing-way]: https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science
+[software carpentry]: https://swcarpentry.github.io/r-novice-gapminder/
+ 
  * FEM libraries
  * **FreeFEM** https://doc.freefem.org/introduction/index.html
  * **Firedrake** https://www.firedrakeproject.org/
@@ -1209,6 +1244,13 @@ https://iandanforth.github.io/pymuscle-docs/
  * **MFEM** https://mfem.org/
  * **GLVis** is a lightweight tool for accurate and flexible finite element visualization. 
  https://glvis.org/
+ 
+ * *ANTHROPOLOGY
+ * https://africanfossils.org/
+ * https://www.nature.com/articles/497183a
+ * http://paleo.eva.mpg.de/
+ 
+ * https://morphobank.org/
  
  * **Blogging platforms**:
   - https://www.wix.com/
@@ -1241,12 +1283,12 @@ Feel free to send a pull request or open an Issue.
 Feel free of contributing as by standard [GitHub workflow](https://guides.github.com/activities/forking/):
 1. forking this repository
 2. creating your own branch, where you make your modifications and improvements
-3. once you are happy with the new feature you have implemented create a pull
-   request
+3. once you are happy with the new feature you have implemented create a pull request
 
 ### Resources for learning how to contribute
 * If you want to contribute but you are not familiar with [Git](https://git-scm.com/), the [Software Carpentry Lessons](https://swcarpentry.github.io/git-novice/) are a perfect place to start with Git and GitHub.
 * If you have used Git before but you are not familiar with GitHub, you can check resources like ["First Contributions"](https://github.com/firstcontributions/first-contributions) and learn how to contribute to existing projects.
+* If you are not familiar with the Markdown format used in this document you can quickly learn it from cheatsheets [like this one](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 ### Items suggested template
 
