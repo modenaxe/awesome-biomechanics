@@ -1147,7 +1147,7 @@ This section needs to be improved.
 :computer: [examples](https://simtk.org/plugins/moinmoin/cpms/Ten%20Simple%20Rules%20Examples)
 
 * **Good Simulation Practices** by In Silico World. Good Practices are consensus documents produced by a group of experts – organised in a formal or informal Community of Practice. A group of experts coordinated by the Avicenna Alliance and the VPH Institute is developing the first proposal for Good Simulation Practice. At the link a list of relevant documents is presented.</br>
-:computer: [examples](http://insilico.world/practice/good-simulation-practices/)
+:computer: [list of documents](http://insilico.world/practice/good-simulation-practices/)
 
 ## Societies and Initiatives :classical_building:
 * [Americal Society of Biomechanics](https://www.asbweb.org/)
