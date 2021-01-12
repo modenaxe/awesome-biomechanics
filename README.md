@@ -51,6 +51,7 @@
 - [Statistical Analysis](#statistical-analysis)
 - [Scientific Data Visualization](#scientific-data-visualization)
 - [Reproducibility :gem:](#reproducibility-gem)
+- [Good practices for credible modeling](#good-practices-for-credible-modeling)
 - [Societies and Initiatives :classical_building:](#societies-and-initiatives-classical_building)
 - [Miscellaneous Online Resources](#miscellaneous-online-resources)
 - [More Datasets and repositories](#more-datasets-and-repositories)
@@ -1115,6 +1116,10 @@ This section needs to be improved.
 :page_facing_up: [paper](https://www.nature.com/articles/d41586-019-03366-x) |
 :page_facing_up: [ten-years-challenge](https://rescience.github.io/ten-years/)
 
+* **Commentary on the Integration of Model Sharing and Reproducibility Analysis to Scholarly Publishing Workflow in Computational Biomechanics** by Erdemir et al. (2016). Two manuscripts on computational biomechanics were submitted together with the employed models and shared with the scientific reviewers. In addition to the standard review of the manuscripts, the reviewers downloaded the models and contributed to a simulation reproducibility report.</br>
+:page_facing_up: [paper](https://doi.org/10.1109/TBME.2016.2602760)
+
+
 * **Sustainable computational science: the ReScience initiative** is a platinum open-access peer-reviewed journal that targets computational research and encourages the explicit replication of already published research, promoting new and open-source implementations in order to ensure that the original research is reproducible.</br>
 :computer: [RESCIENCE C website](http://rescience.github.io/)
 :page_facing_up: [paper](https://peerj.com/articles/cs-142/) |
@@ -1134,6 +1139,15 @@ This section needs to be improved.
 * **Resources that helps in choosing a license for shared resources**:
     - **[Choose a license](https://choosealicense.com/)** by GitHub Inc. This is a website with can help you choosing the license for your shared data based the intended use that you want to allow. </br> 
     - **[CreativeCommons](https://creativecommons.org/choose/)** by Creative Commons. This website can guide you in the process of choosing a Creative Commons license based on your preferences.</br> 
+
+## Good practices for credible modeling
+
+* **Credible practice of modeling and simulation in healthcare: ten rules from a multidisciplinary perspective** by Erdemir et al. (2020). The paper provides Ten Rules for credible practice of modeling and simulation in healthcare developed from a comparative analysis by the Committee’s multidisciplinary membership, followed by a large stakeholder community survey.</br>
+:page_facing_up: [paper](https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-020-02540-4) |
+:computer: [examples](https://simtk.org/plugins/moinmoin/cpms/Ten%20Simple%20Rules%20Examples)
+
+* **Good Simulation Practices** by In Silico World. Good Practices are consensus documents produced by a group of experts – organised in a formal or informal Community of Practice. A group of experts coordinated by the Avicenna Alliance and the VPH Institute is developing the first proposal for Good Simulation Practice. At the link a list of relevant documents is presented.</br>
+:computer: [examples](http://insilico.world/practice/good-simulation-practices/)
 
 ## Societies and Initiatives :classical_building:
 * [Americal Society of Biomechanics](https://www.asbweb.org/)
@@ -1169,6 +1183,8 @@ This section needs to be improved.
 
 
 ## Sandbox <!-- omit in toc -->
+
+
  
 * **SPIERS (Serial Palaeontological Image Editing and Rendering System)** by Mark Sutton et al. (2012). SPIERS is a package of three programs for the digital visualisation and analysis of tomographic (serial image) datasets, such as those obtained from serial-grinding of specimens, or from CT scanning.</br>
 :computer: [website](https://spiers-software.org)
