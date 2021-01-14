@@ -143,15 +143,17 @@
 
 
 ### Books :blue_book:
-* [The ABC of EMG](https://hermanwallace.com/download/The_ABC_of_EMG_by_Peter_Konrad.pdf) by Peter Konrad (2005).
+
+* [Biomechanics and Motor Control of Human Movement (4th Edition)](https://edisciplinas.usp.br/pluginfile.php/4174628/mod_resource/content/2/David%20A.%20Winter-Biomechanics%20and%20Motor%20Control%20of%20Human%20Movement-Wiley%20%282009%29.pdf) by David A. Winter.
 * [Calculus made Easy](http://calculusmadeeasy.org) by Silvanus P. Thompson.
+* [Computer-Aided Analysis of Mechanical Systems](http://www.u.arizona.edu/~pen/ame553/) by P.E. Nikravesh (1998).
 * [Computer Aided Kinematics And Dynamics Of Mechanical Systems](https://archive.org/details/computeraidedkinematicsanddynamicsofmechanicalsystems_202004/mode/2up) by Edward J. Haug (1989).
+* [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) by Steven Boyd and Lieven Vandenberghe (2004).
 * [Dynamics: Theory and Applications](https://ecommons.cornell.edu/handle/1813/638) by Kane and Levinson (1985).
 * [Dynamics of Human Gait (2nd Edition)](http://www.analizaruchu.awf.wroc.pl/materialy/vaughan-gaitbook.pdf) by Christopher Vaughan, Brian Davis and Jeremy O'Connor (1999).
-* [Biomechanics and Motor Control of Human Movement (4th Edition)](https://edisciplinas.usp.br/pluginfile.php/4174628/mod_resource/content/2/David%20A.%20Winter-Biomechanics%20and%20Motor%20Control%20of%20Human%20Movement-Wiley%20%282009%29.pdf) by David A. Winter.
-* [Computer-Aided Analysis of Mechanical Systems](http://www.u.arizona.edu/~pen/ame553/) by P.E. Nikravesh (1998).
-* [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) by Steven Boyd and Lieven Vandenberghe (2004).
+* [Experimental Methods in Biomechanics (link)](https://www.springer.com/us/book/9783030522551) by John Challis (2021).
 * [Reinforcement Learning: An Introduction](http://www.incompleteideas.net/book/the-book-2nd.html) by Richard S. Sutton and Andrew G. Barto (2018).
+* [The ABC of EMG](https://hermanwallace.com/download/The_ABC_of_EMG_by_Peter_Konrad.pdf) by Peter Konrad (2005).
 
 ## Datasets :dvd:
 
@@ -1119,7 +1121,6 @@ This section needs to be improved.
 * **Commentary on the Integration of Model Sharing and Reproducibility Analysis to Scholarly Publishing Workflow in Computational Biomechanics** by Erdemir et al. (2016). Two manuscripts on computational biomechanics were submitted together with the employed models and shared with the scientific reviewers. In addition to the standard review of the manuscripts, the reviewers downloaded the models and contributed to a simulation reproducibility report.</br>
 :page_facing_up: [paper](https://doi.org/10.1109/TBME.2016.2602760)
 
-
 * **Sustainable computational science: the ReScience initiative** is a platinum open-access peer-reviewed journal that targets computational research and encourages the explicit replication of already published research, promoting new and open-source implementations in order to ensure that the original research is reproducible.</br>
 :computer: [RESCIENCE C website](http://rescience.github.io/)
 :page_facing_up: [paper](https://peerj.com/articles/cs-142/) |
@@ -1132,9 +1133,10 @@ This section needs to be improved.
 
 * **Make code accessible with cloud services** by Jeffrey M. Perkel. This Nature article describes some technical solutions applicable for making the results of a paper accessible and reproducible for other scientistis.</br>
 :page_facing_up: [paper](https://www.nature.com/articles/d41586-019-03366-x) |
-:computer: [Docker](https://www.docker.com/) |
-:computer: [Binder](https://mybinder.org/) |
-:computer: [Colab](https://colab.research.google.com/)
+:computer: **Suggested Services**:
+    - [Docker](https://www.docker.com/) |
+    - [Binder](https://mybinder.org/) |
+    - [Colab](https://colab.research.google.com/)
 
 * **Resources that helps in choosing a license for shared resources**:
     - **[Choose a license](https://choosealicense.com/)** by GitHub Inc. This is a website with can help you choosing the license for your shared data based the intended use that you want to allow. </br> 
