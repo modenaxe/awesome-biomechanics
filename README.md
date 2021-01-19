@@ -622,7 +622,7 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 ### Multibody and Physics Engines :sleeping::arrow_lower_left::apple:
 
 * **Biorbd** by Benjamin Michaud and Mickaël Begon (2020). This is a Biomechanical add-ons to the RigidBody Dynamics Library by Martin L. Felis. Written in C++, includes Python and MATLAB binders. A visualizer and an optimal control framework have been developed around this library. </br>
-:page_facing_up: [paper (in review)](https://joss.theoj.org/papers/52298f1fa05a60e6e312e1ee42806e82) |
+:page_facing_up: [paper](https://joss.theoj.org/papers/10.21105/joss.02562) |
 :floppy_disk: [source](https://github.com/pyomeca/biorbd)
 
 * **Bullet Physics** by Erwin Coumans and Yunfei Bai (2016). Real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.   
