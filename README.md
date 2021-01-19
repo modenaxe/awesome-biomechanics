@@ -738,7 +738,8 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 ### Neuromusculoskeletal Simulation Tools :brain::hammer:
 
 * **Batch OpenSim Processing Scripts (BOPS)** by Alice Mantoan et al. (2020). MATLAB based, user friendly and easy-to-use tool to perform batch process of the most commonly used OpenSim Tools (IK, ID, MA, SO and JRA).</br>
-:computer: [website](https://simtk.org/projects/bops ) |
+:page_facing_up: [paper](https://doi.org/10.1080/10255842.2020.1867978) |
+:computer: [website](https://simtk.org/projects/bops) |
 :floppy_disk: [source](https://github.com/RehabEngGroup/BOPS)
 
 * **OpenSim JAM: A framework to simulate Joint and Articular Mechanics in OpenSim** by Colin Smith (2020). OpenSim JAM is a collection of force component plugins, models, and executables (tools) that are designed to enable OpenSim musculoskeletal simulations that include detailed joint mechanics. The project extends the opensim-core capabilities to enable joint representations that include 6 degree of freedom (DOF) joints (without kinematic constraints) and explicit representations of articular contact and ligament structures.  
