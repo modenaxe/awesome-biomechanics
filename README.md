@@ -538,6 +538,7 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 :floppy_disk: [source](https://github.com/RehabEngGroup/MOtoNMS)
 
 * **BiomechZoo** by Philippe C Dixon. BiomechZoo is a user-customizable toolbox for the analysis of biomechanical data within the MatLab programming environment. Please take a look at the Wiki for setup information and user instructions.</br>
+:page_facing_up: [paper](https://doi.org/10.1016/j.cmpb.2016.11.007) |
 :computer: [website](https://www.biomechzoo.com) |
 :floppy_disk: [source](https://github.com/PhilD001/biomechZoo)
 
