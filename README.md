@@ -207,7 +207,8 @@
 * **MB Knee: Multibody Models of the Human Knee** by Trent Guess. The data set includes four knee models, one based on in vivo measurements from a 29 year old female and three based on cadaver knees that were physically tested in a dynamic knee simulator. Knee geometries (bone, cartilage, and menisci) were derived from Magnetic Resonance Imaging (MRI) and ligament insertions come from MRI, the literature, and probing the cadaver knees. The site also contains information on ligament modeling, such as bundle insertion locations and zero load lengths.  
 :dvd: [dataset](https://simtk.org/projects/mb_knee)
 
-* **OpenKnee** by Ahmet Erdemir. Open Knee(s) is aimed to provide free access to three-dimensional finite element representations of the knee joint. Dataset includes one knee specimen from the first generation of data collected and 21 specimens (knee id up to 22, missing one) for second generation.  
+* **OpenKnee** by Ahmet Erdemir et al. Open Knee(s) is aimed to provide free access to three-dimensional finite element representations of the knee joint. Dataset includes one knee specimen from the first generation of data collected and 21 specimens (knee id up to 22, missing one) for second generation.</br>
+:page_facing_up: [paper 2021 (MRI and mechanical testing)](https://doi.org/10.1016/j.dib.2021.106824) |
 :page_facing_up: [paper 2016](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4876308/) |
 :page_facing_up: [paper 2013](https://doi.org/10.1115/FMD2013-16033) |
 :page_facing_up: [ASB abstract 2010](http://www.asbweb.org/conferences/2010/abstracts/181.pdf) |
