@@ -1019,8 +1019,16 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 
 ### Finite Element Analysis Software 
 * [Abaqus](https://www.3ds.com/products-services/simulia/products/abaqus/) (commercial)
+
 * [Ansys](https://www.ansys.com/en-gb) (commercial)
+
+* **CMISS**, an interactive computer program for **C**ontinuum Mechanics, **Im**age analysis, **S**ignal processing and **S**ystem Identification, by the Auckand Bioengineering Institute (ABI). Development stopped in 2012 but it is still employed in several publications. Examples and documentation are available at the main website.</br>
+:page_facing_up: [paper](https://link.springer.com/article/10.1007/s10237-003-0036-1) |
+:computer: [website](https://www.cmiss.org/)
+
+
 * [FEAP: A Finite Element Analysis Program](http://projects.ce.berkeley.edu/feap/) by University of Berkeley
+
 * **MOFEM** by Lukasz Kaczmarczyk et al. (2019). MOFEM is an open source (GNU LGPL) C++ finite element library capable of dealing with complex multi-physics problems with arbitrary levels of approximation and refinement. MoFEM can read various input file formats, and work with preprocessors like Gmsh, Salome, Cubit, and many more. Also, it can be used for parallel processing on desktop computers and high-performance clusters.</br>
 :page_facing_up: [paper](https://joss.theoj.org/papers/10.21105/joss.01441) |
 :computer: [website](http://mofem.eng.gla.ac.uk/mofem/html/index.html?s=03)
