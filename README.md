@@ -875,6 +875,7 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 * **[Simpleware ScanIP](https://www.synopsys.com/simpleware/software/scanip.html) (commercial)**.  
 
 ### Automatic Segmentation 
+
 * **Personalized knee geometry modelling based on multi-atlas segmentation and mesh refinement** by Nikolopoulos et al. (2020). Tools for performing automatic segmentation from MRI and geometry refinement targeting the human knee joint. The user can import an unsegmented MRI sequence and obtain the label maps as well as .stl and .msh files of the individual parts. This includes the femur, tibia and fibula bones, femoral and tibial cartilages, menisci and ligaments.</br>
 :page_facing_up: [paper](https://doi.org/10.1109/ACCESS.2020.2982061) |
 :floppy_disk: [code](https://gitlab.com/vvr/OActive/knee_segmentation_tools)
@@ -1142,6 +1143,9 @@ This section needs to be improved.
 :computer: [website](https://lorenabarba.com/gallery/reproducibility-pi-manifesto/) |
 :page_facing_up: [blog-repro-pack-example](https://lorenabarba.com/blog/how-repro-packs-can-save-your-future-self/) |
 :bar_chart: [slides](https://figshare.com/articles/presentation/Reproducibility_PI_Manifesto/104539)
+
+* **Reproducible computational environments using containers** workshop by Software Carpentries, held at Imperial College London in 2020. The workshop focused on the use of containers with the goal of using them to effect reproducible computational environments. Such environments are useful for ensuring reproducible research outputs and for simplifying the setup of complex software dependencies across different systems.</br>
+:computer: [website](https://imperialcollegelondon.github.io/2020-07-13-Containers-Online/)
 
 * **Make code accessible with cloud services** by Jeffrey M. Perkel. This Nature article describes some technical solutions applicable for making the results of a paper accessible and reproducible for other scientistis.</br>
 :page_facing_up: [paper](https://www.nature.com/articles/d41586-019-03366-x) |
