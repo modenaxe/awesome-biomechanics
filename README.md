@@ -885,7 +885,8 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 
 ### Manipulation, Processing and Comparison of Surface Meshes
 * [**Autodesk Netfabb**](https://www.autodesk.com/products/netfabb/overview)
-* [**Blender**](https://www.blender.org/)
+* [**Blender**](https://www.blender.org/)</br>
+    * [Blender Remeshing Guide](https://github.com/evaherbst/Blender_remeshing_guide) by Eva Herbst.
 * [**Gmsh**](https://gmsh.info/)
 * [**MeshLab**](https://www.meshlab.net/) - **TO ADD PAPER**
 * [**MeshMixer**](http://www.meshmixer.com/)
