@@ -517,7 +517,7 @@
 * **PyC3Dserver** by Moon Ki Jung (2020). Python interface of C3Dserver software for reading and editing C3D motion capture files. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3942388.svg)](https://doi.org/10.5281/zenodo.3942388)</br>
 :floppy_disk: [source](https://github.com/mkjung99/pyc3dserver)
 
-* [ezc3d](https://github.com/pyomeca/ezc3d) (C++/MATLAB/Python): ezc3d is a light and comprehensive library that allows to easily read and write c3d files. The C++ core includes an API for fast file I/O library, and convenient MATLAB and Python3 interfaces for researchers. It supports c3d files from the main biomechanics companies, namely: Vicon, Qualisys, Optotrak, BTS and XSens.</br>
+* [ezc3d: An easy C3D file I/O cross-platform solution for C++, Python and MATLAB](https://github.com/pyomeca/ezc3d) (C++/MATLAB/Python) by Benjamin Michaud et al. (2021). Ezc3d is a light and comprehensive library that allows to easily read and write c3d files. The C++ core includes an API for fast file I/O library, and convenient MATLAB and Python3 interfaces for researchers. It supports c3d files from the main biomechanics companies, namely: Vicon, Qualisys, Optotrak, BTS and XSens.</br>
 :page_facing_up: [paper](https://joss.theoj.org/papers/10.21105/joss.02911) |
 :computer: [documentation website](https://pyomeca.github.io/Documentation/ezc3d/) |
 :floppy_disk: [source](https://github.com/pyomeca/ezc3d)
