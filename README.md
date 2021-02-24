@@ -1043,6 +1043,7 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 :floppy_disk: [source](https://bitbucket.org/likask/mofem-cephas/src/master/)
 
 * [Z88](https://en.z88.de/)
+* 
 * **Code_Aster** - TO ADD DESCRIPTION</br>
 :computer: [website](https://www.code-aster.org/) |
 :computer: [Salome_meca](https://www.code-aster.org/spip.php?article303) |
@@ -1108,24 +1109,39 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 :floppy_disk: [source](https://figshare.shef.ac.uk/articles/The_Muscle_Standardised_Femur_model/4578298)
 
 ## Statistical Analysis
+
 This section needs to be improved.
+
 * [**G*Power**](https://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower.html)
-* [**spm1d**](https://spm1d.org/): package for one-dimensional [Statistical Parametric Mapping](http://www.scholarpedia.org/article/Statistical_parametric_mapping)
+  
+* [**spm1d**](https://spm1d.org/): package for one-dimensional [statistical Parametric Mapping](http://www.scholarpedia.org/article/Statistical_parametric_mapping).
+  
 * [**SPSS Statistics**](https://www.ibm.com/uk-en/products/spss-statistics) (commercial)
+  
 * **PCA of Waveforms and Functional PCA: A Primer for Biomechanics** by John Warmenhoven et al. (2020). Scripts presenting functional principal components analysis (fPCA) and PCA of waveforms on an exemplar biomechanical data set. </br>
 :page_facing_up: [paper](https://doi.org/10.1016/j.jbiomech.2020.110106) |
 :floppy_disk: [code](https://github.com/johnwarmenhoven/PCA-FPCA)
 
 ## Scientific Data Visualization
+
+
 * [**Paraview**](https://www.paraview.org)
+
+
 * [**Mayavi**](https://docs.enthought.com/mayavi/mayavi/) - Python tool :snake:
+
+
 * [**OpenCmiss**](http://opencmiss.org/)
+
+
 * **ImageJ** - TO ADD DESCRIPTION </br>
 :computer: [website](https://imagej.net/) |
 :floppy_disk: [source](https://github.com/imagej/imagej)
+
 * **Fiji** - version of ImageJ with pre-built plugins. </br>
 :computer: [website](https://imagej.net/Fiji) |
 :floppy_disk: [source](https://github.com/fiji/fiji)
+
 * **StradView** by Machine Intelligence Laboratory of Cambridge University, Department of Engineering. StradView was developed from Stradwin, which is a tool for freehand 3D ultrasound recording and visualisation. Stradwin is also a useful tool for visualisation from 3D medical data of any sort. It can load most types of DICOM data or image sequences, and produce very high quality surface models which can also be turned into movies using scripts. It can also be used for cortical bone mapping from DICOM CT data. </br>
 :computer: [website](https://mi.eng.cam.ac.uk/Main/StradView) |
 :page_facing_up: [How-To](http://mi.eng.cam.ac.uk/~gmt11/stradview/howto.htm)
