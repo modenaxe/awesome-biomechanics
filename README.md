@@ -27,6 +27,7 @@
   - [Motion Capture Data Import and Processing [WIP]](#motion-capture-data-import-and-processing-wip)
     - [Marker Trajectory Gap filling](#marker-trajectory-gap-filling)
     - [Inertial Measurement Units](#inertial-measurement-units)
+    - [2D video analysis](#2d-video-analysis)
 - [Ultrasound Fascicle Tracking](#ultrasound-fascicle-tracking)
 - [Modelling and Simulation :computer:](#modelling-and-simulation-computer)
   - [Anthropometric Models :standing_person:](#anthropometric-models-standing_person)
@@ -590,6 +591,18 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 :computer: [website](https://simtk.org/projects/opensense) |
 :floppy_disk: [source](https://github.com/opensim-org/opensim-core)
 
+#### 2D video analysis
+
+* **Kinovea** by Joan Charmant. Kinovea is a video player for sport analysis. It provides a set of tools to capture, slow down, study, compare, annotate and measure technical performances.</br>
+:computer: [website](https://www.kinovea.org/) |
+:floppy_disk: [source](https://github.com/Kinovea/Kinovea) |
+:star: [resources]( https://www.kinovea.org/help/en/index.htm)
+
+* **Tracker - Video Analysis and Modeling Tool** by [The Open Source Physics Project](https://www.compadre.org/osp/?). Tracker is an image and video analysis package and modeling tool that is built upon the Open Source Physics Java code library. Features include object tracking with position, velocity and acceleration overlays and graphs, special effect filters, multiple reference frames, calibration points and line profiles for analysis of spectra and interference patterns. It is designed to be used in introductory college physics labs and lectures.</br>
+:computer: [website](https://physlets.org/tracker/) |
+
+* **SkillSpector 1.3** is a video based motion and skill analysis tool for Windows. It allows video overlay for direct video on video comparison and 2D and 3D analysis, standard model definitions, semi-automatic digitizing using image processing techniques, analysis of linear and angular kinematic data, calculation of inertia, 3D representation of movement,simple video calibration.</br>
+:computer: [website](https://skillspector.software.informer.com/1.3/) 
 
 ## Ultrasound Fascicle Tracking
 
@@ -1233,10 +1246,6 @@ This section needs to be improved.
 :floppy_disk: [source](https://github.com/palaeoware/SPIERS) |
 
 
-* **Kinovea** by Joan Charmant. Kinovea is a video player for sport analysis. It provides a set of tools to capture, slow down, study, compare, annotate and measure technical performances.</br>
-:computer: [website](https://www.kinovea.org/) |
-:floppy_disk: [source](https://github.com/Kinovea/Kinovea) |
-:star: [resources]( https://www.kinovea.org/help/en/index.htm)
 
 * **MoJoXlab** by Riasat Islam et al. (2020). MoJoXlab is a MATLAB based custom motion capture analysis software toolkit whose aim is to produce freely available motion capture analysis software to be used by anyone interested in generating lower limb joint kinematics waveforms using any suitable wearable inertial measurement units (IMUs).</br>
 :page_facing_up: [paper](https://mhealth.jmir.org/2020/6/e17872/pdf) |
@@ -1321,6 +1330,11 @@ https://iandanforth.github.io/pymuscle-docs/
       - https://github.com/academicpages/academicpages.github.io
   - https://gohugo.io/
       - https://themes.gohugo.io/academic/
+
+
+* Video Lessons: https://stuartmcnaylor.com/sportsbiomls/ 
+* Misc: http://viswanathsundar.in/sportsscience/sportsscienceIndex.html#menuweb1 
+
  * **JointTrack**
  https://sourceforge.net/projects/jointtrack/files/JointTrack/2.0%20%28stable%29/
  https://ufdcimages.uflib.ufl.edu/UF/E0/02/17/84/00001/mu_s.pdf
