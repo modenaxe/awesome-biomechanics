@@ -55,6 +55,7 @@
 - [Good practices for credible modeling](#good-practices-for-credible-modeling)
 - [Societies and Initiatives :classical_building:](#societies-and-initiatives-classical_building)
 - [Miscellaneous Online Resources](#miscellaneous-online-resources)
+  - [Blogging platforms](#blogging-platforms)
 - [More Datasets and repositories](#more-datasets-and-repositories)
 - [Contributing](#contributing)
   - [How to contribute](#how-to-contribute)
@@ -1227,6 +1228,18 @@ This section needs to be improved.
 * Websites of interest for Machine Learning and Deep Learning topics:
     - https://distill.pub/
     - https://paperswithcode.com/
+  
+### Blogging platforms
+* [**Hugo**](https://gohugo.io/)
+    * [**Hugo academic themes**](https://themes.gohugo.io/academic/)
+* [**Jekyll**](https://jekyllrb.com/)
+    * [**Minimal Mistakes**](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/)
+    * [**Jekyll theme for academic pages**](https://github.com/academicpages/academicpages.github.io)
+* [**Pelican**](https://blog.getpelican.com/)
+* [**Substack**](https://substack.com/)
+* [**Weebly**](https://www.weebly.com/uk)
+* [**WiX**](https://www.wix.com/)
+* [**Wordpress**](https://wordpress.com/)
     
 ## More Datasets and repositories
 * [Biomechanical Datasets](https://github.com/mkjung99/biomechanics_dataset) by Moon Ki Jung (Imperial College London).
@@ -1320,16 +1333,6 @@ https://iandanforth.github.io/pymuscle-docs/
  
  * https://morphobank.org/
  
- * **Blogging platforms**:
-  - https://www.wix.com/
-  - https://wordpress.com/
-  - https://substack.com/
-  - https://www.weebly.com/uk
-  - https://blog.getpelican.com/
-  - https://jekyllrb.com/
-      - https://github.com/academicpages/academicpages.github.io
-  - https://gohugo.io/
-      - https://themes.gohugo.io/academic/
 
 
 * Video Lessons: https://stuartmcnaylor.com/sportsbiomls/ 
