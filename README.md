@@ -1225,6 +1225,7 @@ This section needs to be improved.
 * [ISB Data Resources](http://isbweb.org/data/)
 * [Richard Baker's blog](https://wwrichard.net/) (unmaintained).
 * [Stuart McErlain-Naylor's personal website](https://www.stuartmcnaylor.com/): includes [a list of resources](https://www.stuartmcnaylor.com/resources/) for PhD students.
+* [Viswanath Sundar Sports Science Virtual Lab](http://viswanathsundar.in/index.html)
 * Websites of interest for Machine Learning and Deep Learning topics:
     - https://distill.pub/
     - https://paperswithcode.com/
@@ -1251,13 +1252,20 @@ This section needs to be improved.
 
 ## Sandbox <!-- omit in toc -->
 
+* **Open source IMU and AHRS algorithms** by Sebastian Madgwick (2009). IMU and AHRS sensor fusion algorithm developed as part of Sebastian's Ph.D research at the University of Bristol. </br>
+:page_facing_up: [internal report](https://www.x-io.co.uk/res/doc/madgwick_internal_report.pdf) |
+:computer: [website](https://x-io.co.uk/open-source-imu-and-ahrs-algorithms/) 
 
+
+* **Talocrural Morphology: Statistical Shape Modeling with a Hybrid Multi-Articulation Joint Approach** by A Lenz et al. (2021). [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4274217.svg)](https://doi.org/10.5281/zenodo.4274217)</br>
+:page_facing_up: [paper TBA]() |
+:dvd: [dataset](https://zenodo.org/record/4274217#.YDeEG-j7SUn) |
+:star: [resources](https://github.com/Lenz-Lab/TalocruralShapeModeling/tree/v1.0)
  
 * **SPIERS (Serial Palaeontological Image Editing and Rendering System)** by Mark Sutton et al. (2012). SPIERS is a package of three programs for the digital visualisation and analysis of tomographic (serial image) datasets, such as those obtained from serial-grinding of specimens, or from CT scanning.</br>
 :computer: [website](https://spiers-software.org)
 [paper](https://palaeo-electronica.org/content/issue-2-2012-technical-articles/226-virtual-palaeontology-toolkit)
 :floppy_disk: [source](https://github.com/palaeoware/SPIERS) |
-
 
 
 * **MoJoXlab** by Riasat Islam et al. (2020). MoJoXlab is a MATLAB based custom motion capture analysis software toolkit whose aim is to produce freely available motion capture analysis software to be used by anyone interested in generating lower limb joint kinematics waveforms using any suitable wearable inertial measurement units (IMUs).</br>
@@ -1332,11 +1340,7 @@ https://iandanforth.github.io/pymuscle-docs/
  * http://paleo.eva.mpg.de/
  
  * https://morphobank.org/
- 
 
-
-* Video Lessons: https://stuartmcnaylor.com/sportsbiomls/ 
-* Misc: http://viswanathsundar.in/sportsscience/sportsscienceIndex.html#menuweb1 
 
  * **JointTrack**
  https://sourceforge.net/projects/jointtrack/files/JointTrack/2.0%20%28stable%29/
