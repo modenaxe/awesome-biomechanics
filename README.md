@@ -122,6 +122,7 @@
 * [GitHub resources for teaching](https://classroom.github.com/classrooms): GitHub offers support for automating certain aspects of teaching.
 * [How to review a paper](https://www.sciencemag.org/careers/2016/09/how-review-paper) from Science Magazine.
 * [How to write a systematic review for Health](https://utas.libguides.com/SystematicReviews/) by the University of Tasmania.
+* [Interactive Simulations for Science and Math](https://phet.colorado.edu/) by the University of Colorado Boulder. Very intuitive and interactive simulations of phenomena and notions from Physics, Chemistry, Math, Earth Science and Biology.
 * [Kuo's course homeworks](https://github.com/kuo-courses): interesting homework materials used in Art Kuo's courses (public on GitHub).
 * [MoLib (Motion Library)](https://www.biomechanist.net/multimedia-libraries/motion-library/) from [The Biomechanist](https://www.biomechanist.net/): sample experimental data collected on one participant intended as tutorial for OpenSim processing. See related [post](https://www.biomechanist.net/how-to-use-motion-library/) by Markus Kurz.
 * [Trajectory Optimization Toolbox](https://github.com/MatthewPeterKelly/OptimTraj) by Matthew Kelly, including some [excellent examples](https://github.com/MatthewPeterKelly/dscTutorials) and some [course materials](https://github.com/MatthewPeterKelly/ME149_Spring2018).
@@ -939,8 +940,8 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 :page_facing_up: [step-by-step guide](https://figshare.shef.ac.uk/articles/dataset/Data_for_paper_Investigation_of_the_dependence_of_joint_contact_forces_on_musculotendon_parameters_using_a_codified_workflow_for_image-based_modelling_/5863422) |
 :floppy_disk: [scripts (MATLAB)](https://figshare.com/articles/Code_for_paper_Investigation_of_the_dependence_of_joint_contact_forces_on_musculotendon_parameters_using_a_codified_workflow_for_image-based_modelling_/6392423)
 
-* **STAPLE toolbox** by Luca Modenese and Jean-Baptiste Renault et al. (2020). STAPLE (Shared Tools for Automatic Personalised Lower Extremity modelling) consists of a collection of methods for generating skeletal models from three-dimensional bone geometries, usually segmented from medical images. The methods are currently being expanded to create complete musculoskeletal models. Toolbox is currently in beta version. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4275285.svg)](https://doi.org/10.5281/zenodo.4275285)</br>
-:page_facing_up: [preprint](https://www.biorxiv.org/content/10.1101/2020.06.23.162727v2) |
+* **STAPLE toolbox** by Luca Modenese and Jean-Baptiste Renault et al. (2021). STAPLE (Shared Tools for Automatic Personalised Lower Extremity modelling) consists of a collection of methods for generating skeletal models from three-dimensional bone geometries, usually segmented from medical images. The methods are currently being expanded to create complete musculoskeletal models. Toolbox is currently in beta version. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4275285.svg)](https://doi.org/10.5281/zenodo.4275285)</br>
+:page_facing_up: [paper](https://doi.org/10.1016/j.jbiomech.2020.110186) |
 :floppy_disk: [source (beta)](https://github.com/modenaxe/msk-STAPLE)
 
 
