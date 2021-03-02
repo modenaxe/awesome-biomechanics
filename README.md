@@ -573,6 +573,10 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 
 #### Marker Trajectory Gap filling
 
+* **auto-marker-label** by Alison Clouthier et al. (2021). This is a Python :snake: algorithm that uses machine learning to automatically label optical motion capture markers. The algorithm can be trained on existing data or simulated marker trajectories. Data and code is provided to generate the simulated trajectories for custom marker sets.</br>
+:page_facing_up: [paper](https://ieeexplore.ieee.org/document/9364995) |
+:floppy_disk: [source](https://github.com/aclouthier/auto-marker-label)
+
 * **Automated Gap Filling and Tools for Motion Capture** by the Sensor-Fusion team from EPIC lab @GeorgiaTech. Gap filling is based on inverse kinematics approach. </br>
 :page_facing_up: [paper](https://doi.org/10.1080/10255842.2020.1789971) |
 :computer: [website](https://simtk.org/projects/opensense) |
