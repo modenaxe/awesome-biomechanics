@@ -910,6 +910,11 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 :page_facing_up: [pre-print](https://arxiv.org/ftp/arxiv/papers/2012/2012.12406.pdf) |
 :floppy_disk: [code](https://github.com/kathoma/AutomaticKneeMRISegmentation)
 
+* **A New Straightforward Method for Automated Segmentation of Trabecular Bone from Cortical Bone in Diverse and Challenging Morphologies** by Eva Herbst et al. (2021). Description of a method to automatically segment trabecular and cortical bone in micro-CT scans, using [Avizo](https://en.wikipedia.org/wiki/Avizo_(software)).</br>
+:page_facing_up: [pre-print](https://www.biorxiv.org/content/10.1101/2021.03.02.433409v1) | 
+:floppy_disk: [code (Avizo recipe)](https://github.com/evaherbst/Trabecular_Segmentation_Avizo) |
+:dvd: [test micro-CT scans](https://figshare.com/projects/Trabecular_and_Cortical_Bone_Segmentation_Method/99434)
+
 ### Manipulation, Processing and Comparison of Surface Meshes
 * [**Autodesk Netfabb**](https://www.autodesk.com/products/netfabb/overview)
 * [**Blender**](https://www.blender.org/)</br>
