@@ -1069,17 +1069,21 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 
 * **Z88** by Prof. Dr.-Ing. Frank Rieg and team. The free open source program `Z88OS` is suitable as a really basic FEM program for learning the fundamentals of finite element analysis by examining and, if necessary, by changing or expanding the code. `Z88Aurora®`, which is based on the structures of Z88, is a user interface for Z88OS. `Z88Arion®` is another related tool, a freeware topology optimization program.</br>
 :computer: [website](https://en.z88.de/)
-  
-* **Code_Aster** - TO ADD DESCRIPTION</br>
+
+* **Code_Aster** is a free and open source finite element suite sponsored by [EDF R&D](https://www.edfenergy.com/) that offers a full range of multiphysical analysis and modelling methods including thermomechanical, seismic analysis, porous media, acoustics, fatigue, stochastic dynamics, etc. Its modelling, algorithms and solvers are constantly under development. The encapsulation of these methods in the Salome7 graphical user interface makes it particularly approachable.</br>
 :computer: [website](https://www.code-aster.org/) |
 :computer: [Salome_meca](https://www.code-aster.org/spip.php?article303) |
-:page_facing_up: [Aster-description](https://www.code-aster.org/UPLOAD/DOC/Presentation/plaquette_aster_en.pdf) |
+:floppy_disk: [source](https://www.code-aster.org/V2/spip.php?rubrique21) |
+:page_facing_up: [Aster leaflet](https://www.code-aster.org/UPLOAD/DOC/Presentation/plaquette_aster_en.pdf) |
+:page_facing_up: [Salome 7 leaflet](https://www.code-aster.org/UPLOAD/DOC/Presentation/Plaquette_SALOME_V7.pdf) |
 :movie_camera: [tutorials](https://www.youtube.com/channel/UCWBV4PbsfizSkmcq88roGeQ/playlists) |
 :movie_camera: [tutorials](https://www.youtube.com/watch?v=g9Kvv7PYF34&list=PLvkU6i2iQ2frC7YB1A9Pqcfhwe9T3Vuy-)
 
-* **FEBio** **TODO - needs description and resources** </br>
+* **FEBio** by Maas et al. (2012). FeBio is a software tool, developed by Jeffrey Weiss' lab and Gerard Ateshian's lab, for nonlinear finite element analysis in biomechanics and biophysics and is specifically focused on solving nonlinear large deformation problems in biomechanics and biophysics. Aside from structural mechanics, it can also solve problems in mixture mechanics (i.e. biphasic or multiphasic materials), fluid mechanics, reaction-diffusion, and heat transfer. As a true multiphysics code, it can also solve coupled physics problems, including fluid-solid interactions.</br>
+:page_facing_up: [paper](https://febio.org/site/uploads/maas_jbme_2012.pdf) |
 :computer: [website](https://febio.org/) |
-:movie_camera: [introductory webinar](https://www.youtube.com/watch?v=I3_PKL4x45g&t=944s)
+:floppy_disk: [source](https://github.com/febiosoftware) |
+:movie_camera: [Youtube channel](https://www.youtube.com/channel/UCtOvJL14MB57hhNV-I3HIyQ)
 
 ### Finite Element Analysis Software Tools
 
