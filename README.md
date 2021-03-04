@@ -1059,16 +1059,17 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 :page_facing_up: [paper](https://link.springer.com/article/10.1007/s10237-003-0036-1) |
 :computer: [website](https://www.cmiss.org/)
 
-
-* [FEAP: A Finite Element Analysis Program](http://projects.ce.berkeley.edu/feap/) by University of Berkeley
+* **FEAP: A Finite Element Analysis Program** by University of Berkeley. FEAP is a general purpose finite element analysis program which is designed for research and educational use. Source code of the full program is available for compilation using Windows (Intel compiler), LINUX or UNIX operating systems, and Mac OS X based Apple systems (GNU and Intel compilers).</br>
+:computer: [website](http://projects.ce.berkeley.edu/feap/)
 
 * **MOFEM** by Lukasz Kaczmarczyk et al. (2019). MOFEM is an open source (GNU LGPL) C++ finite element library capable of dealing with complex multi-physics problems with arbitrary levels of approximation and refinement. MoFEM can read various input file formats, and work with preprocessors like Gmsh, Salome, Cubit, and many more. Also, it can be used for parallel processing on desktop computers and high-performance clusters.</br>
 :page_facing_up: [paper](https://joss.theoj.org/papers/10.21105/joss.01441) |
 :computer: [website](http://mofem.eng.gla.ac.uk/mofem/html/index.html?s=03)
 :floppy_disk: [source](https://bitbucket.org/likask/mofem-cephas/src/master/)
 
-* [Z88](https://en.z88.de/)
-* 
+* **Z88** by Prof. Dr.-Ing. Frank Rieg and team. The free open source program `Z88OS` is suitable as a really basic FEM program for learning the fundamentals of finite element analysis by examining and, if necessary, by changing or expanding the code. `Z88Aurora®`, which is based on the structures of Z88, is a user interface for Z88OS. `Z88Arion®` is another related tool, a freeware topology optimization program.</br>
+:computer: [website](https://en.z88.de/)
+  
 * **Code_Aster** - TO ADD DESCRIPTION</br>
 :computer: [website](https://www.code-aster.org/) |
 :computer: [Salome_meca](https://www.code-aster.org/spip.php?article303) |
@@ -1197,8 +1198,8 @@ This section needs to be improved.
 * **Make code accessible with cloud services** by Jeffrey M. Perkel. This Nature article describes some technical solutions applicable for making the results of a paper accessible and reproducible for other scientistis.</br>
 :page_facing_up: [paper](https://www.nature.com/articles/d41586-019-03366-x) |
 :computer: **Suggested Services**:
-    - [Docker](https://www.docker.com/) |
-    - [Binder](https://mybinder.org/) |
+    - [Docker](https://www.docker.com/) 
+    - [Binder](https://mybinder.org/) 
     - [Colab](https://colab.research.google.com/)
 
 * **Resources that helps in choosing a license for shared resources**:
