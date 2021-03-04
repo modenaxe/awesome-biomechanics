@@ -1068,7 +1068,7 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 
 * **MOFEM** by Lukasz Kaczmarczyk et al. (2019). MOFEM is an open source (GNU LGPL) C++ finite element library capable of dealing with complex multi-physics problems with arbitrary levels of approximation and refinement. MoFEM can read various input file formats, and work with preprocessors like Gmsh, Salome, Cubit, and many more. Also, it can be used for parallel processing on desktop computers and high-performance clusters.</br>
 :page_facing_up: [paper](https://joss.theoj.org/papers/10.21105/joss.01441) |
-:computer: [website](http://mofem.eng.gla.ac.uk/mofem/html/index.html?s=03)
+:computer: [website](http://mofem.eng.gla.ac.uk/mofem/html/index.html?s=03) |
 :floppy_disk: [source](https://bitbucket.org/likask/mofem-cephas/src/master/)
 
 * **Z88** by Prof. Dr.-Ing. Frank Rieg and team. The free open source program `Z88OS` is suitable as a really basic FEM program for learning the fundamentals of finite element analysis by examining and, if necessary, by changing or expanding the code. `Z88Aurora®`, which is based on the structures of Z88, is a user interface for Z88OS. `Z88Arion®` is another related tool, a freeware topology optimization program.</br>
@@ -1115,7 +1115,7 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 :computer: [website](https://simtk.org/projects/readysim) 
 
 * **Surrogate Contact Modeling Toolbox** by Ilan Eskinazi and Benjamin Fregly (2016). This opensource toolbox provides researchers with the capabilities to construct and use surrogate contact models, including multiple domains for sampling including out-of-contact configurations, a multi-threaded sampler that makes use of FEBio's contact modeling capabilities, flexible specification of surrogate model inputs and outputs, and architecture, parallelized training, testing module and surrogate models portable as DLLs.</br>
-[:computer: website | :floppy_disk: source ](https://doi.org/10.1109/TBME.2015.2455510)
+[:computer: website | :floppy_disk: source](https://doi.org/10.1109/TBME.2015.2455510) |
 :computer: [website](https://simtk.org/projects/scmt/) 
 
 * **Gridap: An extensible Finite Element toolbox in Julia** by Santiago Badia1 and Francesc Verdugo (2020). </br>
