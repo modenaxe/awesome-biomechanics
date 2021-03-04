@@ -1050,9 +1050,9 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 
 ## Finite Element Analysis
 
-* **Finite Element Zürich (FEZ)** is an international network, started by Eva Herbst Nicole Webb and Dylan Bastiaans (2021), aiming to showcase outstanding research using dynamic FEA simulations and to ensure that these advanced methods are accessible to all scientists in computational biomechanics.</br>
+* **Finite Element Zürich (FEZ)** is an international network, started by Eva Herbst, Nicole Webb and Dylan Bastiaans (2021), aiming to showcase outstanding research using dynamic FEA simulations and to ensure that these advanced methods are accessible to all scientists in computational biomechanics.</br>
 :computer: [GitHub Resources](https://github.com/FEZ-Finite-Element-Zurich)
-:computer: [website](https://joyceykao.github.io/advlanding/index.html)
+:computer: [website](https://fez-finite-element-zurich.github.io/)
 
 ### Finite Element Analysis Software 
 * [Abaqus](https://www.3ds.com/products-services/simulia/products/abaqus/) (commercial)
