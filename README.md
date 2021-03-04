@@ -1050,6 +1050,10 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 
 ## Finite Element Analysis
 
+* **Finite Element Zürich (FEZ)** is an international network, started by Eva Herbst Nicole Webb and Dylan Bastiaans (2021), aiming to showcase outstanding research using dynamic FEA simulations and to ensure that these advanced methods are accessible to all scientists in computational biomechanics.</br>
+:computer: [GitHub Resources](https://github.com/FEZ-Finite-Element-Zurich)
+:computer: [website](https://joyceykao.github.io/advlanding/index.html)
+
 ### Finite Element Analysis Software 
 * [Abaqus](https://www.3ds.com/products-services/simulia/products/abaqus/) (commercial)
 
@@ -1079,7 +1083,7 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 :movie_camera: [tutorials](https://www.youtube.com/channel/UCWBV4PbsfizSkmcq88roGeQ/playlists) |
 :movie_camera: [tutorials](https://www.youtube.com/watch?v=g9Kvv7PYF34&list=PLvkU6i2iQ2frC7YB1A9Pqcfhwe9T3Vuy-)
 
-* **FEBio** by Maas et al. (2012). FeBio is a software tool, developed by Jeffrey Weiss' lab and Gerard Ateshian's lab, for nonlinear finite element analysis in biomechanics and biophysics and is specifically focused on solving nonlinear large deformation problems in biomechanics and biophysics. Aside from structural mechanics, it can also solve problems in mixture mechanics (i.e. biphasic or multiphasic materials), fluid mechanics, reaction-diffusion, and heat transfer. As a true multiphysics code, it can also solve coupled physics problems, including fluid-solid interactions.</br>
+* **FEBio** by Maas et al. (2012). FeBio is a software tool, developed by Jeffrey Weiss' lab and Gerard Ateshian's lab, for nonlinear finite element analysis in biomechanics and biophysics and is specifically focused on solving nonlinear large deformation problems in biomechanics and biophysics. Aside from structural mechanics, it can also solve problems in mixture mechanics (i.e. biphasic or multiphasic materials), fluid mechanics, reaction-diffusion, and heat transfer. It can also solve coupled physics problems, including fluid-solid interactions. `FEBio Studio` is the main software tool for developing, running, and analyzing FEBio models, offering a graphical user interface for interacting with the FEBio software.</br>
 :page_facing_up: [paper](https://febio.org/site/uploads/maas_jbme_2012.pdf) |
 :computer: [website](https://febio.org/) |
 :floppy_disk: [source](https://github.com/febiosoftware) |
@@ -1117,7 +1121,7 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 * **Gridap: An extensible Finite Element toolbox in Julia** by Santiago Badia1 and Francesc Verdugo (2020). </br>
 :page_facing_up: [paper](https://joss.theoj.org/papers/10.21105/joss.02520) |
 :page_facing_up: [Users' Guide](https://arxiv.org/abs/1910.01412) |
-:floppy_disk: [code/source](lhttps://github.com/gridap/Gridap.jl)
+:floppy_disk: [code](lhttps://github.com/gridap/Gridap.jl)
 
 ### Finite Element Models
 
