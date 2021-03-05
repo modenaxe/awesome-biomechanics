@@ -902,6 +902,11 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 
 ### Automatic Segmentation 
 
+* **Biomedisa** by Philipp Lösel et al. (2020). Biomedisa is a free and easy-to-use open-source online platform for segmenting large volumetric images, e.g. CT and MRI scans, developed by the Heidelberg University and the [Heidelberg Institute for Theoretical Studies](https://www.h-its.org/). The segmentation is performed based on a smart interpolation of sparsely pre-segmented slices taking into account the complete underlying image data. It can be used in addition to segmentation tools like Amira, ImageJ/Fiji and MITK. </br>
+:computer: [website](https://biomedisa.org/) |
+:page_facing_up: [paper](https://www.nature.com/articles/s41467-020-19303-w) |
+:floppy_disk: [code](https://github.com/biomedisa/biomedisa)
+
 * **Personalized knee geometry modelling based on multi-atlas segmentation and mesh refinement** by Nikolopoulos et al. (2020). Tools for performing automatic segmentation from MRI and geometry refinement targeting the human knee joint. The user can import an unsegmented MRI sequence and obtain the label maps as well as .stl and .msh files of the individual parts. This includes the femur, tibia and fibula bones, femoral and tibial cartilages, menisci and ligaments.</br>
 :page_facing_up: [paper](https://doi.org/10.1109/ACCESS.2020.2982061) |
 :floppy_disk: [code](https://gitlab.com/vvr/OActive/knee_segmentation_tools)
