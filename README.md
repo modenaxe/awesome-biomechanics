@@ -1394,9 +1394,9 @@ Feel free to send a pull request or open an Issue.
 
 ### How to contribute
 
-The easiest way to contribute to this list is by describing what you would like to add to the list [at this link](https://github.com/modenaxe/awesome-biomechanics/issues).
+The easiest way to contribute to this list is by describing what you would like to add to the list [at this link](https://github.com/modenaxe/awesome-biomechanics/issues). Create a new `Issue` and add a weblink and a short description for the resource you have in mind. We will add the item for you.
 
-Alternatively, if you use Git, feel free of contributing as by standard [GitHub workflow](https://guides.github.com/activities/forking/):
+Alternatively, if you use Git or GitHub, feel free of contributing as by standard [GitHub workflow](https://guides.github.com/activities/forking/):
 1. forking this repository
 2. creating your own branch, where you make your modifications and improvements
 3. once you are happy with the new feature you have implemented create a pull request
