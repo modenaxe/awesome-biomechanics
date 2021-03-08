@@ -113,6 +113,10 @@
 
 ### Teaching Resources :triangular_ruler:
 * [Anatomy Standard](https://www.anatomystandard.com/) by Jānis Šavlovskis and Kristaps Raits (2020). Project aiming at creating an evidence-based 3D model of the human body, create high-quality, interactive illustrations of the model, and share them here to provide a resource for teaching and explaining anatomy. Images are licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). </br>
+* [Anybodyrun](https://anybodyrun.com) by AnyBody Technology. This is a website where you can generate videos of full-body models of running based on principal components analysis. The approach behind the application is described on John Rasmussen's [blog](https://biomechanicsforeverybody.wordpress.com/).
+* [Bayesian Data Analysis course](https://avehtari.github.io/BDA_course_Aalto) by AKi Vehtari at Aalto University (2020).</br>
+:floppy_disk: [code](https://github.com/avehtari/BDA_course_Aalto) |
+:page_facing_up: [book](https://users.aalto.fi/~ave/BDA3.pdf)
 * [Biomch-L discussions](https://biomch-l.isbweb.org/forum/biomch-l-forums/biomch-l-1988-2010): classic discussions from the archives of the LISTSERV Biomch-L database:
     - [Joint Attitude Debate Summary](https://biomch-l.isbweb.org/forum/biomch-l-forums/biomch-l-1988-2010/189-joint-attitude-debate-final-reply-summary) by H. J. Woltring (1990).
     - [3D Joint Power Debate Summaary](https://biomch-l.isbweb.org/forum/biomch-l-forums/biomch-l-1988-2010/14921-summary-3d-joint-power) by J. Rubenson (2004).
@@ -145,10 +149,7 @@
     - [Elbow model in Matlab](https://figshare.com/articles/software/Elbow_model_in_Matlab/9983402)
 * [*VIRTUAL LAB: Australopithecus afarensis KNEE JOINT*](https://hominin.anthropology.wisc.edu/virtual-lab-afarensis-femur-tibia.html) by John Hawks Laboratory (University of Wisconsin-Madison).
 * [*VIRTUAL LABS IN BIOLOGICAL ANTHROPOLOGY*](https://hominin.anthropology.wisc.edu/virtual-labs.html) by John Hawks Laboratory (University of Wisconsin-Madison).
-* [Bayesian Data Analysis course](https://avehtari.github.io/BDA_course_Aalto) by AKi Vehtari at Aalto University (2020).</br>
-:floppy_disk: [code](https://github.com/avehtari/BDA_course_Aalto) |
-:page_facing_up: [book](https://users.aalto.fi/~ave/BDA3.pdf)
-* [Anybodyrun](https://anybodyrun.com) by AnyBody Technology. This is a website where you can generate videos of full-body models of running based on principal components analysis. The approach behind the application is described on John Rasmussen's [blog](https://biomechanicsforeverybody.wordpress.com/).
+* [Understanding p-values Through Simulations: An Interactive Visualization](https://rpsychologist.com/pvalue/) by Kristoffer Magnusson (2021). The goal of the page is to explain p-values through an interactive simulations.
 
 
 ### Books :blue_book:
