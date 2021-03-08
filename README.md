@@ -1184,6 +1184,9 @@ This section needs to be improved.
 * **ImageJ** - TO ADD DESCRIPTION </br>
 :computer: [website](https://imagej.net/) |
 :floppy_disk: [source](https://github.com/imagej/imagej)
+      * **BoneJ plugin** a plugin for bone image analysis in ImageJ by Doube et al. (2017).
+      :computer: [website](https://bonej.org/) |
+      :floppy_disk: [code](https://github.com/bonej-org/BoneJ2)
 
 * **Fiji** - version of ImageJ with pre-built plugins. </br>
 :computer: [website](https://imagej.net/Fiji) |
