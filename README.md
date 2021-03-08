@@ -143,6 +143,8 @@
     - [Jumping model with foot (6 dof)](https://figshare.com/articles/dataset/Jumping_model_with_foot/7856141)
     - [Sit-to-stand model](https://figshare.com/articles/software/Sit-to-stand_model/11987277)
     - [Elbow model in Matlab](https://figshare.com/articles/software/Elbow_model_in_Matlab/9983402)
+* [*VIRTUAL LAB: Australopithecus afarensis KNEE JOINT*](https://hominin.anthropology.wisc.edu/virtual-lab-afarensis-femur-tibia.html) by John Hawks Laboratory (University of Wisconsin-Madison).
+* [*VIRTUAL LABS IN BIOLOGICAL ANTHROPOLOGY*](https://hominin.anthropology.wisc.edu/virtual-labs.html) by John Hawks Laboratory (University of Wisconsin-Madison).
 * [Bayesian Data Analysis course](https://avehtari.github.io/BDA_course_Aalto) by AKi Vehtari at Aalto University (2020).</br>
 :floppy_disk: [code](https://github.com/avehtari/BDA_course_Aalto) |
 :page_facing_up: [book](https://users.aalto.fi/~ave/BDA3.pdf)
@@ -1362,6 +1364,10 @@ https://iandanforth.github.io/pymuscle-docs/
  * https://africanfossils.org/
  * https://www.nature.com/articles/497183a
  * http://paleo.eva.mpg.de/
+ * https://hominin.anthropology.wisc.edu/virtual-labs.html
+ * [**VIRTUAL LAB: Australopithecus afarensis KNEE JOINT**](https://hominin.anthropology.wisc.edu/virtual-lab-afarensis-femur-tibia.html) by JOHN HAWKS LABORATORY (Unirsity of Wisconsin-Madison).
+ * [**VIRTUAL LABS IN BIOLOGICAL ANTHROPOLOGY**](https://hominin.anthropology.wisc.edu/virtual-labs.html) by JOHN HAWKS LABORATORY (Unirsity of Wisconsin-Madison).
+ * 
  
  * https://morphobank.org/
 
