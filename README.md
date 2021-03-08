@@ -1,7 +1,7 @@
 # Awesome Biomechanics [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)   ![visitors](https://visitor-badge.glitch.me/badge?page_id=modenaxe.awesome-biomechanics)<!-- omit in toc -->
 ![logo](./images/awesome_biomechanics_logo.png)
 ### A curated repository of biomechanical resources  <!-- omit in toc -->
-#### Still a work in progress (might include incomplete descriptions), but [contributions](#contributing) are welcome at any stage! :heart_eyes:<!-- omit in toc -->
+#### Still a work in progress (might include incomplete descriptions), but contributions are welcome at any stage! :heart_eyes: See [how you can contribute](#contributing), it's easy!<!-- omit in toc -->
 
 ## Table of contents <!-- omit in toc -->
 - [Learning](#learning)
@@ -1394,7 +1394,9 @@ Feel free to send a pull request or open an Issue.
 
 ### How to contribute
 
-Feel free of contributing as by standard [GitHub workflow](https://guides.github.com/activities/forking/):
+The easiest way to contribute to this list is by describing what you would like to add to the list [at this link](https://github.com/modenaxe/awesome-biomechanics/issues).
+
+Alternatively, if you use Git, feel free of contributing as by standard [GitHub workflow](https://guides.github.com/activities/forking/):
 1. forking this repository
 2. creating your own branch, where you make your modifications and improvements
 3. once you are happy with the new feature you have implemented create a pull request
