@@ -822,8 +822,12 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 
 ## Optimal Control and Trajectory Optimization :rocket:
 
+* **Crocoddyl (Contact Robot Optimal Control by Differential Dynamic Library)** by [Carlos Mastalli](https://cmastalli.github.io/) and [Rohan Budhiraja](https://scholar.google.com/citations?user=NW9Io9AAAAAJ) (2020). Croccoddyl is an optimal control library for robot control under contact sequence. Its solvers are based on novel and efficient Differential Dynamic Programming (DDP) algorithms. Crocoddyl computes optimal trajectories along with optimal feedback gains. It uses Pinocchio for fast computation of robots dynamics and their analytical derivatives.</br>
+:page_facing_up: [paper](https://doi.org/10.1109/ICRA40945.2020.9196673) |
+:floppy_disk: [source](https://github.com/loco-3d/crocoddyl)
+
 * **OpenSim Moco** by Chris Dembia, Nick Bianco and the OpenSim team (2019). OpenSim Moco is a software toolkit to solve optimal control problems with musculoskeletal models defined in OpenSim, including those with kinematic constraints. Using the direct collocation method, Moco can solve a wide range of problems, including motion tracking, motion prediction, and parameter optimization. The design of Moco focuses on ease-of-use, customizability, and extensibility. Just like OpenSim itself, Moco has interfaces in XML/command-line, Matlab, Python, Java, and C++.  
-:page_facing_up: [preprint](https://www.biorxiv.org/content/10.1101/839381v1) |
+:page_facing_up: [paper](https://doi.org/10.1371/journal.pcbi.1008493) |
 :computer: [website](https://simtk.org/projects/opensim-moco) |
 :floppy_disk: [source](https://github.com/opensim-org/opensim-moco) |
 :star: [materials from preprint](https://github.com/stanfordnmbl/mocopaper) |
