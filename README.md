@@ -1213,10 +1213,18 @@ This section needs to be improved.
 * **Commentary on the Integration of Model Sharing and Reproducibility Analysis to Scholarly Publishing Workflow in Computational Biomechanics** by Erdemir et al. (2016). Two manuscripts on computational biomechanics were submitted together with the employed models and shared with the scientific reviewers. In addition to the standard review of the manuscripts, the reviewers downloaded the models and contributed to a simulation reproducibility report.</br>
 :page_facing_up: [paper](https://doi.org/10.1109/TBME.2016.2602760)
 
+* **Perspectives on Sharing Models and Related Resources in Computational Biomechanics Research** by Erdemir et al. (2018). The paper tries to understand current perspectives in the biomechanics community for the sharing of computational models and related resources. Opinions on opportunities, challenges, and pathways to model sharing, particularly as part of the scholarly publishing workflow, were sought through short opinion pieces of a group of journal editors and investigators active in computational biomechanics.</br>
+:page_facing_up: [paper](https://doi.org/10.1115/1.4038768)
+
 * **Sustainable computational science: the ReScience initiative** is a platinum open-access peer-reviewed journal that targets computational research and encourages the explicit replication of already published research, promoting new and open-source implementations in order to ensure that the original research is reproducible.</br>
 :computer: [RESCIENCE C website](http://rescience.github.io/)
 :page_facing_up: [paper](https://peerj.com/articles/cs-142/) |
 :floppy_disk: [GitHub page](https://github.com/rescience/)
+
+* **Reproducibility in simulation -based prediction of natural knee mechanics** by Erdemir et al. (2021). This project aims for understanding the influence of modelers’ approaches and decisions (essentially their "art") throughout the lifecycle of modeling and simulation. It will demonstrate the uncertainty of delivering consistent simulation predictions when the founding data to feed into models remain the same. The project site also aims to be a hub to provide an overview of resources for modeling & simulation of the knee joint.</br>
+:page_facing_up: [paper](https://doi.org/10.1115/1.4050028) |
+:computer: [website](https://simtk.org/projects/kneehub) |
+:star: [project wiki](https://simtk.org/plugins/moinmoin/kneehub/FrontPage)
 
 * **Reproducibility PI Manifesto** by Lorena Barba (2012). Slides of the talk `Reproducibility in Computational and Experimental Mathematics` at the ICERM workshop outlining a list of commitment that principal investigators could take to ensure reproducibility. </br>
 :computer: [website](https://lorenabarba.com/gallery/reproducibility-pi-manifesto/) |
@@ -1308,7 +1316,6 @@ This section needs to be improved.
 :computer: [website](https://spiers-software.org)
 [paper](https://palaeo-electronica.org/content/issue-2-2012-technical-articles/226-virtual-palaeontology-toolkit)
 :floppy_disk: [source](https://github.com/palaeoware/SPIERS) |
-
 
 * **MoJoXlab** by Riasat Islam et al. (2020). MoJoXlab is a MATLAB based custom motion capture analysis software toolkit whose aim is to produce freely available motion capture analysis software to be used by anyone interested in generating lower limb joint kinematics waveforms using any suitable wearable inertial measurement units (IMUs).</br>
 :page_facing_up: [paper](https://mhealth.jmir.org/2020/6/e17872/pdf) |
