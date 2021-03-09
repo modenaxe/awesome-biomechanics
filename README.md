@@ -120,6 +120,7 @@
 * [Biomch-L discussions](https://biomch-l.isbweb.org/forum/biomch-l-forums/biomch-l-1988-2010): classic discussions from the archives of the LISTSERV Biomch-L database:
     - [Joint Attitude Debate Summary](https://biomch-l.isbweb.org/forum/biomch-l-forums/biomch-l-1988-2010/189-joint-attitude-debate-final-reply-summary) by H. J. Woltring (1990).
     - [3D Joint Power Debate Summaary](https://biomch-l.isbweb.org/forum/biomch-l-forums/biomch-l-1988-2010/14921-summary-3d-joint-power) by J. Rubenson (2004).
+* [Engineers Code](https://github.com/engineersCode) collection of Python :snake: resources developed by Lorena Barba et al. for teaching engineering computation.
 * [Julia notebooks on dynamic systems](https://github.com/alavendelm/julia-dynsys-resources) by Adam MacLean (2021).
 * [Muscle Atlas](https://rad.washington.edu/muscle-atlas/) by the Dept of Radiology of the University of Washington. The medical illustrations contained in this online atlas are copyrighted © 1997 by the University of Washington but receiving a license to use these images is generally quite easy, particularly for academic and scholarly purposes. For more information and obtaining a license [see this link](https://els2.comotion.uw.edu/product/musculoskeletal-atlas).
 * [ASB Teaching Repository](http://asbteachingrepository.herokuapp.com/) by the American Society of Biomechanics. Does not require membership to access.
@@ -338,6 +339,11 @@
 
 * **MorphoSource** by Duke University. MorphoSource has approximately 27,000 published 3D models of biological specimens (largely skeletal material). You can view all of these in your web browser with no required software. Around 13,000 of these are open access and can be freely downloaded for further visualization or measurement.</br>
 :computer: [website](https://www.morphosource.org)
+
+* **SketchFab**: is an online platform providing 3D models (free and not free options).
+:computer: [website](https://sketchfab.com) |
+:star: [example: Science/Technology section](https://sketchfab.com/store/3d-models/science-technology) |
+:star: [example: Evans EvoMorph Lab](https://sketchfab.com/arevans)
 
 * **The Open Research Scan Archive (formerly: Penn Cranial CT Database)** by the University of Pennsylvania Museum of Archaeology and Anthropology (curators: Thomas Schoenemann and Janet Monge). contains high resolution (sub-millimeter) scans of human and non-human crania from the Penn University Museum and other institutions. The collection includes approximately 1800 crania (1200 from the Samuel George Morton Collection, then extended by J. Aitken Meigs).</br>
 :computer: [website](https://penn.museum/sites/orsa/Overview.html)
