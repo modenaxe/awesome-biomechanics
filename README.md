@@ -1241,6 +1241,10 @@ This section needs to be improved.
     - [Binder](https://mybinder.org/) 
     - [Colab](https://colab.research.google.com/)
 
+* **How to build a MATLAB dockerfile**: detailed instruction on how to run MATLAB in a container. Requires a license.</br>
+:computer: [instructions](https://github.com/mathworks-ref-arch/matlab-dockerfile) |
+:star: [container including Mathworks dependencies (NO MATLAB)](https://hub.docker.com/r/mathworks/matlab-deps)
+
 * **Resources that helps in choosing a license for shared resources**:
     - **[Choose a license](https://choosealicense.com/)** by GitHub Inc. This is a website with can help you choosing the license for your shared data based the intended use that you want to allow. </br> 
     - **[CreativeCommons](https://creativecommons.org/choose/)** by Creative Commons. This website can guide you in the process of choosing a Creative Commons license based on your preferences.</br> 
