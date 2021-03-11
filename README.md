@@ -37,12 +37,12 @@
   - [Neuromusculoskeletal Simulation Tools :brain::hammer:](#neuromusculoskeletal-simulation-tools-brainhammer)
 - [Optimal Control and Trajectory Optimization :rocket:](#optimal-control-and-trajectory-optimization-rocket)
 - [Subject-Specific Modelling](#subject-specific-modelling)
-  - [Segmentation of Medical Images :art:](#segmentation-of-medical-images-art)
-  - [Automatic Segmentation](#automatic-segmentation)
+  - [Segmentation of Medical Images :artist:](#segmentation-of-medical-images-artist)
+  - [Automatic Segmentation :mage_man:](#automatic-segmentation-mage_man)
   - [Manipulation, Processing and Comparison of Surface Meshes](#manipulation-processing-and-comparison-of-surface-meshes)
-  - [Resources for Building Biomechanical Models from Medical Images](#resources-for-building-biomechanical-models-from-medical-images)
+  - [Resources for Building Biomechanical Models from Medical Images :woman_technologist:](#resources-for-building-biomechanical-models-from-medical-images-woman_technologist)
   - [Automatic Definition of Bony Landmarks and Reference Systems :skull:](#automatic-definition-of-bony-landmarks-and-reference-systems-skull)
-  - [Uncertainty Quantification in Musculoskeletal Simulations](#uncertainty-quantification-in-musculoskeletal-simulations)
+  - [Uncertainty Quantification in Musculoskeletal Simulations :question:](#uncertainty-quantification-in-musculoskeletal-simulations-question)
   - [Meshers of Surface Models](#meshers-of-surface-models)
   - [Statistical Shape Modelling :bone:](#statistical-shape-modelling-bone)
 - [Finite Element Analysis](#finite-element-analysis)
@@ -876,7 +876,7 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 
 ## Subject-Specific Modelling
 
-### Segmentation of Medical Images :art:
+### Segmentation of Medical Images :artist:
 * **[3DSlicer](https://www.slicer.org/)** 3D Slicer is an open source software platform for medical image informatics, image processing, and three-dimensional visualization.</br> 
 :page_facing_up: [paper (Slicer v4)](https://dx.doi.org/10.1016%2Fj.mri.2012.05.001) |
 :computer: [website](https://www.slicer.org/wiki/Main_Page) |
@@ -915,7 +915,7 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 * **[Seg3D](https://www.sci.utah.edu/cibc-software/seg3d.html)**    
 * **[Simpleware ScanIP](https://www.synopsys.com/simpleware/software/scanip.html) (commercial)**.  
 
-### Automatic Segmentation 
+### Automatic Segmentation :mage_man:
 
 * **Biomedisa** by Philipp Lösel et al. (2020). Biomedisa is a free and easy-to-use open-source online platform for segmenting large volumetric images, e.g. CT and MRI scans, developed by the Heidelberg University and the [Heidelberg Institute for Theoretical Studies](https://www.h-its.org/). The segmentation is performed based on a smart interpolation of sparsely pre-segmented slices taking into account the complete underlying image data. It can be used in addition to segmentation tools like Amira, ImageJ/Fiji and MITK. </br>
 :computer: [website](https://biomedisa.org/) |
@@ -939,8 +939,13 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 * [**Autodesk Netfabb**](https://www.autodesk.com/products/netfabb/overview)
 * [**Blender**](https://www.blender.org/)</br>
     * [Blender Remeshing Guide](https://github.com/evaherbst/Blender_remeshing_guide) by Eva Herbst.
+
 * [**Gmsh**](https://gmsh.info/)
-* [**MeshLab**](https://www.meshlab.net/) - **TO ADD PAPER**
+
+* [**MeshLab**](https://www.meshlab.net/) by Cignoni et al. (2008). MeshLab is open source system for processing and editing 3D triangular meshes. It provides a set of tools for editing, cleaning, healing, inspecting, rendering, texturing and converting meshes. It offers features for processing raw data produced by 3D digitization tools/devices and for preparing models for 3D printing. </br>
+:computer: [website](https://www.meshlab.net/) |
+:floppy_disk: [source](https://github.com/cnr-isti-vclab/meshlab)
+
 * [**MeshMixer**](http://www.meshmixer.com/)
 * **OpenFlipper** by RWTH Aachen University (Prof Leif Kobbelt). OpenFlipper is an OpenSource multi-platform application and programming framework designed for processing, modeling and rendering of geometric data. More tools are available at the [Graphics, Geometry and Multimedia software page](https://www.graphics.rwth-aachen.de/software/)</br>
 :computer: [website](https://www.graphics.rwth-aachen.de/software/openflipper/) |
@@ -956,7 +961,7 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 :floppy_disk: [source](https://github.com/mikedh/trimesh)
 
 
-### Resources for Building Biomechanical Models from Medical Images
+### Resources for Building Biomechanical Models from Medical Images :woman_technologist:
 
 * **mri2psm** by Manish Sreenivasa (2016). Open-source toolchain to create patient-specific models from MRI images.  
 :page_facing_up: [paper](https://doi.org/10.1016/j.jbiomech.2016.05.001) (_MRI2PSM, an open-source toolchain to create patient-specific rigid body models from MRI images._ is cited in the paper, but not retrievable). |
@@ -1004,7 +1009,7 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 :page_facing_up: [paper](https://doi.org/10.1016/j.jbiomech.2018.08.028) |
 :floppy_disk: [source](https://github.com/renaultJB/GIBOC-Knee-Coordinate-System)
 
-### Uncertainty Quantification in Musculoskeletal Simulations
+### Uncertainty Quantification in Musculoskeletal Simulations :question:
 
 * **Probabilistic Tool for Considering Patient Populations & Model Uncertainty** by Casey A. Myers et al. (2015). This is a probabilistic tool to assess model parameter uncertainty and intersubject variability.</br>  
 :page_facing_up: [paper](https://link.springer.com/article/10.1007%2Fs10439-014-1181-7) |
