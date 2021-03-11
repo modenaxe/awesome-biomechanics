@@ -936,22 +936,31 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 :dvd: [test micro-CT scans](https://figshare.com/projects/Trabecular_and_Cortical_Bone_Segmentation_Method/99434)
 
 ### Manipulation, Processing and Comparison of Surface Meshes
+
 * [**Autodesk Netfabb**](https://www.autodesk.com/products/netfabb/overview)
-* [**Blender**](https://www.blender.org/)</br>
-    * [Blender Remeshing Guide](https://github.com/evaherbst/Blender_remeshing_guide) by Eva Herbst.
+  
+* **Blender** is a free and open source 3D creation suite. It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, video editing and 2D animation pipeline. The amount of functionalities, features and support materials available for Blender is unparallelled in any other free and open source software of this kind.</br>
+:computer: [website](https://www.blender.org/)
+
+    * [**Blender Remeshing Guide**](https://github.com/evaherbst/Blender_remeshing_guide) by Eva Herbst.
 
 * [**Gmsh**](https://gmsh.info/)
 
-* [**MeshLab**](https://www.meshlab.net/) by Cignoni et al. (2008). MeshLab is open source system for processing and editing 3D triangular meshes. It provides a set of tools for editing, cleaning, healing, inspecting, rendering, texturing and converting meshes. It offers features for processing raw data produced by 3D digitization tools/devices and for preparing models for 3D printing. </br>
+* **MeshLab**by Cignoni et al. (2008). MeshLab is open source system for processing and editing 3D triangular meshes. It provides a set of tools for editing, cleaning, healing, inspecting, rendering, texturing and converting meshes. It offers features for processing raw data produced by 3D digitization tools/devices and for preparing models for 3D printing. </br>
+:page_facing_up: [paper](https://diglib.eg.org/bitstream/handle/10.2312/LocalChapterEvents.ItalChap.ItalianChapConf2008.129-136/129-136.pdf) |
 :computer: [website](https://www.meshlab.net/) |
 :floppy_disk: [source](https://github.com/cnr-isti-vclab/meshlab)
 
 * [**MeshMixer**](http://www.meshmixer.com/)
+
+
 * **OpenFlipper** by RWTH Aachen University (Prof Leif Kobbelt). OpenFlipper is an OpenSource multi-platform application and programming framework designed for processing, modeling and rendering of geometric data. More tools are available at the [Graphics, Geometry and Multimedia software page](https://www.graphics.rwth-aachen.de/software/)</br>
 :computer: [website](https://www.graphics.rwth-aachen.de/software/openflipper/) |
 :floppy_disk: [source](https://www.graphics.rwth-aachen.de:9000/OpenFlipper-Free/OpenFlipper-Free)
 
 * [**Salome**](https://www.salome-platform.org/user-section/about/mesh)
+
+
 * [**CloudCompare**](http://www.cloudcompare.org) - allows quantitative comparison of surface meshes.
 
 * **SlicerSALT (Slicer Shape AnaLysis Toolbox)** by Vicory et al. (2018). See description on 3DSlicer extensions section.
