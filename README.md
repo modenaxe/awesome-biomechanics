@@ -1138,7 +1138,8 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 * **BoneMat** mainly developed at [Istituto Ortopedico Rizzoli in Bologna](http://www.ior.it/en), Italy. Bonemat is a freeware that maps on a Finite Element mesh bone elastic properties derived from Computed Tomography images. Bonemat can import CT images and FE models, interactively visualise them, and export the updated FE mesh once bone properties have been mapped. From this 3.2 version, Bonemat supports import/export to and from both Ansys and Abaqus, perhaps the two most used commercial FE packages. </br>
 :page_facing_up: [paper](https://doi.org/10.1016/j.medengphy.2006.10.014) |
 :computer: [website](http://www.bonemat.org/)
-x that includes an array of image and geometry visualization and processing tools and is interfaced with free open source software such as TetGen, for robust tetrahedral meshing, and FEBio and Abaqus for finite element analysis. The combination provides a highly flexible image-based modelling environment and enables advanced inverse finite element analysis. </br> 
+
+* **GIBBON Toolbox** by [Kevin Moerman](https://kevinmoerman.org/). GIBBON (The Geometry and Image-Based Bioengineering add-On) is an open-source MATLAB toolbox that includes an array of image and geometry visualization and processing tools and is interfaced with free open source software such as TetGen, for robust tetrahedral meshing, and FEBio and Abaqus for finite element analysis. The combination provides a highly flexible image-based modelling environment and enables advanced inverse finite element analysis. </br> 
 :page_facing_up: [paper](https://joss.theoj.org/papers/10.21105/joss.00506) |
 :computer: [website](https://www.gibboncode.org/) |
 :floppy_disk: [source](https://github.com/gibbonCode/GIBBON)
