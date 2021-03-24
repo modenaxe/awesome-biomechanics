@@ -753,6 +753,10 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 :page_facing_up: [paper](https://pure.coventry.ac.uk/ws/portalfiles/portal/22762734/Shippen_et_al_BoB_Biomechanics_MATLAB.pdf) |
 :computer: [website](https://www.bob-biomechanics.com)
 
+* **FreeBody** by the Daniel Cleather and Anthony Bull, MSk Dynamics group, Imperial College London. FreeBody is a segment-based musculoskeletal model of the lower limb implementing TLEM anatomical dataset. FreeBody is a fully-open source Windows application and Matlab code that may be used as given or as a framework for the development of your own bespoke models.</br>
+:page_facing_up: [paper](https://doi.org/10.1098/rsos.140449) |
+:computer: [website](https://www.msksoftware.org.uk/software/freebody/)
+
 * **GaitSym** by William Sellers (2014). Software for simulation of human and animal musculoskeletal biomechanics.  
 :page_facing_up: [Config Reference Manual](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.705.9682&rep=rep1&type=pdf) |
 :computer: [Animal Simulation Laboratory website](https://www.animalsimulation.org/) |
@@ -775,12 +779,16 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 :computer: [binaries](https://simtk.org/projects/scone) |
 :floppy_disk: [source](https://github.com/opensim-org/SCONE)
 
-### Neuromusculoskeletal Simulation Tools :brain::hammer:
+### Neuromusculoskeletal Simulation Tools and Models :brain::hammer:
 
 * **Batch OpenSim Processing Scripts (BOPS)** by Alice Mantoan et al. (2020). MATLAB based, user friendly and easy-to-use tool to perform batch process of the most commonly used OpenSim Tools (IK, ID, MA, SO and JRA).</br>
 :page_facing_up: [paper](https://doi.org/10.1080/10255842.2020.1867978) |
 :computer: [website](https://simtk.org/projects/bops) |
 :floppy_disk: [source](https://github.com/RehabEngGroup/BOPS)
+
+* **BASH - Biomechanical Animated Skinned Human** by Schleicher et al. (2021). BASH allows to visualize human kinematics and muscle activity estimated through an OpenSim model using a 3D animated model deformed using skinning.</br>
+:page_facing_up: [paper](https://www.scitepress.org/Papers/2021/102106/102106.pdf) |
+:floppy_disk: [source](https://github.com/mad-lab-fau/BASH-Model)
 
 * **OpenSim JAM: A framework to simulate Joint and Articular Mechanics in OpenSim** by Colin Smith (2020). OpenSim JAM is a collection of force component plugins, models, and executables (tools) that are designed to enable OpenSim musculoskeletal simulations that include detailed joint mechanics. The project extends the opensim-core capabilities to enable joint representations that include 6 degree of freedom (DOF) joints (without kinematic constraints) and explicit representations of articular contact and ligament structures.  
 :page_facing_up: [reference papers for each component](https://github.com/clnsmith/opensim-jam/tree/master/opensim-jam-release) |
@@ -806,10 +814,6 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 :page_facing_up: [paper](https://joss.theoj.org/papers/10.21105/joss.00927) |
 :floppy_disk: [source](https://github.com/anmuller/CusToM) |
 :star: [workshop materials](https://github.com/cpontonn/CusToM-Workshop)
-
-* **FreeBody** by the Daniel Cleather and Anthony Bull, MSk Dynamics group, Imperial College London. FreeBody is a segment-based musculoskeletal model of the lower limb implementing TLEM anatomical dataset. FreeBody is a fully-open source Windows application and Matlab code that may be used as given or as a framework for the development of your own bespoke models.</br>
-:page_facing_up: [paper](https://doi.org/10.1098/rsos.140449) |
-:computer: [website](https://www.msksoftware.org.uk/software/freebody/)
 
 * **Geyer's 2010 neuromuscular model** by Hermut Geyer (2010). Simulink implementation of a neuromusculoskeletal model used in walking simulation with stretch reflexes.</br>
 :page_facing_up: [paper](https://www.cs.cmu.edu/~hgeyer/Publications/Geyer&Herr-ReflexModel2Column.pdf) |
