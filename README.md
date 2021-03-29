@@ -550,6 +550,12 @@
 Allows visualisation of c3d contents and basic processing, such as filtering and event detection. Great open source alternative to Vicon Nexus for these functionalities.</br>
 :computer: [(unofficial) tutorial by biomechanist.net](https://www.biomechanist.net/btk-and-mokka/)
 
+* **Kinetics Toolkit** by Félix Chénier. Kinetics Toolkit is an open-source, pure-python package of integrated classes and functions that aims to facilitate research in biomechanics using python.</br>
+:computer: [website](https://felixchenier.uqam.ca/kineticstoolkit) |
+:floppy_disk: [source](https://github.com/felixchenier/kineticstoolkit) |
+:floppy_disk: [conda](https://anaconda.org/conda-forge/kineticstoolkit) |
+:floppy_disk: [PyPI](https://pypi.org/project/kineticstoolkit)
+
 * **CMAS open-code** by CMAS (Clinical Movement Analysis Society - UK & Ireland) is a project with the goal of creating an online platform where everyone interested in movement analysis can share coding resources. Include tools for anonymization, importing, calculating gait profile scores, etc. </br>
 :floppy_disk: [source](https://github.com/cmasuki/open-code)
 
