@@ -1,7 +1,9 @@
 # Awesome Biomechanics [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)   ![visitors](https://visitor-badge.glitch.me/badge?page_id=modenaxe.awesome-biomechanics)<!-- omit in toc -->
 ![logo](./images/awesome_biomechanics_logo.png)
 ### A curated repository of biomechanical resources  <!-- omit in toc -->
-#### Still a work in progress (might include incomplete descriptions), but contributions are welcome at any stage! :heart_eyes: See [how you can contribute](#contributing), it's easy!<!-- omit in toc -->
+#### Still a work in progress (might include incomplete descriptions), but contributions are welcome at any stage! :heart_eyes: 
+
+See [how you can contribute](#contributing), it's easy!<!-- omit in toc -->
 
 ## Table of contents <!-- omit in toc -->
 - [Learning](#learning)
@@ -23,7 +25,7 @@
   - [Soft Tissue Artefacts :leg:](#soft-tissue-artefacts-leg)
   - [Health Datasets :heart:](#health-datasets-heart)
 - [Gait Analysis and Motion Capture :cartwheeling:](#gait-analysis-and-motion-capture-cartwheeling)
-  - [Gait Analysis Markersets [TODO: add references and resources]](#gait-analysis-markersets-todo-add-references-and-resources)
+  - [Gait Analysis Markersets :globe_with_meridians:](#gait-analysis-markersets-globe_with_meridians)
   - [Motion Capture Data Import and Processing [WIP]](#motion-capture-data-import-and-processing-wip)
     - [Marker Trajectory Gap filling](#marker-trajectory-gap-filling)
     - [Inertial Measurement Units](#inertial-measurement-units)
@@ -34,7 +36,7 @@
   - [Multibody and Physics Engines :sleeping::arrow_lower_left::apple:](#multibody-and-physics-engines-sleepingarrow_lower_leftapple)
   - [Computational Muscle Models 	:mechanical_arm:](#computational-muscle-models-mechanical_arm)
   - [Neuro-musculoskeletal Simulation Software :brain::arrow_right::leg:](#neuro-musculoskeletal-simulation-software-brainarrow_rightleg)
-  - [Neuromusculoskeletal Simulation Tools :brain::hammer:](#neuromusculoskeletal-simulation-tools-brainhammer)
+  - [Neuromusculoskeletal Simulation Tools and Models :brain::hammer:](#neuromusculoskeletal-simulation-tools-and-models-brainhammer)
 - [Optimal Control and Trajectory Optimization :rocket:](#optimal-control-and-trajectory-optimization-rocket)
 - [Subject-Specific Modelling](#subject-specific-modelling)
   - [Segmentation of Medical Images :artist:](#segmentation-of-medical-images-artist)
@@ -519,7 +521,9 @@
 
 ## Gait Analysis and Motion Capture :cartwheeling:
 
-### Gait Analysis Markersets [TODO: add references and resources]
+### Gait Analysis Markersets :globe_with_meridians:
+
+TODO: add references and resources
 
 * CAST
 * IORGait
