@@ -156,7 +156,7 @@ See [how you can contribute](#contributing), it's easy!<!-- omit in toc -->
 * [*VIRTUAL LAB: Australopithecus afarensis KNEE JOINT*](https://hominin.anthropology.wisc.edu/virtual-lab-afarensis-femur-tibia.html) by John Hawks Laboratory (University of Wisconsin-Madison).
 * [*VIRTUAL LABS IN BIOLOGICAL ANTHROPOLOGY*](https://hominin.anthropology.wisc.edu/virtual-labs.html) by John Hawks Laboratory (University of Wisconsin-Madison).
 * [Understanding p-values Through Simulations: An Interactive Visualization](https://rpsychologist.com/pvalue/) by Kristoffer Magnusson (2021). The goal of the page is to explain p-values through an interactive simulations.
-
+* [Python Tutor - Visualize code execution](http://pythontutor.com/index.html): this website helps understanding what happens as the computer runs each line of code. It can be used to run for running Python, Java, C, C++, JavaScript, and Ruby code in a web browser and see its execution visualized step by step.
 
 ### Books :blue_book:
 
