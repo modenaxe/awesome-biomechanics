@@ -496,7 +496,7 @@ See [how you can contribute](#contributing), it's easy!<!-- omit in toc -->
 :dvd: [dataset](https://zenodo.org/record/3480074#.X1_ocWhKgdU) |
 :star: [code](https://zenodo.org/record/3357966#.X1_n9mhKgdU)
 
-* **Wrist Anatomy and Kinematics Data Collection** by Bardiya Akhbari et al. (2019). The current collection includes carpal bone (not metacarpals) anatomy models from 90 healthy subjects (120 wrists), and the carpal bone kinematics in 1215 unique wrist positions. A graphical user interface (GUI) is also developed to maximize user interaction with this collection.. [![DOI](yourZenodoDOI)]</br>
+* **Wrist Anatomy and Kinematics Data Collection** by Bardiya Akhbari et al. (2019). The current collection includes carpal bone (not metacarpals) anatomy models from 90 healthy subjects (120 wrists), and the carpal bone kinematics in 1215 unique wrist positions. A graphical user interface (GUI) is also developed to maximize user interaction with this collection.</br>
 :page_facing_up: [paper](https://doi.org/10.1002/jor.24435) |
 :dvd: [dataset](https://simtk.org/frs/?group_id=1665) |
 :computer: [website](https://simtk.org/projects/carpal-database) 
