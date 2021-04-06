@@ -497,6 +497,11 @@ See [how you can contribute](#contributing), it's easy!<!-- omit in toc -->
 :dvd: [dataset](https://zenodo.org/record/3480074#.X1_ocWhKgdU) |
 :star: [code](https://zenodo.org/record/3357966#.X1_n9mhKgdU)
 
+* **Wrist Anatomy and Kinematics Data Collection** by Bardiya Akhbari et al. (2019). The current collection includes carpal bone (not metacarpals) anatomy models from 90 healthy subjects (120 wrists), and the carpal bone kinematics in 1215 unique wrist positions. A graphical user interface (GUI) is also developed to maximize user interaction with this collection.</br>
+:page_facing_up: [paper](https://doi.org/10.1002/jor.24435) |
+:dvd: [dataset](https://simtk.org/frs/?group_id=1665) |
+:computer: [website](https://simtk.org/projects/carpal-database) 
+
 ### Soft Tissue Artefacts :leg:
 
 * **Standardization proposal of soft tissue artefact description for data sharing in human motion measurements** by Andrea Cereatti et al. (2017). This dataset includes open-access and standard-format soft tissues artefact data from several previous studies (both upper and lower limbs) that will be useful for the evaluation and development of bone pose estimators in three-dimensional human movement analysis. </br>
@@ -633,6 +638,14 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 
 * **SkillSpector 1.3** is a video based motion and skill analysis tool for Windows. It allows video overlay for direct video on video comparison and 2D and 3D analysis, standard model definitions, semi-automatic digitizing using image processing techniques, analysis of linear and angular kinematic data, calculation of inertia, 3D representation of movement,simple video calibration.</br>
 :computer: [website](https://skillspector.software.informer.com/1.3/) 
+
+### Videoradiography (Model-based and Marker-based Tracking)
+
+* **Autoscoper (Bone/Implant Tracking Software)** by Bardiya Akhbari et. al (2021). Autoscoper is a 2D to 3D image registration software developed at Brown University in 2013 as a tool to investigate intra-articular joint motion during dynamic tasks. 3D position and orientation of bones and implants can be resolved in Autoscoper using volumetric density (CT) data and multi-view 2D radiographs acquired at high-speed (videoradiographs; VRG). So far, Autoscoper has been used for tracking the shoulder, spine, wrist, hip, knee, and ankle joints.</br>
+:page_facing_up: [accuracy paper](https://doi-org.revproxy.brown.edu/10.1016/j.jbiomech.2019.05.040) |
+:page_facing_up: [protocol paper](https://dx.doi.org/10.3791/62102) |
+:computer: [website](https://simtk.org/projects/autoscoper) |
+:floppy_disk: [source](https://github.com/BrownBiomechanics/autoscoper)
 
 ## Ultrasound Fascicle Tracking
 
