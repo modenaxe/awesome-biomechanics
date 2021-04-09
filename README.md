@@ -1368,8 +1368,8 @@ This section needs to be improved.
 :computer: [website](https://x-io.co.uk/open-source-imu-and-ahrs-algorithms/) 
 
 
-* **Talocrural Morphology: Statistical Shape Modeling with a Hybrid Multi-Articulation Joint Approach** by A Lenz et al. (2021). [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4274217.svg)](https://doi.org/10.5281/zenodo.4274217)</br>
-:page_facing_up: [paper TBA]() |
+* **Talocrural Morphology: Statistical Shape Modeling with a Hybrid Multi-Articulation Joint Approach** by A Lenz et al. (2021). Segmented three-dimensional surface meshes (.ply) of weightbearing computed tomography (CT) images are included for the tibia, fibula and talus of 27 healthy participants. A sample weightbearing CT scan (.dicom) is provided to demonstrate image resolution, field of view and voxel size. Additionally, MATLAB scripts for calculating talocrural joint coverage, space and congruency are included in the resources. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4274217.svg)](https://doi.org/10.5281/zenodo.4274217)</br>
+:page_facing_up: [paper](https://www.nature.com/articles/s41598-021-86567-7) |
 :dvd: [dataset](https://zenodo.org/record/4274217#.YDeEG-j7SUn) |
 :star: [resources](https://github.com/Lenz-Lab/TalocruralShapeModeling/tree/v1.0)
  
