@@ -26,10 +26,11 @@ See [how you can contribute](#contributing), it's easy!<!-- omit in toc -->
   - [Health Datasets :heart:](#health-datasets-heart)
 - [Gait Analysis and Motion Capture :cartwheeling:](#gait-analysis-and-motion-capture-cartwheeling)
   - [Gait Analysis Markersets :globe_with_meridians:](#gait-analysis-markersets-globe_with_meridians)
-  - [Motion Capture Data Import and Processing [WIP]](#motion-capture-data-import-and-processing-wip)
+  - [Motion Capture Data Import and Processing](#motion-capture-data-import-and-processing)
     - [Marker Trajectory Gap filling](#marker-trajectory-gap-filling)
     - [Inertial Measurement Units](#inertial-measurement-units)
     - [2D video analysis](#2d-video-analysis)
+  - [Videoradiography (Model-based and Marker-based Tracking)](#videoradiography-model-based-and-marker-based-tracking)
 - [Ultrasound Fascicle Tracking](#ultrasound-fascicle-tracking)
 - [Modelling and Simulation :computer:](#modelling-and-simulation-computer)
   - [Anthropometric Models :standing_person:](#anthropometric-models-standing_person)
@@ -37,6 +38,7 @@ See [how you can contribute](#contributing), it's easy!<!-- omit in toc -->
   - [Computational Muscle Models 	:mechanical_arm:](#computational-muscle-models-mechanical_arm)
   - [Neuro-musculoskeletal Simulation Software :brain::arrow_right::leg:](#neuro-musculoskeletal-simulation-software-brainarrow_rightleg)
   - [Neuromusculoskeletal Simulation Tools and Models :brain::hammer:](#neuromusculoskeletal-simulation-tools-and-models-brainhammer)
+  - [Real-Time Musculoskeletal Simulation Software](#real-time-musculoskeletal-simulation-software)
 - [Optimal Control and Trajectory Optimization :rocket:](#optimal-control-and-trajectory-optimization-rocket)
 - [Subject-Specific Modelling](#subject-specific-modelling)
   - [Segmentation of Medical Images :artist:](#segmentation-of-medical-images-artist)
@@ -538,7 +540,9 @@ TODO: add references and resources
 * SAFLo
 * T3Dg
 
-### Motion Capture Data Import and Processing [WIP]
+### Motion Capture Data Import and Processing
+
+This section needs to be finalized.
 
 * [c3dserver](https://www.c3dserver.com/) C++/MATLAB)
 
@@ -858,6 +862,17 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 * **SynO: Synergy Optimization** by Mohammad Shourijeh ad Benjamin Fregly (2020). SynO is a collection of MATLAB codes implementing a novel approach for estimating muscle forces/activations by imposing a synergy structure within optimization (termed “synergy optimization”).</br>
 :page_facing_up: [paper](https://doi.org/10.1115/1.4044310) |
 :floppy_disk: [source](https://simtk.org/projects/syno/)
+
+### Real-Time Musculoskeletal Simulation Software
+
+* **OpenSimRT** by Dimitar Stanev et al. (2021). OpenSim RT is a framework for real-time musculoskeletal kinematics and dynamics analysis using marker- and IMU-based technologies for applications in rehabilitation.</br>
+:page_facing_up: [paper](https://doi.org/10.3390/s21051804) |
+:floppy_disk: [source](https://github.com/mitkof6/OpenSimRT)
+
+* **RTOSIM** by Claudio Pizzolato et al. (2017). RTOSIM is a set of efficient and extensible C++ libraries to connect OpenSim with different devices. RTOSIM can use data provided by motion capture systems to solve OpenSim inverse kinematics and inverse dynamics on a frame-by-frame basis. Multiple threads operate concurrently to remove idle times due to communications with input and output devices, and the data flow is automatically managed by RTOSIM in order to preserve data integrity and avoid race conditions.</br>
+:page_facing_up: [paper-IK+ID](https://dx.doi.org/10.1080%2F10255842.2016.1240789) |
+:page_facing_up: [paper-CEINMS](https://doi.org/10.1109/TNSRE.2017.2683488) |
+:floppy_disk: [source](https://github.com/RealTimeBiomechanics/rtosim)
 
 
 ## Optimal Control and Trajectory Optimization :rocket:
