@@ -1471,7 +1471,8 @@ https://iandanforth.github.io/pymuscle-docs/
  
  * https://morphobank.org/
 
-
+* [Le Mouvement Humain](https://www.youtube.com/channel/UCcgEgy8pRq7j1OWzoVsySdg) :fr:
+* 
  * **JointTrack**
  https://sourceforge.net/projects/jointtrack/files/JointTrack/2.0%20%28stable%29/
  https://ufdcimages.uflib.ufl.edu/UF/E0/02/17/84/00001/mu_s.pdf
