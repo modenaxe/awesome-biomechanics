@@ -1473,6 +1473,8 @@ https://iandanforth.github.io/pymuscle-docs/
  
  * https://morphobank.org/
 
+* https://github.com/ubisoft/ubisoft-laforge-animation-dataset
+
 * [Le Mouvement Humain](https://www.youtube.com/channel/UCcgEgy8pRq7j1OWzoVsySdg) :fr:
 * 
  * **JointTrack**
