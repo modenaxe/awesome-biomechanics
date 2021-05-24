@@ -688,7 +688,7 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 :dvd: [trained networks](https://drive.google.com/file/d/11aTDxaINoAnsefEURpZQ1aZzhz6ikS5Z/view) |
 :floppy_disk: [source-code](https://github.com/luuleitner/deepMTJ)
 
-* **MTJtrack** by Krupenevich et al. (2021). MTJtrack provides trained networks for tracking MTJ position in B-mode ultrasound images using DeepLabCut. </br>
+* **MTJtrack** by Krupenevich et al. (2021). MTJtrack provides trained networks for tracking MTJ positions in B-mode ultrasound images using DeepLabCut. </br>
 :page_facing_up: [paper](https://doi.org/10.1016/j.cmpb.2021.106120) | 
 :dvd: [trained networks](https://github.com/rlkrup/MTJtrack) 
   
