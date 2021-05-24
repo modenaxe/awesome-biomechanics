@@ -10,6 +10,10 @@ See [how you can contribute](#contributing), it's easy!<!-- omit in toc -->
   - [Online Courses :clapper:](#online-courses-clapper)
   - [YouTube Channels :tv:](#youtube-channels-tv)
   - [Videos :video_camera:](#videos-video_camera)
+  - [Learning to Code](#learning-to-code)
+    - [Python](#python)
+    - [Julia](#julia)
+    - [Git](#git)
   - [Teaching Resources :triangular_ruler:](#teaching-resources-triangular_ruler)
   - [Books :blue_book:](#books-blue_book)
 - [Datasets :dvd:](#datasets-dvd)
@@ -31,7 +35,7 @@ See [how you can contribute](#contributing), it's easy!<!-- omit in toc -->
     - [Inertial Measurement Units](#inertial-measurement-units)
     - [2D video analysis](#2d-video-analysis)
   - [Videoradiography (Model-based and Marker-based Tracking)](#videoradiography-model-based-and-marker-based-tracking)
-- [Ultrasound Landmark Tracking](#tracking-in-ultrasound-video-frames)
+- [Tracking in Ultrasound Video Frames](#tracking-in-ultrasound-video-frames)
   - [Fascicle Tracking](#fascicle-tracking)
   - [Muscle-Tendon Junction Tracking](#muscle-tendon-junction-tracking)
 - [Modelling and Simulation :computer:](#modelling-and-simulation-computer)
@@ -113,10 +117,23 @@ See [how you can contribute](#contributing), it's easy!<!-- omit in toc -->
 * [F8 2019 - VR Full Body Tracking & Avatars](https://www.youtube.com/watch?v=FhiAFo9U_sM) and [blog post](https://uploadvr.com/facebook-f8-2019-body-tracking/)
 * [Running with bone pins](https://www.youtube.com/watch?v=nf6jkyNgkwE): video of data collection in subject running with bone pins shared by Ton Van den Bogert.
 * [Introduction to Trajectory Optimization](https://www.youtube.com/watch?v=wlkRYMVUZTs) by [Matthew Kelly](http://www.matthewpeterkelly.com/index.html). Very clear introduction to the topic with MATLAB resources linked in the video description.
-* [Version Control for Researchers](https://www.youtube.com/watch?v=6OkOmPqumWo&feature=emb_title) by [Ryan Alcantara](https://www.ryan-alcantara.com). Tutorial for ASB2020 introducing GitHub and version control for biomechanists. Accompanying tutorial material located at the [ASB_Tutorial repository](https://github.com/alcantarar/asb_tutorial).</br> 
 * [A free/opensource workflow from CT scan to FEA](https://peterfalkingham.com/2020/11/06/a-free-opensource-workflow-from-ct-scan-to-fea/) by [Peter L. Falkingham](https://peterfalkingham.com/):  workflow for carrying out finite element analysis (FEA) using free and open-source software (Dragonfly for segmentation, Blender for mesh refinement and FEBio for finite element analysis. Quick overview of the main steps.<br/>
 <!-- * https://www.goatstream.com/research/ -->
 
+### Learning to Code
+
+#### Python
+* [Python website](https://www.python.org/)
+* [Scipy Lecture Notes](https://scipy-lectures.org/): a set of tutorials on the scientific Python ecosystem: a quick introduction to central tools, modules and techniques. 
+* [Python for Everybody](https://www.py4e.com/book): a freely available book to learn how to use Python. A pdf is available [here](http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf).
+
+#### Julia
+* [Julia Language website](https://julialang.org/)
+* [Julia Academy](https://juliaacademy.com/): a collection of free learning resources for Julia, ranging from the basics to advanced topics.
+
+#### Git
+* [Version Control for Researchers](https://www.youtube.com/watch?v=6OkOmPqumWo&feature=emb_title) by [Ryan Alcantara](https://www.ryan-alcantara.com). Tutorial for ASB2020 introducing GitHub and version control for biomechanists. Accompanying tutorial material located at the [ASB_Tutorial repository](https://github.com/alcantarar/asb_tutorial).
+* [Atlassian Git tutorial](https://www.atlassian.com/git/tutorials): the most approachable and complete tutorials for git I have found online.
 
 ### Teaching Resources :triangular_ruler:
 * [Anatomy Standard](https://www.anatomystandard.com/) by Jānis Šavlovskis and Kristaps Raits (2020). Project aiming at creating an evidence-based 3D model of the human body, create high-quality, interactive illustrations of the model, and share them here to provide a resource for teaching and explaining anatomy. Images are licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). </br>
@@ -1459,8 +1476,6 @@ https://iandanforth.github.io/pymuscle-docs/
   youtube: https://www.youtube.com/watch?v=bcb3m3LBtRk
   github: https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/Interactive_Hypothesis_Testing.ipynb
  
- * **Python for Everybody**
- https://www.py4e.com/book
  
  * **ipycanvas** by Martin Renou. Ipycanvas is a lightweight, fast and stable library exposing the browser's Canvas API to IPython. It allows you to draw simple primitives directly from Python like text, lines, polygons, arcs, images etc. This simple toolset allows you to draw literally anything!</br>
  https://github.com/martinRenou/ipycanvas
