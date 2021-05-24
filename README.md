@@ -1327,6 +1327,11 @@ This section needs to be improved.
 :page_facing_up: [How-To](http://mi.eng.cam.ac.uk/~gmt11/stradview/howto.htm)
 * [**MicroDicom**](https://www.microdicom.com/): MicroDicom is application for primary processing and preservation of medical images in DICOM format. It is equipped with most common tools for manipulation of DICOM images and it has an intuitive user interface. Free for use and accessible to everyone for non-commercial use.
 
+* **SPIERS (Serial Palaeontological Image Editing and Rendering System)** by Mark Sutton et al. (2012). SPIERS is a package of three programs for the digital visualisation and analysis of tomographic (serial image) datasets, such as those obtained from serial-grinding of specimens, or from CT scanning.</br>
+:computer: [website](https://spiers-software.org)
+[paper](https://palaeo-electronica.org/content/issue-2-2012-technical-articles/226-virtual-palaeontology-toolkit)
+:floppy_disk: [source](https://github.com/palaeoware/SPIERS) |
+
 ## Reproducibility :gem:
 
 * **Challenge to scientists: does your ten-year-old code still run?** by Jeffrey M. Perkel (2020). Article including a reproducibility checklist and other interesting considerations orinating from the `ten year challenge`. </br>
@@ -1439,10 +1444,7 @@ This section needs to be improved.
 :dvd: [dataset](https://zenodo.org/record/4274217#.YDeEG-j7SUn) |
 :star: [resources](https://github.com/Lenz-Lab/TalocruralShapeModeling/tree/v1.0)
  
-* **SPIERS (Serial Palaeontological Image Editing and Rendering System)** by Mark Sutton et al. (2012). SPIERS is a package of three programs for the digital visualisation and analysis of tomographic (serial image) datasets, such as those obtained from serial-grinding of specimens, or from CT scanning.</br>
-:computer: [website](https://spiers-software.org)
-[paper](https://palaeo-electronica.org/content/issue-2-2012-technical-articles/226-virtual-palaeontology-toolkit)
-:floppy_disk: [source](https://github.com/palaeoware/SPIERS) |
+
 
 * **MoJoXlab** by Riasat Islam et al. (2020). MoJoXlab is a MATLAB based custom motion capture analysis software toolkit whose aim is to produce freely available motion capture analysis software to be used by anyone interested in generating lower limb joint kinematics waveforms using any suitable wearable inertial measurement units (IMUs).</br>
 :page_facing_up: [paper](https://mhealth.jmir.org/2020/6/e17872/pdf) |
@@ -1515,7 +1517,7 @@ https://iandanforth.github.io/pymuscle-docs/
 * https://github.com/ubisoft/ubisoft-laforge-animation-dataset
 
 * [Le Mouvement Humain](https://www.youtube.com/channel/UCcgEgy8pRq7j1OWzoVsySdg) :fr:
-* 
+
  * **JointTrack**
  https://sourceforge.net/projects/jointtrack/files/JointTrack/2.0%20%28stable%29/
  https://ufdcimages.uflib.ufl.edu/UF/E0/02/17/84/00001/mu_s.pdf
