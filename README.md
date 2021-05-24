@@ -31,7 +31,9 @@ See [how you can contribute](#contributing), it's easy!<!-- omit in toc -->
     - [Inertial Measurement Units](#inertial-measurement-units)
     - [2D video analysis](#2d-video-analysis)
   - [Videoradiography (Model-based and Marker-based Tracking)](#videoradiography-model-based-and-marker-based-tracking)
-- [Ultrasound Fascicle Tracking](#ultrasound-fascicle-tracking)
+- [Ultrasound Landmark Tracking](#tracking-in-ultrasound-video-frames)
+  - [Fascicle Tracking](#fascicle-tracking)
+  - [Muscle-Tendon Junction Tracking](#muscle-tendon-junction-tracking)
 - [Modelling and Simulation :computer:](#modelling-and-simulation-computer)
   - [Anthropometric Models :standing_person:](#anthropometric-models-standing_person)
   - [Multibody and Physics Engines :sleeping::arrow_lower_left::apple:](#multibody-and-physics-engines-sleepingarrow_lower_leftapple)
@@ -654,7 +656,8 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 :computer: [website](https://simtk.org/projects/autoscoper) |
 :floppy_disk: [source](https://github.com/BrownBiomechanics/autoscoper)
 
-## Ultrasound Fascicle Tracking
+## Tracking in Ultrasound Video Frames 
+### Fascicle Tracking
 
 * **StradWin** Stradwin is an experimental, cross-platform tool primarily for freehand 3D ultrasound acquisition, visualisation and elastography. However, Stradwin can also be used with 3D medical data of any sort: its segmentation and surface extraction facilities are particularly powerful. It can load most types of DICOM image files and has unique facilities to measure bone cortical thickness from CT data. </br>
 :computer: [website](https://mi.eng.cam.ac.uk/Main/StradWin)
@@ -673,7 +676,22 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 :page_facing_up: [preprint](https://arxiv.org/pdf/2009.04790.pdf) |
 [:dvd: dataset | :floppy_disk: source](https://github.com/njcronin/DL_Track)
 
+### Muscle-Tendon Junction Tracking
 
+* **py3dfreehandus** by Cenni et al. (2019). A software package to track muscle tendon junctions in ultrasound images using optical flow. </br>
+:page_facing_up: [paper](https://doi.org/10.1113/EP088133) | 
+:floppy_disk: [source-code](https://gitlab.com/u0078867/py3dfreehandus) 
+  
+* **deepMTJ** by Leitner et al. (2020). Automatic muscle tendon junction tracking using deep learning. </br>
+:page_facing_up: [paper](https://ieeexplore.ieee.org/abstract/document/9176145) |
+:page_facing_up: [preprint](https://arxiv.org/abs/2005.02071) |
+:dvd: [trained networks](https://drive.google.com/file/d/11aTDxaINoAnsefEURpZQ1aZzhz6ikS5Z/view) |
+:floppy_disk: [source-code](https://github.com/luuleitner/deepMTJ)
+
+* **MTJtrack** by Krupenevich et al. (2021). MTJtrack provides trained networks for tracking MTJ positions in B-mode ultrasound images using DeepLabCut. </br>
+:page_facing_up: [paper](https://doi.org/10.1016/j.cmpb.2021.106120) | 
+:dvd: [trained networks](https://github.com/rlkrup/MTJtrack) 
+  
 ## Modelling and Simulation :computer:
 
 ### Anthropometric Models :standing_person:
