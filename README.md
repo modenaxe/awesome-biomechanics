@@ -57,6 +57,7 @@ See [how you can contribute](#contributing), it's easy!<!-- omit in toc -->
   - [Statistical Shape Modelling :bone:](#statistical-shape-modelling-bone)
 - [Finite Element Analysis](#finite-element-analysis)
   - [Finite Element Analysis Software](#finite-element-analysis-software)
+  - [Finite Element Libraries](#finite-element-libraries)
   - [Finite Element Analysis Software Tools](#finite-element-analysis-software-tools)
   - [Finite Element Models](#finite-element-models)
 - [Statistical Analysis](#statistical-analysis)
@@ -1215,6 +1216,18 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 :floppy_disk: [source](https://github.com/febiosoftware) |
 :movie_camera: [Youtube channel](https://www.youtube.com/channel/UCtOvJL14MB57hhNV-I3HIyQ)
 
+
+### Finite Element Libraries
+ 
+ * [**FreeFEM**](https://doc.freefem.org/introduction/index.html) by Frédéric Hecht
+Laboratoire Jacques-Louis Lions, Sorbonne University, Paris. FreeFEM is a partial differential equation solver for non-linear multi-physics systems in 1D, 2D, 3D and 3D border domains (surface and curve).
+ * [**Firedrake**](https://www.firedrakeproject.org/) by the departments of Mathematics, Computing, and Earth Science and Engineering at Imperial College London, the Department of Computer Science at Durham University, the Department of Mathematics at Baylor University, the Applied Physics Laboratory at the University of Washington and the broad community of Firedrake users. Firedrake is an automated system for the solution of partial differential equations using the finite element method (FEM).
+ * [**FEniCS Project**](https://fenicsproject.org/) by the FEniCS Community. FEniCS is a popular open-source (LGPLv3) computing platform for solving partial differential equations (PDEs). FEniCS enables users to quickly translate scientific models into efficient finite element code using high-level Python and C++ interfaces.
+ * [**deal.II**](https://www.dealii.org/) is C++ software library supporting the creation of finite element codes and an open community of users and developers.
+ * [**MFEM**](https://mfem.org/) is a free, lightweight, scalable C++ library for finite element methods.
+ * [**GLVis**]( https://glvis.org/): is a lightweight tool for accurate and flexible finite element visualization, based on the MFEM library. 
+
+
 ### Finite Element Analysis Software Tools
 
 * **BVPy: A FEniCS-based Python package to ease the expression and study of boundary value problems in Biology.** by Florian Gacon et al. (2021). BVPy is a python library to easily implement and study numerically Boundary Value Problems and Initial Boundary Value Problems through the Finite Element Method. BVPy proposes an intuitive Application Programming Interface (API) to harness andcombine the core functionalities of three powerful libraries: FEniCS (provides the core data structures and solving algorithms), Gmsh (defines the domains and their meshing) and and Meshio (handles data reading and writing). </br>
@@ -1486,14 +1499,7 @@ https://iandanforth.github.io/pymuscle-docs/
 [turing-way]: https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science
 [software carpentry]: https://swcarpentry.github.io/r-novice-gapminder/
  
- * FEM libraries
- * **FreeFEM** https://doc.freefem.org/introduction/index.html
- * **Firedrake** https://www.firedrakeproject.org/
- * **FEniCS Project** https://fenicsproject.org/
- * **deal.II** https://www.dealii.org/
- * **MFEM** https://mfem.org/
- * **GLVis** is a lightweight tool for accurate and flexible finite element visualization. 
- https://glvis.org/
+
  
  * *ANTHROPOLOGY
  * https://africanfossils.org/
