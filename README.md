@@ -10,7 +10,7 @@ See [how you can contribute](#contributing), it's easy!<!-- omit in toc -->
   - [Online Courses :clapper:](#online-courses-clapper)
   - [YouTube Channels :tv:](#youtube-channels-tv)
   - [Videos :video_camera:](#videos-video_camera)
-  - [Learning to Code](#learning-to-code)
+  - [Learning to Code :construction:](#learning-to-code-construction)
     - [Python](#python)
     - [Julia](#julia)
     - [Git](#git)
@@ -121,7 +121,9 @@ See [how you can contribute](#contributing), it's easy!<!-- omit in toc -->
 * [A free/opensource workflow from CT scan to FEA](https://peterfalkingham.com/2020/11/06/a-free-opensource-workflow-from-ct-scan-to-fea/) by [Peter L. Falkingham](https://peterfalkingham.com/):  workflow for carrying out finite element analysis (FEA) using free and open-source software (Dragonfly for segmentation, Blender for mesh refinement and FEBio for finite element analysis. Quick overview of the main steps.<br/>
 <!-- * https://www.goatstream.com/research/ -->
 
-### Learning to Code
+### Learning to Code :construction:
+
+This section in under construction
 
 #### Python
 * [Python website](https://www.python.org/)
