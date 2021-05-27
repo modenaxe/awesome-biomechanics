@@ -130,6 +130,8 @@ This section in under construction
 * [Python website](https://www.python.org/)
 * [Scipy Lecture Notes](https://scipy-lectures.org/): a set of tutorials on the scientific Python ecosystem: a quick introduction to central tools, modules and techniques. 
 * [Python for Everybody](https://www.py4e.com/book): a freely available book to learn how to use Python. A pdf is available [here](http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf).
+* [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html) is a style guide iof dos and don’ts used in Google Python programs. Useful to set some guidelines on how you write code.
+* [Python testing style guide](https://blog.thea.codes/my-python-testing-style-guide/): few suggestions on how to write tests for your python code.
 
 #### Julia
 * [Julia Language website](https://julialang.org/)
