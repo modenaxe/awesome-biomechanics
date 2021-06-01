@@ -202,6 +202,7 @@ This section in under construction
 * [Power Analysis with Superpower](https://aaroncaldwell.us/SuperpowerBook/) by Caldwell et al. (2021). The book displays a variety of ways the R Superpower package can be used for power analysis and sample size planning for factorial experimental designs. 
 * [Reinforcement Learning: An Introduction](http://www.incompleteideas.net/book/the-book-2nd.html) by Richard S. Sutton and Andrew G. Barto (2018).
 * [The ABC of EMG](https://hermanwallace.com/download/The_ABC_of_EMG_by_Peter_Konrad.pdf) by Peter Konrad (2005).
+* [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/) by Richard Feynman (1961-1963). Includes audio recordings.
 
 ## Datasets :dvd:
 
