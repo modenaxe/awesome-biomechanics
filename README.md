@@ -1508,7 +1508,7 @@ https://iandanforth.github.io/pymuscle-docs/
 [turing-way]: https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science
 [software carpentry]: https://swcarpentry.github.io/r-novice-gapminder/
  
-
+* MOCAP CArnagie mellon: http://mocap.cs.cmu.edu/
  
  * *ANTHROPOLOGY
  * https://africanfossils.org/
