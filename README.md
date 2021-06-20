@@ -989,7 +989,7 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
        :page_facing_up: [paper](https://link.springer.com/chapter/10.1007/978-3-030-04747-4_6) |
        :computer: [website and tutorials](http://salt.slicer.org/) |
        :floppy_disk: [source](https://github.com/Kitware/SlicerSALT)
-       * **Nvidia AI-assisted annotation (AIAA)** by NVIDIA. 
+       * **Nvidia AI-assisted annotation (AIAA)** by NVIDIA. </br>
        💾 [source](https://github.com/NVIDIA/ai-assisted-annotation-client/tree/master/slicer-plugin) 
 * **[Dragonfly](https://www.theobjects.com/dragonfly/index.html)** by Object Research Systems. Dragonfly is a software platform for the intuitive inspection and processing of multi-scale multi-modality image data. Includes a Deep Learning tool for training deep models for image segmentation and regression tasks. It also offers rendering capabilities and extensibility through Python.</br>
 :computer: [website](https://www.theobjects.com/dragonfly/index.html) |
