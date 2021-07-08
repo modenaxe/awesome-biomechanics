@@ -1045,7 +1045,10 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 
 * [**Gmsh**](https://gmsh.info/)
 
-* **MeshLab**by Cignoni et al. (2008). MeshLab is open source system for processing and editing 3D triangular meshes. It provides a set of tools for editing, cleaning, healing, inspecting, rendering, texturing and converting meshes. It offers features for processing raw data produced by 3D digitization tools/devices and for preparing models for 3D printing. </br>
+* [gptoolbox - Geometry Processing Toolbox] by Alec Jacobson. This is a toolbox of useful matlab functions for geometry processing. There are also tools related to constrainted optimization and image processing. Typically these are utility functions that are not stand alone applications.<br>
+[:computer: website | :floppy_disk: source](https://github.com/alecjacobson/gptoolbox)
+
+* **MeshLab** by Cignoni et al. (2008). MeshLab is open source system for processing and editing 3D triangular meshes. It provides a set of tools for editing, cleaning, healing, inspecting, rendering, texturing and converting meshes. It offers features for processing raw data produced by 3D digitization tools/devices and for preparing models for 3D printing. </br>
 :page_facing_up: [paper](https://diglib.eg.org/bitstream/handle/10.2312/LocalChapterEvents.ItalChap.ItalianChapConf2008.129-136/129-136.pdf) |
 :computer: [website](https://www.meshlab.net/) |
 :floppy_disk: [source](https://github.com/cnr-isti-vclab/meshlab)
