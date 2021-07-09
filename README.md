@@ -643,7 +643,6 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 
 * **Automated Gap Filling and Tools for Motion Capture** by the Sensor-Fusion team from EPIC lab @GeorgiaTech. Gap filling is based on inverse kinematics approach. </br>
 :page_facing_up: [paper](https://doi.org/10.1080/10255842.2020.1789971) |
-:computer: [website](https://simtk.org/projects/opensense) |
 :floppy_disk: [source](https://github.com/JonathanCamargo/MoCapTools)
 
 * **MoGapFill** implemented by Fabian Leboeuf (Python :snake:). Low dimensional Kalman smoother that fills gaps in motion capture marker trajectories based on Burke and Lasenby 2016 paper.</br>
@@ -657,6 +656,7 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 :floppy_disk: [source](https://github.com/matt002/GaitPy)
 
 * **OpenSense** is a workflow for analyzing movement with inertial measurement unit (IMU) data. It computes the motions of body segments based on inertial measurement unit (IMU) data in OpenSim. OpenSense provides tools for (i) reading and converting IMU sensors data into a single orientation format, (ii) associating and registering IMU sensors with body segments of an OpenSim model (as an IMU Frame), and (iii) performing inverse kinematics studies to compute joint angles. The OpenSense capabilities are available through the command line and through Matlab and Python scripting.</br>
+:page_facing_up: [preprint](https://www.biorxiv.org/content/biorxiv/early/2021/07/02/2021.07.01.450788.full.pdf) |
 :page_facing_up: [documentation and examples](https://simtk-confluence.stanford.edu:8443/display/OpenSim/OpenSense+-+Kinematics+with+IMU+Data) |
 :computer: [website](https://simtk.org/projects/opensense) |
 :floppy_disk: [source](https://github.com/opensim-org/opensim-core)
