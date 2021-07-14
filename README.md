@@ -1447,6 +1447,8 @@ This section needs to be improved.
 
 ## Sandbox <!-- omit in toc -->
 
+* [**Mini tutorial on my OBS workflow for streaming and recording videos**](https://www.youtube.com/watch?v=s9RSF8dzvNo) by Lorena Barba.
+
 * **Open source IMU and AHRS algorithms** by Sebastian Madgwick (2009). IMU and AHRS sensor fusion algorithm developed as part of Sebastian's Ph.D research at the University of Bristol. </br>
 :page_facing_up: [internal report](https://www.x-io.co.uk/res/doc/madgwick_internal_report.pdf) |
 :computer: [website](https://x-io.co.uk/open-source-imu-and-ahrs-algorithms/) 
