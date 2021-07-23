@@ -166,6 +166,7 @@ This section in under construction
 * [GitHub resources for teaching](https://classroom.github.com/classrooms): GitHub offers support for automating certain aspects of teaching.
 * [How to review a paper](https://www.sciencemag.org/careers/2016/09/how-review-paper) from Science Magazine.
 * [How to write a systematic review for Health](https://utas.libguides.com/SystematicReviews/) by the University of Tasmania.
+* [A roadmap for searching literature in PubMed](https://libguides.vu.nl/PMroadmap) by Vrije Universiteit Amsterdam.
 * [Interactive Simulations for Science and Math](https://phet.colorado.edu/) by the University of Colorado Boulder. Very intuitive and interactive simulations of phenomena and notions from Physics, Chemistry, Math, Earth Science and Biology.
 * [Kuo's course homeworks](https://github.com/kuo-courses): interesting homework materials used in Art Kuo's courses (public on GitHub).
 * [Manim: Mathematical Animation Engine](https://github.com/3b1b/manim) by [Grant Sanderson](https://github.com/3b1b). Manim is an engine for precise programatic animations, designed for creating explanatory math videos similar to those presented in the contents of [3Blue1Brown](https://www.3blue1brown.com).
