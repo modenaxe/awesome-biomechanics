@@ -287,7 +287,8 @@ This section in under construction
 
 * **BodyParts3D** by Nobutaka Mitsuhashi et al. (2003). This is a 3D structure database for anatomical concepts that extends beyond biomechanics.  
 :page_facing_up: [paper](https://doi.org/10.1093/nar/gkn613) |
-:dvd: [dataset](http://lifesciencedb.jp/bp3d/) 
+:dvd: [dataset](http://lifesciencedb.jp/bp3d/) |
+:dvd: [STL files](https://github.com/Kevin-Mattheus-Moerman/BodyParts3D) 
 
 * **Femur and tibia surface mesh set** by Daniel Nolte et al. (2020). The data set contains bone geometries of the left and right thigh (femur) and shank (tibia and fibula) segmented from magnetic resonance (MR) scans of 35 healthy volunteers (22 male, 13 female). [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.167808.svg)](https://doi.org/10.5281/zenodo.167808)</br>
 :page_facing_up: [paper](https://doi.org/10.1016/j.gaitpost.2020.02.010) |
