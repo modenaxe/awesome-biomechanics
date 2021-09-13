@@ -467,6 +467,9 @@ This section in under construction
 :page_facing_up: [paper](https://www.nature.com/articles/s41597-020-0481-z) |
 :dvd: [dataset](https://doi.org/10.6084/m9.figshare.c.4788012)
 
+* **Gutenberg Gait Database, a ground reaction force database of level overground walking in healthy individuals** by Horst et al. (2021). The Gutenberg Gait Database comprises data of 350 healthy individuals. The database contains ground reaction force (GRF) and center of pressure (COP) data of two consecutive steps measured - by two force plates embedded in the ground - during level overground walking at self-selected walking speed. </br>
+:page_facing_up: [paper](https://doi.org/10.1038/s41597-021-01014-6) |
+:dvd: [dataset](https://doi.org/10.6084/m9.figshare.c.5311538)
 
 ### Running :running:
 
