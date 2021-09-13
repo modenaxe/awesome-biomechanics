@@ -636,7 +636,7 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 :floppy_disk: [source](https://github.com/alcantarar/dryft)
 
 * **Practical Guide to Data Smoothing and Filtering** written by Ton Van den Bogert. </br>
-:page_facing_up: [publication](https://d1wqtxts1xzle7.cloudfront.net/49975323/filter.pdf)
+:page_facing_up: [publication](https://isbweb.org/software/sigproc/bogert/filter.pdf)
 
 #### Marker Trajectory Gap filling
 
