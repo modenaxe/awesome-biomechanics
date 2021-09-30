@@ -244,6 +244,11 @@ This section in under construction
 * **Cancer Imaging Archive** is a service which de-identifies and hosts a large archive of medical images of cancer accessible for public download. The data are organized as “collections”; typically patients’ imaging related by a common disease (e.g. lung cancer), image modality or type (MRI, CT, digital distopathology, etc) or research focus. DICOM is the primary file format used by TCIA for radiology imaging. Supporting data related to the images such as patient outcomes, treatment details, genomics and expert analyses are also provided when available.</br>
 [:dvd: dataset | :computer: website](https://www.cancerimagingarchive.net/)
 
+* **Talocrural Morphology: Statistical Shape Modeling with a Hybrid Multi-Articulation Joint Approach** by A Lenz et al. (2021). Segmented three-dimensional surface meshes (.ply) of weightbearing computed tomography (CT) images are included for the tibia, fibula and talus of 27 healthy participants. A sample weightbearing CT scan (.dicom) is provided to demonstrate image resolution, field of view and voxel size. Additionally, MATLAB scripts for calculating talocrural joint coverage, space and congruency are included in the resources. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4274217.svg)](https://doi.org/10.5281/zenodo.4274217)</br>
+:page_facing_up: [paper](https://www.nature.com/articles/s41598-021-86567-7) |
+:dvd: [dataset](https://zenodo.org/record/4274217#.YDeEG-j7SUn) |
+:star: [resources](https://github.com/Lenz-Lab/TalocruralShapeModeling/tree/v1.0)
+
 * **An image-based kinematic model of the tibiotalar and subtalar joints and its application to gait analysis in children with Juvenile Idiopathic Arthritis** by Erica Montefiori et al. (2019). Study with twenty enrolled participants. For each participant, the opensim model of the foot and ankle joint complex and the relative bone geometries were shared, together with motion capture data (marker data) and results of inverse kinematics simulations for around six gait trials per participant.</br>
 :page_facing_up: [paper](https://doi.org/10.1016/j.jbiomech.2018.12.041) |
 :dvd: [dataset](https://figshare.shef.ac.uk/articles/Data_for_paper_An_image-based_kinematic_model_of_the_tibiotalar_and_subtalar_joints_and_its_application_to_gait_analysis_in_children_with_Juvenile_Idiopathic_Arthritis_/5863443/1)
@@ -1466,14 +1471,6 @@ This section needs to be improved.
 * **Open source IMU and AHRS algorithms** by Sebastian Madgwick (2009). IMU and AHRS sensor fusion algorithm developed as part of Sebastian's Ph.D research at the University of Bristol. </br>
 :page_facing_up: [internal report](https://www.x-io.co.uk/res/doc/madgwick_internal_report.pdf) |
 :computer: [website](https://x-io.co.uk/open-source-imu-and-ahrs-algorithms/) 
-
-
-* **Talocrural Morphology: Statistical Shape Modeling with a Hybrid Multi-Articulation Joint Approach** by A Lenz et al. (2021). Segmented three-dimensional surface meshes (.ply) of weightbearing computed tomography (CT) images are included for the tibia, fibula and talus of 27 healthy participants. A sample weightbearing CT scan (.dicom) is provided to demonstrate image resolution, field of view and voxel size. Additionally, MATLAB scripts for calculating talocrural joint coverage, space and congruency are included in the resources. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4274217.svg)](https://doi.org/10.5281/zenodo.4274217)</br>
-:page_facing_up: [paper](https://www.nature.com/articles/s41598-021-86567-7) |
-:dvd: [dataset](https://zenodo.org/record/4274217#.YDeEG-j7SUn) |
-:star: [resources](https://github.com/Lenz-Lab/TalocruralShapeModeling/tree/v1.0)
- 
-
 
 * **MoJoXlab** by Riasat Islam et al. (2020). MoJoXlab is a MATLAB based custom motion capture analysis software toolkit whose aim is to produce freely available motion capture analysis software to be used by anyone interested in generating lower limb joint kinematics waveforms using any suitable wearable inertial measurement units (IMUs).</br>
 :page_facing_up: [paper](https://mhealth.jmir.org/2020/6/e17872/pdf) |
