@@ -494,6 +494,10 @@ This section in under construction
 :page_facing_up: [paper](https://doi.org/10.1242/jeb.064527) |
 :dvd: [dataset](https://simtk.org/projects/runningspeeds)
 
+* **Development and validation of FootNet; a new kinematic algorithm to improve foot-strike and toe-off detection in treadmill running** by Adrian R Rivadulla et al. (2021). Features (distal tibia anteroposterior velocity, ankle dorsi/plantar flexion angle, anteroposterior and vertical foot centre of mass velocities) and ground truth labels (vertical ground reaction forces) and notebooks for model development replication.
+:page_facing_up: [paper](https://doi.org/10.1371/journal.pone.0248608) |
+:dvd: [dataset](https://doi.org/10.15125/BATH-00965)
+
 ### Instrumented Prostheses :chart_with_upwards_trend:
 
 * **Grand Challenge Competition to Predict In Vivo Knee Loads** By BJ Fregly et al. (2012). Data sets from instrumented knee prostheses used in the "Grand Challenge Competition". Data include medical images and segmentations (for most participants), tibial contact force, video motion, ground reaction, muscle EMG, muscle strength, static and dynamic imaging, and implant geometry data for six patients. This is the most completely and easily accessible dataset of measurements from instrumented prostheses.   
@@ -640,6 +644,10 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 
 * **Practical Guide to Data Smoothing and Filtering** written by Ton Van den Bogert. </br>
 :page_facing_up: [publication](https://isbweb.org/software/sigproc/bogert/filter.pdf)
+
+* **FootNet** by [Adrian R Rivadulla et al.](https://github.com/adrianrivadulla). FootNet is a kinematics and deep-learning based algorithm for the detection of foot-strike and toe-off events during treadmill running. The repository includes notebooks to replicate model development, the algorithm and implementation examples in Python and a workaround for Matlab.</br>
+:page_facing_up: [paper](https://doi.org/10.1371/journal.pone.0248608)
+:floppy_disk: [source](https://github.com/adrianrivadulla/FootNet)
 
 #### Marker Trajectory Gap filling
 
