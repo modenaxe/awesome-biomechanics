@@ -18,13 +18,17 @@ See [how you can contribute](#contributing), it's easy!<!-- omit in toc -->
   - [Books :blue_book:](#books-blue_book)
 - [Datasets :dvd:](#datasets-dvd)
   - [Human Anatomy :bone:](#human-anatomy-bone)
+    - [Full Body Anatomy](#full-body-anatomy)
+    - [Lower Limb Anatomy](#lower-limb-anatomy)
+    - [Upper Extremity and Spine](#upper-extremity-and-spine)
+    - [Muscle Anatomy and Parameters](#muscle-anatomy-and-parameters)
   - [Animal Anatomy :crocodile:](#animal-anatomy-crocodile)
   - [Balance :balance_scale:](#balance-balance_scale)
   - [Energetics :fire:](#energetics-fire)
   - [Walking :walking:](#walking-walking)
   - [Running :running:](#running-running)
   - [Instrumented Prostheses :chart_with_upwards_trend:](#instrumented-prostheses-chart_with_upwards_trend)
-  - [Upper Limb :muscle:](#upper-limb-muscle)
+  - [Upper Limb Movements :muscle:](#upper-limb-movements-muscle)
   - [Hand :palms_up_together:](#hand-palms_up_together)
   - [Soft Tissue Artefacts :leg:](#soft-tissue-artefacts-leg)
   - [Health Datasets :heart:](#health-datasets-heart)
@@ -212,6 +216,7 @@ This section in under construction
 
 ### Human Anatomy :bone:
 
+#### Full Body Anatomy
 * **Visible Human Project**: public-domain library of cross-sectional cryosection, CT, and MRI images obtained from one male cadaver and one female cadaver. The dataset in NIfTI format, easier to import and use in segmentation software, were provided by Bart Bolsterlee (see further details [here](https://twitter.com/bartbolsterlee/status/1296594646898892800) and code for conversion [here](https://github.com/bartbols/VH2NIfTI)).      
 :page_facing_up: [paper](https://doi.org/10.1109/5.662875) |
 :dvd: [dataset](https://www.nlm.nih.gov/databases/download/vhp.html) |
@@ -227,6 +232,20 @@ This section in under construction
 :page_facing_up: [paper](https://dx.doi.org/10.1111%2Fj.0021-8782.2004.00274.x) |
 :computer: [website](http://www.chinesevisiblehuman.com)
 
+* **New Mexico Decedent Image Database (NMDID)** by HJH Edgar et al. (2020). NMDID includes whole body CT scans of over 15,000 New Mexicans who died between 2010-2017. Each individual is represented by approximately 10,000 images in DICOM format. Slice thickness is 1 mm with 0.5 mm overlap. Normal and thin slice reconstructions are available for bone, lung, and brain. 3D reconstructions are possible with this data, depending on what viewer you use. Metadata includes almost 60 variables about the individuals’ demography, life and death (accessible for research separately from the CT scans). </br>
+:page_facing_up: [how to cite](https://nmdid.unm.edu/about/citation) |
+[:dvd: dataset | :computer: website](https://nmdid.unm.edu)
+
+* **Cancer Imaging Archive** is a service which de-identifies and hosts a large archive of medical images of cancer accessible for public download. The data are organized as “collections”; typically patients’ imaging related by a common disease (e.g. lung cancer), image modality or type (MRI, CT, digital distopathology, etc) or research focus. DICOM is the primary file format used by TCIA for radiology imaging. Supporting data related to the images such as patient outcomes, treatment details, genomics and expert analyses are also provided when available.</br>
+[:dvd: dataset | :computer: website](https://www.cancerimagingarchive.net/)
+
+#### Lower Limb Anatomy
+
+* **BodyParts3D** by Nobutaka Mitsuhashi et al. (2003). This is a 3D structure database for anatomical concepts that extends beyond biomechanics.  
+:page_facing_up: [paper](https://doi.org/10.1093/nar/gkn613) |
+:dvd: [dataset](http://lifesciencedb.jp/bp3d/) |
+:dvd: [STL files](https://github.com/Kevin-Mattheus-Moerman/BodyParts3D) 
+
 * **fastMRI dataset** by Facebook AI and NYU (2019-2020). Data from more than 1,500 fully sampled knee MRIs obtained on 3 and 1.5 Tesla magnets and DICOM images from 10,000 clinical knee MRIs also obtained at 3 or 1.5 Tesla. Includes also brain scans. **No segmentation available.**</br>
 :page_facing_up: [paper](https://arxiv.org/abs/1811.08839?fbclid=IwAR1MuusEHDfRwQYb72OHKfdsL5F0OkCbdiI5wQsjJIQKMyAK-cao_wPYUN0) |
 :computer: [website](https://fastmri.org/dataset) |
@@ -237,17 +256,20 @@ This section in under construction
 :dvd: [dataset](https://stanfordmlgroup.github.io/competitions/mrnet/) |
 :computer: [website](https://stanfordmlgroup.github.io/competitions/mrnet/)
 
-* **New Mexico Decedent Image Database (NMDID)** by HJH Edgar et al. (2020). NMDID includes whole body CT scans of over 15,000 New Mexicans who died between 2010-2017. Each individual is represented by approximately 10,000 images in DICOM format. Slice thickness is 1 mm with 0.5 mm overlap. Normal and thin slice reconstructions are available for bone, lung, and brain. 3D reconstructions are possible with this data, depending on what viewer you use. Metadata includes almost 60 variables about the individuals’ demography, life and death (accessible for research separately from the CT scans). </br>
-:page_facing_up: [how to cite](https://nmdid.unm.edu/about/citation) |
-[:dvd: dataset | :computer: website](https://nmdid.unm.edu)
-
-* **Cancer Imaging Archive** is a service which de-identifies and hosts a large archive of medical images of cancer accessible for public download. The data are organized as “collections”; typically patients’ imaging related by a common disease (e.g. lung cancer), image modality or type (MRI, CT, digital distopathology, etc) or research focus. DICOM is the primary file format used by TCIA for radiology imaging. Supporting data related to the images such as patient outcomes, treatment details, genomics and expert analyses are also provided when available.</br>
-[:dvd: dataset | :computer: website](https://www.cancerimagingarchive.net/)
-
 * **Talocrural Morphology: Statistical Shape Modeling with a Hybrid Multi-Articulation Joint Approach** by A Lenz et al. (2021). Segmented three-dimensional surface meshes (.ply) of weightbearing computed tomography (CT) images are included for the tibia, fibula and talus of 27 healthy participants. A sample weightbearing CT scan (.dicom) is provided to demonstrate image resolution, field of view and voxel size. Additionally, MATLAB scripts for calculating talocrural joint coverage, space and congruency are included in the resources. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4274217.svg)](https://doi.org/10.5281/zenodo.4274217)</br>
 :page_facing_up: [paper](https://www.nature.com/articles/s41598-021-86567-7) |
 :dvd: [dataset](https://zenodo.org/record/4274217#.YDeEG-j7SUn) |
 :star: [resources](https://github.com/Lenz-Lab/TalocruralShapeModeling/tree/v1.0)
+
+* **The Virtual Skeleton Database: An Open Access Repository for Biomedical Research and Collaboration** by Michael Kistler et al. (2013). Dataset including post mortem CT images of 50 subjects. **Despite several attempts I was never granted access to these data, although I know of others who did.**  
+:page_facing_up: [paper](https://dx.doi.org/10.2196%2Fjmir.2930) |
+:dvd: [dataset](https://www.smir.ch/objects/214315) |
+:computer: [website](https://www.smir.ch/)
+   * _SMIR pelves and selected pelvic landmarks_ from five experienced raters (20 pelves). ![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3384055.svg)</br>
+   :page_facing_up: [paper](https://www.nature.com/articles/s41598-019-49573-4) |
+   :dvd: [dataset](https://doi.org/10.5281/zenodo.3384055)
+   * _SMIR pelves and femurs_ segmented bone from 20 CT scans available in MATLAB format.  
+   :dvd: [dataset](https://github.com/RWTHmediTEC/VSDFullBodyBoneModels)
 
 * **An image-based kinematic model of the tibiotalar and subtalar joints and its application to gait analysis in children with Juvenile Idiopathic Arthritis** by Erica Montefiori et al. (2019). Study with twenty enrolled participants. For each participant, the opensim model of the foot and ankle joint complex and the relative bone geometries were shared, together with motion capture data (marker data) and results of inverse kinematics simulations for around six gait trials per participant.</br>
 :page_facing_up: [paper](https://doi.org/10.1016/j.jbiomech.2018.12.041) |
@@ -277,23 +299,8 @@ This section in under construction
 :page_facing_up: [paper](https://doi.org/10.1111/joa.13261) |
 :dvd: [dataset](http://datacat.liverpool.ac.uk/1105/)
 
-* **The Virtual Skeleton Database: An Open Access Repository for Biomedical Research and Collaboration** by Michael Kistler et al. (2013). Dataset including post mortem CT images of 50 subjects. **Despite several attempts I was never granted access to these data, although I know of others who did.**  
-:page_facing_up: [paper](https://dx.doi.org/10.2196%2Fjmir.2930) |
-:dvd: [dataset](https://www.smir.ch/objects/214315) |
-:computer: [website](https://www.smir.ch/)
-   * _SMIR pelves and selected pelvic landmarks_ from five experienced raters (20 pelves). ![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3384055.svg)</br>
-   :page_facing_up: [paper](https://www.nature.com/articles/s41598-019-49573-4) |
-   :dvd: [dataset](https://doi.org/10.5281/zenodo.3384055)
-   * _SMIR pelves and femurs_ segmented bone from 20 CT scans available in MATLAB format.  
-   :dvd: [dataset](https://github.com/RWTHmediTEC/VSDFullBodyBoneModels)
-
 * **The Osteoarthritis Initiative** The Osteoarthritis Initiative (OAI) is a multi-center, ten-year observational study of men and women, sponsored by the National Institutes of Health (part of the Department of Health and Human Services). The goals of the OAI are to provide resources to enable a better understanding of prevention and treatment of knee osteoarthritis, one of the most common causes of disability in adults. The dataset contains the permanent archive of the clinical data, patient reported outcomes, biospecimen analyses, quantitative image analyses, radiographs (X-Rays) and magnetic resonance images (MRIs) acquired during this study. There are longitudinal assessments and measurements from 4,796 subjects, with data from over 431,000 clinical and imaging visits, and almost 26,626,000 images.</br>
 :computer: [website](https://nda.nih.gov/oai)
-
-* **BodyParts3D** by Nobutaka Mitsuhashi et al. (2003). This is a 3D structure database for anatomical concepts that extends beyond biomechanics.  
-:page_facing_up: [paper](https://doi.org/10.1093/nar/gkn613) |
-:dvd: [dataset](http://lifesciencedb.jp/bp3d/) |
-:dvd: [STL files](https://github.com/Kevin-Mattheus-Moerman/BodyParts3D) 
 
 * **Femur and tibia surface mesh set** by Daniel Nolte et al. (2020). The data set contains bone geometries of the left and right thigh (femur) and shank (tibia and fibula) segmented from magnetic resonance (MR) scans of 35 healthy volunteers (22 male, 13 female). [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.167808.svg)](https://doi.org/10.5281/zenodo.167808)</br>
 :page_facing_up: [paper](https://doi.org/10.1016/j.gaitpost.2020.02.010) |
@@ -321,10 +328,25 @@ This section in under construction
 :dvd: [dataset (requires registration)](https://tlemsafe.eu/) |
 :computer: [website](https://tlemsafe.eu/)
 
+#### Upper Extremity and Spine
+
+* **Hand and Wrist Dataset** by Goislard de Monsabert et al. (2018). Data set intended for modelling including the musculoskeletal geometry and muscle morphology from the elbow to the finger tips. Clinical imaging, optical motion capture and microscopy were used to create a dataset from a single specimen.  
+:page_facing_up: [paper](https://link.springer.com/article/10.1007/s10439-017-1936-z#SecESM1) |
+:dvd: [dataset](https://static-content.springer.com/esm/art%3A10.1007%2Fs10439-017-1936-z/MediaObjects/10439_2017_1936_MOESM1_ESM.pdf)
+
+* **Hand muscles attachments: A Geometrical model** by Havelková L et al. (2020).  Sixteen cadaveric preparations were dissected to draw up the anatomical maps including the position of muscle attachments, dimensions, shapes, cross section areas and variations. The magnetic resonance imaging of cadaveric upper extremity was performed to reconstruct the geometry of all bones and hand muscles.</br>
+:page_facing_up: [dataset paper (not published yet)]() |
+:page_facing_up: [AnyBody model's paper](https://doi.org/10.1080/10255842.2020.1851367) |
+:dvd: [dataset](https://zenodo.org/record/3954024#.X-zKitj7QdV)
+
 * **Shoulder morphological data** by the Dutch Shoulder Group. Includes data about mass and inertia, muscle contraction parameters and muscle geometries collected during several studies performed in 1988-2002 period.</br>
 :page_facing_up: [paper1991](http://homepage.tudelft.nl/g6u61/repository/shoulder/files_to_link/JB1991_Veeger.pdf) |
 :page_facing_up: [paper1992](http://homepage.tudelft.nl/g6u61/repository/shoulder/files_to_link/JB1992_Helm.pdf) |
 :dvd: [dataset](http://homepage.tudelft.nl/g6u61/repository/shoulder/overview.htm)
+
+* **The digital human forearm and hand** by Faes D. Kerkhof et al. (2018). An un‐embalmed cadaveric arm was digitized using 7T MRI and CT scans and 3D geometrical models of bones, cartilage, muscle and muscle pathways were generated.  Muscle volume, mass, length, pennation angle, physiological cross‐sectional area, tendon length were measured during dissection and, after that, muscle biopsies were used to visualize and measure sarcomere lengths with confocal microscopy. The result is an integrated anatomical dataset that can be used for creating complete and accurate musculoskeletal models of the hand.</br>
+:page_facing_up: [paper](https://doi.org/10.1111/joa.12877) |
+:dvd: [dataset](https://www.morphosource.org/Detail/MediaDetail/Show/media_id/21064)
 
 * **Twente spine model** by Riza Bayoglu et al. (2017). This dataset represents a complete and coherent dataset for the lumbar spine, based on medical images and dissection measurements from one embalmed human cadaver. </br>
 :page_facing_up: [paper-lumbar spine](https://doi.org/10.1016/j.jbiomech.2017.01.009) |
@@ -332,22 +354,15 @@ This section in under construction
 :page_facing_up: [PhD thesis](https://research.utwente.nl/en/publications/twente-spine-model-development-validation-and-application-of-a-co) |
 [:computer: website | :dvd: dataset](https://www.twentespinemodel.eu/) 
 
-* **Hand and Wrist Dataset** by Goislard de Monsabert et al. (2018). Data set intended for modelling including the musculoskeletal geometry and muscle morphology from the elbow to the finger tips. Clinical imaging, optical motion capture and microscopy were used to create a dataset from a single specimen.  
-:page_facing_up: [paper](https://link.springer.com/article/10.1007/s10439-017-1936-z#SecESM1) |
-:dvd: [dataset](https://static-content.springer.com/esm/art%3A10.1007%2Fs10439-017-1936-z/MediaObjects/10439_2017_1936_MOESM1_ESM.pdf)
-
-* **The digital human forearm and hand** by Faes D. Kerkhof et al. (2018). An un‐embalmed cadaveric arm was digitized using 7T MRI and CT scans and 3D geometrical models of bones, cartilage, muscle and muscle pathways were generated.  Muscle volume, mass, length, pennation angle, physiological cross‐sectional area, tendon length were measured during dissection and, after that, muscle biopsies were used to visualize and measure sarcomere lengths with confocal microscopy. The result is an integrated anatomical dataset that can be used for creating complete and accurate musculoskeletal models of the hand.</br>
-:page_facing_up: [paper](https://doi.org/10.1111/joa.12877) |
-:dvd: [dataset](https://www.morphosource.org/Detail/MediaDetail/Show/media_id/21064)
-
-* **Hand muscles attachments: A Geometrical model** by Havelková L et al. (2020).  Sixteen cadaveric preparations were dissected to draw up the anatomical maps including the position of muscle attachments, dimensions, shapes, cross section areas and variations. The magnetic resonance imaging of cadaveric upper extremity was performed to reconstruct the geometry of all bones and hand muscles.</br>
-:page_facing_up: [dataset paper (not published yet)]() |
-:page_facing_up: [AnyBody model's paper](https://doi.org/10.1080/10255842.2020.1851367) |
-:dvd: [dataset](https://zenodo.org/record/3954024#.X-zKitj7QdV)
+#### Muscle Anatomy and Parameters
 
 * **Muscle Modelling Database** by Ross Miller (2018). A summary of muscle mechanical parameters in the human lower limb from the anatomy, muscle/exercise physiology, and biomechanics literature for use in Hill-based muscle model.  
 :page_facing_up: [paper](https://link.springer.com/referenceworkentry/10.1007%2F978-3-319-30808-1_203-2) |
 :dvd: [dataset](https://figshare.com/articles/dataset/Muscle_model_parameters/4275854)
+
+* **Regional variation in lateral and medial gastrocnemius muscle fibre lengths obtained from diffusion tensor imaging** by Jeroen Aeles et al. (2021). The released data include raw MRI (T1-weighted) and DTI scans of the dominant lower leg of 32 adults (males, females, young adults, older adults). These data were used to study the regional variation in muscle fibre lengths in the medial and lateral gastrocnemius muscles. The T1-weighted scans were used to segment the muscles and the DTI scans were used to reconstruct themuscle fibre architecture.</br>
+:page_facing_up: [paper](https://doi.org/10.1111/joa.13539) |
+:dvd: [dataset](https://figshare.com/articles/dataset/Regional_variation_in_lateral_and_medial_gastrocnemius_muscle_fibre_lengths_obtained_from_diffusion_tensor_imaging_Raw_MRI_and_DTI_data/14743452/1)
 
 <!--* **Cal Poly Human Motion Biomechanics Lab Knee Joint Finite Element Model** https://simtk.org/projects/cphmbkneefem/ -->
 
@@ -531,7 +546,7 @@ This section in under construction
 :cd: [live dataset (CAMS-KNEE workshop)](https://cams-knee.orthoload.com/workshop-data/) |
 :computer: [website](https://cams-knee.orthoload.com/)
 
-### Upper Limb :muscle:
+### Upper Limb Movements :muscle:
 
 * **Shoulder movements database** by Bart Bolsterlee et al. (2013). Data for five subjects (2 females, age 29.2 ± 2.3 year, height 176.3 ± 7.2 cm) performing range of motion and activities of daily living for the shoulder. Dataset includes kinematic, force and EMG data. A user guide and Matlab scripts are also available. </br>
 :page_facing_up: [paper](https://link.springer.com/article/10.1007%2Fs11517-013-1065-2) |
