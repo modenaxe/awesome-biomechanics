@@ -587,6 +587,15 @@ This section in under construction
 * **UK Biobank** is a health resource that follows the health and well-being of 500,000 volunteer participants and provides health information, which does not identify them, to approved researchers in the UK and overseas. The aim of UK Biobank is to improve the prevention, diagnosis and treatment of a wide range of serious and life-threatening illnesses – including cancer, heart diseases, stroke, diabetes, arthritis, osteoporosis, eye disorders, depression and forms of dementia. </br>
 :computer: [website](https://www.ukbiobank.ac.uk/)
 
+### Rugby :rugby_football:
+* **Cervical Spine Injury Mechanism Analysis** is a project funded by the [RFU IPF](https://www.rfuipf.org.uk) and led by [Dario Cazzola](https://researchportal.bath.ac.uk/en/persons/dario-cazzola) at the University of Bath. The aim of this project is to unveil the injury mechanisms related to rugby activities such as scrummaging and tackling, with the final aim to inform the design of injury prevention strategies. The MSK models implemented for this project are based on population specific (DXA) and subject specific (MRI) data and optimised to be used during impact events. Kinematics and kinetic data of rugby scrummaging and tackling are also available.</br>
+:page_facing_up: [paper Rugby Model](https://doi.org/10.1371/journal.pone.0169329) |
+:page_facing_up: [paper bushing parameters](https://doi.org/10.1371/journal.pone.0216663) |
+:page_facing_up: [paper EMG-assisted](https://doi.org/10.1115/1.4052555) |
+:dvd: [simulations data impacts](https://figshare.com/projects/SILVESTROS_PLOS_ONE_SUPPORTING_DOCUMENTS/58280)|
+:dvd: [simulations data scrummaging](https://figshare.com/articles/dataset/Rugby_Scrum_-_Machine_Scrummaging_Data/4249883/2)|
+:computer: [website](https://simtk.org/projects/csibath) 
+
 
 ## Gait Analysis and Motion Capture :cartwheeling:
 
