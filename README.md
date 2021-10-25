@@ -635,6 +635,7 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 :computer: [(unofficial) tutorial by biomechanist.net](https://www.biomechanist.net/btk-and-mokka/)
 
 * **Kinetics Toolkit** by Félix Chénier. Kinetics Toolkit is an open-source, pure-python package of integrated classes and functions that aims to facilitate research in biomechanics using python.</br>
+:page_facing_up: [paper](https://joss.theoj.org/papers/10.21105/joss.03714) |
 :computer: [website](https://felixchenier.uqam.ca/kineticstoolkit) |
 :floppy_disk: [source](https://github.com/felixchenier/kineticstoolkit) |
 :floppy_disk: [conda](https://anaconda.org/conda-forge/kineticstoolkit) |
