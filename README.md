@@ -32,6 +32,7 @@ See [how you can contribute](#contributing), it's easy!<!-- omit in toc -->
   - [Hand :palms_up_together:](#hand-palms_up_together)
   - [Soft Tissue Artefacts :leg:](#soft-tissue-artefacts-leg)
   - [Health Datasets :heart:](#health-datasets-heart)
+  - [Rugby :rugby_football:](#rugby-rugby_football)
 - [Gait Analysis and Motion Capture :cartwheeling:](#gait-analysis-and-motion-capture-cartwheeling)
   - [Gait Analysis Markersets :globe_with_meridians:](#gait-analysis-markersets-globe_with_meridians)
   - [Motion Capture Data Import and Processing](#motion-capture-data-import-and-processing)
@@ -46,8 +47,9 @@ See [how you can contribute](#contributing), it's easy!<!-- omit in toc -->
   - [Anthropometric Models :standing_person:](#anthropometric-models-standing_person)
   - [Multibody and Physics Engines :sleeping::arrow_lower_left::apple:](#multibody-and-physics-engines-sleepingarrow_lower_leftapple)
   - [Computational Muscle Models 	:mechanical_arm:](#computational-muscle-models-mechanical_arm)
-  - [Neuro-musculoskeletal Simulation Software :brain::arrow_right::leg:](#neuro-musculoskeletal-simulation-software-brainarrow_rightleg)
-  - [Neuromusculoskeletal Simulation Tools and Models :brain::hammer:](#neuromusculoskeletal-simulation-tools-and-models-brainhammer)
+  - [Biomechanical and Neuro-musculoskeletal Simulation Software :brain::arrow_right::leg:](#biomechanical-and-neuro-musculoskeletal-simulation-software-brainarrow_rightleg)
+  - [Neuro-musculoskeletal Simulation Tools :brain::hammer:](#neuro-musculoskeletal-simulation-tools-brainhammer)
+  - [Biomechanical Models](#biomechanical-models)
   - [Real-Time Musculoskeletal Simulation Software](#real-time-musculoskeletal-simulation-software)
 - [Optimal Control and Trajectory Optimization :rocket:](#optimal-control-and-trajectory-optimization-rocket)
 - [Subject-Specific Modelling](#subject-specific-modelling)
@@ -848,7 +850,7 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 :floppy_disk: [source](https://github.com/vcg-uvic/viper) |
 :video_camera: [video](https://www.youtube.com/watch?v=2CGRfJJEu38)
 
-### Neuro-musculoskeletal Simulation Software :brain::arrow_right::leg:
+### Biomechanical and Neuro-musculoskeletal Simulation Software :brain::arrow_right::leg:
 
 * **The AnyBody Modeling System** by AnyBody Technology. Commercial software for musculoskeletal modelling and simulation.</br>
 :page_facing_up: [paper](https://doi.org/10.1016/j.simpat.2006.09.001) |
@@ -899,16 +901,7 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 :computer: [binaries](https://simtk.org/projects/scone) |
 :floppy_disk: [source](https://github.com/opensim-org/SCONE)
 
-### Neuromusculoskeletal Simulation Tools and Models :brain::hammer:
-
-* **Batch OpenSim Processing Scripts (BOPS)** by Alice Mantoan et al. (2020). MATLAB based, user friendly and easy-to-use tool to perform batch process of the most commonly used OpenSim Tools (IK, ID, MA, SO and JRA).</br>
-:page_facing_up: [paper](https://doi.org/10.1080/10255842.2020.1867978) |
-:computer: [website](https://simtk.org/projects/bops) |
-:floppy_disk: [source](https://github.com/RehabEngGroup/BOPS)
-
-* **BASH - Biomechanical Animated Skinned Human** by Schleicher et al. (2021). BASH allows to visualize human kinematics and muscle activity estimated through an OpenSim model using a 3D animated model deformed using skinning.</br>
-:page_facing_up: [paper](https://www.scitepress.org/Papers/2021/102106/102106.pdf) |
-:floppy_disk: [source](https://github.com/mad-lab-fau/BASH-Model)
+### Neuro-musculoskeletal Simulation Tools :brain::hammer:
 
 * **OpenSim JAM: A framework to simulate Joint and Articular Mechanics in OpenSim** by Colin Smith (2020). OpenSim JAM is a collection of force component plugins, models, and executables (tools) that are designed to enable OpenSim musculoskeletal simulations that include detailed joint mechanics. The project extends the opensim-core capabilities to enable joint representations that include 6 degree of freedom (DOF) joints (without kinematic constraints) and explicit representations of articular contact and ligament structures.  
 :page_facing_up: [reference papers for each component](https://github.com/clnsmith/opensim-jam/tree/master/opensim-jam-release) |
@@ -935,10 +928,6 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 :floppy_disk: [source](https://github.com/anmuller/CusToM) |
 :star: [workshop materials](https://github.com/cpontonn/CusToM-Workshop)
 
-* **Geyer's 2010 neuromuscular model** by Hermut Geyer (2010). Simulink implementation of a neuromusculoskeletal model used in walking simulation with stretch reflexes.</br>
-:page_facing_up: [paper](https://www.cs.cmu.edu/~hgeyer/Publications/Geyer&Herr-ReflexModel2Column.pdf) |
-:floppy_disk: [source](https://www.cs.cmu.edu/~hgeyer/Software/Neuromuscular%20Model/Geyer%20Neuromuscular%20Model.zip) 
-
 * **Modeling musculoskeletal kinematic and dynamic redundancy using null space projection** by Dimitar Stanev and Konstantinos Moustakas (2019). Python :snake: methods for modeling, simulation and analysis of redundant musculoskeletal systems based on muscle space projection on segmental level reflexes and the computation of the feasible muscle forces for arbitrary movements. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2000421.svg)](https://doi.org/10.5281/zenodo.2000421)  
 :page_facing_up: [paper](https://doi.org/10.1371/journal.pone.0209171) |
 :computer: [website](https://simtk.org/projects/redundancy) |
@@ -952,6 +941,21 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 * **SynO: Synergy Optimization** by Mohammad Shourijeh ad Benjamin Fregly (2020). SynO is a collection of MATLAB codes implementing a novel approach for estimating muscle forces/activations by imposing a synergy structure within optimization (termed “synergy optimization”).</br>
 :page_facing_up: [paper](https://doi.org/10.1115/1.4044310) |
 :floppy_disk: [source](https://simtk.org/projects/syno/)
+
+### Biomechanical Models
+
+* **BASH - Biomechanical Animated Skinned Human** by Schleicher et al. (2021). BASH allows to visualize human kinematics and muscle activity estimated through an OpenSim model using a 3D animated model deformed using skinning.</br>
+:page_facing_up: [paper](https://www.scitepress.org/Papers/2021/102106/102106.pdf) |
+:floppy_disk: [source](https://github.com/mad-lab-fau/BASH-Model)
+
+* **Geyer's 2010 neuromuscular model** by Hermut Geyer (2010). Simulink implementation of a neuromusculoskeletal model used in walking simulation with stretch reflexes.</br>
+:page_facing_up: [paper](https://www.cs.cmu.edu/~hgeyer/Publications/Geyer&Herr-ReflexModel2Column.pdf) |
+:floppy_disk: [source](https://www.cs.cmu.edu/~hgeyer/Software/Neuromuscular%20Model/Geyer%20Neuromuscular%20Model.zip) 
+
+* **Multi-segment Foot and ankle model validated using biplanar videoradiography** by Jayishni Maharaj et al. (2021). A multi-segment foot and ankle model consisting of the tibia, talus, calcaneus, midfoot, forefoot and toes, with a total of 7 degrees of freedom. Motion between foot segments were constrained with a single oblique axis to enable triplanar motion. The kinematic outputs were validated using biplanar videoradiography in seven healthy participants during walking and running.</br>
+:page_facing_up: [paper](https://doi.org/10.1080/10255842.2021.1968844) |
+:floppy_disk: [OpenSim model](https://simtk.org/projects/footankle_model)
+  
 
 ### Real-Time Musculoskeletal Simulation Software
 
