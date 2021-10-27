@@ -1439,6 +1439,10 @@ This section needs to be improved.
     - **[Choose a license](https://choosealicense.com/)** by GitHub Inc. This is a website with can help you choosing the license for your shared data based the intended use that you want to allow. </br> 
     - **[CreativeCommons](https://creativecommons.org/choose/)** by Creative Commons. This website can guide you in the process of choosing a Creative Commons license based on your preferences.</br> 
 
+* **Open for Science** by Kevin Moerman (2021). This is a presentation aimed at informing academics about the benefits of open science and how to be an open scientist. </br>
+:video_camera:[YouTube video](https://www.youtube.com/watch?v=TmTRpKH26u4) |
+:bar_chart:[slides](https://zenodo.org/record/5483823)
+
 ## Good practices for credible modeling
 
 * **Credible practice of modeling and simulation in healthcare: ten rules from a multidisciplinary perspective** by Erdemir et al. (2020). The paper provides Ten Rules for credible practice of modeling and simulation in healthcare developed from a comparative analysis by the Committee’s multidisciplinary membership, followed by a large stakeholder community survey.</br>
