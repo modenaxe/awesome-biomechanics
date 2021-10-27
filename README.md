@@ -48,9 +48,9 @@ See [how you can contribute](#contributing), it's easy!<!-- omit in toc -->
   - [Multibody and Physics Engines :sleeping::arrow_lower_left::apple:](#multibody-and-physics-engines-sleepingarrow_lower_leftapple)
   - [Computational Muscle Models 	:mechanical_arm:](#computational-muscle-models-mechanical_arm)
   - [Biomechanical and Neuro-musculoskeletal Simulation Software :brain::arrow_right::leg:](#biomechanical-and-neuro-musculoskeletal-simulation-software-brainarrow_rightleg)
+  - [Real-Time Neuro-musculoskeletal Simulation Software](#real-time-neuro-musculoskeletal-simulation-software)
   - [Neuro-musculoskeletal Simulation Tools :brain::hammer:](#neuro-musculoskeletal-simulation-tools-brainhammer)
   - [Biomechanical Models](#biomechanical-models)
-  - [Real-Time Musculoskeletal Simulation Software](#real-time-musculoskeletal-simulation-software)
 - [Optimal Control and Trajectory Optimization :rocket:](#optimal-control-and-trajectory-optimization-rocket)
 - [Subject-Specific Modelling](#subject-specific-modelling)
   - [Segmentation of Medical Images :artist:](#segmentation-of-medical-images-artist)
@@ -901,6 +901,19 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 :computer: [binaries](https://simtk.org/projects/scone) |
 :floppy_disk: [source](https://github.com/opensim-org/SCONE)
 
+
+### Real-Time Neuro-musculoskeletal Simulation Software
+
+* **OpenSimRT** by Dimitar Stanev et al. (2021). OpenSim RT is a framework for real-time musculoskeletal kinematics and dynamics analysis using marker- and IMU-based technologies for applications in rehabilitation.</br>
+:page_facing_up: [paper](https://doi.org/10.3390/s21051804) |
+:floppy_disk: [source](https://github.com/mitkof6/OpenSimRT)
+
+* **RTOSIM** by Claudio Pizzolato et al. (2017). RTOSIM is a set of efficient and extensible C++ libraries to connect OpenSim with different devices. RTOSIM can use data provided by motion capture systems to solve OpenSim inverse kinematics and inverse dynamics on a frame-by-frame basis. Multiple threads operate concurrently to remove idle times due to communications with input and output devices, and the data flow is automatically managed by RTOSIM in order to preserve data integrity and avoid race conditions.</br>
+:page_facing_up: [paper-IK+ID](https://dx.doi.org/10.1080%2F10255842.2016.1240789) |
+:page_facing_up: [paper-CEINMS](https://doi.org/10.1109/TNSRE.2017.2683488) |
+:floppy_disk: [source](https://github.com/RealTimeBiomechanics/rtosim)
+
+
 ### Neuro-musculoskeletal Simulation Tools :brain::hammer:
 
 * **OpenSim JAM: A framework to simulate Joint and Articular Mechanics in OpenSim** by Colin Smith (2020). OpenSim JAM is a collection of force component plugins, models, and executables (tools) that are designed to enable OpenSim musculoskeletal simulations that include detailed joint mechanics. The project extends the opensim-core capabilities to enable joint representations that include 6 degree of freedom (DOF) joints (without kinematic constraints) and explicit representations of articular contact and ligament structures.  
@@ -955,18 +968,6 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 * **Multi-segment Foot and ankle model validated using biplanar videoradiography** by Jayishni Maharaj et al. (2021). A multi-segment foot and ankle model consisting of the tibia, talus, calcaneus, midfoot, forefoot and toes, with a total of 7 degrees of freedom. Motion between foot segments were constrained with a single oblique axis to enable triplanar motion. The kinematic outputs were validated using biplanar videoradiography in seven healthy participants during walking and running.</br>
 :page_facing_up: [paper](https://doi.org/10.1080/10255842.2021.1968844) |
 :floppy_disk: [OpenSim model](https://simtk.org/projects/footankle_model)
-  
-
-### Real-Time Musculoskeletal Simulation Software
-
-* **OpenSimRT** by Dimitar Stanev et al. (2021). OpenSim RT is a framework for real-time musculoskeletal kinematics and dynamics analysis using marker- and IMU-based technologies for applications in rehabilitation.</br>
-:page_facing_up: [paper](https://doi.org/10.3390/s21051804) |
-:floppy_disk: [source](https://github.com/mitkof6/OpenSimRT)
-
-* **RTOSIM** by Claudio Pizzolato et al. (2017). RTOSIM is a set of efficient and extensible C++ libraries to connect OpenSim with different devices. RTOSIM can use data provided by motion capture systems to solve OpenSim inverse kinematics and inverse dynamics on a frame-by-frame basis. Multiple threads operate concurrently to remove idle times due to communications with input and output devices, and the data flow is automatically managed by RTOSIM in order to preserve data integrity and avoid race conditions.</br>
-:page_facing_up: [paper-IK+ID](https://dx.doi.org/10.1080%2F10255842.2016.1240789) |
-:page_facing_up: [paper-CEINMS](https://doi.org/10.1109/TNSRE.2017.2683488) |
-:floppy_disk: [source](https://github.com/RealTimeBiomechanics/rtosim)
 
 
 ## Optimal Control and Trajectory Optimization :rocket:
