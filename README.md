@@ -18,11 +18,11 @@ See [how you can contribute](#contributing), it's easy!<!-- omit in toc -->
   - [Books :blue_book:](#books-blue_book)
 - [Datasets :dvd:](#datasets-dvd)
   - [Human Anatomy :bone:](#human-anatomy-bone)
-    - [Full Body Anatomy](#full-body-anatomy)
+    - [Full Body](#full-body)
     - [Lower Limb Anatomy](#lower-limb-anatomy)
     - [Upper Extremity and Spine](#upper-extremity-and-spine)
     - [Muscle Anatomy and Parameters](#muscle-anatomy-and-parameters)
-  - [Animal Anatomy :crocodile:](#animal-anatomy-crocodile)
+  - [Animal Anatomy and Anthropology :crocodile:](#animal-anatomy-and-anthropology-crocodile)
   - [Balance :balance_scale:](#balance-balance_scale)
   - [Energetics :fire:](#energetics-fire)
   - [Walking :walking:](#walking-walking)
@@ -216,7 +216,7 @@ This section in under construction
 
 ### Human Anatomy :bone:
 
-#### Full Body Anatomy
+#### Full Body 
 * **Visible Human Project**: public-domain library of cross-sectional cryosection, CT, and MRI images obtained from one male cadaver and one female cadaver. The dataset in NIfTI format, easier to import and use in segmentation software, were provided by Bart Bolsterlee (see further details [here](https://twitter.com/bartbolsterlee/status/1296594646898892800) and code for conversion [here](https://github.com/bartbols/VH2NIfTI)).      
 :page_facing_up: [paper](https://doi.org/10.1109/5.662875) |
 :dvd: [dataset](https://www.nlm.nih.gov/databases/download/vhp.html) |
@@ -314,7 +314,7 @@ This section in under construction
 :dvd: [dataset](https://digitalcommons.du.edu/natural_knee_data) |
 :computer: [website](https://simtk.org/projects/knee_model)
 
-* **Living Biomechanics of the Knee** by University of Denver Center for Orthopaedic Biomechanics.  Kinematic and loading data from an experiment that used quadriceps force to extend the knee. The objective of this data was to provide a foundation to create a computer model representation of the patella joint in order to predict motion and forces across healthy and pathological specimens.</br>
+* **Living Biomechanics of the Knee** by University of Denver Center for Orthopaedic Biomechanics. Kinematic and loading data from an experiment that used quadriceps force to extend the knee. The objective of this data was to provide a foundation to create a computer model representation of the patella joint in order to predict motion and forces across healthy and pathological specimens.</br>
 :dvd: [dataset](https://digitalcommons.du.edu/living_kinematics_knee/) |
 :computer: [website](https://simtk.org/projects/knee_model)
 
@@ -366,7 +366,7 @@ This section in under construction
 
 <!--* **Cal Poly Human Motion Biomechanics Lab Knee Joint Finite Element Model** https://simtk.org/projects/cphmbkneefem/ -->
 
-### Animal Anatomy :crocodile:
+### Animal Anatomy and Anthropology :crocodile:
 
 * **CT scans of various animals** from John Hutchinson's group. </br> 
 :dvd: [dataset](https://osf.io/4sc96/)
