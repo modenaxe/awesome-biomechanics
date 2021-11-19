@@ -136,6 +136,7 @@ This section in under construction
 #### Python
 * [Python website](https://www.python.org/)
 * [Scipy Lecture Notes](https://scipy-lectures.org/): a set of tutorials on the scientific Python ecosystem: a quick introduction to central tools, modules and techniques. 
+* [Scientific Python Lectures](https://github.com/jrjohansson/scientific-python-lectures): Lectures on scientific computing with python, as IPython notebooks by [Robert Johansson](https://github.com/jrjohansson).
 * [Python for Everybody](https://www.py4e.com/book): a freely available book to learn how to use Python. A pdf is available [here](http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf).
 * [Python Programming And Numerical Methods: A Guide For Engineers And Scientists](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html) by the University of California, Berkeley. Materials used in the class **E7: Introduction to computer programming for scientists and engineers**.
 * [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html) is a style guide iof dos and don’ts used in Google Python programs. Useful to set some guidelines on how you write code.
