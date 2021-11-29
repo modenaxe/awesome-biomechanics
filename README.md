@@ -363,7 +363,7 @@ This section in under construction
 :page_facing_up: [paper](https://link.springer.com/referenceworkentry/10.1007%2F978-3-319-30808-1_203-2) |
 :dvd: [dataset](https://figshare.com/articles/dataset/Muscle_model_parameters/4275854)
 
-* **Regional variation in lateral and medial gastrocnemius muscle fibre lengths obtained from diffusion tensor imaging** by Jeroen Aeles et al. (2021). The released data include raw MRI (T1-weighted) and DTI scans of the dominant lower leg of 32 adults (males, females, young adults, older adults). These data were used to study the regional variation in muscle fibre lengths in the medial and lateral gastrocnemius muscles. The T1-weighted scans were used to segment the muscles and the DTI scans were used to reconstruct themuscle fibre architecture.</br>
+* **Regional variation in lateral and medial gastrocnemius muscle fibre lengths obtained from diffusion tensor imaging** by Jeroen Aeles et al. (2021). The released data include raw MRI (T1-weighted) and DTI scans of the dominant lower leg of 32 adults (males, females, young adults, older adults). These data were used to study the regional variation in muscle fibre lengths in the medial and lateral gastrocnemius muscles. The T1-weighted scans were used to segment the muscles and the DTI scans were used to reconstruct the muscle fibre architecture.</br>
 :page_facing_up: [paper](https://doi.org/10.1111/joa.13539) |
 :dvd: [dataset](https://figshare.com/articles/dataset/Regional_variation_in_lateral_and_medial_gastrocnemius_muscle_fibre_lengths_obtained_from_diffusion_tensor_imaging_Raw_MRI_and_DTI_data/14743452/1)
 
