@@ -521,8 +521,7 @@ This section in under construction
 :page_facing_up: [paper](https://doi.org/10.1371/journal.pone.0248608) |
 :dvd: [dataset](https://doi.org/10.15125/BATH-00965)
 
-* **CARL: a running recognition algorithm for free-living accelerometer data** by John J Davis IV et al. (2021). An activity recognition algorithm that can identify and extract bouts of running from raw accelerometry data collected anywhere on the torso or wrist. Written in MATLAB and accompanied by a dataset of 227 subjects equipped with wearable accelerometers performing a wide range of activities, including walking, running, cycling, sit-to-stand transitions, and more. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3460691.svg)](https://doi.org/10.6084/m9.figshare.17198275)    
-:page_facing_up: [paper](https://iopscience.iop.org/article/10.1088/1361-6579/ac41b8) |
+* **CARL: a running recognition algorithm for free-living accelerometer data** by John J Davis IV et al. (2021). An activity recognition algorithm that can identify and extract bouts of running from raw accelerometry data collected anywhere on the torso or wrist. Written in MATLAB and accompanied by a dataset of 227 subjects equipped with wearable accelerometers performing a wide range of activities, including walking, running, cycling, sit-to-stand transitions, and more. :page_facing_up: [paper](https://iopscience.iop.org/article/10.1088/1361-6579/ac41b8) |
 :dvd: [dataset](https://figshare.com/articles/dataset/CARL_classifier_activity_recognition_data/17198275)
 :floppy_disk: [source](https://github.com/johnjdavisiv/carl)
 
