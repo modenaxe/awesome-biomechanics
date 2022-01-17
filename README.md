@@ -19,7 +19,7 @@ See [how you can contribute](#contributing), it's easy!<!-- omit in toc -->
 - [Datasets :dvd:](#datasets-dvd)
   - [Animal Anatomy and Anthropology :crocodile:](#animal-anatomy-and-anthropology-crocodile)
   - [Balance :balance_scale:](#balance-balance_scale)
-  - [Electromyography (EMG) :electric_plug::muscle:](#EMG-electric_plug_muscle)
+  - [Electromyography (EMG) :electric_plug::muscle:](#emg-electric_plugmuscle)
   - [Energetics :fire:](#energetics-fire)
   - [Hand :palms_up_together:](#hand-palms_up_together)
   - [Health Datasets :heart:](#health-datasets-heart)
