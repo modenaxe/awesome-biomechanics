@@ -17,22 +17,23 @@ See [how you can contribute](#contributing), it's easy!<!-- omit in toc -->
   - [Teaching Resources :triangular_ruler:](#teaching-resources-triangular_ruler)
   - [Books :blue_book:](#books-blue_book)
 - [Datasets :dvd:](#datasets-dvd)
+  - [Animal Anatomy and Anthropology :crocodile:](#animal-anatomy-and-anthropology-crocodile)
+  - [Balance :balance_scale:](#balance-balance_scale)
+  - [Electromyography (EMG) :electric_plug::muscle:](#emg-electric_plugmuscle)
+  - [Energetics :fire:](#energetics-fire)
+  - [Hand :palms_up_together:](#hand-palms_up_together)
+  - [Health Datasets :heart:](#health-datasets-heart)
   - [Human Anatomy :bone:](#human-anatomy-bone)
     - [Full Body](#full-body)
     - [Lower Limb Anatomy](#lower-limb-anatomy)
     - [Upper Extremity and Spine](#upper-extremity-and-spine)
     - [Muscle Anatomy and Parameters](#muscle-anatomy-and-parameters)
-  - [Animal Anatomy and Anthropology :crocodile:](#animal-anatomy-and-anthropology-crocodile)
-  - [Balance :balance_scale:](#balance-balance_scale)
-  - [Energetics :fire:](#energetics-fire)
-  - [Walking :walking:](#walking-walking)
-  - [Running :running:](#running-running)
   - [Instrumented Prostheses :chart_with_upwards_trend:](#instrumented-prostheses-chart_with_upwards_trend)
-  - [Upper Limb Movements :muscle:](#upper-limb-movements-muscle)
-  - [Hand :palms_up_together:](#hand-palms_up_together)
-  - [Soft Tissue Artefacts :leg:](#soft-tissue-artefacts-leg)
-  - [Health Datasets :heart:](#health-datasets-heart)
   - [Rugby :rugby_football:](#rugby-rugby_football)
+  - [Running :running:](#running-running)
+  - [Soft Tissue Artefacts :leg:](#soft-tissue-artefacts-leg)
+  - [Upper Limb Movements :muscle:](#upper-limb-movements-muscle)
+  - [Walking :walking:](#walking-walking)
 - [Gait Analysis and Motion Capture :cartwheeling:](#gait-analysis-and-motion-capture-cartwheeling)
   - [Gait Analysis Markersets :globe_with_meridians:](#gait-analysis-markersets-globe_with_meridians)
   - [Motion Capture Data Import and Processing](#motion-capture-data-import-and-processing)
@@ -601,7 +602,27 @@ This section in under construction
 :page_facing_up: [paper EMG-assisted](https://doi.org/10.1115/1.4052555) |
 :dvd: [simulations data impacts](https://figshare.com/projects/SILVESTROS_PLOS_ONE_SUPPORTING_DOCUMENTS/58280)|
 :dvd: [simulations data scrummaging](https://figshare.com/articles/dataset/Rugby_Scrum_-_Machine_Scrummaging_Data/4249883/2)|
-:computer: [website](https://simtk.org/projects/csibath) 
+:computer: [website](https://simtk.org/projects/csibath)
+
+### EMG :electric_plug::muscle:
+* **Sex-specific tuning of modular muscle activation patterns for locomotion in young and older adults** by Santuz A., Janshen, L., Brüll L., Munoz-Martel V., Taborri J., Rossi S. and Arampatzis A. (2022). This data set contains: a) the metadata with anonymized participant information; b) the raw EMG, already concatenated for the overground trials; c) the touchdown and lift-off timings of the recorded limb, d) the code to process the data. In total, 520 trials from 215 participants are included in the data set.</br>
+:dvd: [dataset and resources](https://zenodo.org/record/5171823)
+
+* **Lower complexity of motor primitives ensures robust control of high-speed human locomotion** by Santuz A.,  Ekizos A., Kunimasa Y., Kijima K., Ishikawa M. and Arampatzis, A. (2020). This data set contains: a) the metadata with anonymized participant information, b) the raw EMG, c) the touchdown and lift-off timings of the recorded limb, d) the filtered and time-normalized EMG, e) the muscle synergies extracted via NMF and f) the code to process the data, including the scripts to calculate the Higuchi's fractal dimension (HFD) of motor primitives. In total, 180 trials from 30 participants are included in the data set.</br>
+:page_facing_up: [paper](https://www.cell.com/heliyon/fulltext/S2405-8440(20)32220-9) |
+:dvd: [dataset and resources](https://zenodo.org/record/3785077)
+
+* **Neuromotor Dynamics of Human Locomotion in Challenging Settings** by Santuz A., Brüll L., Ekizos A., Schroll A., Eckardt N., Kibele A., Schwenk M. and Arampatzis, A. (2020). This data set contains: a) the metadata with anonymized participant information, b) the raw electromyographic (EMG) data acquired during locomotion, c) the touchdown and lift-off timings of the recorded limb, d) the filtered and time-normalized EMG, e) the muscle synergies extracted via non-negative matrix factorization and f) the code written in R (R Found. for Stat. Comp.) to process the data, including the scripts to calculate the short-term Maximum Lyapunov Exponents (sMLE) and Higuchi's fractal dimension (HFD) of motor primitives. In total, 476 trials from 86 participants are included in the data set.</br>
+:page_facing_up: [paper](https://www.cell.com/iscience/fulltext/S2589-0042(19)30542-5) |
+:dvd: [dataset and resources](https://zenodo.org/record/3785065)
+
+* **Muscle Activation Patterns Are More Constrained and Regular in Treadmill Than in Overground Human Locomotion** by Mileti I., Serra A., Wolf N., Munoz-Martel V., Ekizos A., Palermo E., Arampatzis A. and Santuz A. (2020). This data set contains: a) the metadata with anonymized participant information; b) the raw EMG, already concatenated for the overground trials; c) the touchdown and lift-off timings of the recorded limb, d) the filtered and time-normalized EMG; e) the muscle synergies extracted via NMF; f) the code to process the data. In total, 120 trials from 30 participants are included in the data set.</br>
+:page_facing_up: [paper](https://www.frontiersin.org/articles/10.3389/fbioe.2020.581619/full) |
+:dvd: [dataset and resources](https://zenodo.org/record/3932768)
+
+* **Modular Control of Human Movement During Running: An Open Access Data Set** by Santuz A., Ekizos A., Janshen, L., Mersmann F., Bohm S., Baltzopoulos V. and Arampatzis A. (2018). This data set contains: a) the metadata with anonymized participant information; b) the raw EMG; c) the touchdown and lift-off timings of the recorded limb, d) the filtered and time-normalized EMG; e) the muscle synergies extracted via NMF; f) the code to process the data. Trials from 135 healthy and young adults (78 males, 57 females) are included in the data set.</br>
+:page_facing_up: [paper](https://www.frontiersin.org/articles/10.3389/fphys.2018.01509/full) |
+:dvd: [dataset and resources](https://zenodo.org/record/3785076)
 
 
 ## Gait Analysis and Motion Capture :cartwheeling:
