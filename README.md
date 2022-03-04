@@ -561,6 +561,11 @@ This section in under construction
 :dvd: [dataset](https://simtk.org/frs/?group_id=465) |
 :computer: [website](https://simtk.org/projects/dsem)
 
+* **Complete Inertial Pose (CIP) dataset** by M. Palermo et al. (2022). The CIP dataset is composed of 2 subsets, containing low-cost (MPU9250) and high-end (MTwAwinda) Magnetic, Angular Rate, and Gravity (MARG) sensor data respectively. Multiple trials were collected with 21 and 10 subjects respectively, performing 6 types of movements (ranging from calibration, to daily-activities, range-of-motion and random). It presents a high degree of variability and complex dynamics while containing common sources of error found on real conditions. This amounts to 3.5M samples, synchronized with a ground-truth inertial motion capture system (Xsens) at 60hz. </br>
+:page_facing_up: [paper](https://arxiv.org/pdf/2202.06164.pdf) |
+:dvd: [dataset](https://doi.org/10.5281/zenodo.5801928) |
+:star: [code](https://github.com/ManuelPalermo/HumanInertialPose)
+
 ### Hand :palms_up_together:
 
 * **A large calibrated database of hand movements and grasps kinematics** by Néstor J. Jarque-Bou et al. (2020). The dataset includes calibrated kinematic data for 77 subjects and 40 movements (each repeated several times), resulting in the largest available kinematic dataset. The dataset derives from three multimodal datasets, previously released (Ninapro DB1, DB2 and DB5, that include electromyography, inertial and dynamic data). Hand kinematics was measured for all subjects using a 22-sensor CyberGlove II data glove. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3357966.svg)](https://doi.org/10.5281/zenodo.3357966)</br>
@@ -732,6 +737,10 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 :page_facing_up: [documentation and examples](https://simtk-confluence.stanford.edu:8443/display/OpenSim/OpenSense+-+Kinematics+with+IMU+Data) |
 :computer: [website](https://simtk.org/projects/opensense) |
 :floppy_disk: [source](https://github.com/opensim-org/opensim-core)
+
+* **HumanInertialPose**  Human whole-body pose estimation using Magnetic, Angular Rate, and Gravit (MARG) multi-sensor data. Provides utilities to process raw IMU/MARG data, perform sensor and sensor-to-segment calibration, multi-sensor fusion, skeleton kinematics, to obtaining the human pose. Contains low dependency python :snake: code to deal with common inertial MoCap data (Xsens Analyse / Xsens MtManager), calculate metrics and visualize results.</br>
+:computer: [website](https://pypi.org/project/hipose/) |
+:floppy_disk: [source](https://github.com/ManuelPalermo/HumanInertialPose)
 
 #### 2D video analysis
 
