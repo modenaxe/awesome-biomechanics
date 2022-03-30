@@ -1361,7 +1361,7 @@ Laboratoire Jacques-Louis Lions, Sorbonne University, Paris. FreeFEM is a partia
 * **Gridap: An extensible Finite Element toolbox in Julia** by Santiago Badia1 and Francesc Verdugo (2020). </br>
 :page_facing_up: [paper](https://joss.theoj.org/papers/10.21105/joss.02520) |
 :page_facing_up: [Users' Guide](https://arxiv.org/abs/1910.01412) |
-:floppy_disk: [code](lhttps://github.com/gridap/Gridap.jl)
+:floppy_disk: [code](https://github.com/gridap/Gridap.jl)
 
 ### Finite Element Models
 
