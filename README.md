@@ -87,7 +87,6 @@ See [how you can contribute](#contributing), it's easy!<!-- omit in toc -->
 
 ### Online Courses :clapper:
 * [Lectures on animal locomotion](https://mchenrylab.bio.uci.edu/e139) by Manny Azizi and Matt McHenry, UC Irvine (2020).
-* [Lectures on optimal control](http://www.anilvrao.com/Optimal-Control-Videos.html) by Anil Rao (University of Florida).
 * [Lectures on multibody dynamics](https://www.youtube.com/watch?v=1Tyxgv7RUdk&list=PLzAwokZEM7auZEBOJKNa_lCgz2rdgpYLL) by [Jason Moore](https://www.moorepants.info/) at UC Davis (2017).
 * [KNES 789W - Advanced Projects in Kinesiology; Modeling & Simulation of Human Movement](https://www.youtube.com/watch?v=JXz5BHQBJhk&list=PLFNfmB3IG2Cf_0V5N9w_ZBKIHD2xg1H_g) by Ross Miller, University of Maryland (2020).
 * [Mathematical Tools for Neuroscience (Neurobio 212 at Harvard)](https://github.com/ebatty/MathToolsforNeuroscience) by Ella Batty et al. (2021).
