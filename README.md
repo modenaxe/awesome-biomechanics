@@ -781,7 +781,7 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 * **DL_Track** by Neil Cronin et al. (2020). A deep learning approach for analysing muscle architecture from musculoskeletal ultrasound images. It allows to train new models, using new images or labelling those provided. It provides a trained model as well. </br>
 :page_facing_up: [preprint](https://arxiv.org/pdf/2009.04790.pdf) |
 [:dvd: dataset | :floppy_disk: source](https://github.com/njcronin/DL_Track) |
-[:computer:](https://github.com/PaulRitsche/DL_Track) by [Paul Ritsche](https://github.com/PaulRitsche)
+[:computer: GUI](https://github.com/PaulRitsche/DL_Track) by [Paul Ritsche](https://github.com/PaulRitsche)
 
 ### Muscle-Tendon Junction Tracking
 
