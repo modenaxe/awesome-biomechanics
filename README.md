@@ -100,6 +100,7 @@ See [how you can contribute](#contributing), it's easy!<!-- omit in toc -->
 :page_facing_up: [description of labs](https://docs.google.com/document/d/e/2PACX-1vTr1zOyrUedA1yx76olfDe5jn88miCNb3EJcC3INmy8nDmbJ8N5Y0B30EBoOunsWbA2DGOVWpgJzIs9/pub) |
 :floppy_disk: [code](https://github.com/patmorli/BPK-409)
 * [Introduction to Reinforcement Learning with David Silver](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver) by David Silver, DeepMind (2015).
+* [Statistical shape modelling](https://shapemodelling.cs.unibas.ch/ssm-course/) by the [Graphics and Vision research group](https://gravis.dmi.unibas.ch/) of the University of Basel. This is an introductory course in statistical shape modelling (partially hosted on Futurelearn). Its focus lies on the concept of Gaussian processes, and how these can be used to model shape variability. It also discusses simple algorithms for fitting models to surfaces and images.
 
 
 ### YouTube Channels :tv:
