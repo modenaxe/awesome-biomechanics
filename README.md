@@ -169,7 +169,7 @@ This section in under construction
 * [ASB Teaching Repository](http://asbteachingrepository.herokuapp.com/) by the American Society of Biomechanics. Does not require membership to access.
 * [Biomechanics Toolbar](http://www.biomechanicstoolbar.org/) by [Jos Vanrenterghem](https://www.kuleuven.be/wieiswie/en/person/00103997) (2016). The Biomechanics Toolbar is freeware designed to make data processing more accessible for undergraduate  teaching. It works as a traditional toolbar in Microsoft Excel.
 * [Biomechanics of Movement Classroom](https://simtk-confluence-homeworks.stanford.edu/display/BMH) by Tom Uchida et al. (2021). Free resources associated with the book [`Biomechanics of Movement: The Science of Sports, Robotics, and Rehabilitation`](https://mitpress.mit.edu/books/biomechanics-movement). </br>
-* [Biomechanics of Movement](https://www.youtube.com/channel/UCDNGy0KKNLQ-ztcL5h2Z6zA/featured) by Scott Delp. Video lectures for the [accompanying book](https://biomech.stanford.edu/) by Uchida and Delp. </br>
+* [Biomechanics of Movement](https://www.youtube.com/channel/UCDNGy0KKNLQ-ztcL5h2Z6zA/featured) video lectures by Scott Delp. Lectures for the [accompanying book](https://biomech.stanford.edu/) by Uchida and Delp. </br>
 * [Scientific Animation of Muscle Contraction](http://brule.co/lab/UGA/Contraction-musculaire-2/) by [Brule Design Studio](http://brule.co).  Press `Demo` to try it.
 * [Scientific Animation of Human Locomotion](http://brule.co/faire-comprendre/projet/locomotion) by [Brule Design Studio](http://brule.co). Press `Demo` to try it.
 * [Kwon3d website](http://www.kwon3d.com/theory/prac.html): website with theory about most basic topics in biomechanics.
