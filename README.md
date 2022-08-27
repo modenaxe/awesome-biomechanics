@@ -44,6 +44,8 @@ See [how you can contribute](#contributing), it's easy!<!-- omit in toc -->
 - [Tracking in Ultrasound Video Frames](#tracking-in-ultrasound-video-frames)
   - [Fascicle Tracking](#fascicle-tracking)
   - [Muscle-Tendon Junction Tracking](#muscle-tendon-junction-tracking)
+- [Muscle Parameter Segmentation in Ultrasound Images](#muscle-parameter-segmentation-in-ultrasound-images)
+  - [Anatomical Cross Sectional Area](#anatomical-cross-sectional-area)
 - [Modelling and Simulation :computer:](#modelling-and-simulation-computer)
   - [Anthropometric Models :standing_person:](#anthropometric-models-standing_person)
   - [Multibody and Physics Engines :sleeping::arrow_lower_left::apple:](#multibody-and-physics-engines-sleepingarrow_lower_leftapple)
@@ -801,6 +803,15 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 * **MTJtrack** by Krupenevich et al. (2021). MTJtrack provides trained networks for tracking MTJ positions in B-mode ultrasound images using DeepLabCut. </br>
 :page_facing_up: [paper](https://doi.org/10.1016/j.cmpb.2021.106120) | 
 :dvd: [trained networks](https://github.com/rlkrup/MTJtrack) 
+
+## Muscle Parameter Segmentation in Ultrasound Images
+### Anatomical Cross Sectional Area
+
+* **DeepACSA** by Ritsche et al. (2022). DeepACSA provides trained models and a GUI for automated segmentation of muscle anatomical cross-sectional area. </br>
+:page_facing_up: [paper](https://journals.lww.com/acsm-msse/Abstract/9900/DeepACSA__Automatic_Segmentation_of.87.aspx) |
+:dvd: [trained networks](https://doi.org/10.5281/zenodo.6953924) |
+:dvd: [image datasets](https://doi.org/10.5281/zenodo.5799204) |
+:floppy_disk: [source-code](https://github.com/PaulRitsche/DeepACSA)
   
 ## Modelling and Simulation :computer:
 
