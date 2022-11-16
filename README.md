@@ -1349,9 +1349,12 @@ Laboratoire Jacques-Louis Lions, Sorbonne University, Paris. FreeFEM is a partia
 :page_facing_up: [paper](https://doi.org/10.1016/j.medengphy.2006.10.014) |
 :computer: [website](http://www.bonemat.org/)
 
-* **py_bonemat_abaqus** by Elise Pegg from the University of Bath, UK. This python package provides tools to add material properties of bone to an ABAQUS finite element model input file, where the modulus of each element is defined based upon its corresponding CT data using the Hounsfield Unit (HU) and input parameters. The package aims to be equivalent to Bonemat software developed by researchers in Bologna, Italy, but tailored for ABAQUS finite element users  </br>
+* **py_bonemat_abaqus** by Elise Pegg from the University of Bath, UK. This 🐍 python package provides tools to add material properties of bone to an ABAQUS finite element model input file, where the modulus of each element is defined based upon its corresponding CT data using the Hounsfield Unit (HU) and input parameters. The package aims to be equivalent to Bonemat software developed by researchers in Bologna, Italy, but tailored for ABAQUS finite element users  </br>
 :page_facing_up: [paper](https://doi.org/10.1016/j.jbiomech.2016.07.037) |
 :floppy_disk: [source](https://github.com/elisepegg/py_bonemat_abaqus)
+
+* **bonemapy** by Michael Hogg. Bonemapy is an ABAQUS plug-in to map bone properties from CT scans to 3D finite element bone/implant models. This is typically used for applying heterogeneous material properties to the bone model.</br>
+:floppy_disk: [source](https://github.com/mhogg/bonemapy)
 
 * **GIBBON Toolbox** by [Kevin Moerman](https://kevinmoerman.org/). GIBBON (The Geometry and Image-Based Bioengineering add-On) is an open-source MATLAB toolbox that includes an array of image and geometry visualization and processing tools and is interfaced with free open source software such as TetGen, for robust tetrahedral meshing, and FEBio and Abaqus for finite element analysis. The combination provides a highly flexible image-based modelling environment and enables advanced inverse finite element analysis. </br> 
 :page_facing_up: [paper](https://joss.theoj.org/papers/10.21105/joss.00506) |
