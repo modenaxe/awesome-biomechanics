@@ -1552,6 +1552,7 @@ This section needs to be improved.
 * [GitHub Biomechnical repositories](https://github.com/topics/biomechanics)
 * [Open-Access Medical Image Repositories](http://www.aylward.org/notes/open-access-medical-image-repositories)
 * [Data Sources from Stanford's Mobilize Center](http://mobilize.stanford.edu/data-sources/)
+* [Awesome AI-based Protein Design](https://github.com/opendilab/awesome-AI-based-protein-design)
 
 
 ## Sandbox <!-- omit in toc -->
