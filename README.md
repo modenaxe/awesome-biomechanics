@@ -1023,7 +1023,8 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 
 * **Bioptim (Biomechanical optimal control** by Benjamin Michaud, François Bailly et al. (2021). Bioptim is an easy-to-use Python framework for biomechanical optimal control, handling musculoskeletal models. Relying on algorithmic differentiation and the multiple shooting formulation, bioptim interfaces nonlinear solvers to quickly provide dynamically consistent optimal solutions. The software is both computationally efficient (C++ core) and easily customizable, thanks to its Python interface. It allows to quickly define a variety of biomechanical problems such as motion tracking/prediction, muscle-driven simulations, parameters optimization, multiphase problems, etc. It is also intended for real-time applications such as moving horizon estimation and model predictive control. </br>
 :page_facing_up: [paper](https://ieeexplore.ieee.org/document/9808374) |
-:floppy_disk: [source](https://github.com/pyomeca/bioptim)
+:floppy_disk: [source](https://github.com/pyomeca/bioptim) | 
+:camera: [webinar](https://www.youtube.com/watch?v=z7fhKoW1y60)
 
 * **Crocoddyl (Contact Robot Optimal Control by Differential Dynamic Library)** by [Carlos Mastalli](https://cmastalli.github.io/) and [Rohan Budhiraja](https://scholar.google.com/citations?user=NW9Io9AAAAAJ) (2020). Croccoddyl is an optimal control library for robot control under contact sequence. Its solvers are based on novel and efficient Differential Dynamic Programming (DDP) algorithms. Crocoddyl computes optimal trajectories along with optimal feedback gains. It uses Pinocchio for fast computation of robots dynamics and their analytical derivatives.</br>
 :page_facing_up: [paper](https://doi.org/10.1109/ICRA40945.2020.9196673) |
