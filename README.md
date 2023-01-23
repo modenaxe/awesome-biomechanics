@@ -225,10 +225,11 @@ This section in under construction
 ### Human Anatomy :bone:
 
 #### Full Body 
-* **Visible Human Project**: public-domain library of cross-sectional cryosection, CT, and MRI images obtained from one male cadaver and one female cadaver. The dataset in NIfTI format, easier to import and use in segmentation software, were provided by Bart Bolsterlee (see further details [here](https://twitter.com/bartbolsterlee/status/1296594646898892800) and code for conversion [here](https://github.com/bartbols/VH2NIfTI)).      
+* **Visible Human Project**: public-domain library of cross-sectional cryosection, CT, and MRI images obtained from one male cadaver and one female cadaver. The dataset in NIfTI format, easier to import and use in segmentation software, were provided by Bart Bolsterlee (see further details [here](https://twitter.com/bartbolsterlee/status/1296594646898892800) and code for conversion [here](https://github.com/bartbols/VH2NIfTI)). The male and femal dataset were also entirely segmented in 2023 by Andreassen et al. (see their [paper](https://rdcu.be/c3GNc)).      
 :page_facing_up: [paper](https://doi.org/10.1109/5.662875) |
 :dvd: [dataset](https://www.nlm.nih.gov/databases/download/vhp.html) |
 :dvd: [dataset in NIfTI format](https://drive.google.com/drive/folders/1LBBIax6wpWBsiEcyXDrXNqyDSEB9rinO) |
+:dvd: [dataset segmented 2023](https://digitalcommons.du.edu/visiblehuman/) |
 :computer: [website](https://www.nlm.nih.gov/research/visible/visible_human.html) 
    
 * **Visible Korean Human**: similar to the Visible Human Project but on Korean cadavers. Segmentated images are provided together with the section images.  
