@@ -1367,7 +1367,7 @@ Laboratoire Jacques-Louis Lions, Sorbonne University, Paris. FreeFEM is a partia
 :page_facing_up: [paper](https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2017.0829) |
 :floppy_disk: [source](https://github.com/CELavecchia/LMG)
 
-* **MuscleForceDirection OpenSim plugin** by Luca Modenese et al. (2013). This is an OpenSim plugin that extracts the muscle lines of action of user-selected muscles for a given kinematics. It was created to help setting up finite element models that are consistent with musculoskeletal models. **TODO: ADD SOURCE</br>
+* **MuscleForceDirection OpenSim plugin** by Luca Modenese et al. (2013). This is an OpenSim plugin that extracts the muscle lines of action of user-selected muscles for a given kinematics. It was created to help setting up finite element models that are consistent with musculoskeletal models.</br>
 :page_facing_up: [paper2013](https://onlinelibrary.wiley.com/doi/full/10.1002/jor.22364) |
 :page_facing_up: [paper2015](https://www.tandfonline.com/doi/full/10.1080/23335432.2015.1017609#.VWFr6k-qpBc) |
 :computer: [website](https://simtk.org/projects/force_direction) |
