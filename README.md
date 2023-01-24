@@ -1371,7 +1371,7 @@ Laboratoire Jacques-Louis Lions, Sorbonne University, Paris. FreeFEM is a partia
 :page_facing_up: [paper2013](https://onlinelibrary.wiley.com/doi/full/10.1002/jor.22364) |
 :page_facing_up: [paper2015](https://www.tandfonline.com/doi/full/10.1080/23335432.2015.1017609#.VWFr6k-qpBc) |
 :computer: [website](https://simtk.org/projects/force_direction) |
-:floppy_disk: [source-COMING-SOON](tba)
+:floppy_disk: [source](https://github.com/modenaxe/MuscleForceDirection)
 
 * **ReadySim** by Donald Hume et al. (2020). ReadySim provides a means for researchers to perform musculoskeletal simulations directly in a finite element framework. The software uses MATLAB and Python to interface with ABAQUS/Explicit input and output files and includes modules for model segment scaling, kinematics estimation, and muscle force optimization. The JobQueue API allows for asynchronous process control via MATLAB to parallelize optimization problems and improve computational runtime when possible.</br>
 :page_facing_up: [paper](https://doi.org/10.1002/cnm.3396) |
