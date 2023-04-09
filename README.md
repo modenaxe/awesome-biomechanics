@@ -143,7 +143,7 @@ This section in under construction
 * [Scientific Python Lectures](https://github.com/jrjohansson/scientific-python-lectures): Lectures on scientific computing with python, as IPython notebooks by [Robert Johansson](https://github.com/jrjohansson).
 * [Python for Everybody](https://www.py4e.com/book): a freely available book to learn how to use Python. A pdf is available [here](http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf).
 * [Python Programming And Numerical Methods: A Guide For Engineers And Scientists](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html) by the University of California, Berkeley. Materials used in the class **E7: Introduction to computer programming for scientists and engineers**.
-* [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html) is a style guide iof dos and don’ts used in Google Python programs. Useful to set some guidelines on how you write code.
+* [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html) is a style guide of dos and don’ts used in Google Python programs. Useful to set some guidelines on how you write code.
 * [Python testing style guide](https://blog.thea.codes/my-python-testing-style-guide/): few suggestions on how to write tests for your python code.
 * [Matplotlib cheatsheet](https://github.com/matplotlib/cheatsheets/blob/master/cheatsheets.pdf)
 
@@ -591,7 +591,7 @@ This section in under construction
 :dvd: [dataset (GitHub](https://github.com/STAOpenData/Data) |
 :page_facing_up: [description of included datasets](https://ars.els-cdn.com/content/image/1-s2.0-S0021929017301008-mmc1.docx)
 
-* **To what extent is joint and muscle mechanics predicted by musculoskeletal models sensitive to soft tissue artefacts?** by Giuliano Lamberto et al. (2017). Models and data used in the the paper to simulate the soft tissue artefacts occurring during gait and their influence on the internal forces estimated by three musculoskeletal models of the lower limb.</br>
+* **To what extent is joint and muscle mechanics predicted by musculoskeletal models sensitive to soft tissue artefacts?** by Giuliano Lamberto et al. (2017). Models and data used in the paper to simulate the soft tissue artefacts occurring during gait and their influence on the internal forces estimated by three musculoskeletal models of the lower limb.</br>
 :page_facing_up: [paper](https://doi.org/10.1016/j.jbiomech.2016.07.042) |
 :dvd: [simulations data](https://figshare.shef.ac.uk/articles/dataset/To_what_extent_is_joint_and_muscle_mechanics_predicted_by_musculoskeletal_models_sensitive_to_soft_tissue_artefacts_/3502652)
 
