@@ -1419,6 +1419,14 @@ This section needs to be improved.
 :page_facing_up: [paper](https://doi.org/10.1016/j.jbiomech.2020.110106) |
 :floppy_disk: [code](https://github.com/johnwarmenhoven/PCA-FPCA)
 
+* [**JASP**](https://jasp-stats.org/) (@JASPStats): An open-source low-cost alternative to commercial statistical software.
+
+* [**jamovi**](https://www.jamovi.org/) (@jamovistats): An open-source statistical software platform based on R, making it accessible to users who are not familiar with R.
+
+* [**R**](https://www.r-project.org/) (@_R_Foundation): A free software environment for statistical computing and graphics.
+
+* [**RStudio**](https://www.rstudio.com/) #Posit (@posit_pbc): An IDE for R, including a console, syntax-highlighting editor, and tools for plotting and debugging.
+
 ## Scientific Data Visualization
 
 
