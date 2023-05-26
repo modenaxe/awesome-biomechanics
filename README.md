@@ -940,8 +940,8 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 
 * **MyoSuite** by MyoSuite Team. An open source contact-rich framework for musculoskeletal motor control. Allow for the fast simulation of upper and lower extremity NMS model controlled by reinforcement learning policy.</br>
 :page_facing_up: [paper](https://arxiv.org/abs/2205.13600) |
-:computer: [website](https://github.com/facebookresearch/myosuite) |
-:floppy_disk: [source](https://sites.google.com/view/myosuite)
+:computer: [website](https://sites.google.com/view/myosuite) |
+:floppy_disk: [source](https://github.com/facebookresearch/myosuite)
 
 * **OpenSim** by the National Center for Simulation in Rehabilitation Research, Stanford University. Open source software for biomechanical analysis and neuromusculoskeletal simulations.   
 :page_facing_up: [paper2007](https://ieeexplore.ieee.org/document/4352056) |
