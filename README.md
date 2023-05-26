@@ -938,7 +938,7 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 :page_facing_up: [paper](https://viterbi.usc.edu/pdfs/gloeb/95737.pdf) |
 :computer: [website](https://bme.usc.edu/msms-software-downloads/)
 
-* **MyoSuite** by MyoSuite Team. An open source contact-rich framework for musculoskeletal motor control. Allow for the fast simulation of upper and lower extremity NMS model controlled by reinforcement learning policy.
+* **MyoSuite** by MyoSuite Team. An open source contact-rich framework for musculoskeletal motor control. Allow for the fast simulation of upper and lower extremity NMS model controlled by reinforcement learning policy.</br>
 :page_facing_up: [paper](https://arxiv.org/abs/2205.13600) |
 :computer: [website](https://github.com/facebookresearch/myosuite) |
 :floppy_disk: [source](https://sites.google.com/view/myosuite)
