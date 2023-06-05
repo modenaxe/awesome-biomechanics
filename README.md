@@ -784,10 +784,13 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 :dvd: [dataset and paper code](https://zenodo.org/record/2598553#.X1o-b3lKgdU) |
 :floppy_disk: [source](https://github.com/joshrbaxter/ultrasound_tracking)
 
-* **DL_Track** by Neil Cronin et al. (2020). A deep learning approach for analysing muscle architecture from musculoskeletal ultrasound images. It allows to train new models, using new images or labelling those provided. It provides a trained model as well. </br>
+* **DL_Track_US** by Paul Ritsche, Olivier Seynnes & Neil Cronin (2023). DL_Track_US: a python package to analyse muscle ultrasonography images. Journal of Open Source Software, 8(85), 5206.
+:page_facing_up: [paper](https://joss.theoj.org/papers/10.21105/joss.05206) |
 :page_facing_up: [preprint](https://arxiv.org/pdf/2009.04790.pdf) |
-[:dvd: dataset | :floppy_disk: source](https://github.com/njcronin/DL_Track) |
-[:computer: GUI](https://github.com/PaulRitsche/DL_Track) by [Paul Ritsche](https://github.com/PaulRitsche)
+:dvd: dataset: [dataset & executable](https://zenodo.org/record/7866598) |
+:floppy_disk: [source](https://github.com/PaulRitsche/DL_Track_US) |
+:computer: [website](https://dltrack.readthedocs.io/en/latest/index.html)
+:star: [Python tools](https://pypi.org/project/DL-Track-US/)
 
 ### Muscle-Tendon Junction Tracking
 
@@ -810,9 +813,9 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 
 * **DeepACSA** by Ritsche et al. (2022). DeepACSA provides trained models and a GUI for automated segmentation of muscle anatomical cross-sectional area. </br>
 :page_facing_up: [paper](https://journals.lww.com/acsm-msse/Abstract/9900/DeepACSA__Automatic_Segmentation_of.87.aspx) |
-:dvd: [trained networks](https://doi.org/10.5281/zenodo.6953924) |
-:dvd: [image datasets](https://doi.org/10.5281/zenodo.5799204) |
-:floppy_disk: [source-code](https://github.com/PaulRitsche/DeepACSA)
+:dvd: [dataset & executable](https://doi.org/10.5281/zenodo.6953924) |
+:floppy_disk: [source-code](https://github.com/PaulRitsche/DeepACSA) |
+:computer: [website](https://deepacsa.readthedocs.io/en/latest/index.html)
   
 ## Modelling and Simulation :computer:
 
