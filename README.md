@@ -146,6 +146,7 @@ This section in under construction
 * [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html) is a style guide of dos and don’ts used in Google Python programs. Useful to set some guidelines on how you write code.
 * [Python testing style guide](https://blog.thea.codes/my-python-testing-style-guide/): few suggestions on how to write tests for your python code.
 * [Matplotlib cheatsheet](https://github.com/matplotlib/cheatsheets/blob/master/cheatsheets.pdf)
+* [Notes on Scientific Computing for Biomechanics and Motor Control](https://github.com/demotu/BMC) by [Marcos Duarte](https://github.com/demotu) and Renato Watanabe. A beautiful collection of lecture notes and code on scientific computing and data analysis for Biomechanics and Motor Control in the form of Jupyter notebooks (python).
 
 #### Julia
 * [Julia Language website](https://julialang.org/)
