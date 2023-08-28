@@ -147,6 +147,7 @@ This section in under construction
 * [Python testing style guide](https://blog.thea.codes/my-python-testing-style-guide/): few suggestions on how to write tests for your python code.
 * [Matplotlib cheatsheet](https://github.com/matplotlib/cheatsheets/blob/master/cheatsheets.pdf)
 * [Notes on Scientific Computing for Biomechanics and Motor Control](https://github.com/demotu/BMC) by [Marcos Duarte](https://github.com/demotu) and Renato Watanabe. A beautiful collection of lecture notes and code on scientific computing and data analysis for Biomechanics and Motor Control in the form of Jupyter notebooks (python).
+* [Biomechanical Analysis using Python and Kinetics Toolkit](https://kineticstoolkit.uqam.ca/doc/getting_started_intro.html) by [Félix Chénier](https://github.com/felixchenier). A free electronic book that guides new programmers from the basics to advanced, generic 3D biomechanical analysis. It is a precious resource because it includes practical tips to start programming, including Python and IDE setup.
 
 #### Julia
 * [Julia Language website](https://julialang.org/)
