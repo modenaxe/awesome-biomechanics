@@ -34,6 +34,7 @@ See [how you can contribute](#contributing), it's easy!<!-- omit in toc -->
   - [Soft Tissue Artefacts :leg:](#soft-tissue-artefacts-leg)
   - [Upper Limb Movements :muscle:](#upper-limb-movements-muscle)
   - [Walking :walking:](#walking-walking)
+  - [Reference Joint Kinematics](#reference-joint-kinematics)
 - [Gait Analysis and Motion Capture :cartwheeling:](#gait-analysis-and-motion-capture-cartwheeling)
   - [Gait Analysis Markersets :globe_with_meridians:](#gait-analysis-markersets-globe_with_meridians)
   - [Motion Capture Data Import and Processing](#motion-capture-data-import-and-processing)
@@ -597,6 +598,13 @@ This section in under construction
 :page_facing_up: [paper](https://doi.org/10.1016/j.jbiomech.2016.07.042) |
 :dvd: [simulations data](https://figshare.shef.ac.uk/articles/dataset/To_what_extent_is_joint_and_muscle_mechanics_predicted_by_musculoskeletal_models_sensitive_to_soft_tissue_artefacts_/3502652)
 
+### Reference Joint Kinematics
+
+* **Kinematics of the Normal Knee during Dynamic Activities: A Synthesis of Data from Intracortical Pins and Biplane Imaging** By X Gasparutto et al. (2017). synthesising
+the tibiofemoral kinematics measured with gold standard measurement methods. Published kinematic data were transformed in
+the standard recommended by the International Society of Biomechanics (ISB).   
+:page_facing_up: [paper](https://www.hindawi.com/journals/abb/2017/1908618/) |
+:dvd: [dataset]([https://simtk.org/projects/kneeloads](https://downloads.hindawi.com/journals/abb/2017/1908618.f2.xls))
 
 ### Health Datasets :heart:
 
