@@ -913,6 +913,11 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 :floppy_disk: [source](https://github.com/vcg-uvic/viper) |
 :video_camera: [video](https://www.youtube.com/watch?v=2CGRfJJEu38)
 
+* **Hill-type Knee Extension (KneeExt)** by Harald Penasso and Sigrid Thaller (2017). KneeExt provides simulation models for studying muscle behavior during dynamic knee extensions (knee approximated as hinge joint). The versions with and without elasticities can be used for non-linear parameter identification to determine neuromuscular properties non-invasively and in vivo from kinetic and kinematic data. The paper verifies the dynamics between contractile elements (CE), serial elastic elements (SEE), and parallel elastic elements (PEE) in simulated muscles. Users can change muscle properties to investigate how a parameter change affects muscle behavior.
+:page_facing_up: [paper](https://doi.org/10.1080/13873954.2017.1336633)
+:floppy_disk: [source with elasticities](https://github.com/haripen/KneeExt-Elastic)
+:floppy_disk: [source without elasticities](https://github.com/haripen/KneeExt)
+
 ### Biomechanical and Neuro-musculoskeletal Simulation Software :brain::arrow_right::leg:
 
 * **The AnyBody Modeling System** by AnyBody Technology. Commercial software for musculoskeletal modelling and simulation.</br>
