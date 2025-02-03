@@ -671,12 +671,15 @@ This section needs to be finalized.
 :computer: [documentation website](https://pyomeca.github.io/Documentation/ezc3d/) |
 :floppy_disk: [source](https://github.com/pyomeca/ezc3d)
 
-* **BTK - Biomechanical ToolKit** by Arnault Barre and Stephane Armand (2014). One of the most versatile, robust and reliable libraries for reading, importing nad handling motion capture data. Written in C++ with MATLAB and Python bindings. A fork of this library is used for importing c3d in OpenSim. </br>
+* **BTK - Biomechanical ToolKit** by Arnaud Barre and Stephane Armand (2014). One of the most versatile, robust and reliable libraries for reading, importing nad handling motion capture data. Written in C++ with MATLAB and Python bindings. A fork of this library is used for importing c3d in OpenSim. </br>
 :page_facing_up: [paper](https://doi.org/10.1016/j.cmpb.2014.01.012) |
 :computer: [website](http://biomechanical-toolkit.github.io/)
 :floppy_disk: [source](https://github.com/Biomechanical-ToolKit/BTKCore) |
 :floppy_disk: [conda](https://anaconda.org/conda-forge/btk) |
 :floppy_disk: [pyBTK (Python>=3.7)](https://pypi.org/project/pyBTK/)
+
+* **Moveck Bridge** by [Moveck](https://moveck.com/), is the new version of the Biomechanical ToolKit developed by Arnaud Barre through his company Moveck. The package aims to maintain the same API of the original BTK package for MATLAB and Python.</br>
+💾 [packages] (https://github.com/moveck-community/moveck_bridge_btk)
 
 * [MOKKA](https://biomechanical-toolkit.github.io/mokka/): GUI built on BTK functionalities. 
 Allows visualisation of c3d contents and basic processing, such as filtering and event detection. Great open source alternative to Vicon Nexus for these functionalities.</br>
