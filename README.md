@@ -219,8 +219,10 @@ This section in under construction
 * [Dynamics: Theory and Applications](https://ecommons.cornell.edu/handle/1813/638) by Kane and Levinson (1985).
 * [Dynamics of Human Gait (2nd Edition)](http://www.analizaruchu.awf.wroc.pl/materialy/vaughan-gaitbook.pdf) by Christopher Vaughan, Brian Davis and Jeremy O'Connor (1999).
 * [Experimental Methods in Biomechanics (link)](https://www.springer.com/us/book/9783030522551) by John Challis (2021).
+* [Handbook of Human Motion (First Edition)](https://doi.org/10.1007/978-3-319-14418-4)  Editors-in-Chief Bertram Müller and Sebastian I. Wolf (2018). This book is a large cross-disciplinary reference work which covers the many interlinked facets of the science and technology of human motion and its measurement.
 * [Power Analysis with Superpower](https://aaroncaldwell.us/SuperpowerBook/) by Caldwell et al. (2021). The book displays a variety of ways the R Superpower package can be used for power analysis and sample size planning for factorial experimental designs. 
 * [Reinforcement Learning: An Introduction](http://www.incompleteideas.net/book/the-book-2nd.html) by Richard S. Sutton and Andrew G. Barto (2018).
+* [Research Methods in Biomechanics (Second Edition)](https://us.humankinetics.com/products/research-methods-in-biomechanics-2nd-edition) by Gordon Robertson, Graham Caldwell, Joseph Hamill, Gary Kamen, and Saunders Whittlesey (2014). This book demonstrates the range of available research techniques and how to best apply this knowledge to ensure valid data collection.
 * [The ABC of EMG](https://hermanwallace.com/download/The_ABC_of_EMG_by_Peter_Konrad.pdf) by Peter Konrad (2005).
 * [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/) by Richard Feynman (1961-1963). Includes audio recordings.
 
