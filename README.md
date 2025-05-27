@@ -207,6 +207,7 @@ This section in under construction
 * [*VIRTUAL LABS IN BIOLOGICAL ANTHROPOLOGY*](https://hominin.anthropology.wisc.edu/virtual-labs.html) by John Hawks Laboratory (University of Wisconsin-Madison).
 * [Understanding p-values Through Simulations: An Interactive Visualization](https://rpsychologist.com/pvalue/) by Kristoffer Magnusson (2021). The goal of the page is to explain p-values through an interactive simulations.
 * [Python Tutor - Visualize code execution](http://pythontutor.com/index.html): this website helps understanding what happens as the computer runs each line of code. It can be used to run for running Python, Java, C, C++, JavaScript, and Ruby code in a web browser and see its execution visualized step by step.
+* [NonlinearContinuumMechanics](https://github.com/Kevin-Mattheus-Moerman/NonlinearContinuumMechanics/) by [Kevin Moerman](https://github.com/Kevin-Mattheus-Moerman), A Jupyter notebook featuring a detailed treatment of Ogden hyperelastic formulations and their implementation for uniaxial loading based model response analysis. Both theory and numerical implementation of the constrained, uncoupled, and coupled (unconstrained) formulations is treated. 
 
 ### Books :blue_book:
 
@@ -255,6 +256,7 @@ This section in under construction
 :page_facing_up: [paper](https://doi.org/10.1093/nar/gkn613) |
 :dvd: [dataset](http://lifesciencedb.jp/bp3d/) |
 :dvd: [STL files](https://github.com/Kevin-Mattheus-Moerman/BodyParts3D) 
+💾 [Julia code interface](https://github.com/Kevin-Mattheus-Moerman/BodyParts3D)
 
 #### Lower Limb Anatomy
 
@@ -1411,6 +1413,16 @@ Laboratoire Jacques-Louis Lions, Sorbonne University, Paris. FreeFEM is a partia
 :page_facing_up: [paper](https://joss.theoj.org/papers/10.21105/joss.02520) |
 :page_facing_up: [Users' Guide](https://arxiv.org/abs/1910.01412) |
 :floppy_disk: [code](https://github.com/gridap/Gridap.jl)
+
+* **Ferrite: A finite element toolbox written in Julia.**. </br>
+:page_facing_up: [citation](https://doi.org/10.5281/zenodo.15318619) |
+:page_facing_up: [Users' Guide](https://ferrite-fem.github.io/Ferrite.jl/stable/) |
+:floppy_disk: [code](https://github.com/Ferrite-FEM/Ferrite.jl)
+
+* **Comodo: An extensible Finite Element toolbox in Julia** by [Kevin Moerman](https://github.com/Kevin-Mattheus-Moerman). Comodo is a [Julia](https://julialang.org/) package for **computational (bio)mechanics and computational design**, and offers functionality for geometry processing, meshing, finite element analysis, automated design, topology optimisation, and image-based modelling. </br>
+:page_facing_up: [citation](https://doi.org/10.5281/zenodo.15084804) |
+:page_facing_up: [Users' Guide](https://comodo-research.github.io/Comodo.jl/dev/) |
+:floppy_disk: [code](https://github.com/COMODO-research/Comodo.jl)
 
 ### Finite Element Models
 
