@@ -789,7 +789,7 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 :page_facing_up: [accuracy paper](https://www.mdpi.com/1424-8220/22/7/2712) |
 :page_facing_up: [robustness paper](https://www.mdpi.com/1424-8220/21/19/6530)
 
-* **OpenCap** by Scott Uhlrich. Human movement dynamics from smartphone videos.</br>
+* **OpenCap** by Scott Uhlrich and Antoine Falisse. Human movement dynamics from smartphone videos.</br>
 :computer: [website](https://www.opencap.ai/) |
 :floppy_disk: [source](https://github.com/stanfordnmbl/opencap-core) |
 :page_facing_up: [paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011462)
