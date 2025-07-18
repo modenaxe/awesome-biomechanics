@@ -41,6 +41,7 @@ See [how you can contribute](#contributing), it's easy!<!-- omit in toc -->
     - [Marker Trajectory Gap filling](#marker-trajectory-gap-filling)
     - [Inertial Measurement Units](#inertial-measurement-units)
     - [2D video analysis](#2d-video-analysis)
+    - [3D video analysis](#3d-video-analysis)
   - [Videoradiography (Model-based and Marker-based Tracking)](#videoradiography-model-based-and-marker-based-tracking)
 - [Tracking in Ultrasound Video Frames](#tracking-in-ultrasound-video-frames)
   - [Fascicle Tracking](#fascicle-tracking)
@@ -766,6 +767,10 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 
 #### 2D video analysis
 
+* **Sports2D** by David Pagnon. Automatically compute 2D human pose and angles from a video or a webcam, all the way to OpenSim inverse kinematics.</br>
+:floppy_disk: [source](https://github.com/davidpagnon/Sports2D/) 
+:page_facing_up: [protocol paper](https://joss.theoj.org/papers/10.21105/joss.06849) |
+
 * **Kinovea** by Joan Charmant. Kinovea is a video player for sport analysis. It provides a set of tools to capture, slow down, study, compare, annotate and measure technical performances.</br>
 :computer: [website](https://www.kinovea.org/) |
 :floppy_disk: [source](https://github.com/Kinovea/Kinovea) |
@@ -776,6 +781,23 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 
 * **SkillSpector 1.3** is a video based motion and skill analysis tool for Windows. It allows video overlay for direct video on video comparison and 2D and 3D analysis, standard model definitions, semi-automatic digitizing using image processing techniques, analysis of linear and angular kinematic data, calculation of inertia, 3D representation of movement,simple video calibration.</br>
 :computer: [website](https://skillspector.software.informer.com/1.3/) 
+
+#### 3D video analysis
+* **Pose2Sim** by David Pagnon. Markerless kinematics with any set of cameras — From 2D Pose estimation to 3D OpenSim motion.</br>
+:floppy_disk: [source](https://github.com/perfanalytics/pose2sim) 
+:page_facing_up: [protocol paper](https://joss.theoj.org/papers/10.21105/joss.04362) |
+:page_facing_up: [accuracy paper](https://www.mdpi.com/1424-8220/22/7/2712) |
+:page_facing_up: [robustness paper](https://www.mdpi.com/1424-8220/21/19/6530)
+
+* **OpenCap** by Scott Uhlrich and Antoine Falisse. Human movement dynamics from smartphone videos.</br>
+:computer: [website](https://www.opencap.ai/) |
+:floppy_disk: [source](https://github.com/stanfordnmbl/opencap-core) |
+:page_facing_up: [paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011462)
+
+* **FreeMoCap** by John Matthis. Free Motion Capture for Everyone.</br>
+:computer: [website](https://freemocap.org/) |
+:floppy_disk: [source](https://github.com/freemocap/freemocap)
+
 
 ### Videoradiography (Model-based and Marker-based Tracking)
 
