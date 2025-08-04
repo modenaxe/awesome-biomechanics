@@ -748,7 +748,7 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 📄 [publication](https://isbweb.org/software/sigproc/bogert/filter.pdf)
 
 * **FootNet** by [Adrian R Rivadulla et al.](https://github.com/adrianrivadulla). FootNet is a kinematics and deep-learning based algorithm for the detection of foot-strike and toe-off events during treadmill running. The repository includes notebooks to replicate model development, the algorithm and implementation examples in Python and a workaround for Matlab.</br>
-📄 [paper](https://doi.org/10.1371/journal.pone.0248608)
+📄 [paper](https://doi.org/10.1371/journal.pone.0248608) |
 💾 [source](https://github.com/adrianrivadulla/FootNet)
 
 #### Marker Trajectory Gap filling
