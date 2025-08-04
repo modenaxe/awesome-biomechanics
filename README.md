@@ -579,8 +579,8 @@ This section in under construction
 * **CAMS-KNEE** by William Taylor et al. (2017). Datasets collected on a cohort of 6 subjects with instrumented knee implants (Charité – Universitätsmedizin Berlin) synchronized with a moving fluoroscope (ETH Zürich) and other measurement techniques (whole body kinematics, ground reaction forces, video data, and electromyography data) for multiple complete cycles of 5 activities of daily living. **Data must be requested submitting a project description.** I was NOT granted access to the entire data set for exploring the dataset.  
 **Link to live dataset is broken.**  </br>
 📄 [paper](https://doi.org/10.1016/j.jbiomech.2017.09.022) |
-:cd: [data request](https://cams-knee.orthoload.com/data/data-request/) |
-:cd: [live dataset (CAMS-KNEE workshop)](https://cams-knee.orthoload.com/workshop-data/) |
+💿 [data request](https://cams-knee.orthoload.com/data/data-request/) |
+📀 [live dataset (CAMS-KNEE workshop)](https://cams-knee.orthoload.com/workshop-data/) |
 💻 [website](https://cams-knee.orthoload.com/)
 
 ### Upper Limb Movements :muscle:
@@ -700,7 +700,7 @@ This section needs to be finalized.
 💾 [pyBTK (Python>=3.7)](https://pypi.org/project/pyBTK/)
 
 * **Moveck Bridge** by [Moveck](https://moveck.com/), is the new version of the Biomechanical ToolKit developed by Arnaud Barre through his company Moveck. The package aims to maintain the same API of the original BTK package for MATLAB and Python.</br>
-💾 [packages] (https://github.com/moveck-community/moveck_bridge_btk)
+💾 [packages](https://github.com/moveck-community/moveck_bridge_btk)
 
 * [MOKKA](https://biomechanical-toolkit.github.io/mokka/): GUI built on BTK functionalities. 
 Allows visualisation of c3d contents and basic processing, such as filtering and event detection. Great open source alternative to Vicon Nexus for these functionalities.</br>
