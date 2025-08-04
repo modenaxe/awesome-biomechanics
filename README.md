@@ -258,12 +258,12 @@ This section in under construction
 💻 [website](https://www.nlm.nih.gov/research/visible/visible_human.html)
 
 - **Visible Korean Human**: similar to the Visible Human Project but on Korean cadavers. Segmentated images are provided together with the section images.  
-:page_facing_up: [paper](https://doi.org/10.1109/TMI.2004.842454) |
-:dvd: [dataset](http://vkh.ajou.ac.kr/#vk) |
-:computer: [website](http://vkh.ajou.ac.kr) (scroll down for English version)
+📄 [paper](https://doi.org/10.1109/TMI.2004.842454) |
+📀 [dataset](http://vkh.ajou.ac.kr/#vk) |
+💻 [website](http://vkh.ajou.ac.kr) (scroll down for English version)
 
 - ~~**Chinese Visible Human**: similar to the Visible Human Project but on Chinese cadavers.~~ **the dataset does not seem to be available anymore**.  
-:page_facing_up: [paper](https://dx.doi.org/10.1111%2Fj.0021-8782.2004.00274.x)
+📄 [paper](https://dx.doi.org/10.1111%2Fj.0021-8782.2004.00274.x)
 
 - **New Mexico Decedent Image Database (NMDID)** by HJH Edgar et al. (2020). NMDID includes whole body CT scans of over 15,000 New Mexicans who died between 2010-2017. Each individual is represented by approximately 10,000 images in DICOM format. Slice thickness is 1 mm with 0.5 mm overlap. Normal and thin slice reconstructions are available for bone, lung, and brain. 3D reconstructions are possible with this data, depending on what viewer you use. Metadata includes almost 60 variables about the individuals’ demography, life and death (accessible for research separately from the CT scans). </br>
 :page_facing_up: [how to cite](https://nmdid.unm.edu/about/citation) |
@@ -273,27 +273,25 @@ This section in under construction
 [:dvd: dataset | :computer: website](https://www.cancerimagingarchive.net/)
 
 - **BodyParts3D** by Nobutaka Mitsuhashi et al. (2003). This is a 3D structure database for anatomical concepts that extends beyond biomechanics.  
-:page_facing_up: [paper](https://doi.org/10.1093/nar/gkn613) |
-:dvd: [dataset](http://lifesciencedb.jp/bp3d/) |
-:dvd: [STL files](https://github.com/Kevin-Mattheus-Moerman/BodyParts3D) 
+📄 [paper](https://doi.org/10.1093/nar/gkn613) |
+📀 [dataset](http://lifesciencedb.jp/bp3d/) |
+📀 [STL files](https://github.com/Kevin-Mattheus-Moerman/BodyParts3D) 
 💾 [Julia code interface](https://github.com/Kevin-Mattheus-Moerman/BodyParts3D)
 
 #### Lower Limb Anatomy
 
 * **fastMRI dataset** by Facebook AI and NYU (2019-2020). Data from more than 1,500 fully sampled knee MRIs obtained on 3 and 1.5 Tesla magnets and DICOM images from 10,000 clinical knee MRIs also obtained at 3 or 1.5 Tesla. Includes also brain scans. **No segmentation available.**</br>
 :page_facing_up: [paper](https://arxiv.org/abs/1811.08839?fbclid=IwAR1MuusEHDfRwQYb72OHKfdsL5F0OkCbdiI5wQsjJIQKMyAK-cao_wPYUN0) |
-:computer: [website](https://fastmri.org/dataset) |
-:star: [resources](https://github.com/facebookresearch/fastMRI/)
+💻 [website](https://fastmri.org/dataset) | ⭐ [resources](https://github.com/facebookresearch/fastMRI/)
 
 * **MRNet Dataset** by Stanford University Medical Center. The MRNet dataset consists of 1,370 knee MRI exams: 1,104 (80.6%) abnormal exams, with 319 (23.3%) ACL tears and 508 (37.1%) meniscal tears; labels were obtained through manual extraction from clinical reports. </br>
 * :page_facing_up: [paper](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002699) |
-:dvd: [dataset](https://stanfordmlgroup.github.io/competitions/mrnet/) |
-:computer: [website](https://stanfordmlgroup.github.io/competitions/mrnet/)
+📀 [dataset](https://stanfordmlgroup.github.io/competitions/mrnet/) |
+💻 [website](https://stanfordmlgroup.github.io/competitions/mrnet/)
 
 * **Talocrural Morphology: Statistical Shape Modeling with a Hybrid Multi-Articulation Joint Approach** by A Lenz et al. (2021). Segmented three-dimensional surface meshes (.ply) of weightbearing computed tomography (CT) images are included for the tibia, fibula and talus of 27 healthy participants. A sample weightbearing CT scan (.dicom) is provided to demonstrate image resolution, field of view and voxel size. Additionally, MATLAB scripts for calculating talocrural joint coverage, space and congruency are included in the resources. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4274217.svg)](https://doi.org/10.5281/zenodo.4274217)</br>
-:page_facing_up: [paper](https://www.nature.com/articles/s41598-021-86567-7) |
-:dvd: [dataset](https://zenodo.org/record/4274217#.YDeEG-j7SUn) |
-:star: [resources](https://github.com/Lenz-Lab/TalocruralShapeModeling/tree/v1.0)
+:page_facing_up: [paper](https://www.nature.com/articles/s41598-021-86567-7) | :dvd: [dataset](https://zenodo.org/record/4274217#.YDeEG-j7SUn) |
+ :star: [resources](https://github.com/Lenz-Lab/TalocruralShapeModeling/tree/v1.0)
 
 * **The Virtual Skeleton Database: An Open Access Repository for Biomedical Research and Collaboration** by Michael Kistler et al. (2013). Dataset including post mortem CT images of 50 subjects. **Despite several attempts I was never granted access to these data, although I know of others who did.**  
 :page_facing_up: [paper](https://dx.doi.org/10.2196%2Fjmir.2930) |
