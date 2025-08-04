@@ -1,42 +1,47 @@
 # Awesome Biomechanics [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=modenaxe.awesome-biomechanics)<!-- omit in toc -->
+
 ![logo](./images/awesome_biomechanics_logo.png)
+
 ### A curated repository of biomechanical resources  <!-- omit in toc -->
+
 #### Still a work in progress (might include incomplete descriptions), but contributions are welcome at any stage! :heart_eyes: 
 
 See [how you can contribute](#contributing), it's easy!<!-- omit in toc -->
 
 ## Table of contents <!-- omit in toc -->
+
 - [Learning](#learning)
   - [Online Courses :clapper:](#online-courses-clapper)
   - [YouTube Channels :tv:](#youtube-channels-tv)
-  - [Videos :video_camera:](#videos-video_camera)
+    - [Researchers](#researchers)
+  - [Videos :video\_camera:](#videos-video_camera)
   - [Learning to Code :construction:](#learning-to-code-construction)
     - [Python](#python)
     - [Julia](#julia)
-    - [Git](#git)
-  - [Teaching Resources :triangular_ruler:](#teaching-resources-triangular_ruler)
-  - [Books :blue_book:](#books-blue_book)
+    - [Git (source version control)](#git-source-version-control)
+  - [Teaching Resources :triangular\_ruler:](#teaching-resources-triangular_ruler)
+  - [Books :blue\_book:](#books-blue_book)
 - [Datasets :dvd:](#datasets-dvd)
-  - [Animal Anatomy and Anthropology :crocodile:](#animal-anatomy-and-anthropology-crocodile)
-  - [Balance :balance_scale:](#balance-balance_scale)
-  - [Electromyography (EMG) :electric_plug::muscle:](#emg-electric_plugmuscle)
-  - [Energetics :fire:](#energetics-fire)
-  - [Hand :palms_up_together:](#hand-palms_up_together)
-  - [Health Datasets :heart:](#health-datasets-heart)
   - [Human Anatomy :bone:](#human-anatomy-bone)
     - [Full Body](#full-body)
     - [Lower Limb Anatomy](#lower-limb-anatomy)
     - [Upper Extremity and Spine](#upper-extremity-and-spine)
     - [Muscle Anatomy and Parameters](#muscle-anatomy-and-parameters)
-  - [Instrumented Prostheses :chart_with_upwards_trend:](#instrumented-prostheses-chart_with_upwards_trend)
-  - [Rugby :rugby_football:](#rugby-rugby_football)
-  - [Running :running:](#running-running)
-  - [Soft Tissue Artefacts :leg:](#soft-tissue-artefacts-leg)
-  - [Upper Limb Movements :muscle:](#upper-limb-movements-muscle)
+  - [Animal Anatomy and Anthropology :crocodile:](#animal-anatomy-and-anthropology-crocodile)
+  - [Balance :balance\_scale:](#balance-balance_scale)
+  - [Energetics :fire:](#energetics-fire)
   - [Walking :walking:](#walking-walking)
+  - [Running :running:](#running-running)
+  - [Instrumented Prostheses :chart\_with\_upwards\_trend:](#instrumented-prostheses-chart_with_upwards_trend)
+  - [Upper Limb Movements :muscle:](#upper-limb-movements-muscle)
+  - [Hand :palms\_up\_together:](#hand-palms_up_together)
+  - [Soft Tissue Artefacts :leg:](#soft-tissue-artefacts-leg)
   - [Reference Joint Kinematics](#reference-joint-kinematics)
+  - [Health Datasets :heart:](#health-datasets-heart)
+  - [Rugby :rugby\_football:](#rugby-rugby_football)
+  - [EMG :electric\_plug::muscle:](#emg-electric_plugmuscle)
 - [Gait Analysis and Motion Capture :cartwheeling:](#gait-analysis-and-motion-capture-cartwheeling)
-  - [Gait Analysis Markersets :globe_with_meridians:](#gait-analysis-markersets-globe_with_meridians)
+  - [Gait Analysis Markersets :globe\_with\_meridians:](#gait-analysis-markersets-globe_with_meridians)
   - [Motion Capture Data Import and Processing](#motion-capture-data-import-and-processing)
     - [Marker Trajectory Gap filling](#marker-trajectory-gap-filling)
     - [Inertial Measurement Units](#inertial-measurement-units)
@@ -49,19 +54,19 @@ See [how you can contribute](#contributing), it's easy!<!-- omit in toc -->
 - [Muscle Parameter Segmentation in Ultrasound Images](#muscle-parameter-segmentation-in-ultrasound-images)
   - [Anatomical Cross Sectional Area](#anatomical-cross-sectional-area)
 - [Modelling and Simulation :computer:](#modelling-and-simulation-computer)
-  - [Anthropometric Models :standing_person:](#anthropometric-models-standing_person)
-  - [Multibody and Physics Engines :sleeping::arrow_lower_left::apple:](#multibody-and-physics-engines-sleepingarrow_lower_leftapple)
-  - [Computational Muscle Models 	:mechanical_arm:](#computational-muscle-models-mechanical_arm)
-  - [Biomechanical and Neuro-musculoskeletal Simulation Software :brain::arrow_right::leg:](#biomechanical-and-neuro-musculoskeletal-simulation-software-brainarrow_rightleg)
+  - [Anthropometric Models :standing\_person:](#anthropometric-models-standing_person)
+  - [Multibody and Physics Engines :sleeping::arrow\_lower\_left::apple:](#multibody-and-physics-engines-sleepingarrow_lower_leftapple)
+  - [Computational Muscle Models 	:mechanical\_arm:](#computational-muscle-models-mechanical_arm)
+  - [Biomechanical and Neuro-musculoskeletal Simulation Software :brain::arrow\_right::leg:](#biomechanical-and-neuro-musculoskeletal-simulation-software-brainarrow_rightleg)
   - [Real-Time Neuro-musculoskeletal Simulation Software](#real-time-neuro-musculoskeletal-simulation-software)
   - [Neuro-musculoskeletal Simulation Tools :brain::hammer:](#neuro-musculoskeletal-simulation-tools-brainhammer)
   - [Biomechanical Models](#biomechanical-models)
 - [Optimal Control and Trajectory Optimization :rocket:](#optimal-control-and-trajectory-optimization-rocket)
 - [Subject-Specific Modelling](#subject-specific-modelling)
   - [Segmentation of Medical Images :artist:](#segmentation-of-medical-images-artist)
-  - [Automatic Segmentation :mage_man:](#automatic-segmentation-mage_man)
+  - [Automatic Segmentation :mage\_man:](#automatic-segmentation-mage_man)
   - [Manipulation, Processing and Comparison of Surface Meshes](#manipulation-processing-and-comparison-of-surface-meshes)
-  - [Resources for Building Biomechanical Models from Medical Images :woman_technologist:](#resources-for-building-biomechanical-models-from-medical-images-woman_technologist)
+  - [Resources for Building Biomechanical Models from Medical Images :woman\_technologist:](#resources-for-building-biomechanical-models-from-medical-images-woman_technologist)
   - [Automatic Definition of Bony Landmarks and Reference Systems :skull:](#automatic-definition-of-bony-landmarks-and-reference-systems-skull)
   - [Uncertainty Quantification in Musculoskeletal Simulations :question:](#uncertainty-quantification-in-musculoskeletal-simulations-question)
   - [Meshers of Surface Models](#meshers-of-surface-models)
@@ -75,7 +80,7 @@ See [how you can contribute](#contributing), it's easy!<!-- omit in toc -->
 - [Scientific Data Visualization](#scientific-data-visualization)
 - [Reproducibility :gem:](#reproducibility-gem)
 - [Good practices for credible modeling](#good-practices-for-credible-modeling)
-- [Societies and Initiatives :classical_building:](#societies-and-initiatives-classical_building)
+- [Societies and Initiatives :classical\_building:](#societies-and-initiatives-classical_building)
 - [Miscellaneous Online Resources](#miscellaneous-online-resources)
   - [Blogging platforms](#blogging-platforms)
 - [More Datasets and repositories](#more-datasets-and-repositories)
@@ -90,172 +95,184 @@ See [how you can contribute](#contributing), it's easy!<!-- omit in toc -->
 ## Learning
 
 ### Online Courses :clapper:
-* [Lectures on animal locomotion](https://mchenrylab.bio.uci.edu/e139) by Manny Azizi and Matt McHenry, UC Irvine (2020).
-* [Lectures on multibody dynamics](https://www.youtube.com/watch?v=1Tyxgv7RUdk&list=PLzAwokZEM7auZEBOJKNa_lCgz2rdgpYLL) by [Jason Moore](https://www.moorepants.info/) at UC Davis (2017).
-* [KNES 789W - Advanced Projects in Kinesiology; Modeling & Simulation of Human Movement](https://www.youtube.com/watch?v=JXz5BHQBJhk&list=PLFNfmB3IG2Cf_0V5N9w_ZBKIHD2xg1H_g) by Ross Miller, University of Maryland (2020).
-* [Mathematical Tools for Neuroscience (Neurobio 212 at Harvard)](https://github.com/ebatty/MathToolsforNeuroscience) by Ella Batty et al. (2021).
-* [Mechanical Systems Design](https://biomechatronics.stanford.edu/mechanical-systems-design) by Steve Collins (Biomechatronics Lab, Stanford University). A Junior-level course that develops experience and confidence with: 1. An approach to mechanical systems design that incorporates ideation, back-of-the-envelope analysis, computational analysis, and prototyping, iteratively and with an appropriate balance for the domain. 2. Designing custom mechanical components, finding and selecting common machine elements, and selecting electric motors and transmission elements to meet performance, efficiency and reliability goals. A Twitter describing the materials is available [here](https://twitter.com/StevenHCollins/status/1401204277373067266).
-* [Neuromechanics course material](https://github.com/joshcash9/Neuromechanics_Course) by [Joshua Cashaback](https://github.com/joshcash9) (University of Delaware).
-* [Graduate Level Statistics Course with Biomedical Engineering Examples](https://github.com/joshcash9/Statistics_BME) by [Joshua Cashaback](https://github.com/joshcash9) (University of Delaware).
-* [Neuromatch Academy](https://www.youtube.com/channel/UC4LoD4yNBuLKQwDOV6t-KPw): [the Neuromatch Academy](https://www.neuromatchacademy.org/) aims to introduce traditional and emerging tools of computational neuroscience to trainees.
-* [Robotics 101: Computational Linear Algebra](https://robotics.umich.edu/2020/now-available-robotics-101-online/) by University of Michigan Robotics Institute (Fall 2020). The course includes [lecture videos](https://www.youtube.com/playlist?list=PLdPQZLMHRjDK8ZbLIcq1Q2PQobIi68dpv) and [GitHub resources](https://github.com/michiganrobotics/rob101), including the [lecture notes](https://github.com/michiganrobotics/rob101/tree/main/Lecture%20Notes).
-* [Quantitative methods in biomedical sciences](https://campbell-muscle-lab.github.io/teaching_PGY630_QM/): 16 week class taught by Ken Campbell at the University of Kentucky. A graduate-level class designed for PhD students and others who wish to develop skills relating to data analysis and interpretation, including data handling, plotting, statistics, and image analysis. The course uses MATLAB and materials are available on [GitHub](https://github.com/Campbell-Muscle-Lab/teaching_PGY630_QM).
-* [Sport Biomechanics Lecture Series](https://www.youtube.com/channel/UCmG-bd1JL1ACP7hMzIUXwOg) curated by Stuart McErlain-Naylor. Includes introductory topics like  presentations of motion capture techniques by Vicon ([lecture 1](https://www.youtube.com/watch?v=1zJ14cW-JqY) and [lecture 2](https://www.youtube.com/watch?v=hM7xEoyP-4o)) and an [introduction](https://www.youtube.com/watch?v=2xgyTpsa14M#) of electromyography (EMG) by Delsys.
-* [BPK 409: Wearable Technology and Human Physiology](https://www.youtube.com/channel/UClU9XVBC0mDwJBIVJTUbtwg/videos) by Max Donelan (Simon Fraser University). The course teaches to use state-of-the-art wearable technology to measure, analyze, and understand human physiological systems including muscular, nervous, and cardiovascular systems.</br>
+
+- [Lectures on animal locomotion](https://mchenrylab.bio.uci.edu/e139) by Manny Azizi and Matt McHenry, UC Irvine (2020).
+- [Lectures on multibody dynamics](https://www.youtube.com/watch?v=1Tyxgv7RUdk&list=PLzAwokZEM7auZEBOJKNa_lCgz2rdgpYLL) by [Jason Moore](https://www.moorepants.info/) at UC Davis (2017).
+- [KNES 789W - Advanced Projects in Kinesiology; Modeling & Simulation of Human Movement](https://www.youtube.com/watch?v=JXz5BHQBJhk&list=PLFNfmB3IG2Cf_0V5N9w_ZBKIHD2xg1H_g) by Ross Miller, University of Maryland (2020).
+- [Mathematical Tools for Neuroscience (Neurobio 212 at Harvard)](https://github.com/ebatty/MathToolsforNeuroscience) by Ella Batty et al. (2021).
+- [Mechanical Systems Design](https://biomechatronics.stanford.edu/mechanical-systems-design) by Steve Collins (Biomechatronics Lab, Stanford University). A Junior-level course that develops experience and confidence with: 1. An approach to mechanical systems design that incorporates ideation, back-of-the-envelope analysis, computational analysis, and prototyping, iteratively and with an appropriate balance for the domain. 2. Designing custom mechanical components, finding and selecting common machine elements, and selecting electric motors and transmission elements to meet performance, efficiency and reliability goals. A Twitter describing the materials is available [here](https://twitter.com/StevenHCollins/status/1401204277373067266).
+- [Neuromechanics course material](https://github.com/joshcash9/Neuromechanics_Course) by [Joshua Cashaback](https://github.com/joshcash9) (University of Delaware).
+- [Graduate Level Statistics Course with Biomedical Engineering Examples](https://github.com/joshcash9/Statistics_BME) by [Joshua Cashaback](https://github.com/joshcash9) (University of Delaware).
+- [Neuromatch Academy](https://www.youtube.com/channel/UC4LoD4yNBuLKQwDOV6t-KPw): [the Neuromatch Academy](https://www.neuromatchacademy.org/) aims to introduce traditional and emerging tools of computational neuroscience to trainees.
+- [Robotics 101: Computational Linear Algebra](https://robotics.umich.edu/2020/now-available-robotics-101-online/) by University of Michigan Robotics Institute (Fall 2020). The course includes [lecture videos](https://www.youtube.com/playlist?list=PLdPQZLMHRjDK8ZbLIcq1Q2PQobIi68dpv) and [GitHub resources](https://github.com/michiganrobotics/rob101), including the [lecture notes](https://github.com/michiganrobotics/rob101/tree/main/Lecture%20Notes).
+- [Quantitative methods in biomedical sciences](https://campbell-muscle-lab.github.io/teaching_PGY630_QM/): 16 week class taught by Ken Campbell at the University of Kentucky. A graduate-level class designed for PhD students and others who wish to develop skills relating to data analysis and interpretation, including data handling, plotting, statistics, and image analysis. The course uses MATLAB and materials are available on [GitHub](https://github.com/Campbell-Muscle-Lab/teaching_PGY630_QM).
+- [Sport Biomechanics Lecture Series](https://www.youtube.com/channel/UCmG-bd1JL1ACP7hMzIUXwOg) curated by Stuart McErlain-Naylor. Includes introductory topics like  presentations of motion capture techniques by Vicon ([lecture 1](https://www.youtube.com/watch?v=1zJ14cW-JqY) and [lecture 2](https://www.youtube.com/watch?v=hM7xEoyP-4o)) and an [introduction](https://www.youtube.com/watch?v=2xgyTpsa14M#) of electromyography (EMG) by Delsys.
+- [BPK 409: Wearable Technology and Human Physiology](https://www.youtube.com/channel/UClU9XVBC0mDwJBIVJTUbtwg/videos) by Max Donelan (Simon Fraser University). The course teaches to use state-of-the-art wearable technology to measure, analyze, and understand human physiological systems including muscular, nervous, and cardiovascular systems.</br>
 :page_facing_up: [description of labs](https://docs.google.com/document/d/e/2PACX-1vTr1zOyrUedA1yx76olfDe5jn88miCNb3EJcC3INmy8nDmbJ8N5Y0B30EBoOunsWbA2DGOVWpgJzIs9/pub) |
 :floppy_disk: [code](https://github.com/patmorli/BPK-409)
-* [Introduction to Reinforcement Learning with David Silver](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver) by David Silver, DeepMind (2015).
-* [Statistical shape modelling](https://shapemodelling.cs.unibas.ch/ssm-course/) by the [Graphics and Vision research group](https://gravis.dmi.unibas.ch/) of the University of Basel. This is an introductory course in statistical shape modelling (partially hosted on Futurelearn). Its focus lies on the concept of Gaussian processes, and how these can be used to model shape variability. It also discusses simple algorithms for fitting models to surfaces and images.
-
+- [Introduction to Reinforcement Learning with David Silver](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver) by David Silver, DeepMind (2015).
+- [Statistical shape modelling](https://shapemodelling.cs.unibas.ch/ssm-course/) by the [Graphics and Vision research group](https://gravis.dmi.unibas.ch/) of the University of Basel. This is an introductory course in statistical shape modelling (partially hosted on Futurelearn). Its focus lies on the concept of Gaussian processes, and how these can be used to model shape variability. It also discusses simple algorithms for fitting models to surfaces and images.
 
 ### YouTube Channels :tv:
-* [AnyBody Technology Videos and Webcasts](https://www.youtube.com/channel/UCbgDnEKXyYOETR_Nb6YdehA)
-* [American Society Biomechanics (ASB)](https://www.youtube.com/channel/UC0_WoykR3nSBrHAwyfLPzzw)
-* [BassettBiomechanics](https://www.youtube.com/c/Bassettbiomechanics/videos): includes a _Biomechanics of the Musculoskeletal System_ course and Visual3D tutorials.
-* [Biomch-V](https://www.youtube.com/channel/UCcv9iv6v4_l9dfDDW1PTZCA): includes videos from International Society of Biomechanics conferences.
-* [Dynamic Walking](https://www.youtube.com/channel/UC3as2QfbMLDpA8kN_KZAoNw)
-* [European Society of Biomechanics (ESB)](https://www.youtube.com/channel/UCFkgDwfks-UkG7IDk8cBMMQ)
-* [International Society of Biomechanics (tutorials and lectures)](https://isbweb.org/about-us/61-videos): It includes those recorded at the ISB congresses from 2007 and those provided by others.
-* [International Society of Biomechanics in Sports (ISBS)](https://www.youtube.com/channel/UCYkzE6y_eKWa7KQOqZ6ZQUA/featured?disable_polymer=1): videos from ISBS2020 virtual conference.
-* [Journal of Foot and Ankle Research](https://www.youtube.com/channel/UCuIdGMZMaDKRM7vyJ6Dbcwg)
-* [OpenSim Videos and Webinars](https://www.youtube.com/user/OpenSimVideos/videos)
-* [UCalgary Human Performance Lab](https://www.youtube.com/channel/UCxAOMJHF-5xQMFkLAutV7Dg/videos): videos from ISB/ASB2019 and Dynamic Walking 2019 conferences.
-* [Manoj Srinivasan's channel](https://www.youtube.com/user/sjonam/videos)
-* [Ross Miller's channel](https://www.youtube.com/channel/UCO_H7aZoIcwZiNc4KjiQQkg/videos) 
-* [Stuart McErlain-Naylor channel](https://www.youtube.com/channel/UCmG-bd1JL1ACP7hMzIUXwOg)
-* [Analysis of upright posture by force platform](https://www.youtube.com/playlist?list=PLw8zLrKDgyodwSxhtVFaFMrdhaS1H6jzB): videos produced by Felipe Fava de Lima about the use of force plataforms.
+
+- [AnyBody Technology Videos and Webcasts](https://www.youtube.com/channel/UCbgDnEKXyYOETR_Nb6YdehA)
+- [American Society Biomechanics (ASB)](https://www.youtube.com/channel/UC0_WoykR3nSBrHAwyfLPzzw)
+- [BassettBiomechanics](https://www.youtube.com/c/Bassettbiomechanics/videos): includes a _Biomechanics of the Musculoskeletal System_ course and Visual3D tutorials.
+- [Biomch-V](https://www.youtube.com/channel/UCcv9iv6v4_l9dfDDW1PTZCA): includes videos from International Society of Biomechanics conferences.
+- [Dynamic Walking](https://www.youtube.com/channel/UC3as2QfbMLDpA8kN_KZAoNw)
+- [European Society of Biomechanics (ESB)](https://www.youtube.com/channel/UCFkgDwfks-UkG7IDk8cBMMQ)
+- [International Society of Biomechanics (tutorials and lectures)](https://isbweb.org/about-us/61-videos): It includes those recorded at the ISB congresses from 2007 and those provided by others.
+- [International Society of Biomechanics in Sports (ISBS)](https://www.youtube.com/channel/UCYkzE6y_eKWa7KQOqZ6ZQUA/featured?disable_polymer=1): videos from ISBS2020 virtual conference.
+- [Journal of Foot and Ankle Research](https://www.youtube.com/channel/UCuIdGMZMaDKRM7vyJ6Dbcwg)
+- [Neuromech TV](https://www.youtube.com/@NeuromechTV): Youtube Channel by the Research Group on Applied Neuromechanics from the Federal University of Pampa, in Brazil. It aims to help students and scientists interested in the study of the human movement, and its related topics.
+- [OpenSim Videos and Webinars](https://www.youtube.com/user/OpenSimVideos/videos)
+- [UCalgary Human Performance Lab](https://www.youtube.com/channel/UCxAOMJHF-5xQMFkLAutV7Dg/videos): lots of very interesting videos from ISB/ASB2019 and Dynamic Walking 2019 conferences.
+
+#### Researchers
+
+- [Manoj Srinivasan's channel](https://www.youtube.com/user/sjonam/videos)
+- [Ross Miller's channel](https://www.youtube.com/channel/UCO_H7aZoIcwZiNc4KjiQQkg/videos)
+- [Stuart McErlain-Naylor channel](https://www.youtube.com/channel/UCmG-bd1JL1ACP7hMzIUXwOg)
+- [Luca Modenese's channel](https://www.youtube.com/channel/UCp08ZXIV056MxvOvdMeowtA)
+- [Thomas Geijtenbeek' channel (HyFyDy / SCONE)](https://www.youtube.com/@goatstream)
 
 ### Videos :video_camera:
-* [CNB-ASB Muscle Workshop](https://www.youtube.com/watch?v=Ur9wYYR0nac&feature=youtu.be): presentations on the topic `Integrative Muscle Modelling for Neuromechanics`.
-* [A critique of Induced Acceleration Analysis](https://www.youtube.com/watch?v=2EmwIM_uQnk&t=18s) by Andy Ruina (WCB2014).
-* [Biomechanics playlist](https://www.youtube.com/playlist?list=PLH144fs5LXOPFtafyiTVpXQBEpdrnfn3m) by Kath Boyer. Playlist of Youtube videos of biomechanical interest.
-* [F8 2019 - VR Full Body Tracking & Avatars](https://www.youtube.com/watch?v=FhiAFo9U_sM) and [blog post](https://uploadvr.com/facebook-f8-2019-body-tracking/)
-* [Running with bone pins](https://www.youtube.com/watch?v=nf6jkyNgkwE): video of data collection in subject running with bone pins shared by Ton Van den Bogert.
-* [Introduction to Trajectory Optimization](https://www.youtube.com/watch?v=wlkRYMVUZTs) by [Matthew Kelly](http://www.matthewpeterkelly.com/index.html). Very clear introduction to the topic with MATLAB resources linked in the video description.
-* [A free/opensource workflow from CT scan to FEA](https://peterfalkingham.com/2020/11/06/a-free-opensource-workflow-from-ct-scan-to-fea/) by [Peter L. Falkingham](https://peterfalkingham.com/):  workflow for carrying out finite element analysis (FEA) using free and open-source software (Dragonfly for segmentation, Blender for mesh refinement and FEBio for finite element analysis. Quick overview of the main steps.<br/>
-<!-- * https://www.goatstream.com/research/ -->
+
+- [A critique of Induced Acceleration Analysis](https://www.youtube.com/watch?v=2EmwIM_uQnk&t=18s) by Andy Ruina (WCB2014).
+- [Analysis of upright posture by force platform (in Portuguese with English subtitles)](https://www.youtube.com/playlist?list=PLw8zLrKDgyofy14nXcU1o4GyDEwmhi1nT): videos produced by Felipe Fava de Lima about the use of force plataforms.
+- [Biomechanics playlist](https://www.youtube.com/playlist?list=PLH144fs5LXOPFtafyiTVpXQBEpdrnfn3m) by Kath Boyer. Playlist of Youtube videos of biomechanical interest.
+- [CNB-ASB Muscle Workshop](https://www.youtube.com/watch?v=Ur9wYYR0nac&feature=youtu.be): presentations on the topic `Integrative Muscle Modelling for Neuromechanics`.
+- [F8 2019 - VR Full Body Tracking & Avatars](https://www.youtube.com/watch?v=FhiAFo9U_sM) and [blog post](https://uploadvr.com/facebook-f8-2019-body-tracking/)
+- [Running with bone pins](https://www.youtube.com/watch?v=nf6jkyNgkwE): video of data collection in subject running with bone pins shared by Ton Van den Bogert.
+- [Introduction to Trajectory Optimization](https://www.youtube.com/watch?v=wlkRYMVUZTs) by [Matthew Kelly](http://www.matthewpeterkelly.com/index.html). Very clear introduction to the topic with MATLAB resources linked in the video description.
+- [A free/opensource workflow from CT scan to FEA](https://peterfalkingham.com/2020/11/06/a-free-opensource-workflow-from-ct-scan-to-fea/) by [Peter L. Falkingham](https://peterfalkingham.com/):  workflow for carrying out finite element analysis (FEA) using free and open-source software (Dragonfly for segmentation, Blender for mesh refinement and FEBio for finite element analysis. Quick overview of the main steps.<br/>
 
 ### Learning to Code :construction:
 
 This section in under construction
 
 #### Python
-* [Python website](https://www.python.org/)
-* [Scipy Lecture Notes](https://scipy-lectures.org/): a set of tutorials on the scientific Python ecosystem: a quick introduction to central tools, modules and techniques. 
-* [Scientific Python Lectures](https://github.com/jrjohansson/scientific-python-lectures): Lectures on scientific computing with python, as IPython notebooks by [Robert Johansson](https://github.com/jrjohansson).
-* [Python for Everybody](https://www.py4e.com/book): a freely available book to learn how to use Python. A pdf is available [here](http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf).
-* [Python Programming And Numerical Methods: A Guide For Engineers And Scientists](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html) by the University of California, Berkeley. Materials used in the class **E7: Introduction to computer programming for scientists and engineers**.
-* [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html) is a style guide of dos and don’ts used in Google Python programs. Useful to set some guidelines on how you write code.
-* [Python testing style guide](https://blog.thea.codes/my-python-testing-style-guide/): few suggestions on how to write tests for your python code.
-* [Matplotlib cheatsheet](https://github.com/matplotlib/cheatsheets/blob/master/cheatsheets.pdf)
-* [Notes on Scientific Computing for Biomechanics and Motor Control](https://github.com/demotu/BMC) by [Marcos Duarte](https://github.com/demotu) and Renato Watanabe. A beautiful collection of lecture notes and code on scientific computing and data analysis for Biomechanics and Motor Control in the form of Jupyter notebooks (python).
-* [Biomechanical Analysis using Python and Kinetics Toolkit](https://kineticstoolkit.uqam.ca/doc/getting_started_intro.html) by [Félix Chénier](https://github.com/felixchenier). A free electronic book that guides new programmers from the basics to advanced, generic 3D biomechanical analysis. It is a precious resource because it includes practical tips to start programming, including Python and IDE setup.
+
+- [Python website](https://www.python.org/)
+- [Scipy Lecture Notes](https://scipy-lectures.org/): a set of tutorials on the scientific Python ecosystem: a quick introduction to central tools, modules and techniques. 
+- [Scientific Python Lectures](https://github.com/jrjohansson/scientific-python-lectures): Lectures on scientific computing with python, as IPython notebooks by [Robert Johansson](https://github.com/jrjohansson).
+- [Python for Everybody](https://www.py4e.com/book): a freely available book to learn how to use Python. A pdf is available [here](http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf).
+- [Python Programming And Numerical Methods: A Guide For Engineers And Scientists](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html) by the University of California, Berkeley. Materials used in the class **E7: Introduction to computer programming for scientists and engineers**.
+- [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html) is a style guide of dos and don’ts used in Google Python programs. Useful to set some guidelines on how you write code.
+- [Python testing style guide](https://blog.thea.codes/my-python-testing-style-guide/): few suggestions on how to write tests for your python code.
+- [Matplotlib cheatsheet](https://github.com/matplotlib/cheatsheets/blob/master/cheatsheets.pdf)
+- [Notes on Scientific Computing for Biomechanics and Motor Control](https://github.com/demotu/BMC) by [Marcos Duarte](https://github.com/demotu) and Renato Watanabe. A beautiful collection of lecture notes and code on scientific computing and data analysis for Biomechanics and Motor Control in the form of Jupyter notebooks (python).
+- [Biomechanical Analysis using Python and Kinetics Toolkit](https://kineticstoolkit.uqam.ca/doc/getting_started_intro.html) by [Félix Chénier](https://github.com/felixchenier). A free electronic book that guides new programmers from the basics to advanced, generic 3D biomechanical analysis. It is a precious resource because it includes practical tips to start programming, including Python and IDE setup.
 
 #### Julia
-* [Julia Language website](https://julialang.org/)
-* [Julia Academy](https://juliaacademy.com/): a collection of free learning resources for Julia, ranging from the basics to advanced topics.
 
-#### Git
-* [Version Control for Researchers](https://www.youtube.com/watch?v=6OkOmPqumWo&feature=emb_title) by [Ryan Alcantara](https://www.ryan-alcantara.com). Tutorial for ASB2020 introducing GitHub and version control for biomechanists. Accompanying tutorial material located at the [ASB_Tutorial repository](https://github.com/alcantarar/asb_tutorial).
-* [Atlassian Git tutorial](https://www.atlassian.com/git/tutorials): the most approachable and complete tutorials for git I have found online.
+- [Julia Language website](https://julialang.org/)
+- [Julia Academy](https://juliaacademy.com/): a collection of free learning resources for Julia, ranging from the basics to advanced topics.
+
+#### Git (source version control)
+
+- [Version Control for Researchers](https://www.youtube.com/watch?v=6OkOmPqumWo&feature=emb_title) by [Ryan Alcantara](https://www.ryan-alcantara.com). Tutorial for ASB2020 introducing GitHub and version control for biomechanists. Accompanying tutorial material located at the [ASB_Tutorial repository](https://github.com/alcantarar/asb_tutorial).
+- [Atlassian Git tutorial](https://www.atlassian.com/git/tutorials): the most approachable and complete tutorials for git I have found online.
 
 ### Teaching Resources :triangular_ruler:
-* [Anatomy Standard](https://www.anatomystandard.com/) by Jānis Šavlovskis and Kristaps Raits (2020). Project aiming at creating an evidence-based 3D model of the human body, create high-quality, interactive illustrations of the model, and share them here to provide a resource for teaching and explaining anatomy. Images are licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). </br>
-* [Anybodyrun](https://anybodyrun.com) by AnyBody Technology. This is a website where you can generate videos of full-body models of running based on principal components analysis. The approach behind the application is described on John Rasmussen's [blog](https://biomechanicsforeverybody.wordpress.com/).
-* [Bayesian Data Analysis course](https://avehtari.github.io/BDA_course_Aalto) by AKi Vehtari at Aalto University (2020).</br>
+
+- [Anatomy Standard](https://www.anatomystandard.com/) by Jānis Šavlovskis and Kristaps Raits (2020). Project aiming at creating an evidence-based 3D model of the human body, create high-quality, interactive illustrations of the model, and share them here to provide a resource for teaching and explaining anatomy. Images are licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). </br>
+- [Anybodyrun](https://anybodyrun.com) by AnyBody Technology. This is a website where you can generate videos of full-body models of running based on principal components analysis. The approach behind the application is described on John Rasmussen's [blog](https://biomechanicsforeverybody.wordpress.com/).
+- [Bayesian Data Analysis course](https://avehtari.github.io/BDA_course_Aalto) by AKi Vehtari at Aalto University (2020).</br>
 :floppy_disk: [code](https://github.com/avehtari/BDA_course_Aalto) |
 :page_facing_up: [book](https://users.aalto.fi/~ave/BDA3.pdf)
-* [Biomch-L discussions](https://biomch-l.isbweb.org/forum/biomch-l-forums/biomch-l-1988-2010): classic discussions from the archives of the LISTSERV Biomch-L database:
-    - [Joint Attitude Debate Summary](https://biomch-l.isbweb.org/forum/biomch-l-forums/biomch-l-1988-2010/189-joint-attitude-debate-final-reply-summary) by H. J. Woltring (1990).
-    - [3D Joint Power Debate Summaary](https://biomch-l.isbweb.org/forum/biomch-l-forums/biomch-l-1988-2010/14921-summary-3d-joint-power) by J. Rubenson (2004).
-* [Engineers Code](https://github.com/engineersCode) collection of Python :snake: resources developed by Lorena Barba et al. for teaching engineering computation.
-* [Graphical User Interfaces (GUI) for Research](https://imperialcollegelondon.github.io/GUIs-for-RS/): course by Imperial College London on principles to build research GUI. GitHub resources available [here](https://github.com/ImperialCollegeLondon/GUIs-for-RS). Recording of the lessons are available on [Youtube](https://www.youtube.com/channel/UCBnJTebN2rVnfmiXqUfsvtA).
-* [How to get meaningful and correct results from your finite element model](https://www.researchgate.net/publication/328956103_How_to_get_meaningful_and_correct_results_from_your_finite_element_model) by Martin Baeker (2018). This document gives guidelines to set up, run, and postprocess correct simulations with the finite element method. It is not an introduction to the method itself, but rather a list of things to check and possible mistakes to watch out for when doing a finite element simulation.</br>
-* [Julia notebooks on dynamic systems](https://github.com/alavendelm/julia-dynsys-resources) by Adam MacLean (2021).
-* [Muscle Atlas](https://rad.washington.edu/muscle-atlas/) by the Dept of Radiology of the University of Washington. The medical illustrations contained in this online atlas are copyrighted © 1997 by the University of Washington but receiving a license to use these images is generally quite easy, particularly for academic and scholarly purposes. For more information and obtaining a license [see this link](https://els2.comotion.uw.edu/product/musculoskeletal-atlas).
-* [ASB Teaching Repository](http://asbteachingrepository.herokuapp.com/) by the American Society of Biomechanics. Does not require membership to access.
-* [Biomechanics Toolbar](http://www.biomechanicstoolbar.org/) by [Jos Vanrenterghem](https://www.kuleuven.be/wieiswie/en/person/00103997) (2016). The Biomechanics Toolbar is freeware designed to make data processing more accessible for undergraduate  teaching. It works as a traditional toolbar in Microsoft Excel.
-* [Biomechanics of Movement Classroom](https://simtk-confluence-homeworks.stanford.edu/display/BMH) by Tom Uchida et al. (2021). Free resources associated with the book [`Biomechanics of Movement: The Science of Sports, Robotics, and Rehabilitation`](https://mitpress.mit.edu/books/biomechanics-movement). </br>
-* [Biomechanics of Movement](https://www.youtube.com/channel/UCDNGy0KKNLQ-ztcL5h2Z6zA/featured) video lectures by Scott Delp. Lectures for the [accompanying book](https://biomech.stanford.edu/) by Uchida and Delp. </br>
-* [Scientific Animation of Muscle Contraction](http://brule.co/lab/UGA/Contraction-musculaire-2/) by [Brule Design Studio](http://brule.co).  Press `Demo` to try it.
-* [Scientific Animation of Human Locomotion](http://brule.co/faire-comprendre/projet/locomotion) by [Brule Design Studio](http://brule.co). Press `Demo` to try it.
-* [Kwon3d website](http://www.kwon3d.com/theory/prac.html): website with theory about most basic topics in biomechanics.
-* [GitHub resources for teaching](https://classroom.github.com/classrooms): GitHub offers support for automating certain aspects of teaching.
-* [How to review a paper](https://www.sciencemag.org/careers/2016/09/how-review-paper) from Science Magazine.
-* [How to write a systematic review for Health](https://utas.libguides.com/SystematicReviews/) by the University of Tasmania.
-* [A roadmap for searching literature in PubMed](https://libguides.vu.nl/PMroadmap) by Vrije Universiteit Amsterdam.
-* [Interactive Simulations for Science and Math](https://phet.colorado.edu/) by the University of Colorado Boulder. Very intuitive and interactive simulations of phenomena and notions from Physics, Chemistry, Math, Earth Science and Biology.
-* [Kuo's course homeworks](https://github.com/kuo-courses): interesting homework materials used in Art Kuo's courses (public on GitHub).
-* [Manim: Mathematical Animation Engine](https://github.com/3b1b/manim) by [Grant Sanderson](https://github.com/3b1b). Manim is an engine for precise programatic animations, designed for creating explanatory math videos similar to those presented in the contents of [3Blue1Brown](https://www.3blue1brown.com).
-* [MoLib (Motion Library)](https://www.biomechanist.net/multimedia-libraries/motion-library/) from [The Biomechanist](https://www.biomechanist.net/): sample experimental data collected on one participant intended as tutorial for OpenSim processing. See related [post](https://www.biomechanist.net/how-to-use-motion-library/) by Markus Kurz.
-* [Trajectory Optimization Toolbox](https://github.com/MatthewPeterKelly/OptimTraj) by Matthew Kelly, including some [excellent examples](https://github.com/MatthewPeterKelly/dscTutorials) and some [course materials](https://github.com/MatthewPeterKelly/ME149_Spring2018).
-* [Notes on Scientific Computing for Biomechanics and Motor Control](https://github.com/BMClab/BMC) by Marcos Duarte and Renato Watanabe. A beautiful collection of lecture notes and code on scientific computing and data analysis for Biomechanics and Motor Control in the form of Jupyter notebooks (python).
-* [Optimal Control Workshop](https://simtk.org/projects/ocworkshop/) by BJ Fregly. Files distributed at the NSF-funded Optimal Control Workshop held on July 9, 2015 at the University of Edinburgh as part of the XV International Symposium on Computer Simulation in Biomechanics.
-* [OpenSim teaching Hub](https://simtk-confluence.stanford.edu/display/OpenSim/Teaching+Hub) by the OpenSim Team. Includes materials from the Neuromuscular Biomechanics Lab in the Department of Bioengineering at Stanford University. Does not require membership to access.
-* [ODE Integration Best Practices With Octave/Matlab](https://moorepants.github.io/eme171/ode-integration-best-practices-with-octavematlab.html) by by [Jason Moore](https://www.moorepants.info/) from his [EME 171: Analysis, Simulation and Design of Mechatronic Systems](https://moorepants.github.io/eme171/) course at UC Davis.
-* [Seeing theory](https://seeing-theory.brown.edu/): a visual introduction to probability and statistics by Daniel Kunin (Brown University).
-* [Teaching and Learning with Jupyter](https://jupyter4edu.github.io/jupyter-edu-book/) by Lorena Barba et al. (2019). This is a collaboratively written book including explanations and examples on many key topics of interest for those interested in using [Jupyter](https://jupyter.org/) in the classroom. 
-* [Tips for setting up remote lessons](https://www.3blue1brown.com/blog/livestream-setup) by Grant Sanderson, from the [3blue1brown Youtube Channel](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/videos).
-* [Tutorial: 3D Kinematics and Inverse Dynamics MATLAB scripts](https://uk.mathworks.com/matlabcentral/fileexchange/58021-3d-kinematics-and-inverse-dynamics?s_tid=prof_contriblnk) by Raphael Dumas, including some examples.
-* [Tutorial: Musculoskeletal Model for Simulation of Walking](https://www.youtube.com/watch?v=Z4BoVVpju88) by Van den Bogert's tutorial (Dynamic Walking, 2011), including a section on computational muscle modelling and one on walking simulation using a 2D musculoskeletal model.
-* [Tutorial: Kane’s Method for an inverted pendulum](https://figshare.com/articles/journal_contribution/Kane_pdf/7791647) by Ross Miller. A tutorial on Kane's Method for deriving equations of motion, demonstrated on an inverted pendulum.
-* Set of MATLAB/Python models shared by Ross Miller (2019-2020): 
-    - [Jumping model (5 dof)](https://figshare.com/articles/Jumping_model/7855673) 
-    - [Jumping model with foot (6 dof)](https://figshare.com/articles/dataset/Jumping_model_with_foot/7856141)
-    - [Sit-to-stand model](https://figshare.com/articles/software/Sit-to-stand_model/11987277)
-    - [Elbow model in Matlab](https://figshare.com/articles/software/Elbow_model_in_Matlab/9983402)
-* [*VIRTUAL LAB: Australopithecus afarensis KNEE JOINT*](https://hominin.anthropology.wisc.edu/virtual-lab-afarensis-femur-tibia.html) by John Hawks Laboratory (University of Wisconsin-Madison).
-* [*VIRTUAL LABS IN BIOLOGICAL ANTHROPOLOGY*](https://hominin.anthropology.wisc.edu/virtual-labs.html) by John Hawks Laboratory (University of Wisconsin-Madison).
-* [Understanding p-values Through Simulations: An Interactive Visualization](https://rpsychologist.com/pvalue/) by Kristoffer Magnusson (2021). The goal of the page is to explain p-values through an interactive simulations.
-* [Python Tutor - Visualize code execution](http://pythontutor.com/index.html): this website helps understanding what happens as the computer runs each line of code. It can be used to run for running Python, Java, C, C++, JavaScript, and Ruby code in a web browser and see its execution visualized step by step.
-* [NonlinearContinuumMechanics](https://github.com/Kevin-Mattheus-Moerman/NonlinearContinuumMechanics/) by [Kevin Moerman](https://github.com/Kevin-Mattheus-Moerman), A Jupyter notebook featuring a detailed treatment of Ogden hyperelastic formulations and their implementation for uniaxial loading based model response analysis. Both theory and numerical implementation of the constrained, uncoupled, and coupled (unconstrained) formulations is treated. 
+- [Biomch-L discussions](https://biomch-l.isbweb.org/forum/biomch-l-forums/biomch-l-1988-2010): classic discussions from the archives of the LISTSERV Biomch-L database:
+  - [Joint Attitude Debate Summary](https://biomch-l.isbweb.org/forum/biomch-l-forums/biomch-l-1988-2010/189-joint-attitude-debate-final-reply-summary) by H. J. Woltring (1990).
+  - [3D Joint Power Debate Summaary](https://biomch-l.isbweb.org/forum/biomch-l-forums/biomch-l-1988-2010/14921-summary-3d-joint-power) by J. Rubenson (2004).
+- [Engineers Code](https://github.com/engineersCode) collection of Python :snake: resources developed by Lorena Barba et al. for teaching engineering computation.
+- [Graphical User Interfaces (GUI) for Research](https://imperialcollegelondon.github.io/GUIs-for-RS/): course by Imperial College London on principles to build research GUI. GitHub resources available [at this link](https://github.com/ImperialCollegeLondon/GUIs-for-RS). Recording of the lessons are available on [Youtube](https://www.youtube.com/channel/UCBnJTebN2rVnfmiXqUfsvtA).
+- [How to get meaningful and correct results from your finite element model](https://www.researchgate.net/publication/328956103_How_to_get_meaningful_and_correct_results_from_your_finite_element_model) by Martin Baeker (2018). This document gives guidelines to set up, run, and postprocess correct simulations with the finite element method. It is not an introduction to the method itself, but rather a list of things to check and possible mistakes to watch out for when doing a finite element simulation.</br>
+- [Julia notebooks on dynamic systems](https://github.com/alavendelm/julia-dynsys-resources) by Adam MacLean (2021).
+- [Muscle Atlas](https://rad.washington.edu/muscle-atlas/) by the Dept of Radiology of the University of Washington. The medical illustrations contained in this online atlas are copyrighted © 1997 by the University of Washington but receiving a license to use these images is generally quite easy, particularly for academic and scholarly purposes. For more information and obtaining a license [see this link](https://els2.comotion.uw.edu/product/musculoskeletal-atlas).
+- [ASB Teaching Repository](http://asbteachingrepository.herokuapp.com/) by the American Society of Biomechanics. Does not require membership to access.
+- [Biomechanics Toolbar](http://www.biomechanicstoolbar.org/) by [Jos Vanrenterghem](https://www.kuleuven.be/wieiswie/en/person/00103997) (2016). The Biomechanics Toolbar is freeware designed to make data processing more accessible for undergraduate  teaching. It works as a traditional toolbar in Microsoft Excel.
+- [Biomechanics of Movement Classroom](https://simtk-confluence-homeworks.stanford.edu/display/BMH) by Tom Uchida et al. (2021). Free resources associated with the book [`Biomechanics of Movement: The Science of Sports, Robotics, and Rehabilitation`](https://mitpress.mit.edu/books/biomechanics-movement). </br>
+- [Biomechanics of Movement](https://www.youtube.com/channel/UCDNGy0KKNLQ-ztcL5h2Z6zA/featured) video lectures by Scott Delp. Lectures for the [accompanying book](https://biomech.stanford.edu/) by Uchida and Delp. </br>
+- [Scientific Animation of Muscle Contraction](http://brule.co/lab/UGA/Contraction-musculaire-2/) by [Brule Design Studio](http://brule.co).  Press `Demo` to try it.
+- [Scientific Animation of Human Locomotion](http://brule.co/faire-comprendre/projet/locomotion) by [Brule Design Studio](http://brule.co). Press `Demo` to try it.
+- [Kwon3d website](http://www.kwon3d.com/theory/prac.html): website with theory about most basic topics in biomechanics.
+- [GitHub resources for teaching](https://classroom.github.com/classrooms): GitHub offers support for automating certain aspects of teaching.
+- [How to review a paper](https://www.sciencemag.org/careers/2016/09/how-review-paper) from Science Magazine.
+- [How to write a systematic review for Health](https://utas.libguides.com/SystematicReviews/) by the University of Tasmania.
+- [A roadmap for searching literature in PubMed](https://libguides.vu.nl/PMroadmap) by Vrije Universiteit Amsterdam.
+- [Interactive Simulations for Science and Math](https://phet.colorado.edu/) by the University of Colorado Boulder. Very intuitive and interactive simulations of phenomena and notions from Physics, Chemistry, Math, Earth Science and Biology.
+- [Kuo's course homeworks](https://github.com/kuo-courses): interesting homework materials used in Art Kuo's courses (public on GitHub).
+- [Manim: Mathematical Animation Engine](https://github.com/3b1b/manim) by [Grant Sanderson](https://github.com/3b1b). Manim is an engine for precise programatic animations, designed for creating explanatory math videos similar to those presented in the contents of [3Blue1Brown](https://www.3blue1brown.com).
+- [MoLib (Motion Library)](https://www.biomechanist.net/multimedia-libraries/motion-library/) from [The Biomechanist](https://www.biomechanist.net/): sample experimental data collected on one participant intended as tutorial for OpenSim processing. See related [post](https://www.biomechanist.net/how-to-use-motion-library/) by Markus Kurz.
+- [Trajectory Optimization Toolbox](https://github.com/MatthewPeterKelly/OptimTraj) by Matthew Kelly, including some [excellent examples](https://github.com/MatthewPeterKelly/dscTutorials) and some [course materials](https://github.com/MatthewPeterKelly/ME149_Spring2018).
+- [Notes on Scientific Computing for Biomechanics and Motor Control](https://github.com/BMClab/BMC) by Marcos Duarte and Renato Watanabe. A beautiful collection of lecture notes and code on scientific computing and data analysis for Biomechanics and Motor Control in the form of Jupyter notebooks (python).
+- [Optimal Control Workshop](https://simtk.org/projects/ocworkshop/) by BJ Fregly. Files distributed at the NSF-funded Optimal Control Workshop held on July 9, 2015 at the University of Edinburgh as part of the XV International Symposium on Computer Simulation in Biomechanics.
+- [OpenSim teaching Hub](https://simtk-confluence.stanford.edu/display/OpenSim/Teaching+Hub) by the OpenSim Team. Includes materials from the Neuromuscular Biomechanics Lab in the Department of Bioengineering at Stanford University. Does not require membership to access.
+- [ODE Integration Best Practices With Octave/Matlab](https://moorepants.github.io/eme171/ode-integration-best-practices-with-octavematlab.html) by by [Jason Moore](https://www.moorepants.info/) from his [EME 171: Analysis, Simulation and Design of Mechatronic Systems](https://moorepants.github.io/eme171/) course at UC Davis.
+- [Seeing theory](https://seeing-theory.brown.edu/): a visual introduction to probability and statistics by Daniel Kunin (Brown University).
+- [Teaching and Learning with Jupyter](https://jupyter4edu.github.io/jupyter-edu-book/) by Lorena Barba et al. (2019). This is a collaboratively written book including explanations and examples on many key topics of interest for those interested in using [Jupyter](https://jupyter.org/) in the classroom. 
+- [Tips for setting up remote lessons](https://www.3blue1brown.com/blog/livestream-setup) by Grant Sanderson, from the [3blue1brown Youtube Channel](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/videos).
+- [Tutorial: 3D Kinematics and Inverse Dynamics MATLAB scripts](https://uk.mathworks.com/matlabcentral/fileexchange/58021-3d-kinematics-and-inverse-dynamics?s_tid=prof_contriblnk) by Raphael Dumas, including some examples.
+- [Tutorial: Musculoskeletal Model for Simulation of Walking](https://www.youtube.com/watch?v=Z4BoVVpju88) by Van den Bogert's tutorial (Dynamic Walking, 2011), including a section on computational muscle modelling and one on walking simulation using a 2D musculoskeletal model.
+- [Tutorial: Kane’s Method for an inverted pendulum](https://figshare.com/articles/journal_contribution/Kane_pdf/7791647) by Ross Miller. A tutorial on Kane's Method for deriving equations of motion, demonstrated on an inverted pendulum.
+- Set of MATLAB/Python models shared by Ross Miller (2019-2020): 
+  - [Jumping model (5 dof)](https://figshare.com/articles/Jumping_model/7855673) 
+  - [Jumping model with foot (6 dof)](https://figshare.com/articles/dataset/Jumping_model_with_foot/7856141)
+  - [Sit-to-stand model](https://figshare.com/articles/software/Sit-to-stand_model/11987277)
+  - [Elbow model in Matlab](https://figshare.com/articles/software/Elbow_model_in_Matlab/9983402)
+- [*VIRTUAL LAB: Australopithecus afarensis KNEE JOINT*](https://hominin.anthropology.wisc.edu/virtual-lab-afarensis-femur-tibia.html) by John Hawks Laboratory (University of Wisconsin-Madison).
+- [*VIRTUAL LABS IN BIOLOGICAL ANTHROPOLOGY*](https://hominin.anthropology.wisc.edu/virtual-labs.html) by John Hawks Laboratory (University of Wisconsin-Madison).
+- [Understanding p-values Through Simulations: An Interactive Visualization](https://rpsychologist.com/pvalue/) by Kristoffer Magnusson (2021). The goal of the page is to explain p-values through an interactive simulations.
+- [Python Tutor - Visualize code execution](http://pythontutor.com/index.html): this website helps understanding what happens as the computer runs each line of code. It can be used to run for running Python, Java, C, C++, JavaScript, and Ruby code in a web browser and see its execution visualized step by step.
+- [NonlinearContinuumMechanics](https://github.com/Kevin-Mattheus-Moerman/NonlinearContinuumMechanics/) by [Kevin Moerman](https://github.com/Kevin-Mattheus-Moerman), A Jupyter notebook featuring a detailed treatment of Ogden hyperelastic formulations and their implementation for uniaxial loading based model response analysis. Both theory and numerical implementation of the constrained, uncoupled, and coupled (unconstrained) formulations is treated.
 
 ### Books :blue_book:
 
-* [Biomechanics and Motor Control of Human Movement (4th Edition)](https://edisciplinas.usp.br/pluginfile.php/4174628/mod_resource/content/2/David%20A.%20Winter-Biomechanics%20and%20Motor%20Control%20of%20Human%20Movement-Wiley%20%282009%29.pdf) by David A. Winter.
-* [Calculus made Easy](http://calculusmadeeasy.org) by Silvanus P. Thompson.
-* [Computer-Aided Analysis of Mechanical Systems](http://www.u.arizona.edu/~pen/ame553/) by P.E. Nikravesh (1998).
-* [Computer Aided Kinematics And Dynamics Of Mechanical Systems](https://archive.org/details/computeraidedkinematicsanddynamicsofmechanicalsystems_202004/mode/2up) by Edward J. Haug (1989).
-* [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) by Steven Boyd and Lieven Vandenberghe (2004).
-* [Dynamics: Theory and Applications](https://ecommons.cornell.edu/handle/1813/638) by Kane and Levinson (1985).
-* [Dynamics of Human Gait (2nd Edition)](http://www.analizaruchu.awf.wroc.pl/materialy/vaughan-gaitbook.pdf) by Christopher Vaughan, Brian Davis and Jeremy O'Connor (1999).
-* [Experimental Methods in Biomechanics (link)](https://www.springer.com/us/book/9783030522551) by John Challis (2021).
-* [Handbook of Human Motion (First Edition)](https://doi.org/10.1007/978-3-319-14418-4)  Editors-in-Chief Bertram Müller and Sebastian I. Wolf (2018). This book is a large cross-disciplinary reference work which covers the many interlinked facets of the science and technology of human motion and its measurement.
-* [Power Analysis with Superpower](https://aaroncaldwell.us/SuperpowerBook/) by Caldwell et al. (2021). The book displays a variety of ways the R Superpower package can be used for power analysis and sample size planning for factorial experimental designs. 
-* [Reinforcement Learning: An Introduction](http://www.incompleteideas.net/book/the-book-2nd.html) by Richard S. Sutton and Andrew G. Barto (2018).
-* [Research Methods in Biomechanics (Second Edition)](https://us.humankinetics.com/products/research-methods-in-biomechanics-2nd-edition) by Gordon Robertson, Graham Caldwell, Joseph Hamill, Gary Kamen, and Saunders Whittlesey (2014). This book demonstrates the range of available research techniques and how to best apply this knowledge to ensure valid data collection.
-* [The ABC of EMG](https://hermanwallace.com/download/The_ABC_of_EMG_by_Peter_Konrad.pdf) by Peter Konrad (2005).
-* [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/) by Richard Feynman (1961-1963). Includes audio recordings.
+- [Biomechanics and Motor Control of Human Movement (4th Edition)](https://edisciplinas.usp.br/pluginfile.php/4174628/mod_resource/content/2/David%20A.%20Winter-Biomechanics%20and%20Motor%20Control%20of%20Human%20Movement-Wiley%20%282009%29.pdf) by David A. Winter.
+- [Calculus made Easy](http://calculusmadeeasy.org) by Silvanus P. Thompson.
+- [Computer-Aided Analysis of Mechanical Systems](http://www.u.arizona.edu/~pen/ame553/) by P.E. Nikravesh (1998).
+- [Computer Aided Kinematics And Dynamics Of Mechanical Systems](https://archive.org/details/computeraidedkinematicsanddynamicsofmechanicalsystems_202004/mode/2up) by Edward J. Haug (1989).
+- [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) by Steven Boyd and Lieven Vandenberghe (2004).
+- [Dynamics: Theory and Applications](https://ecommons.cornell.edu/handle/1813/638) by Kane and Levinson (1985).
+- [Dynamics of Human Gait (2nd Edition)](http://www.analizaruchu.awf.wroc.pl/materialy/vaughan-gaitbook.pdf) by Christopher Vaughan, Brian Davis and Jeremy O'Connor (1999).
+- [Experimental Methods in Biomechanics (link)](https://www.springer.com/us/book/9783030522551) by John Challis (2021).
+- [Handbook of Human Motion (First Edition)](https://doi.org/10.1007/978-3-319-14418-4)  Editors-in-Chief Bertram Müller and Sebastian I. Wolf (2018). This book is a large cross-disciplinary reference work which covers the many interlinked facets of the science and technology of human motion and its measurement.
+- [Power Analysis with Superpower](https://aaroncaldwell.us/SuperpowerBook/) by Caldwell et al. (2021). The book displays a variety of ways the R Superpower package can be used for power analysis and sample size planning for factorial experimental designs. 
+- [Reinforcement Learning: An Introduction](http://www.incompleteideas.net/book/the-book-2nd.html) by Richard S. Sutton and Andrew G. Barto (2018).
+- [Research Methods in Biomechanics (Second Edition)](https://us.humankinetics.com/products/research-methods-in-biomechanics-2nd-edition) by Gordon Robertson, Graham Caldwell, Joseph Hamill, Gary Kamen, and Saunders Whittlesey (2014). This book demonstrates the range of available research techniques and how to best apply this knowledge to ensure valid data collection.
+- [The ABC of EMG](https://hermanwallace.com/download/The_ABC_of_EMG_by_Peter_Konrad.pdf) by Peter Konrad (2005).
+- [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/) by Richard Feynman (1961-1963). Includes audio recordings.
 
 ## Datasets :dvd:
 
 ### Human Anatomy :bone:
 
-#### Full Body 
-* **Visible Human Project**: public-domain library of cross-sectional cryosection, CT, and MRI images obtained from one male cadaver and one female cadaver. The dataset in NIfTI format, easier to import and use in segmentation software, were provided by Bart Bolsterlee (see further details [here](https://twitter.com/bartbolsterlee/status/1296594646898892800) and code for conversion [here](https://github.com/bartbols/VH2NIfTI)). The male and female dataset were also entirely segmented in 2023 by Andreassen et al. (see their [paper](https://rdcu.be/c3GNc)).      
+#### Full Body
+
+- **Visible Human Project**: public-domain library of cross-sectional cryosection, CT, and MRI images obtained from one male cadaver and one female cadaver. The dataset in NIfTI format, easier to import and use in segmentation software, were provided by Bart Bolsterlee (see further details [at this link](https://twitter.com/bartbolsterlee/status/1296594646898892800) and code for conversion [at this repository](https://github.com/bartbols/VH2NIfTI)). The male and female dataset were also entirely segmented in 2023 by Andreassen et al. (see their [paper](https://rdcu.be/c3GNc)).      
 :page_facing_up: [paper](https://doi.org/10.1109/5.662875) |
 :dvd: [dataset](https://www.nlm.nih.gov/databases/download/vhp.html) |
 :dvd: [dataset in NIfTI format](https://drive.google.com/drive/folders/1LBBIax6wpWBsiEcyXDrXNqyDSEB9rinO) |
 :dvd: [dataset segmented 2023](https://digitalcommons.du.edu/visiblehuman/) |
-:computer: [website](https://www.nlm.nih.gov/research/visible/visible_human.html) 
-   
-* **Visible Korean Human**: similar to the Visible Human Project but on Korean cadavers. Segmentated images are provided together with the section images.  
+:computer: [website](https://www.nlm.nih.gov/research/visible/visible_human.html)
+
+- **Visible Korean Human**: similar to the Visible Human Project but on Korean cadavers. Segmentated images are provided together with the section images.  
 :page_facing_up: [paper](https://doi.org/10.1109/TMI.2004.842454) |
 :dvd: [dataset](http://vkh.ajou.ac.kr/#vk) |
 :computer: [website](http://vkh.ajou.ac.kr) (scroll down for English version)
 
-* ~~**Chinese Visible Human**: similar to the Visible Human Project but on Chinese cadavers.~~ **the dataset does not seem to be available anymore**, despite being still listed on a [related website](https://appsrv.cse.cuhk.edu.hk/~vrcentre/index.html).  
+- ~~**Chinese Visible Human**: similar to the Visible Human Project but on Chinese cadavers.~~ **the dataset does not seem to be available anymore**, despite being still listed on a [related website](https://appsrv.cse.cuhk.edu.hk/~vrcentre/index.html).  
 :page_facing_up: [paper](https://dx.doi.org/10.1111%2Fj.0021-8782.2004.00274.x) |
 :computer: [website](http://www.chinesevisiblehuman.com)
 
-* **New Mexico Decedent Image Database (NMDID)** by HJH Edgar et al. (2020). NMDID includes whole body CT scans of over 15,000 New Mexicans who died between 2010-2017. Each individual is represented by approximately 10,000 images in DICOM format. Slice thickness is 1 mm with 0.5 mm overlap. Normal and thin slice reconstructions are available for bone, lung, and brain. 3D reconstructions are possible with this data, depending on what viewer you use. Metadata includes almost 60 variables about the individuals’ demography, life and death (accessible for research separately from the CT scans). </br>
+- **New Mexico Decedent Image Database (NMDID)** by HJH Edgar et al. (2020). NMDID includes whole body CT scans of over 15,000 New Mexicans who died between 2010-2017. Each individual is represented by approximately 10,000 images in DICOM format. Slice thickness is 1 mm with 0.5 mm overlap. Normal and thin slice reconstructions are available for bone, lung, and brain. 3D reconstructions are possible with this data, depending on what viewer you use. Metadata includes almost 60 variables about the individuals’ demography, life and death (accessible for research separately from the CT scans). </br>
 :page_facing_up: [how to cite](https://nmdid.unm.edu/about/citation) |
 [:dvd: dataset | :computer: website](https://nmdid.unm.edu)
 
-* **Cancer Imaging Archive** is a service which de-identifies and hosts a large archive of medical images of cancer accessible for public download. The data are organized as “collections”; typically patients’ imaging related by a common disease (e.g. lung cancer), image modality or type (MRI, CT, digital distopathology, etc) or research focus. DICOM is the primary file format used by TCIA for radiology imaging. Supporting data related to the images such as patient outcomes, treatment details, genomics and expert analyses are also provided when available.</br>
+- **Cancer Imaging Archive** is a service which de-identifies and hosts a large archive of medical images of cancer accessible for public download. The data are organized as “collections”; typically patients’ imaging related by a common disease (e.g. lung cancer), image modality or type (MRI, CT, digital distopathology, etc) or research focus. DICOM is the primary file format used by TCIA for radiology imaging. Supporting data related to the images such as patient outcomes, treatment details, genomics and expert analyses are also provided when available.</br>
 [:dvd: dataset | :computer: website](https://www.cancerimagingarchive.net/)
 
-* **BodyParts3D** by Nobutaka Mitsuhashi et al. (2003). This is a 3D structure database for anatomical concepts that extends beyond biomechanics.  
+- **BodyParts3D** by Nobutaka Mitsuhashi et al. (2003). This is a 3D structure database for anatomical concepts that extends beyond biomechanics.  
 :page_facing_up: [paper](https://doi.org/10.1093/nar/gkn613) |
 :dvd: [dataset](http://lifesciencedb.jp/bp3d/) |
 :dvd: [STL files](https://github.com/Kevin-Mattheus-Moerman/BodyParts3D) 
