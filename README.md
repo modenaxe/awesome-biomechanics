@@ -280,54 +280,54 @@ This section in under construction
 
 #### Lower Limb Anatomy
 
-* **fastMRI dataset** by Facebook AI and NYU (2019-2020). Data from more than 1,500 fully sampled knee MRIs obtained on 3 and 1.5 Tesla magnets and DICOM images from 10,000 clinical knee MRIs also obtained at 3 or 1.5 Tesla. Includes also brain scans. **No segmentation available.**</br>
+- **fastMRI dataset** by Facebook AI and NYU (2019-2020). Data from more than 1,500 fully sampled knee MRIs obtained on 3 and 1.5 Tesla magnets and DICOM images from 10,000 clinical knee MRIs also obtained at 3 or 1.5 Tesla. Includes also brain scans. **No segmentation available.**</br>
 :page_facing_up: [paper](https://arxiv.org/abs/1811.08839?fbclid=IwAR1MuusEHDfRwQYb72OHKfdsL5F0OkCbdiI5wQsjJIQKMyAK-cao_wPYUN0) |
 💻 [website](https://fastmri.org/dataset) | ⭐ [resources](https://github.com/facebookresearch/fastMRI/)
 
-* **MRNet Dataset** by Stanford University Medical Center. The MRNet dataset consists of 1,370 knee MRI exams: 1,104 (80.6%) abnormal exams, with 319 (23.3%) ACL tears and 508 (37.1%) meniscal tears; labels were obtained through manual extraction from clinical reports. </br>
-* :page_facing_up: [paper](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002699) |
+- **MRNet Dataset** by Stanford University Medical Center. The MRNet dataset consists of 1,370 knee MRI exams: 1,104 (80.6%) abnormal exams, with 319 (23.3%) ACL tears and 508 (37.1%) meniscal tears; labels were obtained through manual extraction from clinical reports. </br>
+📄 [paper](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002699) |
 📀 [dataset](https://stanfordmlgroup.github.io/competitions/mrnet/) |
 💻 [website](https://stanfordmlgroup.github.io/competitions/mrnet/)
 
-* **Talocrural Morphology: Statistical Shape Modeling with a Hybrid Multi-Articulation Joint Approach** by A Lenz et al. (2021). Segmented three-dimensional surface meshes (.ply) of weightbearing computed tomography (CT) images are included for the tibia, fibula and talus of 27 healthy participants. A sample weightbearing CT scan (.dicom) is provided to demonstrate image resolution, field of view and voxel size. Additionally, MATLAB scripts for calculating talocrural joint coverage, space and congruency are included in the resources. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4274217.svg)](https://doi.org/10.5281/zenodo.4274217)</br>
-:page_facing_up: [paper](https://www.nature.com/articles/s41598-021-86567-7) | :dvd: [dataset](https://zenodo.org/record/4274217#.YDeEG-j7SUn) |
- :star: [resources](https://github.com/Lenz-Lab/TalocruralShapeModeling/tree/v1.0)
+- **Talocrural Morphology: Statistical Shape Modeling with a Hybrid Multi-Articulation Joint Approach** by A Lenz et al. (2021). Segmented three-dimensional surface meshes (.ply) of weightbearing computed tomography (CT) images are included for the tibia, fibula and talus of 27 healthy participants. A sample weightbearing CT scan (.dicom) is provided to demonstrate image resolution, field of view and voxel size. Additionally, MATLAB scripts for calculating talocrural joint coverage, space and congruency are included in the resources. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4274217.svg)](https://doi.org/10.5281/zenodo.4274217)</br>
+📄 [paper](https://www.nature.com/articles/s41598-021-86567-7) | 📀 [dataset](https://zenodo.org/record/4274217#.YDeEG-j7SUn) |
+ ⭐ [resources](https://github.com/Lenz-Lab/TalocruralShapeModeling/tree/v1.0)
 
-* **The Virtual Skeleton Database: An Open Access Repository for Biomedical Research and Collaboration** by Michael Kistler et al. (2013). Dataset including post mortem CT images of 50 subjects. **Despite several attempts I was never granted access to these data, although I know of others who did.**  
-:page_facing_up: [paper](https://dx.doi.org/10.2196%2Fjmir.2930) |
-:dvd: [dataset](https://www.smir.ch/objects/214315) |
-:computer: [website](https://www.smir.ch/)
+- **The Virtual Skeleton Database: An Open Access Repository for Biomedical Research and Collaboration** by Michael Kistler et al. (2013). Dataset including post mortem CT images of 50 subjects. **Despite several attempts I was never granted access to these data, although I know of others who did.**  
+📄 [paper](https://dx.doi.org/10.2196%2Fjmir.2930) |
+📀 [dataset](https://www.smir.ch/objects/214315) |
+💻 [website](https://www.smir.ch/)
    * _SMIR pelves and selected pelvic landmarks_ from five experienced raters (20 pelves). ![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3384055.svg)</br>
-   :page_facing_up: [paper](https://www.nature.com/articles/s41598-019-49573-4) |
-   :dvd: [dataset](https://doi.org/10.5281/zenodo.3384055)
+   📄 [paper](https://www.nature.com/articles/s41598-019-49573-4) |
+   📀 [dataset](https://doi.org/10.5281/zenodo.3384055)
    * _SMIR pelves and femurs_ segmented bone from 20 CT scans available in MATLAB format.  
-   :dvd: [dataset](https://github.com/RWTHmediTEC/VSDFullBodyBoneModels)
+   📀 [dataset](https://github.com/RWTHmediTEC/VSDFullBodyBoneModels)
 
-* **An image-based kinematic model of the tibiotalar and subtalar joints and its application to gait analysis in children with Juvenile Idiopathic Arthritis** by Erica Montefiori et al. (2019). Study with twenty enrolled participants. For each participant, the opensim model of the foot and ankle joint complex and the relative bone geometries were shared, together with motion capture data (marker data) and results of inverse kinematics simulations for around six gait trials per participant.</br>
-:page_facing_up: [paper](https://doi.org/10.1016/j.jbiomech.2018.12.041) |
-:dvd: [dataset](https://figshare.shef.ac.uk/articles/Data_for_paper_An_image-based_kinematic_model_of_the_tibiotalar_and_subtalar_joints_and_its_application_to_gait_analysis_in_children_with_Juvenile_Idiopathic_Arthritis_/5863443/1)
+- **An image-based kinematic model of the tibiotalar and subtalar joints and its application to gait analysis in children with Juvenile Idiopathic Arthritis** by Erica Montefiori et al. (2019). Study with twenty enrolled participants. For each participant, the opensim model of the foot and ankle joint complex and the relative bone geometries were shared, together with motion capture data (marker data) and results of inverse kinematics simulations for around six gait trials per participant.</br>
+📄 [paper](https://doi.org/10.1016/j.jbiomech.2018.12.041) |
+📀 [dataset](https://figshare.shef.ac.uk/articles/Data_for_paper_An_image-based_kinematic_model_of_the_tibiotalar_and_subtalar_joints_and_its_application_to_gait_analysis_in_children_with_Juvenile_Idiopathic_Arthritis_/5863443/1)
 
-* **Development and validation of statistical shape models of the primary functional bone segments of the foot.** by Tamara Grant et al. (2019). Dataset includes manually segmented three-dimensional bone geometry models (.STL) from magnetic resonance images of 34 subjects of first metatarsal (29 geometries), midfoot (second-to-fifth metatarsals, cuneiforms, cuboid, and navicular) (33 geometries), calcaneus (27 geometries), and talus (34 geometries). **not all geometries are used**.
+- **Development and validation of statistical shape models of the primary functional bone segments of the foot.** by Tamara Grant et al. (2019). Dataset includes manually segmented three-dimensional bone geometry models (.STL) from magnetic resonance images of 34 subjects of first metatarsal (29 geometries), midfoot (second-to-fifth metatarsals, cuneiforms, cuboid, and navicular) (33 geometries), calcaneus (27 geometries), and talus (34 geometries). **not all geometries are used**.
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3464747.svg)](https://doi.org/10.5281/zenodo.3464747)</br>
-:page_facing_up: [paper](https://doi.org/10.7717/peerj.8397) |
-:dvd: [dataset](https://zenodo.org/record/3464747#.X0P2qMhKgdU)
+📄 [paper](https://doi.org/10.7717/peerj.8397) |
+📀 [dataset](https://zenodo.org/record/3464747#.X0P2qMhKgdU)
 
-* **Are Subject-Specific Musculoskeletal Models Robust to the Uncertainties in Parameter Identification?** by  by Giordano Valente et al. (2014). Dataset includes MRI scans on a single healthy male participant and gait lab data of a single gait cycle.</br>
-:page_facing_up: [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0112625) |
-:dvd: [dataset](https://simtk.org/projects/subspecmodeling)
+- **Are Subject-Specific Musculoskeletal Models Robust to the Uncertainties in Parameter Identification?** by  by Giordano Valente et al. (2014). Dataset includes MRI scans on a single healthy male participant and gait lab data of a single gait cycle.</br>
+📄 [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0112625) |
+📀 [dataset](https://simtk.org/projects/subspecmodeling)
 
-* **MB Knee: Multibody Models of the Human Knee** by Trent Guess. The data set includes four knee models, one based on in vivo measurements from a 29 year old female and three based on cadaver knees that were physically tested in a dynamic knee simulator. Knee geometries (bone, cartilage, and menisci) were derived from Magnetic Resonance Imaging (MRI) and ligament insertions come from MRI, the literature, and probing the cadaver knees. The site also contains information on ligament modeling, such as bundle insertion locations and zero load lengths.  
-:dvd: [dataset](https://simtk.org/projects/mb_knee)
+- **MB Knee: Multibody Models of the Human Knee** by Trent Guess. The data set includes four knee models, one based on in vivo measurements from a 29 year old female and three based on cadaver knees that were physically tested in a dynamic knee simulator. Knee geometries (bone, cartilage, and menisci) were derived from Magnetic Resonance Imaging (MRI) and ligament insertions come from MRI, the literature, and probing the cadaver knees. The site also contains information on ligament modeling, such as bundle insertion locations and zero load lengths.  
+📀 [dataset](https://simtk.org/projects/mb_knee)
 
-* **OpenKnee** by Ahmet Erdemir et al. Open Knee(s) is aimed to provide free access to three-dimensional finite element representations of the knee joint. Dataset includes one knee specimen from the first generation of data collected and 21 specimens (knee id up to 22, missing one) for second generation.</br>
-:page_facing_up: [paper 2021 (MRI and mechanical testing)](https://doi.org/10.1016/j.dib.2021.106824) |
-:page_facing_up: [paper 2016](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4876308/) |
-:page_facing_up: [paper 2013](https://doi.org/10.1115/FMD2013-16033) |
-:page_facing_up: [ASB abstract 2010](http://www.asbweb.org/conferences/2010/abstracts/181.pdf) |
-:page_facing_up: [User's Guide 2010](https://simtk.org/websvn/wsvn/openknee/_gen1/doc/guide.pdf) |
-:dvd: [dataset](https://simtk.org/projects/openknee)
+- **OpenKnee** by Ahmet Erdemir et al. Open Knee(s) is aimed to provide free access to three-dimensional finite element representations of the knee joint. Dataset includes one knee specimen from the first generation of data collected and 21 specimens (knee id up to 22, missing one) for second generation.</br>
+📄 [paper 2021 (MRI and mechanical testing)](https://doi.org/10.1016/j.dib.2021.106824) |
+📄 [paper 2016](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4876308/) |
+📄 [paper 2013](https://doi.org/10.1115/FMD2013-16033) |
+📄 [ASB abstract 2010](http://www.asbweb.org/conferences/2010/abstracts/181.pdf) |
+📄 [User's Guide 2010](https://simtk.org/websvn/wsvn/openknee/_gen1/doc/guide.pdf) |
+📀 [dataset](https://simtk.org/projects/openknee)
 
-* **Subject-specific muscle properties from diffusion tensor imaging significantly improve the accuracy of musculoskeletal models** by James Charles et al. (2020). Includes MRI scans (T1‐weighted anatomical turbo spin‐echo and diffusion tensor imaging) and Isokinetic and isometric torque measurement from 10 subjects (5 female). MRI images are segmented and processed to obtain muscle architecture.  
+- **Subject-specific muscle properties from diffusion tensor imaging significantly improve the accuracy of musculoskeletal models** by James Charles et al. (2020). Includes MRI scans (T1‐weighted anatomical turbo spin‐echo and diffusion tensor imaging) and Isokinetic and isometric torque measurement from 10 subjects (5 female). MRI images are segmented and processed to obtain muscle architecture.  
 :page_facing_up: [paper](https://doi.org/10.1111/joa.13261) |
 :dvd: [dataset](http://datacat.liverpool.ac.uk/1105/)
 
