@@ -547,7 +547,7 @@ This section in under construction
 📄 [paper](https://doi.org/10.1242/jeb.064527) |
 📀 [dataset](https://simtk.org/projects/runningspeeds)
 
-* **Development and validation of FootNet; a new kinematic algorithm to improve foot-strike and toe-off detection in treadmill running** by Adrian R Rivadulla et al. (2021). Features (distal tibia anteroposterior velocity, ankle dorsi/plantar flexion angle, anteroposterior and vertical foot centre of mass velocities) and ground truth labels (vertical ground reaction forces) and notebooks for model development replication.
+* **Development and validation of FootNet; a new kinematic algorithm to improve foot-strike and toe-off detection in treadmill running** by Adrian R Rivadulla et al. (2021). Features (distal tibia anteroposterior velocity, ankle dorsi/plantar flexion angle, anteroposterior and vertical foot centre of mass velocities) and ground truth labels (vertical ground reaction forces) and notebooks for model development replication.  
 📄 [paper](https://doi.org/10.1371/journal.pone.0248608) |
 📀 [dataset](https://doi.org/10.15125/BATH-00965)
 
