@@ -320,6 +320,7 @@ This section in under construction
 📀 [dataset](https://simtk.org/projects/mb_knee)
 
 - **OpenKnee** by Ahmet Erdemir et al. Open Knee(s) is aimed to provide free access to three-dimensional finite element representations of the knee joint. Dataset includes one knee specimen from the first generation of data collected and 21 specimens (knee id up to 22, missing one) for second generation.</br>
+📄 [paper 2023](https://link.springer.com/article/10.1007/s10439-022-03074-0)
 📄 [paper 2021 (MRI and mechanical testing)](https://doi.org/10.1016/j.dib.2021.106824) |
 📄 [paper 2016](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4876308/) |
 📄 [paper 2013](https://doi.org/10.1115/FMD2013-16033) |
@@ -327,38 +328,38 @@ This section in under construction
 📄 [User's Guide 2010](https://simtk.org/websvn/wsvn/openknee/_gen1/doc/guide.pdf) |
 📀 [dataset](https://simtk.org/projects/openknee)
 
-- **Subject-specific muscle properties from diffusion tensor imaging significantly improve the accuracy of musculoskeletal models** by James Charles et al. (2020). Includes MRI scans (T1‐weighted anatomical turbo spin‐echo and diffusion tensor imaging) and Isokinetic and isometric torque measurement from 10 subjects (5 female). MRI images are segmented and processed to obtain muscle architecture.  
-:page_facing_up: [paper](https://doi.org/10.1111/joa.13261) |
-:dvd: [dataset](http://datacat.liverpool.ac.uk/1105/)
+- **Subject-specific muscle properties from diffusion tensor imaging significantly improve the accuracy of musculoskeletal models** by James Charles et al. (2020). Includes MRI scans (T1‐weighted anatomical turbo spin‐echo and diffusion tensor imaging) and isokinetic and isometric torque measurement from 10 subjects (5 female). MRI images are segmented and processed to obtain muscle architecture.  
+📄 [paper](https://doi.org/10.1111/joa.13261) |
+📀 [dataset](http://datacat.liverpool.ac.uk/1105/)
 
-* **The Osteoarthritis Initiative** The Osteoarthritis Initiative (OAI) is a multi-center, ten-year observational study of men and women, sponsored by the National Institutes of Health (part of the Department of Health and Human Services). The goals of the OAI are to provide resources to enable a better understanding of prevention and treatment of knee osteoarthritis, one of the most common causes of disability in adults. The dataset contains the permanent archive of the clinical data, patient reported outcomes, biospecimen analyses, quantitative image analyses, radiographs (X-Rays) and magnetic resonance images (MRIs) acquired during this study. There are longitudinal assessments and measurements from 4,796 subjects, with data from over 431,000 clinical and imaging visits, and almost 26,626,000 images.</br>
-:computer: [website](https://nda.nih.gov/oai)
+- **The Osteoarthritis Initiative** The Osteoarthritis Initiative (OAI) is a multi-center, ten-year observational study of men and women, sponsored by the National Institutes of Health (part of the Department of Health and Human Services). The goals of the OAI are to provide resources to enable a better understanding of prevention and treatment of knee osteoarthritis, one of the most common causes of disability in adults. The dataset contains the permanent archive of the clinical data, patient reported outcomes, biospecimen analyses, quantitative image analyses, radiographs (X-Rays) and magnetic resonance images (MRIs) acquired during this study. There are longitudinal assessments and measurements from 4,796 subjects, with data from over 431,000 clinical and imaging visits, and almost 26,626,000 images.</br>
+💻 [website](https://nda.nih.gov/oai)
 
-* **Femur and tibia surface mesh set** by Daniel Nolte et al. (2020). The data set contains bone geometries of the left and right thigh (femur) and shank (tibia and fibula) segmented from magnetic resonance (MR) scans of 35 healthy volunteers (22 male, 13 female). [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.167808.svg)](https://doi.org/10.5281/zenodo.167808)</br>
-:page_facing_up: [paper](https://doi.org/10.1016/j.gaitpost.2020.02.010) |
-:dvd: [dataset](https://zenodo.org/record/167808#.X0O4kMhKgdV)
+- **Femur and tibia surface mesh set** by Daniel Nolte et al. (2020). The data set contains bone geometries of the left and right thigh (femur) and shank (tibia and fibula) segmented from magnetic resonance (MR) scans of 35 healthy volunteers (22 male, 13 female). [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.167808.svg)](https://doi.org/10.5281/zenodo.167808)</br>
+📄 [paper](https://doi.org/10.1016/j.gaitpost.2020.02.010) |
+📀 [dataset](https://zenodo.org/record/167808#.X0O4kMhKgdV)
 
-* **MRI-based anatomical characterisation of lower-limb muscles in older women** by Erica Montefiori et al. (2020). The dataset contains segmentations for the eleven subjects investigated in the study (mean (sd), age: 69 (7), mass: 66.9 (7.7) kg, height: 159 (3) cm). Segmentations include 1) bone and soft tissue (skin), 2) muscle volumes and 3) muscle centrelines. The first two are in stl format, the latter in vtk format.</br>
-:page_facing_up: [paper](https://doi.org/10.1371/journal.pone.0242973) |
-:dvd: [dataset](https://figshare.shef.ac.uk/articles/dataset/Data_for_paper_MRI-based_anatomical_characterisation_of_lower-limb_muscles_in_older_women_/9934055/2)
+- **MRI-based anatomical characterisation of lower-limb muscles in older women** by Erica Montefiori et al. (2020). The dataset contains segmentations for the eleven subjects investigated in the study (mean (sd), age: 69 (7), mass: 66.9 (7.7) kg, height: 159 (3) cm). Segmentations include 1) bone and soft tissue (skin), 2) muscle volumes and 3) muscle centrelines. The first two are in stl format, the latter in vtk format.</br>
+📄 [paper](https://doi.org/10.1371/journal.pone.0242973) |
+📀 [dataset](https://figshare.shef.ac.uk/articles/dataset/Data_for_paper_MRI-based_anatomical_characterisation_of_lower-limb_muscles_in_older_women_/9934055/2)
 
-* **Natural Knee Data** by University of Denver Center for Orthopaedic Biomechanics. CT and MRI images are provided for 7 knee specimens (5 cadaveric subjects) plus solid models  created from the CT images. In addition, during dissection of the knees, surfaces and ligament insertions and origins were outlined on the bones and recorded as probed points.  
-:dvd: [dataset](https://digitalcommons.du.edu/natural_knee_data) |
-:computer: [website](https://simtk.org/projects/knee_model)
+- **Natural Knee Data** by University of Denver Center for Orthopaedic Biomechanics. CT and MRI images are provided for 7 knee specimens (5 cadaveric subjects) plus solid models  created from the CT images. In addition, during dissection of the knees, surfaces and ligament insertions and origins were outlined on the bones and recorded as probed points.  
+📀 [dataset](https://digitalcommons.du.edu/natural_knee_data) |
+💻 [website](https://simtk.org/projects/knee_model)
 
-* **Living Biomechanics of the Knee** by University of Denver Center for Orthopaedic Biomechanics. Kinematic and loading data from an experiment that used quadriceps force to extend the knee. The objective of this data was to provide a foundation to create a computer model representation of the patella joint in order to predict motion and forces across healthy and pathological specimens.</br>
-:dvd: [dataset](https://digitalcommons.du.edu/living_kinematics_knee/) |
-:computer: [website](https://simtk.org/projects/knee_model)
+- **Living Biomechanics of the Knee** by University of Denver Center for Orthopaedic Biomechanics. Kinematic and loading data from an experiment that used quadriceps force to extend the knee. The objective of this data was to provide a foundation to create a computer model representation of the patella joint in order to predict motion and forces across healthy and pathological specimens.</br>
+📀 [dataset](https://digitalcommons.du.edu/living_kinematics_knee/) |
+💻 [website](https://simtk.org/projects/knee_model)
 
-* **Twente Lower Extremity (TLEM) Dataset** by Martin Klein Horsman et al. (2007). Anatomical data intended for musculoskeletal modelling obtained by the dissection of a single male cadaver.  
-:page_facing_up: [PhD thesis](https://research.utwente.nl/en/publications/the-twente-lower-extremity-model-consistent-dynamic-simulation-of)
-:page_facing_up: [paper](https://doi.org/10.1016/j.clinbiomech.2006.10.003) |
-:dvd: [dataset (paywalled)](https://ars.els-cdn.com/content/image/1-s2.0-S0268003306001896-mmc1.doc)
+- **Twente Lower Extremity (TLEM) Dataset** by Martin Klein Horsman et al. (2007). Anatomical data intended for musculoskeletal modelling obtained by the dissection of a single male cadaver.  
+📄 [PhD thesis](https://research.utwente.nl/en/publications/the-twente-lower-extremity-model-consistent-dynamic-simulation-of)
+📄 [paper](https://doi.org/10.1016/j.clinbiomech.2006.10.003) |
+📀 [dataset (paywalled)](https://ars.els-cdn.com/content/image/1-s2.0-S0268003306001896-mmc1.doc)
 
-* **TLEM2.0: A New Complete and Consistent Musculoskeletal Geometry Dataset for Subject-Specific Modelling of the Lower Extremity** by Vincenzo Carbone and René Fluit et al. (2015. New comprehensive dataset of the musculoskeletal geometry of the lower extremity, which is based on medical imaging data and dissection performed on the right lower extremity of a fresh male cadaver. A complete cadaver dissection was performed, in which bony landmarks, attachments sites and lines-of-action of 55 muscle actuators and 12 ligaments, bony wrapping surfaces, and joint geometry were measured.  
-:page_facing_up: [paper](https://doi.org/10.1016/j.jbiomech.2014.12.034) |
-:dvd: [dataset (requires registration)](https://tlemsafe.eu/) |
-:computer: [website](https://tlemsafe.eu/)
+- **TLEM2.0: A New Complete and Consistent Musculoskeletal Geometry Dataset for Subject-Specific Modelling of the Lower Extremity** by Vincenzo Carbone and René Fluit et al. (2015). New comprehensive dataset of the musculoskeletal geometry of the lower extremity, which is based on medical imaging data and dissection performed on the right lower extremity of a fresh male cadaver. A complete cadaver dissection was performed, in which bony landmarks, attachments sites and lines-of-action of 55 muscle actuators and 12 ligaments, bony wrapping surfaces, and joint geometry were measured.  
+📄 [paper](https://doi.org/10.1016/j.jbiomech.2014.12.034) |
+📀 [dataset (requires registration)](https://tlemsafe.eu/) |
+💻 [website](https://tlemsafe.eu/)
 
 #### Upper Extremity and Spine
 
