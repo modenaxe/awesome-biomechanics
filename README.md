@@ -12,7 +12,7 @@ See [how you can contribute](#contributing), it's easy!<!-- omit in toc -->
 
 - [Learning](#learning)
   - [Online Courses :clapper:](#online-courses-clapper)
-  - [YouTube Channels :tv:](#youtube-channels-tv)
+  - [YouTube Channels :tv: ](#youtube-channels-tv-)
     - [Researchers](#researchers)
   - [Videos :video\_camera:](#videos-video_camera)
   - [Learning to Code :construction:](#learning-to-code-construction)
@@ -113,7 +113,7 @@ See [how you can contribute](#contributing), it's easy!<!-- omit in toc -->
 - [Introduction to Reinforcement Learning with David Silver](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver) by David Silver, DeepMind (2015).
 - [Statistical shape modelling](https://shapemodelling.cs.unibas.ch/ssm-course/) by the [Graphics and Vision research group](https://gravis.dmi.unibas.ch/) of the University of Basel. This is an introductory course in statistical shape modelling (partially hosted on Futurelearn). Its focus lies on the concept of Gaussian processes, and how these can be used to model shape variability. It also discusses simple algorithms for fitting models to surfaces and images.
 
-### YouTube Channels :tv:
+### YouTube Channels :tv: <!-- TODO: organise in associations, research groups, software, researchers-->
 
 - [AnyBody Technology Videos and Webcasts](https://www.youtube.com/channel/UCbgDnEKXyYOETR_Nb6YdehA)
 - [American Society Biomechanics (ASB)](https://www.youtube.com/channel/UC0_WoykR3nSBrHAwyfLPzzw)
@@ -172,6 +172,7 @@ This section in under construction
 #### Git (source version control)
 
 - [Version Control for Researchers](https://www.youtube.com/watch?v=6OkOmPqumWo&feature=emb_title) by [Ryan Alcantara](https://www.ryan-alcantara.com). Tutorial for ASB2020 introducing GitHub and version control for biomechanists. Accompanying tutorial material located at the [ASB_Tutorial repository](https://github.com/alcantarar/asb_tutorial).
+- [Software Carpentries (ENG + ESP)](https://software-carpentry.org/lessons/): an amazing set of lectures on version control with Git, but also on how to use the Unix shell and Python.
 - [Atlassian Git tutorial](https://www.atlassian.com/git/tutorials): the most approachable and complete tutorials for git I have found online.
 
 ### Teaching Resources :triangular_ruler:
@@ -249,7 +250,7 @@ This section in under construction
 
 #### Full Body
 
-- **Visible Human Project**: public-domain library of cross-sectional cryosection, CT, and MRI images obtained from one male cadaver and one female cadaver. The dataset in NIfTI format, easier to import and use in segmentation software, were provided by Bart Bolsterlee (see further details [at this link](https://twitter.com/bartbolsterlee/status/1296594646898892800) and code for conversion [at this repository](https://github.com/bartbols/VH2NIfTI)). The male and female dataset were also entirely segmented in 2023 by Andreassen et al. (see their [paper](https://rdcu.be/c3GNc)).
+- **Visible Human Project**: public-domain library of cross-sectional cryosection, CT, and MRI images obtained from one male cadaver and one female cadaver. The dataset in NIfTI format, easier to import and use in segmentation software, were provided by Bart Bolsterlee (see further details [at this link](https://twitter.com/bartbolsterlee/status/1296594646898892800) and code for conversion [at this repository](https://github.com/bartbols/VH2NIfTI)). The male and female dataset were also entirely segmented in 2023 by Andreassen et al. (see their [paper](https://rdcu.be/c3GNc)).  
 :page_facing_up: [paper](https://doi.org/10.1109/5.662875) |
 :dvd: [dataset](https://www.nlm.nih.gov/databases/download/vhp.html) |
 :dvd: [dataset in NIfTI format](https://drive.google.com/drive/folders/1LBBIax6wpWBsiEcyXDrXNqyDSEB9rinO) |
@@ -261,9 +262,8 @@ This section in under construction
 :dvd: [dataset](http://vkh.ajou.ac.kr/#vk) |
 :computer: [website](http://vkh.ajou.ac.kr) (scroll down for English version)
 
-- ~~**Chinese Visible Human**: similar to the Visible Human Project but on Chinese cadavers.~~ **the dataset does not seem to be available anymore**, despite being still listed on a [related website](https://appsrv.cse.cuhk.edu.hk/~vrcentre/index.html).  
-:page_facing_up: [paper](https://dx.doi.org/10.1111%2Fj.0021-8782.2004.00274.x) |
-:computer: [website](http://www.chinesevisiblehuman.com)
+- ~~**Chinese Visible Human**: similar to the Visible Human Project but on Chinese cadavers.~~ **the dataset does not seem to be available anymore**.  
+:page_facing_up: [paper](https://dx.doi.org/10.1111%2Fj.0021-8782.2004.00274.x)
 
 - **New Mexico Decedent Image Database (NMDID)** by HJH Edgar et al. (2020). NMDID includes whole body CT scans of over 15,000 New Mexicans who died between 2010-2017. Each individual is represented by approximately 10,000 images in DICOM format. Slice thickness is 1 mm with 0.5 mm overlap. Normal and thin slice reconstructions are available for bone, lung, and brain. 3D reconstructions are possible with this data, depending on what viewer you use. Metadata includes almost 60 variables about the individuals’ demography, life and death (accessible for research separately from the CT scans). </br>
 :page_facing_up: [how to cite](https://nmdid.unm.edu/about/citation) |
@@ -1019,7 +1019,6 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 :computer: [website](https://scone.software/doku.php) |
 :computer: [binaries](https://simtk.org/projects/scone) |
 :floppy_disk: [source](https://github.com/opensim-org/SCONE)
-
 
 ### Real-Time Neuro-musculoskeletal Simulation Software
 
