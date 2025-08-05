@@ -21,7 +21,7 @@ See [how you can contribute](#contributing), it's easy!<!-- omit in toc -->
     - [Git (source version control)](#git-source-version-control)
   - [Teaching Resources :triangular\_ruler:](#teaching-resources-triangular_ruler)
   - [Books :blue\_book:](#books-blue_book)
-- [Datasets 📀](#datasets-dvd)
+- [Datasets 📀](#datasets-)
   - [Human Anatomy :bone:](#human-anatomy-bone)
     - [Full Body](#full-body)
     - [Lower Limb Anatomy](#lower-limb-anatomy)
@@ -53,7 +53,7 @@ See [how you can contribute](#contributing), it's easy!<!-- omit in toc -->
   - [Muscle-Tendon Junction Tracking](#muscle-tendon-junction-tracking)
 - [Muscle Parameter Segmentation in Ultrasound Images](#muscle-parameter-segmentation-in-ultrasound-images)
   - [Anatomical Cross Sectional Area](#anatomical-cross-sectional-area)
-- [Modelling and Simulation 💻](#modelling-and-simulation-computer)
+- [Modelling and Simulation 💻](#modelling-and-simulation-)
   - [Anthropometric Models :standing\_person:](#anthropometric-models-standing_person)
   - [Multibody and Physics Engines :sleeping::arrow\_lower\_left::apple:](#multibody-and-physics-engines-sleepingarrow_lower_leftapple)
   - [Computational Muscle Models 	:mechanical\_arm:](#computational-muscle-models-mechanical_arm)
@@ -297,10 +297,10 @@ This section in under construction
 📄 [paper](https://dx.doi.org/10.2196%2Fjmir.2930) |
 📀 [dataset](https://www.smir.ch/objects/214315) |
 💻 [website](https://www.smir.ch/)
-   * _SMIR pelves and selected pelvic landmarks_ from five experienced raters (20 pelves). ![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3384055.svg)</br>
+  - _SMIR pelves and selected pelvic landmarks_ from five experienced raters (20 pelves). ![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3384055.svg)</br>
    📄 [paper](https://www.nature.com/articles/s41598-019-49573-4) |
    📀 [dataset](https://doi.org/10.5281/zenodo.3384055)
-   * _SMIR pelves and femurs_ segmented bone from 20 CT scans available in MATLAB format.  
+  - _SMIR pelves and femurs_ segmented bone from 20 CT scans available in MATLAB format.  
    📀 [dataset](https://github.com/RWTHmediTEC/VSDFullBodyBoneModels)
 
 - **An image-based kinematic model of the tibiotalar and subtalar joints and its application to gait analysis in children with Juvenile Idiopathic Arthritis** by Erica Montefiori et al. (2019). Study with twenty enrolled participants. For each participant, the opensim model of the foot and ankle joint complex and the relative bone geometries were shared, together with motion capture data (marker data) and results of inverse kinematics simulations for around six gait trials per participant.</br>
@@ -367,21 +367,21 @@ This section in under construction
 📄 [paper](https://link.springer.com/article/10.1007/s10439-017-1936-z#SecESM1) |
 📀 [dataset](https://static-content.springer.com/esm/art%3A10.1007%2Fs10439-017-1936-z/MediaObjects/10439_2017_1936_MOESM1_ESM.pdf)
 
-* **Hand muscles attachments: A Geometrical model** by Havelková L et al. (2020).  Sixteen cadaveric preparations were dissected to draw up the anatomical maps including the position of muscle attachments, dimensions, shapes, cross section areas and variations. The magnetic resonance imaging of cadaveric upper extremity was performed to reconstruct the geometry of all bones and hand muscles.</br>
+- **Hand muscles attachments: A Geometrical model** by Havelková L et al. (2020).  Sixteen cadaveric preparations were dissected to draw up the anatomical maps including the position of muscle attachments, dimensions, shapes, cross section areas and variations. The magnetic resonance imaging of cadaveric upper extremity was performed to reconstruct the geometry of all bones and hand muscles.</br>
 📄 [dataset paper (not published yet)]() |
 📄 [AnyBody model's paper](https://doi.org/10.1080/10255842.2020.1851367) |
 📀 [dataset](https://zenodo.org/record/3954024#.X-zKitj7QdV)
 
-* **Shoulder morphological data** by the Dutch Shoulder Group. Includes data about mass and inertia, muscle contraction parameters and muscle geometries collected during several studies performed in 1988-2002 period.</br>
+- **Shoulder morphological data** by the Dutch Shoulder Group. Includes data about mass and inertia, muscle contraction parameters and muscle geometries collected during several studies performed in 1988-2002 period.</br>
 📄 [paper1991](http://homepage.tudelft.nl/g6u61/repository/shoulder/files_to_link/JB1991_Veeger.pdf) |
 📄 [paper1992](http://homepage.tudelft.nl/g6u61/repository/shoulder/files_to_link/JB1992_Helm.pdf) |
 📀 [dataset](http://homepage.tudelft.nl/g6u61/repository/shoulder/overview.htm)
 
-* **The digital human forearm and hand** by Faes D. Kerkhof et al. (2018). An un‐embalmed cadaveric arm was digitized using 7T MRI and CT scans and 3D geometrical models of bones, cartilage, muscle and muscle pathways were generated.  Muscle volume, mass, length, pennation angle, physiological cross‐sectional area, tendon length were measured during dissection and, after that, muscle biopsies were used to visualize and measure sarcomere lengths with confocal microscopy. The result is an integrated anatomical dataset that can be used for creating complete and accurate musculoskeletal models of the hand.</br>
+- **The digital human forearm and hand** by Faes D. Kerkhof et al. (2018). An un‐embalmed cadaveric arm was digitized using 7T MRI and CT scans and 3D geometrical models of bones, cartilage, muscle and muscle pathways were generated.  Muscle volume, mass, length, pennation angle, physiological cross‐sectional area, tendon length were measured during dissection and, after that, muscle biopsies were used to visualize and measure sarcomere lengths with confocal microscopy. The result is an integrated anatomical dataset that can be used for creating complete and accurate musculoskeletal models of the hand.</br>
 📄 [paper](https://doi.org/10.1111/joa.12877) |
 📀 [dataset](https://www.morphosource.org/Detail/MediaDetail/Show/media_id/21064)
 
-* **Twente spine model** by Riza Bayoglu et al. (2017). This dataset represents a complete and coherent dataset for the lumbar spine, based on medical images and dissection measurements from one embalmed human cadaver. </br>
+- **Twente spine model** by Riza Bayoglu et al. (2017). This dataset represents a complete and coherent dataset for the lumbar spine, based on medical images and dissection measurements from one embalmed human cadaver. </br>
 📄 [paper-lumbar spine](https://doi.org/10.1016/j.jbiomech.2017.01.009) |
 📄 [paper-thoracic and cervical](https://doi.org/10.1016/j.jbiomech.2017.04.003) |
 📄 [PhD thesis](https://research.utwente.nl/en/publications/twente-spine-model-development-validation-and-application-of-a-co) |
@@ -389,11 +389,11 @@ This section in under construction
 
 #### Muscle Anatomy and Parameters
 
-* **Muscle Modelling Database** by Ross Miller (2018). A summary of muscle mechanical parameters in the human lower limb from the anatomy, muscle/exercise physiology, and biomechanics literature for use in Hill-based muscle model.  
+- **Muscle Modelling Database** by Ross Miller (2018). A summary of muscle mechanical parameters in the human lower limb from the anatomy, muscle/exercise physiology, and biomechanics literature for use in Hill-based muscle model.  
 📄 [paper](https://link.springer.com/referenceworkentry/10.1007%2F978-3-319-30808-1_203-2) |
 📀 [dataset](https://figshare.com/articles/dataset/Muscle_model_parameters/4275854)
 
-* **Regional variation in lateral and medial gastrocnemius muscle fibre lengths obtained from diffusion tensor imaging** by Jeroen Aeles et al. (2021). The released data include raw MRI (T1-weighted) and DTI scans of the dominant lower leg of 32 adults (males, females, young adults, older adults). These data were used to study the regional variation in muscle fibre lengths in the medial and lateral gastrocnemius muscles. The T1-weighted scans were used to segment the muscles and the DTI scans were used to reconstruct the muscle fibre architecture.</br>
+- **Regional variation in lateral and medial gastrocnemius muscle fibre lengths obtained from diffusion tensor imaging** by Jeroen Aeles et al. (2021). The released data include raw MRI (T1-weighted) and DTI scans of the dominant lower leg of 32 adults (males, females, young adults, older adults). These data were used to study the regional variation in muscle fibre lengths in the medial and lateral gastrocnemius muscles. The T1-weighted scans were used to segment the muscles and the DTI scans were used to reconstruct the muscle fibre architecture.</br>
 📄 [paper](https://doi.org/10.1111/joa.13539) |
 📀 [dataset](https://figshare.com/articles/dataset/Regional_variation_in_lateral_and_medial_gastrocnemius_muscle_fibre_lengths_obtained_from_diffusion_tensor_imaging_Raw_MRI_and_DTI_data/14743452/1)
 
@@ -401,48 +401,47 @@ This section in under construction
 
 ### Animal Anatomy and Anthropology :crocodile:
 
-* **CT scans of various animals** from John Hutchinson's group. </br> 
+- **CT scans of various animals** from John Hutchinson's group. </br> 
 📀 [dataset](https://osf.io/4sc96/)
 
-* **Digital Morphology Museum of Kyoto University (KUPRI)**: The Digital Morphology Museum (DMM) provides an environment in which you can readily examine skeletal anatomy using the Primate Research Institute’s (PRI) collection of CT and MRI tomography scans. The goal of this site is to enable you to view the scans of non-human primates and mammals and to download scan data from our database for your original research. </br>
+- **Digital Morphology Museum of Kyoto University (KUPRI)**: The Digital Morphology Museum (DMM) provides an environment in which you can readily examine skeletal anatomy using the Primate Research Institute’s (PRI) collection of CT and MRI tomography scans. The goal of this site is to enable you to view the scans of non-human primates and mammals and to download scan data from our database for your original research. </br>
 💻 [website](http://dmm.pri.kyoto-u.ac.jp/dmm/WebGallery/index.html)
 
-* **DigiMorph**: Digital Morphology library is a dynamic archive of information on digital morphology and high-resolution X-ray computed tomography of biological specimens. </br> 
+- **DigiMorph**: Digital Morphology library is a dynamic archive of information on digital morphology and high-resolution X-ray computed tomography of biological specimens. </br> 
 💻 [website](http://digimorph.org)
 
-* **eLucy** by the Dept of Anthropology of University of Texas at Austin. eLucy is dedicated to sharing information about 'Lucy', an early fossil hominin represented by the 3.2 million year old remains of a relatively complete skeleton. Through this website is possible to request access for research and teaching purposes to the digital reconstruction (STL files) of right shoulder and left knee of ‘Lucy’, an early fossil hominin (_Australopithecus afarensis_) represented by the 3.2 million year old remains of a relatively complete skeleton.</br>
+- **eLucy** by the Dept of Anthropology of University of Texas at Austin. eLucy is dedicated to sharing information about 'Lucy', an early fossil hominin represented by the 3.2 million year old remains of a relatively complete skeleton. Through this website is possible to request access for research and teaching purposes to the digital reconstruction (STL files) of right shoulder and left knee of ‘Lucy’, an early fossil hominin (_Australopithecus afarensis_) represented by the 3.2 million year old remains of a relatively complete skeleton.</br>
 📄 [paper](http://dx.doi.org/10.1038/nature19332) |
 💻 [website](https://elucy.org/) 
 
-* **Genetics of craniofacial shape in Mus** by Murat Maga (2017). This dataset includes ~500 high-resolution 3D mouse head microCT scans, associated anatomical landmarks, and individual genotypes suitable to study quantitative genetics of head shape. Scans are of a mouse panel between C57BL/6J and A/J mouse strains and associated genotype data.</br>
+- **Genetics of craniofacial shape in Mus** by Murat Maga (2017). This dataset includes ~500 high-resolution 3D mouse head microCT scans, associated anatomical landmarks, and individual genotypes suitable to study quantitative genetics of head shape. Scans are of a mouse panel between C57BL/6J and A/J mouse strains and associated genotype data.</br>
 💻 [website](https://osf.io/w4wvg/)
 
-* **GB3D Type Fossils Online project** aims to develop a single database of the type specimens, held in British collections, of macrofossil species and subspecies found in the UK, including links to photographs (including 'anaglyph' stereo pairs) and a selection of 3D digital models.</br>
+- **GB3D Type Fossils Online project** aims to develop a single database of the type specimens, held in British collections, of macrofossil species and subspecies found in the UK, including links to photographs (including 'anaglyph' stereo pairs) and a selection of 3D digital models.</br>
 📀 [dataset](http://www.3d-fossils.ac.uk/search.cfm) |
 💻 [website](http://www.3d-fossils.ac.uk/home.html)|
 :camera: [introductory video](https://www.youtube.com/watch?v=bXhhmS-HGEI&feature=emb_logo)
 
-* **Phenome10K**: A free online repository for 3-D scans of biological and palaeontological specimens. This site provides 3D scans – CT and surface – of biological and palaeontological specimens for free download by the academic and educational community.</br> 
+- **Phenome10K**: A free online repository for 3-D scans of biological and palaeontological specimens. This site provides 3D scans – CT and surface – of biological and palaeontological specimens for free download by the academic and educational community.</br> 
 📀 [dataset](http://pantodon.science.helsinki.fi/morphobrowser/sp_list.php) |
 💻 [website](https://phenome10k.org)
 
-* **MorphoBrowser** by Jukka Jervall et al. MorphoBrowser is a 3D visualisation and searching tool for mammalian teeth, accessible over the web. It allows the user to ‘browse’ through the diverse range of tooth morphologies found in mammals, both extinct and extant.</br>
+- ~~**MorphoBrowser** by Jukka Jervall et al. MorphoBrowser is a 3D visualisation and searching tool for mammalian teeth, accessible over the web.~~ Inactive</br>
 💻 [website](http://morphobrowser.biocenter.helsinki.fi/)
 
-* **MorphoMuseuM (M3)**: is a peer reviewed, online journal that publishes 3D models of vertebrates, including models of type specimens, anatomy atlases, reconstruction of deformed or damaged specimens, and 3D datasets. </br>
+- **MorphoMuseuM (M3)**: is a peer reviewed, online journal that publishes 3D models of vertebrates, including models of type specimens, anatomy atlases, reconstruction of deformed or damaged specimens, and 3D datasets. </br>
 💻 [website](https://morphomuseum.com/collections)
 
-* **MorphoSource** by Duke University. MorphoSource has approximately 27,000 published 3D models of biological specimens (largely skeletal material). You can view all of these in your web browser with no required software. Around 13,000 of these are open access and can be freely downloaded for further visualization or measurement.</br>
+- **MorphoSource** by Duke University. MorphoSource has approximately 27,000 published 3D models of biological specimens (largely skeletal material). You can view all of these in your web browser with no required software. Around 13,000 of these are open access and can be freely downloaded for further visualization or measurement.</br>
 💻 [website](https://www.morphosource.org)
 
-* **SketchFab**: is an online platform providing 3D models (free and not free options).
+- **SketchFab**: is an online platform providing 3D models (free and not free options).
 💻 [website](https://sketchfab.com) |
 ⭐ [example: Science/Technology section](https://sketchfab.com/store/3d-models/science-technology) |
 ⭐ [example: Evans EvoMorph Lab](https://sketchfab.com/arevans)
 
-* **The Open Research Scan Archive (formerly: Penn Cranial CT Database)** by the University of Pennsylvania Museum of Archaeology and Anthropology (curators: Thomas Schoenemann and Janet Monge). contains high resolution (sub-millimeter) scans of human and non-human crania from the Penn University Museum and other institutions. The collection includes approximately 1800 crania (1200 from the Samuel George Morton Collection, then extended by J. Aitken Meigs).</br>
+- **The Open Research Scan Archive (formerly: Penn Cranial CT Database)** by the University of Pennsylvania Museum of Archaeology and Anthropology (curators: Thomas Schoenemann and Janet Monge). contains high resolution (sub-millimeter) scans of human and non-human crania from the Penn University Museum and other institutions. The collection includes approximately 1800 crania (1200 from the Samuel George Morton Collection, then extended by J. Aitken Meigs).</br>
 💻 [website](https://penn.museum/sites/orsa/Overview.html)
-
 
 ### Balance :balance_scale:
 
