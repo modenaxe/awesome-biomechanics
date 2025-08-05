@@ -14,7 +14,7 @@ See [how you can contribute](#contributing), it's easy!<!-- omit in toc -->
   - [Online Courses :clapper:](#online-courses-clapper)
   - [YouTube Channels :tv: ](#youtube-channels-tv-)
     - [Researchers](#researchers)
-  - [Videos :video\_camera:](#videos-video_camera)
+  - [Videos 🎥](#videos-)
   - [Learning to Code :construction:](#learning-to-code-construction)
     - [Python](#python)
     - [Julia](#julia)
