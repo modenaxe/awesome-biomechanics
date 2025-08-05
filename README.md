@@ -136,7 +136,7 @@ See [how you can contribute](#contributing), it's easy!<!-- omit in toc -->
 - [Luca Modenese's channel](https://www.youtube.com/channel/UCp08ZXIV056MxvOvdMeowtA)
 - [Thomas Geijtenbeek' channel (HyFyDy / SCONE)](https://www.youtube.com/@goatstream)
 
-### Videos :video_camera:
+### Videos 🎥
 
 - [A critique of Induced Acceleration Analysis](https://www.youtube.com/watch?v=2EmwIM_uQnk&t=18s) by Andy Ruina (WCB2014).
 - [Analysis of upright posture by force platform (in Portuguese with English subtitles)](https://www.youtube.com/playlist?list=PLw8zLrKDgyofy14nXcU1o4GyDEwmhi1nT): videos produced by Felipe Fava de Lima about the use of force plataforms.
@@ -420,7 +420,7 @@ This section in under construction
 - **GB3D Type Fossils Online project** aims to develop a single database of the type specimens, held in British collections, of macrofossil species and subspecies found in the UK, including links to photographs (including 'anaglyph' stereo pairs) and a selection of 3D digital models.</br>
 📀 [dataset](http://www.3d-fossils.ac.uk/search.cfm) |
 💻 [website](http://www.3d-fossils.ac.uk/home.html)|
-:camera: [introductory video](https://www.youtube.com/watch?v=bXhhmS-HGEI&feature=emb_logo)
+🎥 [introductory video](https://www.youtube.com/watch?v=bXhhmS-HGEI&feature=emb_logo)
 
 - **Phenome10K**: A free online repository for 3-D scans of biological and palaeontological specimens. This site provides 3D scans – CT and surface – of biological and palaeontological specimens for free download by the academic and educational community.</br> 
 📀 [dataset](http://pantodon.science.helsinki.fi/morphobrowser/sp_list.php) |
@@ -920,7 +920,7 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 📄 [paper](http://dx.doi.org/10.1115/DETC2013-13470) |
 💾 [source](https://rbdl.github.io) |
 ⭐ [Human Standing Tutorial](https://github.com/pydy/pydy-tutorial-human-standing) |
-:movie_camera: [YouTube tutorials](https://www.youtube.com/watch?v=r4piIKV4sDw)
+🎥 [YouTube tutorials](https://www.youtube.com/watch?v=r4piIKV4sDw)
 
 * **RBDL (Rigid Body Dynamics Library)** by Martin L. Felis (Heidelberg University). A multibody engine heavily inspired by the pseudo code of the book "Rigid Body Dynamics Algorithms" of [Roy Featherstone](http://royfeatherstone.org/).  
 📄 [paper](https://link.springer.com/article/10.1007/s10514-016-9574-0) |
@@ -938,7 +938,7 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 📄 [paper](https://doi.org/10.1115/1.4023390) |
 💾 [source](https://simtk.org/projects/opensim_muscle) |
 💾 [Matlab version](https://github.com/mjhmilla/Millard2012EquilibriumMuscleMatlabPort) |
-:video_camera: [Webinar](https://www.youtube.com/watch?v=Q1rId1fOkjw)
+🎥 [Webinar](https://www.youtube.com/watch?v=Q1rId1fOkjw)
 
 * **MyoSim** by the [Campbell Lab](https://sites.google.com/g.uky.edu/campbellmusclelab). MyoSim is an open source computer software for modeling the mechanical properties (force, shortening, power output) of striated muscles. The software models the behavior of half-sarcomeres by extending Huxley-based cross-bridge distribution techniques with Ca2+ activation and cooperative effects. MyoSim can also simulate arbitrary cross-bridge schemes set by the researcher.</br>
 📄 [paper](https://rupress.org/jgp/article/143/3/387/43232/Dynamic-coupling-of-regulated-binding-sites-and) |
@@ -955,7 +955,7 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 * **Volume Invariant Position-based Elastic Rods (VIPER)** by Baptiste Angles et al. (2019). VIPER is a modified formulation of position-based rods to include elastic volumetric deformations. Rods can provide a compact alternative to tetrahedral meshes for the representation of complex muscle deformations, as well as providing a convenient representation for collision detection. Muscles can be modelled as a bundle of rods, for which a technique to automatically convert a muscle surface mesh into a rods-bundle is also presented. The method can run in real time.</br>
 📄 [paper](https://dl.acm.org/doi/10.1145/3340260) |
 💾 [source](https://github.com/vcg-uvic/viper) |
-:video_camera: [video](https://www.youtube.com/watch?v=2CGRfJJEu38)
+🎥 [video](https://www.youtube.com/watch?v=2CGRfJJEu38)
 
 * **Hill-type Knee Extension (KneeExt)** by Harald Penasso and Sigrid Thaller (2017). KneeExt provides simulation models for studying muscle behavior during dynamic knee extensions (knee approximated as hinge joint). The versions with and without elasticities can be used for non-linear parameter identification to determine neuromuscular properties non-invasively and in vivo from kinetic and kinematic data. The paper verifies the dynamics between contractile elements (CE), serial elastic elements (SEE), and parallel elastic elements (PEE) in simulated muscles. Users can change muscle properties to investigate how a parameter change affects muscle behavior.
 📄 [paper](https://doi.org/10.1080/13873954.2017.1336633)
@@ -1091,7 +1091,7 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 * **Bioptim (Biomechanical optimal control** by Benjamin Michaud, François Bailly et al. (2021). Bioptim is an easy-to-use Python framework for biomechanical optimal control, handling musculoskeletal models. Relying on algorithmic differentiation and the multiple shooting formulation, bioptim interfaces nonlinear solvers to quickly provide dynamically consistent optimal solutions. The software is both computationally efficient (C++ core) and easily customizable, thanks to its Python interface. It allows to quickly define a variety of biomechanical problems such as motion tracking/prediction, muscle-driven simulations, parameters optimization, multiphase problems, etc. It is also intended for real-time applications such as moving horizon estimation and model predictive control. </br>
 📄 [paper](https://ieeexplore.ieee.org/document/9808374) |
 💾 [source](https://github.com/pyomeca/bioptim) | 
-:camera: [webinar](https://www.youtube.com/watch?v=z7fhKoW1y60)
+🎥 [webinar](https://www.youtube.com/watch?v=z7fhKoW1y60)
 
 * **Crocoddyl (Contact Robot Optimal Control by Differential Dynamic Library)** by [Carlos Mastalli](https://cmastalli.github.io/) and [Rohan Budhiraja](https://scholar.google.com/citations?user=NW9Io9AAAAAJ) (2020). Croccoddyl is an optimal control library for robot control under contact sequence. Its solvers are based on novel and efficient Differential Dynamic Programming (DDP) algorithms. Crocoddyl computes optimal trajectories along with optimal feedback gains. It uses Pinocchio for fast computation of robots dynamics and their analytical derivatives.</br>
 📄 [paper](https://doi.org/10.1109/ICRA40945.2020.9196673) |
@@ -1103,7 +1103,7 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 💻 [website](https://simtk.org/projects/opensim-moco) |
 💾 [source](https://github.com/opensim-org/opensim-moco) |
 ⭐ [materials from preprint](https://github.com/stanfordnmbl/mocopaper) |
-:movie_camera: [webinar](https://www.youtube.com/watch?v=IYYZgyE33pU&feature=youtu.be)
+🎥 [webinar](https://www.youtube.com/watch?v=IYYZgyE33pU&feature=youtu.be)
     - **Moco simulations at University of Maryland** by Ross Miller (2020). Models and codes from the University of Maryland "Neuromechanics Research Core" for performing optimal control simulations of human movement with OpenSim Moco software: 2D and 3D versions of the Rajagopal et al. (2016) model and code for performing "tracking" and "predictive" simulations of locomotion.</br>
     💻 [website](https://simtk.org/projects/umocod)
 
@@ -1144,13 +1144,13 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 📄 [paper (Slicer v4)](https://dx.doi.org/10.1016%2Fj.mri.2012.05.001) |
 💻 [website](https://www.slicer.org/wiki/Main_Page) |
 📄 [Documentation](https://www.slicer.org/wiki/Documentation/Nightly/Training) | 
-:video_camera: [Youtube tutorials](https://www.youtube.com/channel/UC11x1iQ7ydSIFYw4L6wveXg)
+🎥 [Youtube tutorials](https://www.youtube.com/channel/UC11x1iQ7ydSIFYw4L6wveXg)
     * Extensions of 3DSlicer:
         * **SlicerMorph** by Sara Rolfe et al. (2020). SliceMorph is a toolkit with the aim of  retrieve, visualize, measure, annotate, and perform geometric morphometric analyses from high-resolution specimen data both from volumetric scans (CTs and MRs) as well as from 3D surface scanners effectively within 3D Slicer.</br>
         📄 [preprint](https://www.biorxiv.org/content/10.1101/2020.11.09.374926v1) |
         💻 [website](https://slicermorph.github.io/) |
         💾 [source](https://github.com/SlicerMorph/SlicerMorph) |
-        :video_camera: [tutorials](https://www.youtube.com/channel/UCy3Uz1ikRH1B7WSMfaldcjQ)
+        🎥 [tutorials](https://www.youtube.com/channel/UCy3Uz1ikRH1B7WSMfaldcjQ)
        * **SlicerSALT (Slicer Shape AnaLysis Toolbox)** by Vicory et al. (2018). SlicerSALT is open-source, free comprehensive software design for biomedical scientists to precisely locate shape changes in their imaging studies. SlicerSALT will enhance the intuitiveness and ease of use for such studies, as well as allow researchers to find shape changes with higher statistical power. </br>
        📄 [paper](https://link.springer.com/chapter/10.1007/978-3-030-04747-4_6) |
        💻 [website and tutorials](http://salt.slicer.org/) |
@@ -1159,13 +1159,13 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
        💾 [source](https://github.com/NVIDIA/ai-assisted-annotation-client/tree/master/slicer-plugin) 
 * **[Dragonfly](https://www.theobjects.com/dragonfly/index.html)** by Object Research Systems. Dragonfly is a software platform for the intuitive inspection and processing of multi-scale multi-modality image data. Includes a Deep Learning tool for training deep models for image segmentation and regression tasks. It also offers rendering capabilities and extensibility through Python.</br>
 💻 [website](https://www.theobjects.com/dragonfly/index.html) |
-:video_camera: [Video tutorials](http://www.theobjects.com/dragonfly/tutorials.html)
+🎥 [Video tutorials](http://www.theobjects.com/dragonfly/tutorials.html)
 * **[ITK-Snap](http://www.itksnap.org/pmwiki/pmwiki.php)** - 
 📄 [paper](https://doi.org/10.1016/j.neuroimage.2006.01.015) |
-:video_camera: [Video tutorials](http://www.itksnap.org/pmwiki/pmwiki.php?n=Videos.SNAP3)
+🎥 [Video tutorials](http://www.itksnap.org/pmwiki/pmwiki.php?n=Videos.SNAP3)
 * **[InVesalius](https://invesalius.github.io/)** - 
 📄 [paper list](https://invesalius.github.io/publication.html) | 
-:video_camera: [Youtube tutorials](https://www.youtube.com/channel/UChTsspNY3aO-nYmNnB2DPyA/featured)
+🎥 [Youtube tutorials](https://www.youtube.com/channel/UChTsspNY3aO-nYmNnB2DPyA/featured)
 * **[Materialise Mimics](https://www.materialise.com/en/medical/mimics-innovation-suite) (commercial)**
 * **[MITK](https://docs.mitk.org/2016.11/index.html)** - 
 📄 [paper](https://doi.org/10.1117/12.535112) |
@@ -1175,7 +1175,7 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 💻 [website](https://simtk.org/projects/mitk-gem) |
 ⭐ [resources](https://github.com/araex/mitk-gem/tree/master/Scripts)
 * **[Rhino3Dmedical](https://rhino3dmedical.com/)** commercial.</br>
-:camera: [webinar](https://www.youtube.com/watch?v=MYuX2iGxU-Y&feature=youtu.be&ab_channel=McNeelEurope)
+🎥 [webinar](https://www.youtube.com/watch?v=MYuX2iGxU-Y&feature=youtu.be&ab_channel=McNeelEurope)
 * **[SASHIMI Segmentation](https://github.com/bartbols/SASHIMI) :sushi:** by Bart Bolsterlee. SASHIMI Segmentation is a MATLAB App for segmentation of multi-slice images. </br> 
 * **[Seg3D](https://www.sci.utah.edu/cibc-software/seg3d.html)**    
 * **[Simpleware ScanIP](https://www.synopsys.com/simpleware/software/scanip.html) (commercial)**.  
@@ -1258,7 +1258,7 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 * **NMSBuilder** by Giordano Valente et al. (2017). Freely available software to create subject-specific musculoskeletal models for OpenSim from 3D geometries. NMSBuilder is based on ALBA (Agile Library for Biomedical Applications) an open-source rapid application development framework for computer-aided medicine written in C++.</br>
 📄 [paper](https://doi.org/10.1016/j.cmpb.2017.09.012) |
 💻 [website](http://www.nmsbuilder.org/) |
-:movie_camera: [YouTube tutorial](https://www.youtube.com/watch?v=UtAMTFM1vsI)
+🎥 [YouTube tutorial](https://www.youtube.com/watch?v=UtAMTFM1vsI)
 
 * **Resources for creating musculoskeletal models from segmentations** by Luca Modenese et al. (2018). This includes materials (step-to-step guide and Matlab scripts) to guide users in creating musculoskeletal models of the lower limb from medical images using a workflow that includes MeshLab, MATLAB and NMSBuilder.</br>
 📄 [paper](https://doi.org/10.1016/j.jbiomech.2018.03.039) |
@@ -1386,14 +1386,14 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 💾 [source](https://www.code-aster.org/V2/spip.php?rubrique21) |
 📄 [Aster leaflet](https://www.code-aster.org/UPLOAD/DOC/Presentation/plaquette_aster_en.pdf) |
 📄 [Salome 7 leaflet](https://www.code-aster.org/UPLOAD/DOC/Presentation/Plaquette_SALOME_V7.pdf) |
-:movie_camera: [tutorials](https://www.youtube.com/channel/UCWBV4PbsfizSkmcq88roGeQ/playlists) |
-:movie_camera: [tutorials](https://www.youtube.com/watch?v=g9Kvv7PYF34&list=PLvkU6i2iQ2frC7YB1A9Pqcfhwe9T3Vuy-)
+🎥 [tutorials](https://www.youtube.com/channel/UCWBV4PbsfizSkmcq88roGeQ/playlists) |
+🎥 [tutorials](https://www.youtube.com/watch?v=g9Kvv7PYF34&list=PLvkU6i2iQ2frC7YB1A9Pqcfhwe9T3Vuy-)
 
 * **FEBio** by Maas et al. (2012). FeBio is a software tool, developed by Jeffrey Weiss' lab and Gerard Ateshian's lab, for nonlinear finite element analysis in biomechanics and biophysics and is specifically focused on solving nonlinear large deformation problems in biomechanics and biophysics. Aside from structural mechanics, it can also solve problems in mixture mechanics (i.e. biphasic or multiphasic materials), fluid mechanics, reaction-diffusion, and heat transfer. It can also solve coupled physics problems, including fluid-solid interactions. `FEBio Studio` is the main software tool for developing, running, and analyzing FEBio models, offering a graphical user interface for interacting with the FEBio software.</br>
 📄 [paper](https://febio.org/site/uploads/maas_jbme_2012.pdf) |
 💻 [website](https://febio.org/) |
 💾 [source](https://github.com/febiosoftware) |
-:movie_camera: [Youtube channel](https://www.youtube.com/channel/UCtOvJL14MB57hhNV-I3HIyQ)
+🎥 [Youtube channel](https://www.youtube.com/channel/UCtOvJL14MB57hhNV-I3HIyQ)
 
 
 ### Finite Element Libraries
@@ -1561,7 +1561,7 @@ This section needs to be improved.
 * **Reproducibility PI Manifesto** by Lorena Barba (2012). Slides of the talk `Reproducibility in Computational and Experimental Mathematics` at the ICERM workshop outlining a list of commitment that principal investigators could take to ensure reproducibility. </br>
 💻 [website](https://lorenabarba.com/gallery/reproducibility-pi-manifesto/) |
 📄 [blog-repro-pack-example](https://lorenabarba.com/blog/how-repro-packs-can-save-your-future-self/) |
-:bar_chart: [slides](https://figshare.com/articles/presentation/Reproducibility_PI_Manifesto/104539)
+📊 [slides](https://figshare.com/articles/presentation/Reproducibility_PI_Manifesto/104539)
 
 * **Reproducible computational environments using containers** workshop by Software Carpentries, held at Imperial College London in 2020. The workshop focused on the use of containers with the goal of using them to effect reproducible computational environments. Such environments are useful for ensuring reproducible research outputs and for simplifying the setup of complex software dependencies across different systems.</br>
 💻 [website](https://imperialcollegelondon.github.io/2020-07-13-Containers-Online/)
@@ -1582,8 +1582,8 @@ This section needs to be improved.
     - **[CreativeCommons](https://creativecommons.org/choose/)** by Creative Commons. This website can guide you in the process of choosing a Creative Commons license based on your preferences.</br> 
 
 * **Open for Science** by Kevin Moerman (2021). This is a presentation aimed at informing academics about the benefits of open science and how to be an open scientist. </br>
-:video_camera:[YouTube video](https://www.youtube.com/watch?v=TmTRpKH26u4) |
-:bar_chart:[slides](https://zenodo.org/record/5483823)
+🎥[YouTube video](https://www.youtube.com/watch?v=TmTRpKH26u4) |
+📊[slides](https://zenodo.org/record/5483823)
 
 ## Good practices for credible modeling
 
