@@ -33,13 +33,13 @@ See [how you can contribute](#contributing), it's easy!<!-- omit in toc -->
   - [Walking :walking:](#walking-walking)
   - [Running :running:](#running-running)
   - [Instrumented Prostheses :chart\_with\_upwards\_trend:](#instrumented-prostheses-chart_with_upwards_trend)
-  - [Upper Limb Movements :muscle:](#upper-limb-movements-muscle)
+  - [Upper Limb Movements 💪](#upper-limb-movements-muscle)
   - [Hand :palms\_up\_together:](#hand-palms_up_together)
   - [Soft Tissue Artefacts :leg:](#soft-tissue-artefacts-leg)
   - [Reference Joint Kinematics](#reference-joint-kinematics)
   - [Health Datasets :heart:](#health-datasets-heart)
   - [Rugby :rugby\_football:](#rugby-rugby_football)
-  - [EMG :electric\_plug::muscle:](#emg-electric_plugmuscle)
+  - [EMG :electric\_plug:💪](#emg-electric_plugmuscle)
 - [Gait Analysis and Motion Capture :cartwheeling:](#gait-analysis-and-motion-capture-cartwheeling)
   - [Gait Analysis Markersets :globe\_with\_meridians:](#gait-analysis-markersets-globe_with_meridians)
   - [Motion Capture Data Import and Processing](#motion-capture-data-import-and-processing)
@@ -582,7 +582,7 @@ This section in under construction
 📀 [live dataset (CAMS-KNEE workshop)](https://cams-knee.orthoload.com/workshop-data/) |
 💻 [website](https://cams-knee.orthoload.com/)
 
-### Upper Limb Movements :muscle:
+### Upper Limb Movements 💪
 
 * **Shoulder movements database** by Bart Bolsterlee et al. (2013). Data for five subjects (2 females, age 29.2 ± 2.3 year, height 176.3 ± 7.2 cm) performing range of motion and activities of daily living for the shoulder. Dataset includes kinematic, force and EMG data. A user guide and Matlab scripts are also available. </br>
 📄 [paper](https://link.springer.com/article/10.1007%2Fs11517-013-1065-2) |
@@ -644,7 +644,7 @@ the standard recommended by the International Society of Biomechanics (ISB).
 📀 [simulations data scrummaging](https://figshare.com/articles/dataset/Rugby_Scrum_-_Machine_Scrummaging_Data/4249883/2)|
 💻 [website](https://simtk.org/projects/csibath)
 
-### EMG :electric_plug::muscle:
+### EMG 🔌💪
 * **Sex-specific tuning of modular muscle activation patterns for locomotion in young and older adults** by Santuz A., Janshen, L., Brüll L., Munoz-Martel V., Taborri J., Rossi S. and Arampatzis A. (2022). This data set contains: a) the metadata with anonymized participant information; b) the raw EMG, already concatenated for the overground trials; c) the touchdown and lift-off timings of the recorded limb, d) the code to process the data. In total, 520 trials from 215 participants are included in the data set.</br>
 📀 [dataset and resources](https://zenodo.org/record/5171823)
 
