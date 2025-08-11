@@ -33,13 +33,13 @@ See [how you can contribute](#contributing), it's easy!<!-- omit in toc -->
   - [Walking :walking:](#walking-walking)
   - [Running :running:](#running-running)
   - [Instrumented Prostheses :chart\_with\_upwards\_trend:](#instrumented-prostheses-chart_with_upwards_trend)
-  - [Upper Limb Movements 💪](#upper-limb-movements-muscle)
+  - [Upper Limb Movements 💪](#upper-limb-movements-)
   - [Hand :palms\_up\_together:](#hand-palms_up_together)
   - [Soft Tissue Artefacts :leg:](#soft-tissue-artefacts-leg)
   - [Reference Joint Kinematics](#reference-joint-kinematics)
   - [Health Datasets :heart:](#health-datasets-heart)
   - [Rugby :rugby\_football:](#rugby-rugby_football)
-  - [EMG :electric\_plug:💪](#emg-electric_plugmuscle)
+  - [EMG 🔌💪](#emg-)
 - [Gait Analysis and Motion Capture :cartwheeling:](#gait-analysis-and-motion-capture-cartwheeling)
   - [Gait Analysis Markersets :globe\_with\_meridians:](#gait-analysis-markersets-globe_with_meridians)
   - [Motion Capture Data Import and Processing](#motion-capture-data-import-and-processing)
@@ -445,123 +445,122 @@ This section in under construction
 
 ### Balance :balance_scale:
 
-* **Standing Balance Experiment with Long Duration Random Pulses Perturbation** by Huawei Wang and Ton van den Bogert (2020). The data-set includes the perturbation reaction data from eight subjects. Each subject performed four experiment trials, including two quiet standing and two perturbed trials. Each trial lasted five minutes for a total of 80 minutes quiet standing and 80 minutes perturbed standing data. Recorded information including three dimensional trajectories of thirty-two markers (27 on subjects' trunk and legs and 5 on the treadmill frame), six dimensional ground reaction forces, and nine Electromyography signals (EMGs, on subjects' right leg). [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3819630.svg)](https://doi.org/10.5281/zenodo.3819630) </br>
+- **Standing Balance Experiment with Long Duration Random Pulses Perturbation** by Huawei Wang and Ton van den Bogert (2020). The data-set includes the perturbation reaction data from eight subjects. Each subject performed four experiment trials, including two quiet standing and two perturbed trials. Each trial lasted five minutes for a total of 80 minutes quiet standing and 80 minutes perturbed standing data. Recorded information including three dimensional trajectories of thirty-two markers (27 on subjects' trunk and legs and 5 on the treadmill frame), six dimensional ground reaction forces, and nine Electromyography signals (EMGs, on subjects' right leg). [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3819630.svg)](https://doi.org/10.5281/zenodo.3819630) </br>
 📄 [paper](https://doi.org/10.1016/j.jneumeth.2020.108580) |
 📀 [dataset](https://zenodo.org/record/3819630#.X2JMTmhKgdU) 
 
-* **BDS: A public data set of human balance evaluations** by Damiana dos Santos and Marco Duarte (2016). The data set comprises signals from the force platform (raw data for the force, moments of forces, and centers of pressure) of 163 subjects plus one file with information about the subjects and balance conditions and the results of the other evaluations. Subject’s balance was evaluated by posturography using a force platform and by the Mini Balance Evaluation Systems Tests in four conditions (standing still for 60 s on a rigid surface with eyes open; on a rigid surface with eyes closed; on an unstable surface with eyes open; on an unstable surface with eyes closed). Each condition was performed three times and the order of the conditions was randomized among subjects.</br>
+- **BDS: A public data set of human balance evaluations** by Damiana dos Santos and Marco Duarte (2016). The data set comprises signals from the force platform (raw data for the force, moments of forces, and centers of pressure) of 163 subjects plus one file with information about the subjects and balance conditions and the results of the other evaluations. Subject’s balance was evaluated by posturography using a force platform and by the Mini Balance Evaluation Systems Tests in four conditions (standing still for 60 s on a rigid surface with eyes open; on a rigid surface with eyes closed; on an unstable surface with eyes open; on an unstable surface with eyes closed). Each condition was performed three times and the order of the conditions was randomized among subjects.</br>
 📄 [paper](https://peerj.com/articles/2648/) |
 📀 [dataset](https://figshare.com/articles/A_public_data_set_of_quantitative_and_qualitative_evaluations_of_human_balance/3394432) |
 💻 [website](http://pesquisa.ufabc.edu.br/bmclab/datasets/bds/) |
 ⭐ [resources](https://github.com/BMClab/datasets/tree/master/BDS)
 
-* **PDS: A data set with kinematic and ground reaction forces of human balance** by Damiana dos Santos et al. (2017). This data set comprises signals from two force platforms (raw data for the force, moments of forces, and center of pressure) and the full-body three-dimensional kinematics of 49 subjects plus one file with meta data about the subjects and balance conditions and the results. </br>
+- **PDS: A data set with kinematic and ground reaction forces of human balance** by Damiana dos Santos et al. (2017). This data set comprises signals from two force platforms (raw data for the force, moments of forces, and center of pressure) and the full-body three-dimensional kinematics of 49 subjects plus one file with meta data about the subjects and balance conditions and the results. </br>
 📄 [paper](https://peerj.com/articles/3626/) |
 📀 [dataset](https://figshare.com/articles/A_data_set_with_kinematic_and_ground_reaction_forces_of_human_balance/4525082) |
 💻 [website](http://pesquisa.ufabc.edu.br/bmclab/datasets/pds/)
 
 ### Energetics :fire:
 
-* **ISB2019 Metabolic cost session_: Data for participants in ISB2019 session on model-based prediction of the metabolic cost of human locomotion.** by Ross Miller (2019).</br>
+- **ISB2019 Metabolic cost session_: Data for participants in ISB2019 session on model-based prediction of the metabolic cost of human locomotion.** by Ross Miller (2019).</br>
 📄 [users' guide](https://figshare.com/articles/journal_contribution/User_Guide/7086770) |
 📀 [dataset](https://figshare.com/projects/ISB2019_Metabolic_cost_session/38738)
 
-* **Dataset for Metabolic Cost Calculations of Gait using Musculoskeletal Energy Models, a Comparison Study** by Anne D. Koelewijn et al. (2019). The data set contains raw and processed data of gait analysis experiments of level and inclined walking at two speeds for 12 participants. The slopes were uphill and downhill with 8% incline. The raw data contains the output of the force plates and marker data, as well as raw measurements from an K4B2 system. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1973799.svg)](https://doi.org/10.5281/zenodo.1973799)</br>
+- **Dataset for Metabolic Cost Calculations of Gait using Musculoskeletal Energy Models, a Comparison Study** by Anne D. Koelewijn et al. (2019). The data set contains raw and processed data of gait analysis experiments of level and inclined walking at two speeds for 12 participants. The slopes were uphill and downhill with 8% incline. The raw data contains the output of the force plates and marker data, as well as raw measurements from an K4B2 system. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1973799.svg)](https://doi.org/10.5281/zenodo.1973799)</br>
 📄 [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0222037) |
 📀 [dataset](https://zenodo.org/record/1973799#.X0PtVshKgdU)
 
-
 ### Walking :walking:
 
-* **A database of human gait performance on irregular and uneven surfaces collected by wearable sensors** by Luo et al. (2020). Data from Inertial Measurement Units (IMU) from thirty participants (fifteen males and fifteen females, 23.5 ± 4.2 years, 169.3 ± 21.5 cm, 70.9 ± 13.9 kg) who wore six IMUs while walking on nine outdoor surfaces with self-selected speed (16.4 ± 4.2 seconds per trial). Intended for machine learning purposes.</br>
+- **A database of human gait performance on irregular and uneven surfaces collected by wearable sensors** by Luo et al. (2020). Data from Inertial Measurement Units (IMU) from thirty participants (fifteen males and fifteen females, 23.5 ± 4.2 years, 169.3 ± 21.5 cm, 70.9 ± 13.9 kg) who wore six IMUs while walking on nine outdoor surfaces with self-selected speed (16.4 ± 4.2 seconds per trial). Intended for machine learning purposes.</br>
 📄 [paper](https://www.nature.com/articles/s41597-020-0563-y) |
 📀 [dataset](https://doi.org/10.6084/m9.figshare.c.4892463) |
 📀 [metadata](https://springernature.figshare.com/articles/Metadata_record_for_A_database_of_human_gait_performance_on_irregular_and_uneven_surfaces_collected_by_wearable_sensors/12505022) |
 ⭐ [resources](https://github.com/UF-ISE-HSE/UnevenWalkingSurface)
 
-* **An Open Data Set of Inertial, Magnetic, Foot–Ground Contact, and Electromyographic Signals From Wearable Sensors During Walking.** by Miraldo DC, Watanabe RN and Duarte M (2020).  Data were acquired from 22 healthy adults using wearable sensors and walking at self-selected comfortable, fast and slow speeds, and standing still. In total, there are data of 9,661 gait strides. The dataset includes gait events and notebooks exemplifying how to access and visualize the data.  
+- **An Open Data Set of Inertial, Magnetic, Foot–Ground Contact, and Electromyographic Signals From Wearable Sensors During Walking.** by Miraldo DC, Watanabe RN and Duarte M (2020).  Data were acquired from 22 healthy adults using wearable sensors and walking at self-selected comfortable, fast and slow speeds, and standing still. In total, there are data of 9,661 gait strides. The dataset includes gait events and notebooks exemplifying how to access and visualize the data.  
 📄 [paper](https://doi.org/10.1123/mc.2020-0023) |
 📀 [dataset](https://figshare.com/articles/Dataset_of_gait_and_inertial_sensors/7778255) |
 💻 [website](http://pesquisa.ufabc.edu.br/bmclab/datasets/geds/) |
 ⭐ [resources](https://github.com/BMClab/datasets/tree/master/GEDS)
 
-* **A multimodal dataset of human gait at different walking speeds established on injury-free adult participants** by Céline Schreiber & Florent Moissenet (2019). Dataset collected on 50 healthy and injury-free adults, with no lower and upper extremity surgery in the last two years. Participants walked at 5 speeds during one unique session. Three dimensional trajectories of 52 reflective markers spread over the whole body, 3D ground reaction forces and moment, and electromyographic signals were simultaneously recorded.  
+- **A multimodal dataset of human gait at different walking speeds established on injury-free adult participants** by Céline Schreiber & Florent Moissenet (2019). Dataset collected on 50 healthy and injury-free adults, with no lower and upper extremity surgery in the last two years. Participants walked at 5 speeds during one unique session. Three dimensional trajectories of 52 reflective markers spread over the whole body, 3D ground reaction forces and moment, and electromyographic signals were simultaneously recorded.  
 📄 [paper](https://www.nature.com/articles/s41597-019-0124-4) |
 📀 [dataset](https://doi.org/10.6084/m9.figshare.7734767)
 
-* **A public data set of overground and treadmill walking kinematics and kinetics of healthy individuals** by Claudiane A. Fukuchi et al. (2018). Dataset of 42 healthy volunteers (24 young adults and 18 older adults) who walked both overground and on a treadmill at a range of gait speeds.  
+- **A public data set of overground and treadmill walking kinematics and kinetics of healthy individuals** by Claudiane A. Fukuchi et al. (2018). Dataset of 42 healthy volunteers (24 young adults and 18 older adults) who walked both overground and on a treadmill at a range of gait speeds.  
 📄 [paper](https://peerj.com/articles/4640) |
 📀 [dataset](https://figshare.com/articles/dataset/A_public_data_set_of_overground_and_treadmill_walking_kinematics_and_kinetics_of_healthy_individuals/5722711/4) |
 💻 [website](http://pesquisa.ufabc.edu.br/bmclab/datasets/wbds/)
 
-* **An elaborate data set on human gait and the effect of mechanical perturbations** by Jason Moore et al. (2015). Gait data set collected from fifteen subjects walking at three speeds on an instrumented treadmill. Each trial consists of 120 s of normal walking and 480 s of walking while being longitudinally perturbed during each stance phase with pseudo-random fluctuations in the speed of the treadmill belt.  
+- **An elaborate data set on human gait and the effect of mechanical perturbations** by Jason Moore et al. (2015). Gait data set collected from fifteen subjects walking at three speeds on an instrumented treadmill. Each trial consists of 120 s of normal walking and 480 s of walking while being longitudinally perturbed during each stance phase with pseudo-random fluctuations in the speed of the treadmill belt.  
 📄 [paper](https://doi.org/10.7717/peerj.918) |
 📀 [dataset](https://zenodo.org/record/13030#.Xz1FeehKgdU) |
 💻 [resources](https://github.com/csu-hmc/perturbed-data-paper) 
 
-* **Human kinematic, kinetic and EMG data during level walking, toe/heel-walking, stairs ascending/descending** by Tiziana Lencioni et al. (2019). kinematic, kinetic and electromyographic (EMG) data acquired from 50 healthy subjects (age between 6 and 72 years) during level walking at different velocities, toe- and heel-walking, stairs ascending and descending.</br>
+- **Human kinematic, kinetic and EMG data during level walking, toe/heel-walking, stairs ascending/descending** by Tiziana Lencioni et al. (2019). kinematic, kinetic and electromyographic (EMG) data acquired from 50 healthy subjects (age between 6 and 72 years) during level walking at different velocities, toe- and heel-walking, stairs ascending and descending.</br>
 📄 [paper](https://www.nature.com/articles/s41597-019-0323-z) |
 📀 [dataset](https://springernature.figshare.com/collections/Human_kinematic_kinetic_and_EMG_data_during_level_walking_toe_heel-walking_stairs_ascending_descending/4494755/1)
 
-* **Multiple Speed Walking Simulations** by May Liu et al. (2008). Data set with eight subjects (two males) walking overground at very slow, slow, free, and fast speeds.</br>
+- **Multiple Speed Walking Simulations** by May Liu et al. (2008). Data set with eight subjects (two males) walking overground at very slow, slow, free, and fast speeds.</br>
 📄 [paper](https://doi.org/10.1016/j.jbiomech.2008.07.031) |
 📀 [dataset](https://simtk.org/projects/mspeedwalksims) 
 
-* **Normative gait data** from Chris Kirtley's [website](http://www.clinicalgaitanalysis.com/) on clinical gait analysis. **Website does not seem maintained.**  
+- **Normative gait data** from Chris Kirtley's [website](http://www.clinicalgaitanalysis.com/) on clinical gait analysis. **Website does not seem maintained.**  
 💻 [website](http://www.clinicalgaitanalysis.com/data/) 
 
-* **2-D walking: kinematics and force plate data** by David Winter. Originally published as Appendix in the book _Biomechanics and Motor Control of Human Movement_, 2nd edition, John Wiley & Sons, 1990.</br>
+- **2-D walking: kinematics and force plate data** by David Winter. Originally published as Appendix in the book _Biomechanics and Motor Control of Human Movement_, 2nd edition, John Wiley & Sons, 1990.</br>
 💻 [website](https://isbweb.org/resources/data-resources/140-movement-data/508-gait-data) |
 📀 [dataset](https://isbweb.org/docs/resources/data-resources/gait-data/266-winter-zip)
 
-
-* **GaitRec, a large-scale ground reaction force dataset of healthy and impaired gait** by Horsak et al. (2020). GAITREC is a comprehensive and annotated large-scale dataset containing bi-lateral GRF walking trials of 2,084 patients with various musculoskeletal impairments and data from 211 healthy controls. The data sum up to a total of 75,732 bi-lateral walking trials.</br>
+- **GaitRec, a large-scale ground reaction force dataset of healthy and impaired gait** by Horsak et al. (2020). GAITREC is a comprehensive and annotated large-scale dataset containing bi-lateral GRF walking trials of 2,084 patients with various musculoskeletal impairments and data from 211 healthy controls. The data sum up to a total of 75,732 bi-lateral walking trials.</br>
 📄 [paper](https://www.nature.com/articles/s41597-020-0481-z) |
 📀 [dataset](https://doi.org/10.6084/m9.figshare.c.4788012)
 
-* **Gutenberg Gait Database, a ground reaction force database of level overground walking in healthy individuals** by Horst et al. (2021). The Gutenberg Gait Database comprises data of 350 healthy individuals. The database contains ground reaction force (GRF) and center of pressure (COP) data of two consecutive steps measured - by two force plates embedded in the ground - during level overground walking at self-selected walking speed. </br>
+- **Gutenberg Gait Database, a ground reaction force database of level overground walking in healthy individuals** by Horst et al. (2021). The Gutenberg Gait Database comprises data of 350 healthy individuals. The database contains ground reaction force (GRF) and center of pressure (COP) data of two consecutive steps measured - by two force plates embedded in the ground - during level overground walking at self-selected walking speed. </br>
 📄 [paper](https://doi.org/10.1038/s41597-021-01014-6) |
 📀 [dataset](https://doi.org/10.6084/m9.figshare.c.5311538)
 
 ### Running :running:
 
-* **A public data set of running biomechanics and the effects of running speed on lower extremity kinematics and kinetics** by Reginaldo K. Fukuchi et al. (2017). The lower-extremity kinematics and kinetics data of 28 regular runners were collected using a three-dimensional (3D) motion-capture system and an instrumented treadmill while the subjects ran at 2.5 m/s, 3.5 m/s, and 4.5 m/s wearing standard neutral shoes.  
+- **A public data set of running biomechanics and the effects of running speed on lower extremity kinematics and kinetics** by Reginaldo K. Fukuchi et al. (2017). The lower-extremity kinematics and kinetics data of 28 regular runners were collected using a three-dimensional (3D) motion-capture system and an instrumented treadmill while the subjects ran at 2.5 m/s, 3.5 m/s, and 4.5 m/s wearing standard neutral shoes.  
 📄 [paper](https://peerj.com/articles/3298) |
 📀 [dataset](https://figshare.com/articles/A_comprehensive_public_data_set_of_running_biomechanics_and_the_effects_of_running_speed_on_lower_extremity_kinematics_and_kinetics/4543435/4) |
 💻 [website](http://pesquisa.ufabc.edu.br/bmclab/datasets/rbds/)
 
-* **Ground reaction force metrics are not strongly correlated with tibial bone load when running across speeds and slopes: implications for science, sport and wearable tech**  by Emily Matijevich et al. (2019). Includes ten healthy individuals that performed running trials while GRFs and kinematics were collected. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3460691.svg)](https://doi.org/10.5281/zenodo.3460691)    
+- **Ground reaction force metrics are not strongly correlated with tibial bone load when running across speeds and slopes: implications for science, sport and wearable tech**  by Emily Matijevich et al. (2019). Includes ten healthy individuals that performed running trials while GRFs and kinematics were collected. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3460691.svg)](https://doi.org/10.5281/zenodo.3460691)  
 📄 [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0210000) |
 📀 [dataset and resources](https://zenodo.org/record/3460691#.Xz-1tuhKgdU)
 
-* **Muscle contributions to mass center accelerations over a range of running speeds** by Samuel Hamner and Scott Delp (2013). Repository of experimental data (i.e., motion capture, EMG, GRFs), subject-specific models, and muscle-driven simulation results of 10 male subject running across a range of speeds: 2 m/s, 3 m/s, 4 m/s, and 5 m/s.   
+- **Muscle contributions to mass center accelerations over a range of running speeds** by Samuel Hamner and Scott Delp (2013). Repository of experimental data (i.e., motion capture, EMG, GRFs), subject-specific models, and muscle-driven simulation results of 10 male subject running across a range of speeds: 2 m/s, 3 m/s, 4 m/s, and 5 m/s.  
 📄 [paper](https://doi.org/10.1016/j.jbiomech.2012.11.024) |
 📀 [dataset](https://simtk.org/projects/nmbl_running/)
 
-* **Simulated muscle fiber lengths and velocities during walking and running** by Edith Arnold et al. (2013). Models and results for simulations of muscle fiber dynamics for five subjects walking at four speeds and running at four speeds. **The subject numbers are noncontiguous to maintain alignment with the related project: https://simtk.org/projects/nmbl_running**.  
+- **Simulated muscle fiber lengths and velocities during walking and running** by Edith Arnold et al. (2013). Models and results for simulations of muscle fiber dynamics for five subjects walking at four speeds and running at four speeds. **The subject numbers are noncontiguous to maintain alignment with [this related project](https://simtk.org/projects/nmbl_running)**.  
 📄 [paper](https://jeb.biologists.org/content/216/11/2150) |
 📀 [dataset](https://simtk.org/projects/muscfib_walkrun)
 
-* **Muscle function of overground running across a range of speeds** by Tim Dorne et al. (2012). Running data and musculoskeletal models for a single representative subject (JA1). Actual running speeds: 3.56 m/s, 5.20 m/s, 7.00 m/s and 9.49 m/s.  
+- **Muscle function of overground running across a range of speeds** by Tim Dorne et al. (2012). Running data and musculoskeletal models for a single representative subject (JA1). Actual running speeds: 3.56 m/s, 5.20 m/s, 7.00 m/s and 9.49 m/s.  
 📄 [paper](https://doi.org/10.1242/jeb.064527) |
 📀 [dataset](https://simtk.org/projects/runningspeeds)
 
-* **Development and validation of FootNet; a new kinematic algorithm to improve foot-strike and toe-off detection in treadmill running** by Adrian R Rivadulla et al. (2021). Features (distal tibia anteroposterior velocity, ankle dorsi/plantar flexion angle, anteroposterior and vertical foot centre of mass velocities) and ground truth labels (vertical ground reaction forces) and notebooks for model development replication.  
+- **Development and validation of FootNet; a new kinematic algorithm to improve foot-strike and toe-off detection in treadmill running** by Adrian R Rivadulla et al. (2021). Features (distal tibia anteroposterior velocity, ankle dorsi/plantar flexion angle, anteroposterior and vertical foot centre of mass velocities) and ground truth labels (vertical ground reaction forces) and notebooks for model development replication.  
 📄 [paper](https://doi.org/10.1371/journal.pone.0248608) |
 📀 [dataset](https://doi.org/10.15125/BATH-00965)
 
-* **CARL: a running recognition algorithm for free-living accelerometer data** by John J Davis IV et al. (2021). An activity recognition algorithm that can identify and extract bouts of running from raw accelerometry data collected anywhere on the torso or wrist. Written in MATLAB and accompanied by a dataset of 227 subjects equipped with wearable accelerometers performing a wide range of activities, including walking, running, cycling, sit-to-stand transitions, and more. 📄 [paper](https://iopscience.iop.org/article/10.1088/1361-6579/ac41b8) |
+- **CARL: a running recognition algorithm for free-living accelerometer data** by John J Davis IV et al. (2021). An activity recognition algorithm that can identify and extract bouts of running from raw accelerometry data collected anywhere on the torso or wrist. Written in MATLAB and accompanied by a dataset of 227 subjects equipped with wearable accelerometers performing a wide range of activities, including walking, running, cycling, sit-to-stand transitions, and more.  
+📄 [paper](https://iopscience.iop.org/article/10.1088/1361-6579/ac41b8) |
 📀 [dataset](https://figshare.com/articles/dataset/CARL_classifier_activity_recognition_data/17198275)
 💾 [source](https://github.com/johnjdavisiv/carl)
 
 ### Instrumented Prostheses :chart_with_upwards_trend:
 
-* **Grand Challenge Competition to Predict In Vivo Knee Loads** By BJ Fregly et al. (2012). Data sets from instrumented knee prostheses used in the "Grand Challenge Competition". Data include medical images and segmentations (for most participants), tibial contact force, video motion, ground reaction, muscle EMG, muscle strength, static and dynamic imaging, and implant geometry data for six patients. This is the most completely and easily accessible dataset of measurements from instrumented prostheses.   
+- **Grand Challenge Competition to Predict In Vivo Knee Loads** By BJ Fregly et al. (2012). Data sets from instrumented knee prostheses used in the "Grand Challenge Competition". Data include medical images and segmentations (for most participants), tibial contact force, video motion, ground reaction, muscle EMG, muscle strength, static and dynamic imaging, and implant geometry data for six patients. This is the most completely and easily accessible dataset of measurements from instrumented prostheses.  
 📄 [paper1](https://doi.org/10.1002/jor.22023) |
 📄 [paper2](https://doi.org/10.1115/1.4023255) |
 📀 [dataset](https://simtk.org/projects/kneeloads)
 
-* **Orthoload** by the Julius Wolff Institute of the Charité in Berlin. This online dataset includes loads occuring in human joints measured directly in patients by using instrumented hip, knee, shoulder and spinal implants. OrthoLoad supplies numerical load data and videos, which contain load-time diagrams and synchronous images of the subject’s activities. **No joint kinematics available outside `larger cooperative projects`, except few sample data:**.  
+- **Orthoload** by the Julius Wolff Institute of the Charité in Berlin. This online dataset includes loads occuring in human joints measured directly in patients by using instrumented hip, knee, shoulder and spinal implants. OrthoLoad supplies numerical load data and videos, which contain load-time diagrams and synchronous images of the subject’s activities. **No joint kinematics available outside `larger cooperative projects`, except few sample data:**.  
 📄 [publication list](https://orthoload.com/publications/) |
 📀 [dataset hip](http://www.wiki.orthoload.com/index.php?title=Hip_joint_III) |
 📀 [dataset knee](http://www.wiki.orthoload.com/index.php?title=Knee_joint) |
@@ -570,12 +569,12 @@ This section in under construction
 📀 [sample comprehensive](https://orthoload.com/comprehensive-data-sample) |
 💻 [website](https://orthoload.com/)
 
-* **HIP98** by Georg Bergmann et al. (1998). The data collection CD-ROM HIP98 contains the forces acting in the hip joint during the most common activities of daily living. Measurements were taken 1998 in 4 subjects (implant loads, synchronous videos, gait analysis data, calculated muscle forces, EMG signals and numbers for the frequencies of the different activities).The loads acting in a ’typical’ or representative subject are also provided. **Issues in installing the database in recent Microsoft operative systems. The data will be extracted but the GUI will not work.**  
+- **HIP98** by Georg Bergmann et al. (1998). The data collection CD-ROM HIP98 contains the forces acting in the hip joint during the most common activities of daily living. Measurements were taken 1998 in 4 subjects (implant loads, synchronous videos, gait analysis data, calculated muscle forces, EMG signals and numbers for the frequencies of the different activities).The loads acting in a ’typical’ or representative subject are also provided. **Issues in installing the database in recent Microsoft operative systems. The data will be extracted but the GUI will not work.**  
 📄 [paper](https://doi.org/10.1016/s0021-9290(01)00040-9) |
 📀 [dataset](https://orthoload.com/wp-content/uploads/hip98.zip) |
 💻 [website](https://orthoload.com/test-loads/data-collection-hip98)
 
-* **CAMS-KNEE** by William Taylor et al. (2017). Datasets collected on a cohort of 6 subjects with instrumented knee implants (Charité – Universitätsmedizin Berlin) synchronized with a moving fluoroscope (ETH Zürich) and other measurement techniques (whole body kinematics, ground reaction forces, video data, and electromyography data) for multiple complete cycles of 5 activities of daily living. **Data must be requested submitting a project description.** I was NOT granted access to the entire data set for exploring the dataset.  
+- **CAMS-KNEE** by William Taylor et al. (2017). Datasets collected on a cohort of 6 subjects with instrumented knee implants (Charité – Universitätsmedizin Berlin) synchronized with a moving fluoroscope (ETH Zürich) and other measurement techniques (whole body kinematics, ground reaction forces, video data, and electromyography data) for multiple complete cycles of 5 activities of daily living. **Data must be requested submitting a project description.** I was NOT granted access to the entire data set for exploring the dataset.  
 **Link to live dataset is broken.**  </br>
 📄 [paper](https://doi.org/10.1016/j.jbiomech.2017.09.022) |
 💿 [data request](https://cams-knee.orthoload.com/data/data-request/) |
@@ -584,24 +583,24 @@ This section in under construction
 
 ### Upper Limb Movements 💪
 
-* **Shoulder movements database** by Bart Bolsterlee et al. (2013). Data for five subjects (2 females, age 29.2 ± 2.3 year, height 176.3 ± 7.2 cm) performing range of motion and activities of daily living for the shoulder. Dataset includes kinematic, force and EMG data. A user guide and Matlab scripts are also available. </br>
+- **Shoulder movements database** by Bart Bolsterlee et al. (2013). Data for five subjects (2 females, age 29.2 ± 2.3 year, height 176.3 ± 7.2 cm) performing range of motion and activities of daily living for the shoulder. Dataset includes kinematic, force and EMG data. A user guide and Matlab scripts are also available.</br>
 📄 [paper](https://link.springer.com/article/10.1007%2Fs11517-013-1065-2) |
 📀 [dataset](https://simtk.org/frs/?group_id=465) |
 💻 [website](https://simtk.org/projects/dsem)
 
-* **Complete Inertial Pose (CIP) dataset** by M. Palermo et al. (2022). The CIP dataset is composed of 2 subsets, containing low-cost (MPU9250) and high-end (MTwAwinda) Magnetic, Angular Rate, and Gravity (MARG) sensor data respectively. Multiple trials were collected with 21 and 10 subjects respectively, performing 6 types of movements (ranging from calibration, to daily-activities, range-of-motion and random). It presents a high degree of variability and complex dynamics while containing common sources of error found on real conditions. This amounts to 3.5M samples, synchronized with a ground-truth inertial motion capture system (Xsens) at 60hz. </br>
+- **Complete Inertial Pose (CIP) dataset** by M. Palermo et al. (2022). The CIP dataset is composed of 2 subsets, containing low-cost (MPU9250) and high-end (MTwAwinda) Magnetic, Angular Rate, and Gravity (MARG) sensor data respectively. Multiple trials were collected with 21 and 10 subjects respectively, performing 6 types of movements (ranging from calibration, to daily-activities, range-of-motion and random). It presents a high degree of variability and complex dynamics while containing common sources of error found on real conditions. This amounts to 3.5M samples, synchronized with a ground-truth inertial motion capture system (Xsens) at 60hz. </br>
 📄 [paper](https://arxiv.org/pdf/2202.06164.pdf) |
 📀 [dataset](https://doi.org/10.5281/zenodo.5801928) |
 ⭐ [code](https://github.com/ManuelPalermo/HumanInertialPose)
 
 ### Hand :palms_up_together:
 
-* **A large calibrated database of hand movements and grasps kinematics** by Néstor J. Jarque-Bou et al. (2020). The dataset includes calibrated kinematic data for 77 subjects and 40 movements (each repeated several times), resulting in the largest available kinematic dataset. The dataset derives from three multimodal datasets, previously released (Ninapro DB1, DB2 and DB5, that include electromyography, inertial and dynamic data). Hand kinematics was measured for all subjects using a 22-sensor CyberGlove II data glove. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3357966.svg)](https://doi.org/10.5281/zenodo.3357966)</br>
+- **A large calibrated database of hand movements and grasps kinematics** by Néstor J. Jarque-Bou et al. (2020). The dataset includes calibrated kinematic data for 77 subjects and 40 movements (each repeated several times), resulting in the largest available kinematic dataset. The dataset derives from three multimodal datasets, previously released (Ninapro DB1, DB2 and DB5, that include electromyography, inertial and dynamic data). Hand kinematics was measured for all subjects using a 22-sensor CyberGlove II data glove. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3357966.svg)](https://doi.org/10.5281/zenodo.3357966)</br>
 📄 [paper](https://www.nature.com/articles/s41597-019-0349-2) |
 📀 [dataset](https://zenodo.org/record/3480074#.X1_ocWhKgdU) |
 ⭐ [code](https://zenodo.org/record/3357966#.X1_n9mhKgdU)
 
-* **Wrist Anatomy and Kinematics Data Collection** by Bardiya Akhbari et al. (2019). The current collection includes carpal bone (not metacarpals) anatomy models from 90 healthy subjects (120 wrists), and the carpal bone kinematics in 1215 unique wrist positions. A graphical user interface (GUI) is also developed to maximize user interaction with this collection.</br>
+- **Wrist Anatomy and Kinematics Data Collection** by Bardiya Akhbari et al. (2019). The current collection includes carpal bone (not metacarpals) anatomy models from 90 healthy subjects (120 wrists), and the carpal bone kinematics in 1215 unique wrist positions. A graphical user interface (GUI) is also developed to maximize user interaction with this collection.</br>
 📄 [paper](https://doi.org/10.1002/jor.24435) |
 📀 [dataset](https://simtk.org/frs/?group_id=1665) |
 💻 [website](https://simtk.org/projects/carpal-database) 
@@ -1177,7 +1176,7 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 * **[Rhino3Dmedical](https://rhino3dmedical.com/)** commercial.</br>
 🎥 [webinar](https://www.youtube.com/watch?v=MYuX2iGxU-Y&feature=youtu.be&ab_channel=McNeelEurope)
 * **[SASHIMI Segmentation](https://github.com/bartbols/SASHIMI) :sushi:** by Bart Bolsterlee. SASHIMI Segmentation is a MATLAB App for segmentation of multi-slice images. </br> 
-* **[Seg3D](https://www.sci.utah.edu/cibc-software/seg3d.html)**    
+* **[Seg3D](https://github.com/SCIInstitute/Seg3D)**    
 * **[Simpleware ScanIP](https://www.synopsys.com/simpleware/software/scanip.html) (commercial)**.  
 
 ### Automatic Segmentation :mage_man:
@@ -1374,7 +1373,7 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 
 * **MOFEM** by Lukasz Kaczmarczyk et al. (2019). MOFEM is an open source (GNU LGPL) C++ finite element library capable of dealing with complex multi-physics problems with arbitrary levels of approximation and refinement. MoFEM can read various input file formats, and work with preprocessors like Gmsh, Salome, Cubit, and many more. Also, it can be used for parallel processing on desktop computers and high-performance clusters.</br>
 📄 [paper](https://joss.theoj.org/papers/10.21105/joss.01441) |
-💻 [website](http://mofem.eng.gla.ac.uk/mofem/html/index.html?s=03) |
+💻 [website](https://mofem.eng.gla.ac.uk) |
 💾 [source](https://bitbucket.org/likask/mofem-cephas/src/master/)
 
 * **Z88** by Prof. Dr.-Ing. Frank Rieg and team. The free open source program `Z88OS` is suitable as a really basic FEM program for learning the fundamentals of finite element analysis by examining and, if necessary, by changing or expanding the code. `Z88Aurora®`, which is based on the structures of Z88, is a user interface for Z88OS. `Z88Arion®` is another related tool, a freeware topology optimization program.</br>
