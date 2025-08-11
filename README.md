@@ -69,7 +69,10 @@ See [how you can contribute](#contributing), it's easy!<!-- omit in toc -->
   - [Resources for Building Biomechanical Models from Medical Images :woman\_technologist:](#resources-for-building-biomechanical-models-from-medical-images-woman_technologist)
   - [Automatic Definition of Bony Landmarks and Reference Systems :skull:](#automatic-definition-of-bony-landmarks-and-reference-systems-skull)
   - [Uncertainty Quantification in Musculoskeletal Simulations :question:](#uncertainty-quantification-in-musculoskeletal-simulations-question)
-  - [Meshers of Surface Models](#meshers-of-surface-models)
+  - [Volumetric Meshers of Surface Models](#volumetric-meshers-of-surface-models)
+    - [Tetrahedral meshers](#tetrahedral-meshers)
+    - [Hexahedral meshers](#hexahedral-meshers)
+    - [Commercial meshers](#commercial-meshers)
   - [Statistical Shape Modelling :bone:](#statistical-shape-modelling-bone)
 - [Finite Element Analysis](#finite-element-analysis)
   - [Finite Element Analysis Software](#finite-element-analysis-software)
@@ -1287,7 +1290,7 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 
 ### Uncertainty Quantification in Musculoskeletal Simulations :question:
 
-* **Probabilistic Tool for Considering Patient Populations & Model Uncertainty** by Casey A. Myers et al. (2015). This is a probabilistic tool to assess model parameter uncertainty and intersubject variability.</br>  
+- **Probabilistic Tool for Considering Patient Populations & Model Uncertainty** by Casey A. Myers et al. (2015). This is a probabilistic tool to assess model parameter uncertainty and intersubject variability.</br>  
 📄 [paper](https://link.springer.com/article/10.1007%2Fs10439-014-1181-7) |
 📄 [Users Guide](https://simtk.org/docman/view.php/886/1884/OpenSim+Probabilistic+Plugin+Users+Guide+%28v1.0%29.pdf) |
 💻 [website](https://simtk.org/projects/prob_tool)
@@ -1296,22 +1299,37 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 📄 [paper](https://doi.org/10.1371/journal.pone.0112625) |
 💻 [website](https://simtk.org/frs/download_confirm.php/file/4298/PMM_module.rar?group_id=978)
 
+### Volumetric Meshers of Surface Models
 
-### Meshers of Surface Models
-* [Hypermesh](https://www.altair.com/hypermesh/) (commercial): HyperMesh is a multi-disciplinary finite element pre-processor which manages the generation of large, complex models, starting with the import of a CAD geometry.</br>
-* [CUBIT (The CUBIT™ Geometry and Mesh Generation Toolkit)](https://cubit.sandia.gov/) - TODO description
-* [TetGen](http://wias-berlin.de/software/index.jsp?id=TetGen&lang=1)
-* [NetGen](https://sourceforge.net/projects/netgen-mesher/) [source](https://github.com/NGSolve/netgen)
+#### Tetrahedral meshers
 
+- [TetGen](http://wias-berlin.de/software/index.jsp?id=TetGen&lang=1)
+- [NetGen](https://sourceforge.net/projects/netgen-mesher/) [source](https://github.com/NGSolve/netgen)
+
+#### Hexahedral meshers
+
+- **Fast Tetrahedral Meshing in the Wild** by Yixin Hu et al. (2020).  
+📄 [paper](https://dl.acm.org/doi/10.1145/3386569.3392385) | 💾 [source](https://github.com/wildmeshing/fTetWild)
+
+- **TetWild - Tetrahedral Meshing in the Wild** by Yixin Hu et al. (2018).  
+📄 [paper](https://dl.acm.org/doi/10.1145/3197517.3201353) | 💾 [source](https://github.com/Yixin-Hu/TetWild)
+
+- **PolyCube Based Automatic Hex-Mesh Generation (UBC)** by British Columbia. The tool expects tetrahedral meshes in the Paraview VTU format. It can also convert to NASTRAN and MEDIT .MESH format.  
+💻 [website](https://www.cs.ubc.ca/labs/imager/tr/2018/HexDemo/)
+
+#### Commercial meshers
+
+- [Hypermesh](https://www.altair.com/hypermesh/) (commercial): HyperMesh is a multi-disciplinary finite element pre-processor which manages the generation of large, complex models, starting with the import of a CAD geometry.</br>
+- [CUBIT (The CUBIT™ Geometry and Mesh Generation Toolkit)](https://cubit.sandia.gov/):  two- and three-dimensional finite element mesh generation toolkit for solid models.
 
 ### Statistical Shape Modelling :bone:
 
-* **Deformetrica** is a software (Python tool :snake:) for the statistical analysis of 2D and 3D shape data. Deformetrica comes with three main applications: registration, atlas construction and geodesic regression. </br>
-📄 [list of papers](http://www.deformetrica.org/#references) |
-💻 [website](https://www.deformetrica.org/) |
-💾 [source](https://gitlab.com/icm-institute/aramislab/deformetrica)
+- **Deformetrica** is a software (Python tool :snake:) for the statistical analysis of 2D and 3D shape data. Deformetrica comes with three main applications: registration, atlas construction and geodesic regression. Deformetrica works only on Linux systems. The ESB-ITA webinar was presented by Alessandra Aldieri (Politecnico di Torino), Sara Barati (Politecnico di Milano) and Marilena Mazzoli (Fondazione Toscana Gabriele Monasterio).</br>
+📄 [list of papers](https://gitlab.com/icm-institute/aramislab/deformetrica#references) |
+💾 [source](https://gitlab.com/icm-institute/aramislab/deformetrica) |
+🎥[ESB-ITA webinar (2024)](https://www.youtube.com/watch?v=iF-0sIs88Kg)
 
-* **Musculoskeletal Atlas Project (MAP)** by Ju Zhang et al. (2014). Open-source software framework in Python :snake: with plug-in architecture for creating musculoskeletal models. The client-side application (MAP Client) facilitates dicom and motion capture integration, registration tools, and meshing capabilities, and uses statistical shape modelling (based on the Melbourne Femur Collection, which consists of 320 full body CT scans) to provide a best-match to mocap and medical imaging data and generate surface geometry to generate an OpenSim model. **Not maintained.**</br>
+- ~~**Musculoskeletal Atlas Project (MAP)** by Ju Zhang et al. (2014). Open-source software framework in Python :snake: with plug-in architecture for creating musculoskeletal models. Based on the Melbourne Femur Collection (320 full body CT scans). Generates surface geometry to generate an OpenSim model.~~ **Not maintained.**</br>
 📄 [paper](https://www.researchgate.net/profile/Ju_Zhang15/publication/301951056_The_MAP_Client_User-Friendly_Musculoskeletal_Modelling_Workflows/links/5735044508ae298602df08c8/The-MAP-Client-User-Friendly-Musculoskeletal-Modelling-Workflows.pdf) |
 💻 [website](https://simtk.org/projects/map) |
 💻 [docs](https://map-client.readthedocs.io/en/latest/) |
