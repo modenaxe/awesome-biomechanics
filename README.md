@@ -119,20 +119,19 @@ See [how you can contribute](#contributing), it's easy!<!-- omit in toc -->
 ### YouTube Channels :tv: <!-- TODO: organise in associations, research groups, software, researchers-->
 
 - [AnyBody Technology Videos and Webcasts](https://www.youtube.com/channel/UCbgDnEKXyYOETR_Nb6YdehA)
-- [American Society Biomechanics (ASB)](https://www.youtube.com/channel/UC0_WoykR3nSBrHAwyfLPzzw)
-- [BassettBiomechanics](https://www.youtube.com/c/Bassettbiomechanics/videos): includes a _Biomechanics of the Musculoskeletal System_ course and Visual3D tutorials.
-- [Biomch-V](https://www.youtube.com/channel/UCcv9iv6v4_l9dfDDW1PTZCA): includes videos from International Society of Biomechanics conferences.
-- [Dynamic Walking](https://www.youtube.com/channel/UC3as2QfbMLDpA8kN_KZAoNw)
-- [European Society of Biomechanics (ESB)](https://www.youtube.com/channel/UCFkgDwfks-UkG7IDk8cBMMQ)
-- [International Society of Biomechanics (tutorials and lectures)](https://isbweb.org/about-us/61-videos): It includes those recorded at the ISB congresses from 2007 and those provided by others.
-- [International Society of Biomechanics in Sports (ISBS)](https://www.youtube.com/channel/UCYkzE6y_eKWa7KQOqZ6ZQUA/featured?disable_polymer=1): videos from ISBS2020 virtual conference.
-- [Journal of Foot and Ankle Research](https://www.youtube.com/channel/UCuIdGMZMaDKRM7vyJ6Dbcwg)
-- [Neuromech TV](https://www.youtube.com/@NeuromechTV): Youtube Channel by the Research Group on Applied Neuromechanics from the Federal University of Pampa, in Brazil. It aims to help students and scientists interested in the study of the human movement, and its related topics.
+- [American Society Biomechanics (ASB)](https://www.youtube.com/@AmSocBiomech)
+- [Dynamic Walking](https://www.youtube.com/@dynamicwalking4049)
+- [Biomch-V](https://www.youtube.com/channel/UCcv9iv6v4_l9dfDDW1PTZCA): includes videos from the 2015 Congress of the International Society of Biomechanics.
+- [European Society of Biomechanics (ESB)](https://www.youtube.com/@ESBiomech)
+- [International Society of Biomechanics in Sports (ISBS)](https://www.youtube.com/@ISBSOFFICIAL): videos from ISBS2020 virtual conference.
+- [Journal of Foot and Ankle Research](https://www.youtube.com/@JFootAnkleRes)
+- [Neuromech TV](https://www.youtube.com/@NeuromechTV) by the Research Group on Applied Neuromechanics from the Federal University of Pampa, Brazil. It aims to help students and scientists interested in the study of the human movement, and its related topics.
 - [OpenSim Videos and Webinars](https://www.youtube.com/user/OpenSimVideos/videos)
-- [UCalgary Human Performance Lab](https://www.youtube.com/channel/UCxAOMJHF-5xQMFkLAutV7Dg/videos): lots of very interesting videos from ISB/ASB2019 and Dynamic Walking 2019 conferences.
+- [UCalgary Human Performance Lab](https://www.youtube.com/channel/UCxAOMJHF-5xQMFkLAutV7Dg/videos): lots of very interesting videos from the  ISB/ASB2019 (joint congresses of the International Society of Biomechanics and American Society Biomechanics) and Dynamic Walking 2019 conferences.
 
 #### Researchers
 
+- [BassettBiomechanics](https://www.youtube.com/c/Bassettbiomechanics/videos): includes a _Biomechanics of the Musculoskeletal System_ course and Visual3D tutorials.
 - [Manoj Srinivasan's channel](https://www.youtube.com/user/sjonam/videos)
 - [Ross Miller's channel](https://www.youtube.com/channel/UCO_H7aZoIcwZiNc4KjiQQkg/videos)
 - [Stuart McErlain-Naylor channel](https://www.youtube.com/channel/UCmG-bd1JL1ACP7hMzIUXwOg)
