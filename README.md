@@ -465,7 +465,7 @@ This section in under construction
 
 ### Energetics :fire:
 
-- **ISB2019 Metabolic cost session_: Data for participants in ISB2019 session on model-based prediction of the metabolic cost of human locomotion.** by Ross Miller (2019).</br>
+- **ISB2019 Metabolic cost session: Data for participants in ISB2019 session on model-based prediction of the metabolic cost of human locomotion.** by Ross Miller (2019).</br>
 📄 [users' guide](https://figshare.com/articles/journal_contribution/User_Guide/7086770) |
 📀 [dataset](https://figshare.com/projects/ISB2019_Metabolic_cost_session/38738)
 
@@ -1327,6 +1327,7 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 - **Deformetrica** is a software (Python tool :snake:) for the statistical analysis of 2D and 3D shape data. Deformetrica comes with three main applications: registration, atlas construction and geodesic regression. Deformetrica works only on Linux systems. The ESB-ITA webinar was presented by Alessandra Aldieri (Politecnico di Torino), Sara Barati (Politecnico di Milano) and Marilena Mazzoli (Fondazione Toscana Gabriele Monasterio).</br>
 📄 [list of papers](https://gitlab.com/icm-institute/aramislab/deformetrica#references) |
 💾 [source](https://gitlab.com/icm-institute/aramislab/deformetrica) |
+💾 [scripts to create Atlas](https://github.com/nimirz/ShapeAtlas) |
 🎥[ESB-ITA webinar (2024)](https://www.youtube.com/watch?v=iF-0sIs88Kg)
 
 - ~~**Musculoskeletal Atlas Project (MAP)** by Ju Zhang et al. (2014). Open-source software framework in Python :snake: with plug-in architecture for creating musculoskeletal models. Based on the Melbourne Femur Collection (320 full body CT scans). Generates surface geometry to generate an OpenSim model.~~ **Not maintained.**</br>
