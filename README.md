@@ -2,9 +2,9 @@
 
 ![logo](./images/awesome_biomechanics_logo.png)
 
-### A curated repository of biomechanical resources  <!-- omit in toc -->
+### A curated repository of biomechanical resources <!-- omit in toc -->
 
-#### Still a work in progress (might include incomplete descriptions), but contributions are welcome at any stage! :heart_eyes: 
+#### Still a work in progress (might include incomplete descriptions), but contributions are welcome at any stage! :heart_eyes:
 
 See [how you can contribute](#contributing), it's easy!<!-- omit in toc -->
 
@@ -211,18 +211,18 @@ This section in under construction
 - [OpenSim teaching Hub](https://simtk-confluence.stanford.edu/display/OpenSim/Teaching+Hub) by the OpenSim Team. Includes materials from the Neuromuscular Biomechanics Lab in the Department of Bioengineering at Stanford University. Does not require membership to access.
 - [ODE Integration Best Practices With Octave/Matlab](https://moorepants.github.io/eme171/ode-integration-best-practices-with-octavematlab.html) by by [Jason Moore](https://www.moorepants.info/) from his [EME 171: Analysis, Simulation and Design of Mechatronic Systems](https://moorepants.github.io/eme171/) course at UC Davis.
 - [Seeing theory](https://seeing-theory.brown.edu/): a visual introduction to probability and statistics by Daniel Kunin (Brown University).
-- [Teaching and Learning with Jupyter](https://jupyter4edu.github.io/jupyter-edu-book/) by Lorena Barba et al. (2019). This is a collaboratively written book including explanations and examples on many key topics of interest for those interested in using [Jupyter](https://jupyter.org/) in the classroom. 
+- [Teaching and Learning with Jupyter](https://jupyter4edu.github.io/jupyter-edu-book/) by Lorena Barba et al. (2019). This is a collaboratively written book including explanations and examples on many key topics of interest for those interested in using [Jupyter](https://jupyter.org/) in the classroom.
 - [Tips for setting up remote lessons](https://www.3blue1brown.com/blog/livestream-setup) by Grant Sanderson, from the [3blue1brown Youtube Channel](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/videos).
 - [Tutorial: 3D Kinematics and Inverse Dynamics MATLAB scripts](https://uk.mathworks.com/matlabcentral/fileexchange/58021-3d-kinematics-and-inverse-dynamics?s_tid=prof_contriblnk) by Raphael Dumas, including some examples.
 - [Tutorial: Musculoskeletal Model for Simulation of Walking](https://www.youtube.com/watch?v=Z4BoVVpju88) by Van den Bogert's tutorial (Dynamic Walking, 2011), including a section on computational muscle modelling and one on walking simulation using a 2D musculoskeletal model.
 - [Tutorial: Kane’s Method for an inverted pendulum](https://figshare.com/articles/journal_contribution/Kane_pdf/7791647) by Ross Miller. A tutorial on Kane's Method for deriving equations of motion, demonstrated on an inverted pendulum.
-- Set of MATLAB/Python models shared by Ross Miller (2019-2020): 
-  - [Jumping model (5 dof)](https://figshare.com/articles/Jumping_model/7855673) 
+- Set of MATLAB/Python models shared by Ross Miller (2019-2020):
+  - [Jumping model (5 dof)](https://figshare.com/articles/Jumping_model/7855673)
   - [Jumping model with foot (6 dof)](https://figshare.com/articles/dataset/Jumping_model_with_foot/7856141)
   - [Sit-to-stand model](https://figshare.com/articles/software/Sit-to-stand_model/11987277)
   - [Elbow model in Matlab](https://figshare.com/articles/software/Elbow_model_in_Matlab/9983402)
-- [*VIRTUAL LAB: Australopithecus afarensis KNEE JOINT*](https://hominin.anthropology.wisc.edu/virtual-lab-afarensis-femur-tibia.html) by John Hawks Laboratory (University of Wisconsin-Madison).
-- [*VIRTUAL LABS IN BIOLOGICAL ANTHROPOLOGY*](https://hominin.anthropology.wisc.edu/virtual-labs.html) by John Hawks Laboratory (University of Wisconsin-Madison).
+- [_VIRTUAL LAB: Australopithecus afarensis KNEE JOINT_](https://hominin.anthropology.wisc.edu/virtual-lab-afarensis-femur-tibia.html) by John Hawks Laboratory (University of Wisconsin-Madison).
+- [_VIRTUAL LABS IN BIOLOGICAL ANTHROPOLOGY_](https://hominin.anthropology.wisc.edu/virtual-labs.html) by John Hawks Laboratory (University of Wisconsin-Madison).
 - [Understanding p-values Through Simulations: An Interactive Visualization](https://rpsychologist.com/pvalue/) by Kristoffer Magnusson (2021). The goal of the page is to explain p-values through an interactive simulations.
 - [Python Tutor - Visualize code execution](http://pythontutor.com/index.html): this website helps understanding what happens as the computer runs each line of code. It can be used to run for running Python, Java, C, C++, JavaScript, and Ruby code in a web browser and see its execution visualized step by step.
 - [NonlinearContinuumMechanics](https://github.com/Kevin-Mattheus-Moerman/NonlinearContinuumMechanics/) by [Kevin Moerman](https://github.com/Kevin-Mattheus-Moerman), A Jupyter notebook featuring a detailed treatment of Ogden hyperelastic formulations and their implementation for uniaxial loading based model response analysis. Both theory and numerical implementation of the constrained, uncoupled, and coupled (unconstrained) formulations is treated.
@@ -238,7 +238,7 @@ This section in under construction
 - [Dynamics of Human Gait (2nd Edition)](http://www.analizaruchu.awf.wroc.pl/materialy/vaughan-gaitbook.pdf) by Christopher Vaughan, Brian Davis and Jeremy O'Connor (1999).
 - [Experimental Methods in Biomechanics (link)](https://www.springer.com/us/book/9783030522551) by John Challis (2021).
 - [Handbook of Human Motion (First Edition)](https://doi.org/10.1007/978-3-319-14418-4)  Editors-in-Chief Bertram Müller and Sebastian I. Wolf (2018). This book is a large cross-disciplinary reference work which covers the many interlinked facets of the science and technology of human motion and its measurement.
-- [Power Analysis with Superpower](https://aaroncaldwell.us/SuperpowerBook/) by Caldwell et al. (2021). The book displays a variety of ways the R Superpower package can be used for power analysis and sample size planning for factorial experimental designs. 
+- [Power Analysis with Superpower](https://aaroncaldwell.us/SuperpowerBook/) by Caldwell et al. (2021). The book displays a variety of ways the R Superpower package can be used for power analysis and sample size planning for factorial experimental designs.
 - [Reinforcement Learning: An Introduction](http://www.incompleteideas.net/book/the-book-2nd.html) by Richard S. Sutton and Andrew G. Barto (2018).
 - [Research Methods in Biomechanics (Second Edition)](https://us.humankinetics.com/products/research-methods-in-biomechanics-2nd-edition) by Gordon Robertson, Graham Caldwell, Joseph Hamill, Gary Kamen, and Saunders Whittlesey (2014). This book demonstrates the range of available research techniques and how to best apply this knowledge to ensure valid data collection.
 - [The ABC of EMG](https://hermanwallace.com/download/The_ABC_of_EMG_by_Peter_Konrad.pdf) by Peter Konrad (2005).
