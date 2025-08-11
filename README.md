@@ -147,7 +147,7 @@ See [how you can contribute](#contributing), it's easy!<!-- omit in toc -->
 - [F8 2019 - VR Full Body Tracking & Avatars](https://www.youtube.com/watch?v=FhiAFo9U_sM) and [blog post](https://uploadvr.com/facebook-f8-2019-body-tracking/)
 - [Running with bone pins](https://www.youtube.com/watch?v=nf6jkyNgkwE): video of data collection in subject running with bone pins shared by Ton Van den Bogert.
 - [Introduction to Trajectory Optimization](https://www.youtube.com/watch?v=wlkRYMVUZTs) by [Matthew Kelly](http://www.matthewpeterkelly.com/index.html). Very clear introduction to the topic with MATLAB resources linked in the video description.
-- [A free/opensource workflow from CT scan to FEA](https://peterfalkingham.com/2020/11/06/a-free-opensource-workflow-from-ct-scan-to-fea/) by [Peter L. Falkingham](https://peterfalkingham.com/):  workflow for carrying out finite element analysis (FEA) using free and open-source software (Dragonfly for segmentation, Blender for mesh refinement and FEBio for finite element analysis. Quick overview of the main steps.<br/>
+- [A free/opensource workflow from CT scan to FEA](https://peterfalkingham.com/2020/11/06/a-free-opensource-workflow-from-ct-scan-to-fea/) by [Peter L. Falkingham](https://peterfalkingham.com/):  workflow for carrying out finite element analysis (FEA) using free and open-source software (Dragonfly for segmentation, Blender for mesh refinement and FEBio for finite element analysis. Quick overview of the main steps.  
 
 ### Learning to Code :construction:
 
@@ -155,9 +155,10 @@ This section in under construction
 
 #### Python
 
-- [Python website](https://www.python.org/)
+- [Python official website](https://www.python.org/)
 - [Scipy Lecture Notes](https://scipy-lectures.org/): a set of tutorials on the scientific Python ecosystem: a quick introduction to central tools, modules and techniques. 
 - [Scientific Python Lectures](https://github.com/jrjohansson/scientific-python-lectures): Lectures on scientific computing with python, as IPython notebooks by [Robert Johansson](https://github.com/jrjohansson).
+- [The Hitchhiker’s Guide to Python](https://docs.python-guide.org) by [Real Python](https://realpython.com/). A very comprehensive guide about various aspects of scripting in Python and structuring Python projects.
 - [Python for Everybody](https://www.py4e.com/book): a freely available book to learn how to use Python. A pdf is available [here](http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf).
 - [Python Programming And Numerical Methods: A Guide For Engineers And Scientists](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html) by the University of California, Berkeley. Materials used in the class **E7: Introduction to computer programming for scientists and engineers**.
 - [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html) is a style guide of dos and don’ts used in Google Python programs. Useful to set some guidelines on how you write code.
