@@ -74,6 +74,8 @@ See [how you can contribute](#contributing), it's easy!<!-- omit in toc -->
     - [Hexahedral meshers](#hexahedral-meshers)
     - [Commercial meshers](#commercial-meshers)
   - [Statistical Shape Modelling :bone:](#statistical-shape-modelling-bone)
+    - [Tools](#tools)
+    - [Shape Models](#shape-models)
 - [Finite Element Analysis](#finite-element-analysis)
   - [Finite Element Analysis Software](#finite-element-analysis-software)
   - [Finite Element Libraries](#finite-element-libraries)
@@ -1324,6 +1326,8 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 
 ### Statistical Shape Modelling :bone:
 
+#### Tools
+
 - **Deformetrica** is a software (Python tool :snake:) for the statistical analysis of 2D and 3D shape data. Deformetrica comes with three main applications: registration, atlas construction and geodesic regression. Deformetrica works only on Linux systems. The ESB-ITA webinar was presented by Alessandra Aldieri (Politecnico di Torino), Sara Barati (Politecnico di Milano) and Marilena Mazzoli (Fondazione Toscana Gabriele Monasterio).</br>
 📄 [list of papers](https://gitlab.com/icm-institute/aramislab/deformetrica#references) |
 💾 [source](https://gitlab.com/icm-institute/aramislab/deformetrica) |
@@ -1341,18 +1345,6 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 💻 [website (includes tutorials)](https://scalismo.org/) |
 💾 [source](https://github.com/unibas-gravis/scalismo)
 
-* **SPHARM-PDM Toolbox** is a tool that computes point-based models using a parametric boundary description for the computing of Shape analysis. It is now available as a [3D Slicer](http://www.slicer.org) extension and as part of [SlicerSALT](salt.slicer.org) module. </br>
-💻 [SPHARM-PDM website](https://www.nitrc.org/projects/spharm-pdm) |
-💻 [SlicerSALT website](http://salt.slicer.org/) |
-💾 [source](https://github.com/NIRALUser/SPHARM-PDM)
-
-* **Statistical Shape Model of the Knee** by Lowell Smoger et al. (2019). A statistical shape and alignment model was created for the structures of the knee: the femur, tibia and patella, associated articular cartilage, and soft tissue structures for a training set of 50 subjects/specimens. The statistical model describes intersubject anatomic variability in the shape and alignment of the knee structures and provides the ability to automatedly generate the geometry for a joint-level finite element analysis for members of the training set or virtual subjects derived from the statistical model, thus facilitating population-based evaluations.</br>
-💻 [website](https://simtk.org/projects/ssm_knee)
-
-* **Statistical Shape Modelling Research Toolkit (SSMRT)** by Daniel Nolte and the MSk Dynamics group, Imperial College London (2016). The toolkit packages a set of powerful technologies that may be used to predict shape using one of the provided models or to create your own SSM. </br>
-📄 [paper](https://doi.org/10.1016/j.jbiomech.2016.09.005) |
-💻 [website](https://www.msksoftware.org.uk/software/ssmrt/) 
-
 * **ShapeWorks** by the University of Utah. The ShapeWorks software is an open-source distribution of a new method for constructing compact statistical point-based models of ensembles of similar shapes that does not rely on any specific surface parameterization. </br>
 💻 [website](https://www.sci.utah.edu/software/shapeworks.html) |
 💾 [source](https://github.com/SCIInstitute/ShapeWorks)
@@ -1361,11 +1353,30 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 📄 [paper](https://doi.org/10.1080/10255842.2019.1577828) |
 💾 [source](https://uk.mathworks.com/matlabcentral/fileexchange/49940-shape-model-builder?s_tid=prof_contriblnk)
 
-* **Statistical Shape Models and Statistical Density Models of the Shoulder Bones** by Pendar Soltanmohammadi et al. J Biomech Eng. (2020). Project making available a statistical shape model (SSM) and statistical density model (SDM) of the humerus and scapula bones through a MATLAB app. Models are based on  57 male (20 pairs) and 18 female shoulders (1 pair) from 54 donors. The SSM will create a surface model whose shape is sensitive to the normalized principal component (PC) scores chosen in the app. The SDM will apply node-by-node HU values to a 3D template volumetric mesh (from the average geometry), allowing you to visualize the bone density distribution. The output files can be visualized using open-source software like [ParaView](www.paraview.org).</br>
+* **SPHARM-PDM Toolbox** is a tool that computes point-based models using a parametric boundary description for the computing of Shape analysis. It is now available as a [3D Slicer](http://www.slicer.org) extension and as part of [SlicerSALT](salt.slicer.org) module. </br>
+💻 [SPHARM-PDM website](https://www.nitrc.org/projects/spharm-pdm) |
+💻 [SlicerSALT website](http://salt.slicer.org/) |
+💾 [source](https://github.com/NIRALUser/SPHARM-PDM)
+
+* **Statistical Shape Modelling Research Toolkit (SSMRT)** by Daniel Nolte and the MSk Dynamics group, Imperial College London (2016). The toolkit packages a set of powerful technologies that may be used to predict shape using one of the provided models or to create your own SSM. </br>
+📄 [paper](https://doi.org/10.1016/j.jbiomech.2016.09.005) |
+💻 [website](https://www.msksoftware.org.uk/software/ssmrt/)
+
+#### Shape Models
+
+- **Statistical Shape Model of the Knee** by Lowell Smoger et al. (2019). A statistical shape and alignment model was created for the structures of the knee: the femur, tibia and patella, associated articular cartilage, and soft tissue structures for a training set of 50 subjects/specimens. The statistical model describes intersubject anatomic variability in the shape and alignment of the knee structures and provides the ability to automatedly generate the geometry for a joint-level finite element analysis for members of the training set or virtual subjects derived from the statistical model, thus facilitating population-based evaluations.</br>
+💻 [website](https://simtk.org/projects/ssm_knee)
+
+- **Statistical Shape Models and Statistical Density Models of the Shoulder Bones** by Pendar Soltanmohammadi et al. J Biomech Eng. (2020). Project making available a statistical shape model (SSM) and statistical density model (SDM) of the humerus and scapula bones through a MATLAB app. Models are based on  57 male (20 pairs) and 18 female shoulders (1 pair) from 54 donors. The SSM will create a surface model whose shape is sensitive to the normalized principal component (PC) scores chosen in the app. The SDM will apply node-by-node HU values to a 3D template volumetric mesh (from the average geometry), allowing you to visualize the bone density distribution. The output files can be visualized using open-source software like [ParaView](www.paraview.org).</br>
 📄 [paper](https://doi.org/10.1115/1.4047664) |
 💻 [website](https://simtk.org/projects/shoulder-ssdm)
 
-* **A statistical shape model of the healthy first carpometacarpal joint** by Marco Schneider et al. (2015). CT image data and segmented point clouds of 50 carpometacarpal (CMC) bones from the dominant wrists and thumbs of 40 right hands and 10 left hands of 50 healthy non-osteoarthritic volunteers. This project contains instructions, python scripts, and example data for generating statistical shape models (SSM) using the [GIAS2 library](https://bitbucket.org/jangle/gias2).</br>
+- **A statistical shape model of the human tibia-fibula** by Meghan Keast et al. PeerJ (2023). The project provides a freely accessible three-dimensional statistical shape model (SSM) of the tibia, the MATLAB scripts for generating a SSM and the segmented surface models of the cortical and trabecular bone. It also provides three example applications for the models.</br>
+📄 [paper](https://doi.org/10.7717/peerj.14708) |
+💻 [website](https://simtk.org/projects/ssm_tibia) |
+📀 [dataset](https://figshare.com/articles/dataset/Statistical_Shape_Model_of_the_Tibia_/20454462?file=40194004)
+
+- **A statistical shape model of the healthy first carpometacarpal joint** by Marco Schneider et al. (2015). CT image data and segmented point clouds of 50 carpometacarpal (CMC) bones from the dominant wrists and thumbs of 40 right hands and 10 left hands of 50 healthy non-osteoarthritic volunteers. This project contains instructions, python scripts, and example data for generating statistical shape models (SSM) using the [GIAS2 library](https://bitbucket.org/jangle/gias2).</br>
 📄 [paper](https://doi.org/10.1016/j.jbiomech.2015.05.031) |
 💻 [website](https://simtk.org/projects/cmc-ssm)
 
