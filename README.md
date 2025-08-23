@@ -1374,9 +1374,9 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 - **A statistical shape model of the human tibia-fibula** by Meghan Keast et al. PeerJ (2023). The project provides a freely accessible three-dimensional statistical shape model (SSM) of the tibia, the MATLAB scripts for generating a SSM and the segmented surface models of the cortical and trabecular bone. It also provides three example applications for the models.</br>
 📄 [paper](https://doi.org/10.7717/peerj.14708) |
 💻 [website](https://simtk.org/projects/ssm_tibia) |
-📀 [dataset](https://figshare.com/articles/dataset/Statistical_Shape_Model_of_the_Tibia_/20454462?file=40194004)
+📀 [SSM and bone dataset](https://figshare.com/articles/dataset/Statistical_Shape_Model_of_the_Tibia_/20454462?file=40194004)
 
-- **A statistical shape model of the healthy first carpometacarpal joint** by Marco Schneider et al. (2015). CT image data and segmented point clouds of 50 carpometacarpal (CMC) bones from the dominant wrists and thumbs of 40 right hands and 10 left hands of 50 healthy non-osteoarthritic volunteers. This project contains instructions, python scripts, and example data for generating statistical shape models (SSM) using the [GIAS2 library](https://bitbucket.org/jangle/gias2).</br>
+- **A statistical shape model of the healthy first carpometacarpal joint** by Marco Schneider et al. J Biomech (2015). CT image data and segmented point clouds of 50 carpometacarpal (CMC) bones from the dominant wrists and thumbs of 40 right hands and 10 left hands of 50 healthy non-osteoarthritic volunteers. This project contains instructions, python scripts, and example data for generating statistical shape models (SSM) using the [GIAS2 library](https://bitbucket.org/jangle/gias2).</br>
 📄 [paper](https://doi.org/10.1016/j.jbiomech.2015.05.031) |
 💻 [website](https://simtk.org/projects/cmc-ssm)
 
