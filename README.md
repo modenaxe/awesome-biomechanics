@@ -124,7 +124,7 @@ See [how you can contribute](#contributing), it's easy!<!-- omit in toc -->
 - [American Society Biomechanics (ASB)](https://www.youtube.com/@AmSocBiomech)
 - [Dynamic Walking](https://www.youtube.com/@dynamicwalking4049)
 - [Biomch-V](https://www.youtube.com/channel/UCcv9iv6v4_l9dfDDW1PTZCA): includes videos from the 2015 Congress of the International Society of Biomechanics.
-- [Biomechanics On Our Minds](https://www.youtube.com/@biomechanicsonourminds9735/videos): videos of the postcad hosted by Melissa Boswell and Hannah O'Day (Stanford University). They talk to researchers around the world about the exciting field of biomechanics. They also cover overcoming failures, collaborations, open science, leadership, and more.
+- [BOOM: Biomechanics On Our Minds](https://www.youtube.com/@biomechanicsonourminds9735/videos): videos of the postcad hosted by Melissa Boswell and Hannah O'Day (Stanford University). They talk to researchers around the world about the exciting field of biomechanics. They also cover overcoming failures, collaborations, open science, leadership, and more.
 - [European Society of Biomechanics (ESB)](https://www.youtube.com/@ESBiomech)
 - [International Society of Biomechanics in Sports (ISBS)](https://www.youtube.com/@ISBSOFFICIAL): videos from ISBS2020 virtual conference.
 - [Journal of Foot and Ankle Research](https://www.youtube.com/@JFootAnkleRes)
