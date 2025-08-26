@@ -606,6 +606,9 @@ This section in under construction
 📀 [dataset](https://zenodo.org/record/3480074#.X1_ocWhKgdU) |
 ⭐ [code](https://zenodo.org/record/3357966#.X1_n9mhKgdU)
 
+- **Biomechanics Hand Modeling (BHaM) Dataset** by Maximilian Diaz et al. (2025). The BHaM dataset consists of a population study (n=726) of hand strength, function, and dimensions and a traditional biomechanics study (n=30) that has muscle activity, external forces, joint angles, and MRI segmentations from a variety of elbow, wrist, and hand tasks.  
+📄 [paper (preprint)](https://www.biorxiv.org/content/10.1101/2025.08.21.671503v1) | 📀 [dataset](https://www.kaggle.com/datasets/maximilliantdiaz/bham-biomechanics-hand-modeling-dataset)
+
 - **Wrist Anatomy and Kinematics Data Collection** by Bardiya Akhbari et al. (2019). The current collection includes carpal bone (not metacarpals) anatomy models from 90 healthy subjects (120 wrists), and the carpal bone kinematics in 1215 unique wrist positions. A graphical user interface (GUI) is also developed to maximize user interaction with this collection.</br>
 📄 [paper](https://doi.org/10.1002/jor.24435) |
 📀 [dataset](https://simtk.org/frs/?group_id=1665) |
