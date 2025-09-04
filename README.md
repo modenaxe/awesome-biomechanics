@@ -1520,7 +1520,11 @@ This section needs to be improved.
 
 * [**G*Power**](https://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower.html)
   
-* [**spm1d**](https://spm1d.org/): package for one-dimensional [statistical Parametric Mapping](http://www.scholarpedia.org/article/Statistical_parametric_mapping).
+* [**spm1d**](https://spm1d.org/) by Todd Pataky. This is a package for one-dimensional [statistical Parametric Mapping](http://www.scholarpedia.org/article/Statistical_parametric_mapping). spm1d uses Random Field Theory expectations regarding the behavior of smooth, one-dimensional Gaussian fields to make statistical inferences regarding a set of one-dimensional continua.  
+📄[spm1d paper](https://doi.org/10.1080/10255842.2010.527837) | 📚[spm1d publications](https://spm1d.org/References.html#d-spm-literature) | 💾[python code](https://github.com/0todd0000/spm1d) | 💾[MATLAB code](https://github.com/0todd0000/spm1dmatlab) | 💻[website](http://spm1d.org/)
+
+* [power1D](https://peerj.com/articles/cs-125/) by Todd Pataky. This package is a Python toolbox for numerical power estimates in experiments involving one-dimensional continua.  
+📄[paper](https://peerj.com/articles/cs-125/) | 💾[code](https://github.com/0todd0000/power1d) | 💻[website](https://spm1d.org/power1d/index.html)
   
 * [**SPSS Statistics**](https://www.ibm.com/uk-en/products/spss-statistics) (commercial)
   
