@@ -1422,10 +1422,11 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 🎥 [tutorials](https://www.youtube.com/channel/UCWBV4PbsfizSkmcq88roGeQ/playlists) |
 🎥 [tutorials](https://www.youtube.com/watch?v=g9Kvv7PYF34&list=PLvkU6i2iQ2frC7YB1A9Pqcfhwe9T3Vuy-)
 
-* **FEBio** by Maas et al. (2012). FeBio is a software tool, developed by Jeffrey Weiss' lab and Gerard Ateshian's lab, for nonlinear finite element analysis in biomechanics and biophysics and is specifically focused on solving nonlinear large deformation problems in biomechanics and biophysics. Aside from structural mechanics, it can also solve problems in mixture mechanics (i.e. biphasic or multiphasic materials), fluid mechanics, reaction-diffusion, and heat transfer. It can also solve coupled physics problems, including fluid-solid interactions. `FEBio Studio` is the main software tool for developing, running, and analyzing FEBio models, offering a graphical user interface for interacting with the FEBio software.</br>
+* **FEBio** by Maas et al. (2012). FeBio is a software tool, developed by Jeffrey Weiss' lab and Gerard Ateshian's lab, for nonlinear finite element analysis in biomechanics and biophysics and is specifically focused on solving nonlinear large deformation problems in biomechanics and biophysics. Aside from structural mechanics, it can also solve problems in mixture mechanics (i.e. biphasic or multiphasic materials), fluid mechanics, reaction-diffusion, and heat transfer. It can also solve coupled physics problems, including fluid-solid interactions. `FEBio Studio` is the main software tool for developing, running, and analyzing FEBio models, offering a graphical user interface for interacting with the FEBio software. A Python wrapper `pyFEBio` is also available.</br>
 📄 [paper](https://febio.org/site/uploads/maas_jbme_2012.pdf) |
 💻 [website](https://febio.org/) |
 💾 [source](https://github.com/febiosoftware) |
+🐍 [pyFEBio](https://github.com/febiosoftware/pyfebio) |
 🎥 [Youtube channel](https://www.youtube.com/channel/UCtOvJL14MB57hhNV-I3HIyQ)
 
 
