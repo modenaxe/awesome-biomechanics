@@ -419,15 +419,13 @@ This section in under construction
 📄 [PhD thesis](https://research.utwente.nl/en/publications/twente-spine-model-development-validation-and-application-of-a-co) |
 [💻 website | 📀 dataset](https://www.twentespinemodel.eu/) 
 
-- **Shoulder kinematics derived from radiographic and optical motion analysis** by Luca Modenese et al. Three Zenodo datasets containing shoulder kinematics from healthy and post-arthroplasty participants.</br>
-📀 [3D models of scapula and humerus with landmarks](https://zenodo.org/records/10972005) |
-📀 [Healthy shoulder kinematics](https://zenodo.org/records/14889478) |
-📀 [rTSA shoulder kinematics](https://zenodo.org/records/17567759)
-
-- **Healthy and Reverse Total Shoulder Arthroplasty (rTSA) kinematics + 3D models of scapula and humerus** Three datasets with shoulder bone geometries and kinematics derived from radiographic and optical motion analysis.</br>
-📀 [rTSA kinematics](https://zenodo.org/records/17652904) |
-📀 [Healthy shoulder kinematics](https://zenodo.org/records/17632996) |
-📀 [3D models of scapula and humerus](https://zenodo.org/records/19077748)
+- **Shoulder kinematics derived from radiographic and optical motion analysis** by Luca Modenese et al. A collection of Zenodo datasets containing 3D bone models, healthy shoulder kinematics, and kinematics from patients with Reverse Total Shoulder Arthroplasty (rTSA), derived from combined radiographic and optical motion analysis.</br>
+📀 [3D models of scapula and humerus with landmarks (v1)](https://zenodo.org/records/10972005) |
+📀 [Healthy shoulder kinematics (v1)](https://zenodo.org/records/14889478) |
+📀 [rTSA shoulder kinematics (v1)](https://zenodo.org/records/17567759) |
+📀 [rTSA kinematics (v2)](https://zenodo.org/records/17652904) |
+📀 [Healthy shoulder kinematics (v2)](https://zenodo.org/records/17632996) |
+📀 [3D models of scapula and humerus (v2)](https://zenodo.org/records/19077748)
 
 #### Muscle Anatomy and Parameters
 
