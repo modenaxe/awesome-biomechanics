@@ -43,6 +43,7 @@ See [how you can contribute](#contributing), it's easy!<!-- omit in toc -->
 - [Gait Analysis and Motion Capture :cartwheeling:](#gait-analysis-and-motion-capture-cartwheeling)
   - [Gait Analysis Markersets :globe\_with\_meridians:](#gait-analysis-markersets-globe_with_meridians)
   - [Motion Capture Data Import and Processing](#motion-capture-data-import-and-processing)
+    - [Tools and Utilities](#tools-and-utilities)
     - [Marker Trajectory Gap filling](#marker-trajectory-gap-filling)
     - [Inertial Measurement Units](#inertial-measurement-units)
     - [2D video analysis](#2d-video-analysis)
@@ -88,6 +89,7 @@ See [how you can contribute](#contributing), it's easy!<!-- omit in toc -->
 - [Societies and Initiatives :classical\_building:](#societies-and-initiatives-classical_building)
 - [Miscellaneous Online Resources](#miscellaneous-online-resources)
   - [Blogging platforms](#blogging-platforms)
+- [Interactive Tools and Challenges](#interactive-tools-and-challenges)
 - [More Datasets and repositories](#more-datasets-and-repositories)
 - [Contributing](#contributing)
   - [How to contribute](#how-to-contribute)
@@ -113,6 +115,7 @@ See [how you can contribute](#contributing), it's easy!<!-- omit in toc -->
 - [Quantitative methods in biomedical sciences](https://campbell-muscle-lab.github.io/teaching_PGY630_QM/): 16 week class taught by Ken Campbell at the University of Kentucky. A graduate-level class designed for PhD students and others who wish to develop skills relating to data analysis and interpretation, including data handling, plotting, statistics, and image analysis. The course uses MATLAB and materials are available on [GitHub](https://github.com/Campbell-Muscle-Lab/teaching_PGY630_QM).
 - [Sport Biomechanics Lecture Series](https://www.youtube.com/channel/UCmG-bd1JL1ACP7hMzIUXwOg) curated by Stuart McErlain-Naylor. Includes introductory topics like  presentations of motion capture techniques by Vicon ([lecture 1](https://www.youtube.com/watch?v=1zJ14cW-JqY) and [lecture 2](https://www.youtube.com/watch?v=hM7xEoyP-4o)) and an [introduction](https://www.youtube.com/watch?v=2xgyTpsa14M#) of electromyography (EMG) by Delsys.
 - [BPK 409: Wearable Technology and Human Physiology](https://www.youtube.com/channel/UClU9XVBC0mDwJBIVJTUbtwg/videos) by Max Donelan (Simon Fraser University). The course teaches to use state-of-the-art wearable technology to measure, analyze, and understand human physiological systems including muscular, nervous, and cardiovascular systems.</br>
+- [Control Bootcamp](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m) by Steve Brunton (University of Washington). A series of video lectures introducing key concepts in control theory, including linear systems, feedback control, PID control, and state-space methods, with MATLAB examples.
 📄 [description of labs](https://docs.google.com/document/d/e/2PACX-1vTr1zOyrUedA1yx76olfDe5jn88miCNb3EJcC3INmy8nDmbJ8N5Y0B30EBoOunsWbA2DGOVWpgJzIs9/pub) |
 💾 [code](https://github.com/patmorli/BPK-409)
 - [Introduction to Reinforcement Learning with David Silver](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver) by David Silver, DeepMind (2015).
@@ -201,7 +204,7 @@ This section in under construction
 - [Graphical User Interfaces (GUI) for Research](https://imperialcollegelondon.github.io/GUIs-for-RS/): course by Imperial College London on principles to build research GUI. GitHub resources available [at this link](https://github.com/ImperialCollegeLondon/GUIs-for-RS). Recording of the lessons are available on [Youtube](https://www.youtube.com/channel/UCBnJTebN2rVnfmiXqUfsvtA).
 - [How to get meaningful and correct results from your finite element model](https://www.researchgate.net/publication/328956103_How_to_get_meaningful_and_correct_results_from_your_finite_element_model) by Martin Baeker (2018). This document gives guidelines to set up, run, and postprocess correct simulations with the finite element method. It is not an introduction to the method itself, but rather a list of things to check and possible mistakes to watch out for when doing a finite element simulation.</br>
 - [Julia notebooks on dynamic systems](https://github.com/alavendelm/julia-dynsys-resources) by Adam MacLean (2021).
-- [Muscle Atlas](https://rad.washington.edu/muscle-atlas/) by the Dept of Radiology of the University of Washington. The medical illustrations contained in this online atlas are copyrighted © 1997 by the University of Washington but receiving a license to use these images is generally quite easy, particularly for academic and scholarly purposes. For more information and obtaining a license [see this link](https://els2.comotion.uw.edu/product/musculoskeletal-atlas).
+- [Muscle Atlas](https://www.muscle-atlas.org/) by the Dept of Radiology of the University of Washington. An online atlas of muscle anatomy with illustrations. A newer version of the atlas is available at the link above; the older version at [UW Radiology](https://rad.washington.edu/muscle-atlas/) is copyrighted © 1997 and requires a license for academic use ([see this link](https://els2.comotion.uw.edu/product/musculoskeletal-atlas)).
 - [ASB Teaching Repository](http://asbteachingrepository.herokuapp.com/) by the American Society of Biomechanics. Does not require membership to access.
 - [Biomechanics Toolbar](http://www.biomechanicstoolbar.org/) by [Jos Vanrenterghem](https://www.kuleuven.be/wieiswie/en/person/00103997) (2016). The Biomechanics Toolbar is freeware designed to make data processing more accessible for undergraduate  teaching. It works as a traditional toolbar in Microsoft Excel.
 - [Biomechanics of Movement Classroom](https://simtk-confluence-homeworks.stanford.edu/display/BMH) by Tom Uchida et al. (2021). Free resources associated with the book [`Biomechanics of Movement: The Science of Sports, Robotics, and Rehabilitation`](https://mitpress.mit.edu/books/biomechanics-movement). </br>
@@ -226,7 +229,6 @@ This section in under construction
 - [Teaching and Learning with Jupyter](https://jupyter4edu.github.io/jupyter-edu-book/) by Lorena Barba et al. (2019). This is a collaboratively written book including explanations and examples on many key topics of interest for those interested in using [Jupyter](https://jupyter.org/) in the classroom.
 - [Tips for setting up remote lessons](https://www.3blue1brown.com/blog/livestream-setup) by Grant Sanderson, from the [3blue1brown Youtube Channel](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/videos).
 - [Introduction to Principles of MRI](https://larsonlab.github.io/MRI-education-resources/Introduction.html) by the Larson Lab. An open educational resource providing an introduction to MRI physics and imaging principles, with interactive Jupyter notebook materials available on [GitHub](https://github.com/LarsonLab/MRI-education-resources).
-- [Muscle Atlas](https://www.muscle-atlas.org/) by the Department of Radiology of the University of Washington. An online atlas of muscle anatomy with high-quality medical illustrations. **Note:** the older version at the UW Radiology website requires a license for academic/scholarly use.
 - [SlicerMorph Tutorials](https://github.com/SlicerMorph/Tutorials/) by Sara Rolfe et al. Step-by-step tutorials for using the SlicerMorph toolkit for morphometric analysis from high-resolution specimen data in 3D Slicer. 🎥 [video tutorials](https://www.youtube.com/channel/UCy3Uz1ikRH1B7WSMfaldcjQ)
 - [EPIC Lab Open-Source Data and Models](https://www.epic.gatech.edu/open-source-data-models/) by the Exoskeleton and Prosthetic Intelligent Controls (EPIC) Lab at Georgia Tech. A collection of open-source datasets and musculoskeletal models for prosthetics, exoskeletons, and human movement research.
 - [ISEK Teaching Repository](https://isek.org/isek-teaching-repository/) by the International Society of Electrophysiology and Kinesiology (ISEK). A curated repository of teaching materials on electromyography and kinesiology.
