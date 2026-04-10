@@ -43,6 +43,7 @@ See [how you can contribute](#contributing), it's easy!<!-- omit in toc -->
 - [Gait Analysis and Motion Capture :cartwheeling:](#gait-analysis-and-motion-capture-cartwheeling)
   - [Gait Analysis Markersets :globe\_with\_meridians:](#gait-analysis-markersets-globe_with_meridians)
   - [Motion Capture Data Import and Processing](#motion-capture-data-import-and-processing)
+    - [Tools and Utilities](#tools-and-utilities)
     - [Marker Trajectory Gap filling](#marker-trajectory-gap-filling)
     - [Inertial Measurement Units](#inertial-measurement-units)
     - [2D video analysis](#2d-video-analysis)
@@ -88,6 +89,7 @@ See [how you can contribute](#contributing), it's easy!<!-- omit in toc -->
 - [Societies and Initiatives :classical\_building:](#societies-and-initiatives-classical_building)
 - [Miscellaneous Online Resources](#miscellaneous-online-resources)
   - [Blogging platforms](#blogging-platforms)
+- [Interactive Tools and Challenges](#interactive-tools-and-challenges)
 - [More Datasets and repositories](#more-datasets-and-repositories)
 - [Contributing](#contributing)
   - [How to contribute](#how-to-contribute)
@@ -113,10 +115,13 @@ See [how you can contribute](#contributing), it's easy!<!-- omit in toc -->
 - [Quantitative methods in biomedical sciences](https://campbell-muscle-lab.github.io/teaching_PGY630_QM/): 16 week class taught by Ken Campbell at the University of Kentucky. A graduate-level class designed for PhD students and others who wish to develop skills relating to data analysis and interpretation, including data handling, plotting, statistics, and image analysis. The course uses MATLAB and materials are available on [GitHub](https://github.com/Campbell-Muscle-Lab/teaching_PGY630_QM).
 - [Sport Biomechanics Lecture Series](https://www.youtube.com/channel/UCmG-bd1JL1ACP7hMzIUXwOg) curated by Stuart McErlain-Naylor. Includes introductory topics like  presentations of motion capture techniques by Vicon ([lecture 1](https://www.youtube.com/watch?v=1zJ14cW-JqY) and [lecture 2](https://www.youtube.com/watch?v=hM7xEoyP-4o)) and an [introduction](https://www.youtube.com/watch?v=2xgyTpsa14M#) of electromyography (EMG) by Delsys.
 - [BPK 409: Wearable Technology and Human Physiology](https://www.youtube.com/channel/UClU9XVBC0mDwJBIVJTUbtwg/videos) by Max Donelan (Simon Fraser University). The course teaches to use state-of-the-art wearable technology to measure, analyze, and understand human physiological systems including muscular, nervous, and cardiovascular systems.</br>
+- [Control Bootcamp](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m) by Steve Brunton (University of Washington). A series of video lectures introducing key concepts in control theory, including linear systems, feedback control, PID control, and state-space methods, with MATLAB examples.
 📄 [description of labs](https://docs.google.com/document/d/e/2PACX-1vTr1zOyrUedA1yx76olfDe5jn88miCNb3EJcC3INmy8nDmbJ8N5Y0B30EBoOunsWbA2DGOVWpgJzIs9/pub) |
 💾 [code](https://github.com/patmorli/BPK-409)
 - [Introduction to Reinforcement Learning with David Silver](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver) by David Silver, DeepMind (2015).
 - [Statistical shape modelling](https://shapemodelling.cs.unibas.ch/ssm-course/) by the [Graphics and Vision research group](https://gravis.dmi.unibas.ch/) of the University of Basel. This is an introductory course in statistical shape modelling (partially hosted on Futurelearn). Its focus lies on the concept of Gaussian processes, and how these can be used to model shape variability. It also discusses simple algorithms for fitting models to surfaces and images.
+- [Robotics 311: How to Make Robots Not Crash Things](https://github.com/michiganrobotics/rob311) by University of Michigan Robotics Institute. An undergraduate course that provides an introduction to numerical methods in robotics, covering linear algebra, differential equations, and optimization, with [lecture videos](https://www.youtube.com/playlist?list=PLdPQZLMHRjDJ5d_dE4FeOviv0gRe4nYaz) and open GitHub resources.
+- [Introduction to Reinforcement Learning](https://www.davidsilver.uk/teaching/) by David Silver, University College London (UCL). A comprehensive graduate-level course on reinforcement learning with lecture slides and video recordings.
 
 ### YouTube Channels :tv: <!-- TODO: organise in associations, research groups, software, researchers-->
 
@@ -140,6 +145,7 @@ See [how you can contribute](#contributing), it's easy!<!-- omit in toc -->
 - [Stuart McErlain-Naylor channel](https://www.youtube.com/channel/UCmG-bd1JL1ACP7hMzIUXwOg)
 - [Luca Modenese's channel](https://www.youtube.com/channel/UCp08ZXIV056MxvOvdMeowtA)
 - [Thomas Geijtenbeek' channel (HyFyDy / SCONE)](https://www.youtube.com/@goatstream)
+- [Open Source Ecosystem for Computational Knee Biomechanics](https://www.youtube.com/@Knee_OSE): videos from the Open Source Knee (OSK) project presenting computational tools and resources for knee biomechanics.
 
 ### Videos 🎥
 
@@ -151,6 +157,9 @@ See [how you can contribute](#contributing), it's easy!<!-- omit in toc -->
 - [Running with bone pins](https://www.youtube.com/watch?v=nf6jkyNgkwE): video of data collection in subject running with bone pins shared by Ton Van den Bogert.
 - [Introduction to Trajectory Optimization](https://www.youtube.com/watch?v=wlkRYMVUZTs) by [Matthew Kelly](http://www.matthewpeterkelly.com/index.html). Very clear introduction to the topic with MATLAB resources linked in the video description.
 - [A free/opensource workflow from CT scan to FEA](https://peterfalkingham.com/2020/11/06/a-free-opensource-workflow-from-ct-scan-to-fea/) by [Peter L. Falkingham](https://peterfalkingham.com/):  workflow for carrying out finite element analysis (FEA) using free and open-source software (Dragonfly for segmentation, Blender for mesh refinement and FEBio for finite element analysis. Quick overview of the main steps.  
+- [AI vs Physical Modelling Debate at ESB2025](https://www.youtube.com/watch?v=U-t3JOV-948): panel debate from the European Society of Biomechanics (ESB) 2025 Congress on whether AI will make physical modelling obsolete.
+- [MyoChallenge 2023: Towards Human-Level Dexterity and Agility](https://neurips.cc/virtual/2023/competition/66584): competition and talks from NeurIPS 2023 focusing on musculoskeletal model control for dexterous manipulation and agile locomotion.
+- [ISB2025 Workshops](https://github.com/timvanderzee/ISB2025) by Tim van der Zee et al. Tutorial materials from the International Society of Biomechanics (ISB) 2025 congress, covering biophysical muscle models and statistical shape models workshops.
 
 ### Learning to Code :construction:
 
@@ -195,7 +204,7 @@ This section in under construction
 - [Graphical User Interfaces (GUI) for Research](https://imperialcollegelondon.github.io/GUIs-for-RS/): course by Imperial College London on principles to build research GUI. GitHub resources available [at this link](https://github.com/ImperialCollegeLondon/GUIs-for-RS). Recording of the lessons are available on [Youtube](https://www.youtube.com/channel/UCBnJTebN2rVnfmiXqUfsvtA).
 - [How to get meaningful and correct results from your finite element model](https://www.researchgate.net/publication/328956103_How_to_get_meaningful_and_correct_results_from_your_finite_element_model) by Martin Baeker (2018). This document gives guidelines to set up, run, and postprocess correct simulations with the finite element method. It is not an introduction to the method itself, but rather a list of things to check and possible mistakes to watch out for when doing a finite element simulation.</br>
 - [Julia notebooks on dynamic systems](https://github.com/alavendelm/julia-dynsys-resources) by Adam MacLean (2021).
-- [Muscle Atlas](https://rad.washington.edu/muscle-atlas/) by the Dept of Radiology of the University of Washington. The medical illustrations contained in this online atlas are copyrighted © 1997 by the University of Washington but receiving a license to use these images is generally quite easy, particularly for academic and scholarly purposes. For more information and obtaining a license [see this link](https://els2.comotion.uw.edu/product/musculoskeletal-atlas).
+- [Muscle Atlas](https://www.muscle-atlas.org/) by the Dept of Radiology of the University of Washington. An online atlas of muscle anatomy with illustrations. A newer version of the atlas is available at the link above; the older version at [UW Radiology](https://rad.washington.edu/muscle-atlas/) is copyrighted © 1997 and requires a license for academic use ([see this link](https://els2.comotion.uw.edu/product/musculoskeletal-atlas)).
 - [ASB Teaching Repository](http://asbteachingrepository.herokuapp.com/) by the American Society of Biomechanics. Does not require membership to access.
 - [Biomechanics Toolbar](http://www.biomechanicstoolbar.org/) by [Jos Vanrenterghem](https://www.kuleuven.be/wieiswie/en/person/00103997) (2016). The Biomechanics Toolbar is freeware designed to make data processing more accessible for undergraduate  teaching. It works as a traditional toolbar in Microsoft Excel.
 - [Biomechanics of Movement Classroom](https://simtk-confluence-homeworks.stanford.edu/display/BMH) by Tom Uchida et al. (2021). Free resources associated with the book [`Biomechanics of Movement: The Science of Sports, Robotics, and Rehabilitation`](https://mitpress.mit.edu/books/biomechanics-movement). </br>
@@ -219,6 +228,12 @@ This section in under construction
 - [Seeing theory](https://seeing-theory.brown.edu/): a visual introduction to probability and statistics by Daniel Kunin (Brown University).
 - [Teaching and Learning with Jupyter](https://jupyter4edu.github.io/jupyter-edu-book/) by Lorena Barba et al. (2019). This is a collaboratively written book including explanations and examples on many key topics of interest for those interested in using [Jupyter](https://jupyter.org/) in the classroom.
 - [Tips for setting up remote lessons](https://www.3blue1brown.com/blog/livestream-setup) by Grant Sanderson, from the [3blue1brown Youtube Channel](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/videos).
+- [Introduction to Principles of MRI](https://larsonlab.github.io/MRI-education-resources/Introduction.html) by the Larson Lab. An open educational resource providing an introduction to MRI physics and imaging principles, with interactive Jupyter notebook materials available on [GitHub](https://github.com/LarsonLab/MRI-education-resources).
+- [SlicerMorph Tutorials](https://github.com/SlicerMorph/Tutorials/) by Sara Rolfe et al. Step-by-step tutorials for using the SlicerMorph toolkit for morphometric analysis from high-resolution specimen data in 3D Slicer. 🎥 [video tutorials](https://www.youtube.com/channel/UCy3Uz1ikRH1B7WSMfaldcjQ)
+- [EPIC Lab Open-Source Data and Models](https://www.epic.gatech.edu/open-source-data-models/) by the Exoskeleton and Prosthetic Intelligent Controls (EPIC) Lab at Georgia Tech. A collection of open-source datasets and musculoskeletal models for prosthetics, exoskeletons, and human movement research.
+- [ISEK Teaching Repository](https://isek.org/isek-teaching-repository/) by the International Society of Electrophysiology and Kinesiology (ISEK). A curated repository of teaching materials on electromyography and kinesiology.
+- [CEDE: Consensus for Experimental Design in Electromyography](https://cede.isek.org) by ISEK. A consensus resource providing standardized guidelines and best practices for experimental design in electromyography (EMG) research.
+- [MeVisLab](https://www.mevislab.de/) by MeVis Medical Solutions AG. A modular framework for image processing algorithm development with a focus on medical imaging, offering tools for segmentation, visualization, and analysis.
 - [Tutorial: 3D Kinematics and Inverse Dynamics MATLAB scripts](https://uk.mathworks.com/matlabcentral/fileexchange/58021-3d-kinematics-and-inverse-dynamics?s_tid=prof_contriblnk) by Raphael Dumas, including some examples.
 - [Tutorial: Musculoskeletal Model for Simulation of Walking](https://www.youtube.com/watch?v=Z4BoVVpju88) by Van den Bogert's tutorial (Dynamic Walking, 2011), including a section on computational muscle modelling and one on walking simulation using a 2D musculoskeletal model.
 - [Tutorial: Kane’s Method for an inverted pendulum](https://figshare.com/articles/journal_contribution/Kane_pdf/7791647) by Ross Miller. A tutorial on Kane's Method for deriving equations of motion, demonstrated on an inverted pendulum.
@@ -249,6 +264,8 @@ This section in under construction
 - [Research Methods in Biomechanics (Second Edition)](https://us.humankinetics.com/products/research-methods-in-biomechanics-2nd-edition) by Gordon Robertson, Graham Caldwell, Joseph Hamill, Gary Kamen, and Saunders Whittlesey (2014). This book demonstrates the range of available research techniques and how to best apply this knowledge to ensure valid data collection.
 - [The ABC of EMG](https://hermanwallace.com/download/The_ABC_of_EMG_by_Peter_Konrad.pdf) by Peter Konrad (2005).
 - [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/) by Richard Feynman (1961-1963). Includes audio recordings.
+- [Improving Your Statistical Inferences](https://lakens.github.io/statistical_inferences/) by Daniel Lakens (Eindhoven University of Technology). A freely available online textbook covering statistical inference, effect sizes, power analysis, and open science practices. 💾 [code](https://github.com/Lakens/statistical_inferences)
+- [Machine Learning Systems: Principles and Practices of Engineering Artificially Intelligent Systems](https://www.mlsysbook.ai/) by Vijay Janapa Reddi et al. (Harvard). An open-access textbook covering the full pipeline of machine learning systems engineering, from embedded devices to cloud platforms. 💾 [source](https://github.com/harvard-edge/cs249r_book)
 
 ## Datasets 📀
 
@@ -367,6 +384,15 @@ This section in under construction
 📀 [dataset (requires registration)](https://tlemsafe.eu/) |
 💻 [website](https://tlemsafe.eu/)
 
+- **KneE-PAD: Knee Patellofemoral Anatomy Dataset** by Panagiotopoulos et al. (2025). An open-access dataset of knee patellofemoral anatomy for biomechanical modeling and clinical research.</br>
+📄 [paper](https://www.nature.com/articles/s41597-025-04963-4) |
+💾 [code](https://github.com/ounospanas/KneE-PAD) |
+📀 [dataset](https://zenodo.org/records/12112951)
+
+- **UltraBones100k: A large-scale ultrasound bone segmentation dataset** by Luo et al. (2025). A dataset of 100k ultrasound images with bone segmentation annotations, useful for developing and validating automatic bone detection algorithms in ultrasound.</br>
+📄 [paper](https://doi.org/10.1016/j.compbiomed.2025.110435) |
+💾 [source](https://github.com/luohwu/UltraBones100k)
+
 #### Upper Extremity and Spine
 
 - **Hand and Wrist Dataset** by Goislard de Monsabert et al. (2018). Data set intended for modelling including the musculoskeletal geometry and muscle morphology from the elbow to the finger tips. Clinical imaging, optical motion capture and microscopy were used to create a dataset from a single specimen.  
@@ -393,7 +419,18 @@ This section in under construction
 📄 [PhD thesis](https://research.utwente.nl/en/publications/twente-spine-model-development-validation-and-application-of-a-co) |
 [💻 website | 📀 dataset](https://www.twentespinemodel.eu/) 
 
+- **Shoulder kinematics derived from radiographic and optical motion analysis** by Luca Modenese et al. A collection of Zenodo datasets containing 3D bone models, healthy shoulder kinematics, and kinematics from patients with Reverse Total Shoulder Arthroplasty (rTSA), derived from combined radiographic and optical motion analysis.</br>
+📀 [3D models of scapula and humerus with landmarks (v1)](https://zenodo.org/records/10972005) |
+📀 [Healthy shoulder kinematics (v1)](https://zenodo.org/records/14889478) |
+📀 [rTSA shoulder kinematics (v1)](https://zenodo.org/records/17567759) |
+📀 [rTSA kinematics (v2)](https://zenodo.org/records/17652904) |
+📀 [Healthy shoulder kinematics (v2)](https://zenodo.org/records/17632996) |
+📀 [3D models of scapula and humerus (v2)](https://zenodo.org/records/19077748)
+
 #### Muscle Anatomy and Parameters
+
+- **Segmentation of Bone and Muscle Structures dataset** by Penafort et al. A Mendeley Data dataset providing manual segmentation masks for bone and muscle structures from CT images, intended for training automated segmentation models.</br>
+📀 [dataset](https://data.mendeley.com/datasets/pjr59z9sfw/1)
 
 - **Muscle Modelling Database** by Ross Miller (2018). A summary of muscle mechanical parameters in the human lower limb from the anatomy, muscle/exercise physiology, and biomechanics literature for use in Hill-based muscle model.  
 📄 [paper](https://link.springer.com/referenceworkentry/10.1007%2F978-3-319-30808-1_203-2) |
@@ -476,6 +513,13 @@ This section in under construction
 📄 [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0222037) |
 📀 [dataset](https://zenodo.org/record/1973799#.X0PtVshKgdU)
 
+- **Metabolic cost and biomechanics of walking at fixed speeds** by Rebula et al. (2017). Data for foot placement, step width, step length, and metabolic cost at a range of fixed walking speeds.</br>
+📄 [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0293331) |
+💻 [website and data](https://simtk.org/projects/fpmetfixedspeed)
+
+- **Metabolic cost of human locomotion: Dataset from the 2019 ISB Symposium session** by Ross Miller (2019). Dataset with metabolic cost and gait data used for the ISB2019 session on model-based prediction of the metabolic cost of human locomotion.</br>
+📀 [dataset](https://zenodo.org/records/3726551)
+
 ### Walking :walking:
 
 - **A database of human gait performance on irregular and uneven surfaces collected by wearable sensors** by Luo et al. (2020). Data from Inertial Measurement Units (IMU) from thirty participants (fifteen males and fifteen females, 23.5 ± 4.2 years, 169.3 ± 21.5 cm, 70.9 ± 13.9 kg) who wore six IMUs while walking on nine outdoor surfaces with self-selected speed (16.4 ± 4.2 seconds per trial). Intended for machine learning purposes.</br>
@@ -527,6 +571,42 @@ This section in under construction
 📄 [paper](https://doi.org/10.1038/s41597-021-01014-6) |
 📀 [dataset](https://doi.org/10.6084/m9.figshare.c.5311538)
 
+- **A full-body motion capture gait dataset of 138 able-bodied adults across the life span and 50 stroke survivors** by Horsak et al. (2023). Gait analysis data collected across different age groups and from stroke patients, for use in machine learning and clinical gait analysis.  </br>
+📄 [paper](https://www.nature.com/articles/s41597-023-02767-y)
+
+- **Database of lower limb kinematics and electromyography during gait-related activities** by Hu et al. (2023). Data from able-bodied subjects during gait activities, including joint kinematics and EMG signals from the lower limbs.</br>
+💻 [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10349036/)
+
+- **Lower-limb Kinematics and Kinetics During Continuously Varying Human Locomotion** by Tan et al. (2021). Dataset of lower-limb kinematics and kinetics collected during continuously varying locomotion activities for 10 participants.</br>
+📀 [dataset](https://springernature.figshare.com/collections/Lower-limb_Kinematics_and_Kinetics_During_Continuously_Varying_Human_Locomotion/5175254/1)
+
+- **Synchronised Video, Motion Capture and Force Plate Dataset for Validating Markerless Pose Estimation** by White et al. (2024). A dataset for validating markerless motion capture systems against marker-based motion capture and force plate data during walking and other activities.</br>
+📄 [paper and dataset](https://www.nature.com/articles/s41597-024-04077-3)
+
+- **Synthetic Gait Data by Generative Adversarial Networks** (This Gait Does Not Exist) by Bicer et al. (2022). A generative model and web application that produces synthetic, realistic gait data from GANs. Useful for data augmentation and anonymisation.</br>
+📄 [paper](https://doi.org/10.1016/j.jbiomech.2022.111301) |
+💻 [app](https://thisgaitdoesnotexist.streamlit.app/) |
+💾 [source](https://github.com/metinbicer/generative-mocap)
+
+- **Lower limb kinematic, kinetic, and EMG data from young healthy humans during walking at controlled speeds** by Moreira et al. (2021). Dataset of 3D gait lab data from young healthy adults walking at several controlled speeds.</br>
+📄 [paper](https://www.nature.com/articles/s41597-021-00881-3)
+
+- **A Full-Body Motion Capture Gait Dataset of Healthy Young Adults Walking Ramps Up and Down** by Vielemeyer et al. (2025). Dataset of full-body motion capture, ground reaction forces and EMG collected during ramp ascending and descending.</br>
+📄 [paper](https://www.nature.com/articles/s41597-025-06535-y)
+
+- **Motion Capture Data of a Movement Screen from 183 Athletes** by Stetter et al. (2023). A dataset of full body motion capture data collected from 183 male athletes performing a Functional Movement Screen (FMS).</br>
+📄 [paper](https://www.nature.com/articles/s41597-023-02082-6)
+
+- **Motion capture dataset of 137 post-operative total hip replacement patients** (2026). A dataset of kinematic, kinetic and EMG data from patients following total hip replacement surgery.</br>
+📄 [paper](https://www.nature.com/articles/s41597-026-06925-w)
+
+- **DUO-GAIT: A gait dataset for walking under dual-task and fatigue conditions with inertial measurement units** by Baroudi et al. (2023). Dataset collected with IMUs during single and dual-task walking under normal and fatigued conditions.</br>
+📄 [paper](https://www.nature.com/articles/s41597-023-02391-w)
+
+- **Mobilise-D Technical Validation Study (TVS) dataset** by Mazzà et al. (2021). A large multisite dataset from the Mobilise-D consortium for assessing digital mobility outcomes from wearable devices during real-world walking and laboratory tests in both healthy and clinical populations.</br>
+📄 [paper](https://bmjopen.bmj.com/content/bmjopen/11/12/e050785.full.pdf) |
+📀 [dataset](https://zenodo.org/records/13899386)
+
 ### Running :running:
 
 - **A public data set of running biomechanics and the effects of running speed on lower extremity kinematics and kinetics** by Reginaldo K. Fukuchi et al. (2017). The lower-extremity kinematics and kinetics data of 28 regular runners were collected using a three-dimensional (3D) motion-capture system and an instrumented treadmill while the subjects ran at 2.5 m/s, 3.5 m/s, and 4.5 m/s wearing standard neutral shoes.  
@@ -558,6 +638,9 @@ This section in under construction
 📄 [paper](https://iopscience.iop.org/article/10.1088/1361-6579/ac41b8) |
 📀 [dataset](https://figshare.com/articles/dataset/CARL_classifier_activity_recognition_data/17198275)
 💾 [source](https://github.com/johnjdavisiv/carl)
+
+- **Dataset of Biomechanics in the Lower Extremity following Distance Running** by Trudeau et al. A dataset of lower extremity kinematics and kinetics collected before and after a long-distance running event.</br>
+💻 [dataset](https://simtk.org/projects/longdistrun)
 
 ### Instrumented Prostheses :chart_with_upwards_trend:
 
@@ -614,6 +697,9 @@ This section in under construction
 📀 [dataset](https://simtk.org/frs/?group_id=1665) |
 💻 [website](https://simtk.org/projects/carpal-database) 
 
+- **Marker-based vs markerless hand mocap dataset** by Bailly et al. Experimental dataset of ecological hand and finger movements for the comparison of markerless motion capture systems.</br>
+📀 [dataset](https://entrepot.recherche.data.gouv.fr/dataset.xhtml?persistentId=doi:10.57745/JQYAWK)
+
 ### Soft Tissue Artefacts :leg:
 
 * **Standardization proposal of soft tissue artefact description for data sharing in human motion measurements** by Andrea Cereatti et al. (2017). This dataset includes open-access and standard-format soft tissues artefact data from several previous studies (both upper and lower limbs) that will be useful for the evaluation and development of bone pose estimators in three-dimensional human movement analysis. </br>
@@ -625,6 +711,9 @@ This section in under construction
 * **To what extent is joint and muscle mechanics predicted by musculoskeletal models sensitive to soft tissue artefacts?** by Giuliano Lamberto et al. (2017). Models and data used in the paper to simulate the soft tissue artefacts occurring during gait and their influence on the internal forces estimated by three musculoskeletal models of the lower limb.</br>
 📄 [paper](https://doi.org/10.1016/j.jbiomech.2016.07.042) |
 📀 [simulations data](https://figshare.shef.ac.uk/articles/dataset/To_what_extent_is_joint_and_muscle_mechanics_predicted_by_musculoskeletal_models_sensitive_to_soft_tissue_artefacts_/3502652)
+
+* **Biomechanical, biochemical and morphological properties of nineteen different human lower-limb tendons and ligaments** by Obst et al. An open-access dataset of commonly injured tissues and tendon grafts, including mechanical, biochemical, and morphological properties of 19 different tendons and ligaments.</br>
+📀 [dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/XUTODT)
 
 ### Reference Joint Kinematics
 
@@ -642,6 +731,17 @@ the standard recommended by the International Society of Biomechanics (ISB).
 
 * **UK Biobank** is a health resource that follows the health and well-being of 500,000 volunteer participants and provides health information, which does not identify them, to approved researchers in the UK and overseas. The aim of UK Biobank is to improve the prevention, diagnosis and treatment of a wide range of serious and life-threatening illnesses – including cancer, heart diseases, stroke, diabetes, arthritis, osteoporosis, eye disorders, depression and forms of dementia. </br>
 💻 [website](https://www.ukbiobank.ac.uk/)
+
+* **Open dataset of kinetics, kinematics, and EMG of above-knee amputees** by Camargo et al. (2025). A publicly available dataset with kinetics, kinematics, and EMG data from individuals with above-knee amputation during walking and other functional activities.</br>
+📄 [paper](https://www.nature.com/articles/s41597-025-04695-5) |
+📀 [dataset](https://figshare.com/articles/dataset/26282872)
+
+* **Dataset of healthy volunteers and patients before and 6 months after total hip arthroplasty** by Kluge et al. (2022). A dataset of gait lab data (kinematics, kinetics, EMG) collected from healthy volunteers and patients before and six months after total hip arthroplasty surgery.</br>
+📄 [paper](https://www.nature.com/articles/s41597-022-01483-3)
+
+* **Grand Challenge Competition to Design Stroke Neurorehabilitation Treatments** by Hammond et al. (2025). Dataset and competition resources for developing personalized neurorehabilitation treatments for stroke survivors using computational modeling.</br>
+📄 [paper](https://jneuroengrehab.biomedcentral.com/articles/10.1186/s12984-025-01549-8) |
+💻 [website](https://simtk.org/projects/strokerehab)
 
 ### Rugby :rugby_football:
 * **Cervical Spine Injury Mechanism Analysis** is a project funded by the [RFU IPF](https://www.rfuipf.org.uk) and led by [Dario Cazzola](https://researchportal.bath.ac.uk/en/persons/dario-cazzola) at the University of Bath. The aim of this project is to unveil the injury mechanisms related to rugby activities such as scrummaging and tackling, with the final aim to inform the design of injury prevention strategies. The MSK models implemented for this project are based on population specific (DXA) and subject specific (MRI) data and optimised to be used during impact events. Kinematics and kinetic data of rugby scrummaging and tackling are also available.</br>
@@ -671,6 +771,26 @@ the standard recommended by the International Society of Biomechanics (ISB).
 * **Modular Control of Human Movement During Running: An Open Access Data Set** by Santuz A., Ekizos A., Janshen, L., Mersmann F., Bohm S., Baltzopoulos V. and Arampatzis A. (2018). This data set contains: a) the metadata with anonymized participant information; b) the raw EMG; c) the touchdown and lift-off timings of the recorded limb, d) the filtered and time-normalized EMG; e) the muscle synergies extracted via NMF; f) the code to process the data. Trials from 135 healthy and young adults (78 males, 57 females) are included in the data set.</br>
 📄 [paper](https://www.frontiersin.org/articles/10.3389/fphys.2018.01509/full) |
 📀 [dataset and resources](https://zenodo.org/record/3785076)
+
+* **High-density Surface and Intramuscular EMG Data from the Tibialis Anterior During Dynamic Contractions** by Hug et al. (2023). A dataset of synchronised high-density surface EMG and intramuscular EMG recordings from the tibialis anterior muscle during various dynamic contraction tasks.</br>
+📄 [paper](https://www.nature.com/articles/s41597-023-02114-1) |
+📀 [dataset](https://osf.io/9s3u6/)
+
+* **High-density EMG dataset for motor unit identification** by Formento et al. (2023). Dataset including high-density EMG recordings for the development and validation of motor unit decomposition algorithms.</br>
+📀 [data](https://figshare.com/s/f4a94d9bdff470bf10f8) |
+📄 [preprint](https://www.biorxiv.org/content/10.1101/2023.02.18.529050v3.abstract)
+
+* **HDsEMG decomposition tools**: A collection of open-source tools for decomposing high-density surface EMG signals into individual motor unit spike trains.</br>
+💾 [source 1](https://github.com/ciaragibbs/EMG_Decomposition) |
+💾 [source 2](https://github.com/deremustapha/HD-sEMG-Decomposition) |
+💾 [source 3](https://github.com/neuromechanist/hdEMG-Decomposition)
+
+* **DPValid: sEMG and dynamometry dataset with muscle segmentations** by Muceli et al. A dataset of surface EMG and dynamometry data with corresponding muscle segmentations, for validating motor unit decomposition approaches.</br>
+📀 [dataset](https://amsacta.unibo.it/id/eprint/7710/)
+
+* **Swarm contrastive decomposition for HD-sEMG** by Gris et al. (2024). A method for decomposing high-density surface EMG into individual motor unit firing patterns using swarm intelligence and contrastive learning.</br>
+📄 [paper](https://doi.org/10.1109/TBME.2024.3446806) |
+💾 [source](https://github.com/AgneGris/swarm-contrastive-decomposition)
 
 
 ## Gait Analysis and Motion Capture :cartwheeling:
@@ -772,7 +892,18 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 📄 [Burke's paper 2016](http://dx.doi.org/10.1016/j.jbiomech.2016.04.016) |
 💾 [source](https://github.com/pyCGM2/MoGapFill)
 
-#### Inertial Measurement Units
+#### Tools and Utilities
+
+* **WebPlotDigitizer** by Ankit Rohatgi. A web-based tool for extracting numerical data from graphs, plots, and figures presented in scientific publications. Supports various plot types including XY, polar, bar, and map plots.</br>
+💻 [website](https://automeris.io/WebPlotDigitizer.html)
+
+* **OTBioelettronica Quattrocento Python interface** Python interface for real-time control and data streaming from the OT Bioelettronica Quattrocento (400 channel) HD-sEMG amplifier.</br>
+💾 [source](https://github.com/screamuch/quattrocento-python)
+
+* **EMG-IMU Data Collection and Analysis Toolkit** by Portnova et al. A Unity-based toolkit integrating Delsys EMG and IMU devices for synchronised data collection and real-time analysis of muscle activity and movement.</br>
+💾 [source](https://github.com/sashaportnova/EMG-IMU-collection-and-analysis-toolkit)
+
+### Inertial Measurement Units
 
 * **GaitPy** by Matthew Czech. Read and process raw vertical accelerometry data from a sensor on the lower back during gait; calculate clinical gait characteristics.  
 💻 [website](https://pypi.org/project/gaitpy/) |
@@ -821,6 +952,9 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 💻 [website](https://freemocap.org/) |
 💾 [source](https://github.com/freemocap/freemocap)
 
+* **TrackStudio** by Hristo Dimitrov. An open-source markerless motion capture system for 3D tracking of human movement from multiple camera views.</br>
+💾 [source](https://github.com/dimitrov-hristo/TrackStudio)
+
 
 ### Videoradiography (Model-based and Marker-based Tracking)
 
@@ -859,6 +993,7 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 * **py3dfreehandus** by Cenni et al. (2019). A software package to track muscle tendon junctions in ultrasound images using optical flow. </br>
 📄 [paper](https://doi.org/10.1113/EP088133) | 
 💾 [source-code](https://gitlab.com/u0078867/py3dfreehandus) 
+💻 [documentation](https://u0078867.gitlab.io/py3dfreehandus/index.html)
   
 * **deepMTJ** by Leitner et al. (2020). Automatic muscle tendon junction tracking using deep learning. </br>
 📄 [paper](https://ieeexplore.ieee.org/abstract/document/9176145) |
@@ -871,6 +1006,11 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 📀 [trained networks](https://github.com/rlkrup/MTJtrack) 
 
 ## Muscle Parameter Segmentation in Ultrasound Images
+
+* **MuscleUS Toolbox** by Bruce Damon et al. (2023). A MATLAB toolbox for quantitative analysis of muscle ultrasound images, providing tools for fascicle tracking, pennation angle measurement, and muscle thickness analysis.</br>
+📄 [paper](https://journals.humankinetics.com/view/journals/jab/39/6/article-p421.xml) |
+💾 [source](https://github.com/bdamon/MuscleUS_Toolbox)
+
 ### Anatomical Cross Sectional Area
 
 * **DeepACSA** by Ritsche et al. (2022). DeepACSA provides trained models and a GUI for automated segmentation of muscle anatomical cross-sectional area. </br>
@@ -970,6 +1110,23 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 💾 [source with elasticities](https://github.com/haripen/KneeExt-Elastic)
 💾 [source without elasticities](https://github.com/haripen/KneeExt)
 
+* **opendihu: Open Distributed High Performance Multiscale Heart and Skeletal Muscle Simulations** by Maier et al. (2024). A biophysics simulation framework for modeling multiscale electrophysiology and mechanics in cardiac and skeletal muscle, implementing biophysically detailed models (e.g. Hodgkin-Huxley, Heidlauf-Röhrle) on high-performance computing resources.</br>
+📄 [paper](https://www.sciencedirect.com/science/article/pii/S187775032400084X) |
+💾 [source](https://github.com/opendihu/opendihu)
+
+* **FiberSim** by the [Campbell Lab](https://sites.google.com/g.uky.edu/campbellmusclelab). FiberSim is a flexible open-source model of myofilament-level contraction, simulating the mechanical interactions within the half-sarcomere using Monte Carlo methods for cross-bridge and regulatory unit kinetics.</br>
+📄 [paper](https://doi.org/10.1016/j.bpj.2021.12.021) |
+💻 [website](https://campbell-muscle-lab.github.io/FiberSim/)
+
+* **ArborSim** by EMBiRL Lab. ArborSim is a simulation framework for modeling the arbor structure of dendritic neurons in musculoskeletal biomechanics contexts.</br>
+📄 [preprint](https://www.biorxiv.org/content/10.1101/2024.01.13.575515v1) |
+💾 [source](https://github.com/EMBiRLab/ArborSim)
+
+* **Remoto: Realistic EMG and force TOolbox** by Watanabe et al. Python and Fortran toolbox for simulating realistic electromyography signals and muscle forces based on motor unit models.</br>
+💾 [source (Python)](https://github.com/rnwatanabe/remoto) |
+💾 [source (Fortran)](https://github.com/rnwatanabe/projectFR) |
+💻 [website](http://remoto.leb.usp.br/remoto/News/news.html)
+
 ### Biomechanical and Neuro-musculoskeletal Simulation Software :brain::arrow_right::leg:
 
 * **The AnyBody Modeling System** by AnyBody Technology. Commercial software for musculoskeletal modelling and simulation.</br>
@@ -1026,6 +1183,9 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 💻 [binaries](https://simtk.org/projects/scone) |
 💾 [source](https://github.com/opensim-org/SCONE)
 
+* **BioMAC-Sim-Toolbox** by FAU MAD Lab. A MATLAB toolbox for simulation of biomechanical and musculoskeletal movements, supporting predictive and tracking simulations of human movement.</br>
+💾 [source](https://github.com/mad-lab-fau/BioMAC-Sim-Toolbox)
+
 ### Real-Time Neuro-musculoskeletal Simulation Software
 
 * **OpenSimRT** by Dimitar Stanev et al. (2021). OpenSim RT is a framework for real-time musculoskeletal kinematics and dynamics analysis using marker- and IMU-based technologies for applications in rehabilitation.</br>
@@ -1079,6 +1239,31 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 📄 [paper](https://doi.org/10.1115/1.4044310) |
 💾 [source](https://simtk.org/projects/syno/)
 
+* **pyopensim** by Neurobionics Lab. A Python package for creating and modifying OpenSim musculoskeletal models programmatically, enabling automated model construction and parameter setting.</br>
+💾 [source](https://github.com/neurobionics/pyopensim)
+
+* **opensim-model-creator** A Python package for creating and scripting OpenSim musculoskeletal models with a programmatic interface.</br>
+⭐ [PyPI](https://pypi.org/project/opensim-model-creator)
+
+* **OpenSimJamPersonalisation** by Killen et al. (2024). A toolbox for personalising OpenSim JAM (Joint and Articular Mechanics) models using subject-specific imaging data.</br>
+📄 [paper](https://doi.org/10.1016/j.jbiomech.2024.112387) |
+💾 [source](https://bitbucket.org/BKillen/opensimjampersonalisation/src/main/)
+
+* **NMSM Pipeline: Neuromusculoskeletal Modeling Pipeline** by Hammond et al. (2025). An OpenSim-based pipeline for personalised neuromusculoskeletal model construction and optimal control simulations, supporting both model personalization and treatment optimization.</br>
+�� [paper](https://jneuroengrehab.biomedcentral.com/articles/10.1186/s12984-025-01549-8) |
+💻 [website](https://simtk.org/projects/nmsm)
+
+* **Scaled-generic musculoskeletal model of the shoulder and elbow** by Ingram et al. (2021). A MATLAB toolbox for scaled-generic modeling of the shoulder and elbow, enabling subject-specific adaptations of an upper limb musculoskeletal model from standard measurements.</br>
+📄 [paper](https://link.springer.com/article/10.1038/s41598-021-99856-y) |
+💾 [source](https://c4science.ch/source/msm_ul/repository/master/)
+
+* **Human Model Generator** by the Artificial Mechanical Intelligence (AMI) Lab, IIT. A tool for automatic generation of whole-body human models from anthropometric measurements for use in musculoskeletal and control simulations.</br>
+💾 [source](https://github.com/ami-iit/human-model-generator)
+
+* **MuSkeMo: Musculoskeletal Model Creator** by Pasha van Bijlert (2024). A Blender-based tool for defining and exporting musculoskeletal models, enabling intuitive model creation from 3D anatomical geometry within the Blender environment.</br>
+📄 [preprint](https://doi.org/10.1101/2024.12.10.627828) |
+💾 [source](https://github.com/PashavanBijlert/MuSkeMo)
+
 ### Biomechanical Models
 
 * **BASH - Biomechanical Animated Skinned Human** by Schleicher et al. (2021). BASH allows to visualize human kinematics and muscle activity estimated through an OpenSim model using a 3D animated model deformed using skinning.</br>
@@ -1092,6 +1277,14 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 * **Multi-segment Foot and ankle model validated using biplanar videoradiography** by Jayishni Maharaj et al. (2021). A multi-segment foot and ankle model consisting of the tibia, talus, calcaneus, midfoot, forefoot and toes, with a total of 7 degrees of freedom. Motion between foot segments were constrained with a single oblique axis to enable triplanar motion. The kinematic outputs were validated using biplanar videoradiography in seven healthy participants during walking and running.</br>
 📄 [paper](https://doi.org/10.1080/10255842.2021.1968844) |
 💾 [OpenSim model](https://simtk.org/projects/footankle_model)
+
+* **Active Hybrid Model of the Lumbosacral Spine** by Remus Rusanu et al. (2023). An ArtiSynth-based, muscle-driven forward dynamic model of the lumbosacral spine, combining active musculature and passive structures for motion and loading analysis.</br>
+📄 [paper](https://www.frontiersin.org/articles/10.3389/fbioe.2023.1223007/abstract) |
+💾 [source](https://github.com/RemusR9/artisynth_lumbosacralSpineModel)
+
+* **4-segment foot model for predictive simulations** by Lars D'Hondt et al. (2024). An OpenSim 4-segment foot model (hindfoot, midfoot, forefoot, toes) for use in predictive gait simulations, incorporating multi-segment foot mechanics.</br>
+📄 [paper](https://doi.org/10.1371/journal.pcbi.1012219) |
+💾 [source](https://github.com/Lars-DHondt-KUL/3dpredictsim/tree/four-segment_foot_model)
 
 
 ## Optimal Control and Trajectory Optimization :rocket:
@@ -1143,6 +1336,15 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 * **Optimal Control of Musculoskeletal Movement Using OpenSim & MATLAB** by Leng-Feng Lee and Brian R. Umberger (2016). This package includes an approach for generating optimal control simulations of human movement using OpenSim and MATLAB based on the direct collocation approach. Models, results and a complete working example are provided. </br>
 📄 [paper](https://peerj.com/articles/1638.pdf) |
 [💻 website | 💾 source ](https://simtk.org/projects/directcolloc)
+
+* **PredSim: Predictive Simulations of Human Movement** by KU Leuven Neuromechanics. A framework based on direct collocation for generating predictive muscle-driven simulations of human gait, including detailed musculoskeletal models and metabolic objectives.</br>
+💾 [source](https://github.com/KULeuvenNeuromechanics/PredSim)
+
+* **pycapacity: Python Computational Capacity Analysis Library** by AUCTUS team (Inria). A Python toolbox for computing polytope-based capacity metrics (force, velocity, and acceleration polytopes) for human and robot musculoskeletal systems.</br>
+💾 [source](https://github.com/auctus-team/pycapacity)
+
+* **DEP-RL: Embodied Exploration for Reinforcement Learning in Overactuated and Musculoskeletal Systems** by Martius Lab. A reinforcement learning framework designed for overactuated musculoskeletal systems using a differential extrinsic plasticity learning rule for exploration.</br>
+💾 [source](https://github.com/martius-lab/depRL)
 
 
 ## Subject-Specific Modelling
@@ -1207,6 +1409,23 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 📄 [pre-print](https://www.biorxiv.org/content/10.1101/2021.03.02.433409v1) | 
 💾 [code (Avizo recipe)](https://github.com/evaherbst/Trabecular_Segmentation_Avizo) |
 📀 [test micro-CT scans](https://figshare.com/projects/Trabecular_and_Cortical_Bone_Segmentation_Method/99434)
+
+* **MuscleMap: Automated muscle segmentation from CT images** by MuscleMap team (2024). A deep learning tool for automated muscle segmentation from CT medical images, enabling large-scale musculoskeletal analysis.</br>
+📄 [paper](https://doi.org/10.3390/jimaging10110262) |
+💾 [source](https://github.com/MuscleMap/MuscleMap)
+
+* **nnU-Net Knee MRI Inference** by Gattia et al. A tool for automated knee MRI segmentation using nnU-Net, pre-trained on knee MRI datasets for compartmental cartilage and bone segmentation.</br>
+💾 [source](https://github.com/gattia/nnunet_knee_inference)
+
+* **Swin UNETR Knee Segmentation and Biomechanical Modeling** by Kaka et al. (2024). Transformer-based deep learning for knee MRI segmentation and automatic subject-specific biomechanical model creation.</br>
+📄 [paper](https://link.springer.com/article/10.1038/s41598-024-52548-9) |
+📀 [models](https://data.mendeley.com/datasets/k5hdc9cz7w/1) |
+💾 [source](https://github.com/Rezakaka/knee-segmentation)
+
+* **VerSe: Large Scale Vertebrae Segmentation Challenge** by Anjany Sekuboyina et al. (2021). A public challenge dataset and benchmark for vertebrae segmentation from CT images, providing annotations for 374 CT scans across different clinical conditions.</br>
+📄 [paper](https://doi.org/10.1016/j.media.2021.102166) |
+💾 [source](https://github.com/anjany/verse) |
+📀 [dataset](https://osf.io/nqjyw/)
 
 ### Manipulation, Processing and Comparison of Surface Meshes
 
@@ -1278,6 +1497,19 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 📄 [paper](https://doi.org/10.1016/j.jbiomech.2020.110186) |
 💾 [source (beta)](https://github.com/modenaxe/msk-STAPLE)
 
+* **CADAM: Computer-Aided Design and Manufacturing** An open-source web application for text-to-CAD model generation, supporting the creation of parametric 3D anatomical models for subject-specific biomechanical applications.</br>
+💻 [website](https://adam.new/cadam) |
+💾 [source](https://github.com/Adam-CAD/CADAM)
+
+* **Meshcapade** Body model and avatar platform providing parametric human body models (based on SMPL/STAR) for research in biomechanics, animation, and digital health.</br>
+💻 [website](https://meshcapade.com/assets/body-models)
+
+* **SlicerSegmentHumanBody (SlicerHumanBody)** by Mazurowski Lab. A 3D Slicer extension for AI-assisted segmentation of the human body from CT scans, built on the Segment Anything Model.</br>
+�� [source](https://github.com/mazurowski-lab/SlicerSegmentHumanBody)
+
+* **PyPeCT2S** by INSIGNEO. A Python tool for creating subject-specific finite element models of long bones from CT scans.</br>
+💾 [source](https://github.com/INSIGNEO/PyPeCT2S)
+
 
 ### Automatic Definition of Bony Landmarks and Reference Systems :skull:
 
@@ -1322,6 +1554,9 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 
 - **PolyCube Based Automatic Hex-Mesh Generation (UBC)** by British Columbia. The tool expects tetrahedral meshes in the Paraview VTU format. It can also convert to NASTRAN and MEDIT .MESH format.  
 💻 [website](https://www.cs.ubc.ca/labs/imager/tr/2018/HexDemo/)
+
+- **Instant Meshes** by Jakob et al. An interactive approach for remeshing polygonal models into semi-regular triangle or quad meshes using direction fields.</br>
+💾 [source](https://github.com/wjakob/instant-meshes)
 
 #### Commercial meshers
 
@@ -1383,6 +1618,13 @@ neuromusculoskeletal systems. The muscle model includes motor nuclei that accept
 - **A statistical shape model of the healthy first carpometacarpal joint** by Marco Schneider et al. J Biomech (2015). CT image data and segmented point clouds of 50 carpometacarpal (CMC) bones from the dominant wrists and thumbs of 40 right hands and 10 left hands of 50 healthy non-osteoarthritic volunteers. This project contains instructions, python scripts, and example data for generating statistical shape models (SSM) using the [GIAS2 library](https://bitbucket.org/jangle/gias2).</br>
 📄 [paper](https://doi.org/10.1016/j.jbiomech.2015.05.031) |
 💻 [website](https://simtk.org/projects/cmc-ssm)
+
+- **Morphable model demo** by Alison Clouthier. A Google Colab demonstration notebook for building and using statistical shape models (morphable models) for bone anatomy research.</br>
+💾 [Colab notebook](https://colab.research.google.com/github/aclouthier/SSM-morphable-model/blob/main/morphable_model_demo.ipynb)
+
+- **Landmark-free morphometrics pipeline** by Toussaint et al. (2021). A landmark-free morphometrics pipeline for high-resolution phenotyping applied to a mouse model of Down Syndrome, using automated shape analysis without manual landmark placement.</br>
+�� [paper](https://dev.biologists.org/content/148/18/dev199091) |
+💾 [source](https://gitlab.com/ntoussaint/landmark-free-morphometry)
 
 ## Finite Element Analysis
 
@@ -1515,6 +1757,13 @@ Laboratoire Jacques-Louis Lions, Sorbonne University, Paris. FreeFEM is a partia
 📄 [paper2](https://doi.org/10.1243%2F09544110360579312) |
 💾 [source](https://figshare.shef.ac.uk/articles/The_Muscle_Standardised_Femur_model/4578298)
 
+* **Validated Open-Source Shoulder Finite Element Model** by Boulpaep et al. (2022). A validated, open-source finite element model of the shoulder joint for biomechanical analysis of glenohumeral mechanics and implant performance.</br>
+📄 [paper](https://link.springer.com/article/10.1007/s10439-022-03018-8) |
+💾 [source](https://github.com/OSEL-DAM/ShoulderFiniteElementModel)
+
+* **Three subject-specific knee FEM models with imaging and mechanical testing validation data** Three open-access subject-specific finite element models of the human knee joint with corresponding MRI data, material testing data, and validation experiments.</br>
+📀 [dataset](https://archive.researchdata.leeds.ac.uk/1082/)
+
 ## Statistical Analysis
 
 This section needs to be improved.
@@ -1540,6 +1789,10 @@ This section needs to be improved.
 * [**R**](https://www.r-project.org/) (@_R_Foundation): A free software environment for statistical computing and graphics.
 
 * [**RStudio**](https://www.rstudio.com/) #Posit (@posit_pbc): An IDE for R, including a console, syntax-highlighting editor, and tools for plotting and debugging.
+
+* **tsfresh: Time Series Feature Extraction on basis of Scalable Hypothesis tests** by Christ et al. A Python package that automatically extracts and selects relevant time-series features for machine learning tasks, useful for analysing biomechanical time-series data (EMG, kinematics, force).</br>
+📄 [documentation](https://tsfresh.readthedocs.io/en/latest/index.html) |
+💾 [source](https://github.com/blue-yonder/tsfresh)
 
 ## Scientific Data Visualization
 
@@ -1573,6 +1826,15 @@ This section needs to be improved.
 💻 [website](https://spiers-software.org)
 [paper](https://palaeo-electronica.org/content/issue-2-2012-technical-articles/226-virtual-palaeontology-toolkit)
 💾 [source](https://github.com/palaeoware/SPIERS) |
+
+* **ScientificFigures** by Negar Rokhforoz. A Python tool for creating publication-quality scientific figures with consistent formatting and aesthetics.</br>
+💾 [source](https://github.com/nrokh/ScientificFigures)
+
+* **Line-of-action visualization for Muscle Force Direction** by John J Davis IV. A MATLAB tool for visualizing muscle lines of action derived from musculoskeletal models to support finite element model setup.</br>
+💾 [source](https://github.com/johnjdavisiv/line-of-action-visualization)
+
+* **qMRItools** A comprehensive Wolfram Mathematica package for quantitative MRI analysis, including diffusion tensor imaging, relaxometry, and other quantitative MRI techniques.</br>
+💻 [website](https://www.qmritools.com/)
 
 ## Reproducibility :gem:
 
@@ -1670,6 +1932,16 @@ This section needs to be improved.
 * [**WiX**](https://www.wix.com/)
 * [**Wordpress**](https://wordpress.com/)
     
+## Interactive Tools and Challenges
+
+* **You vs Evolution** by Talha Uzumcu. An interactive educational challenge that illustrates the principles of evolutionary computation and genetic algorithms applied to biomechanical locomotion problems.</br>
+💻 [website](https://talhauzumcu.com/challenges-index.html) |
+💾 [source](https://github.com/Talhauzumcu/GeneticAlgorithm)
+
+* **MARS: mmWave-based Assistive Rehabilitation System for Smart Healthcare** by An et al. (2021). A system using millimetre-wave radar sensing for contactless human activity and pose estimation, applicable to rehabilitation monitoring.</br>
+📄 [paper](https://doi.org/10.1145/3477003) |
+💾 [source](https://github.com/SizheAn/MARS)
+
 ## More Datasets and repositories
 * [Biomechanical Datasets](https://github.com/mkjung99/biomechanics_dataset) by Moon Ki Jung (Imperial College London).
 * [Datasets of complex physiological signals](https://www.physionet.org/about/database/) from [Physionet](https://www.physionet.org/).
@@ -1677,6 +1949,7 @@ This section needs to be improved.
 * [Open-Access Medical Image Repositories](http://www.aylward.org/notes/open-access-medical-image-repositories)
 * [Data Sources from Stanford's Mobilize Center](http://mobilize.stanford.edu/data-sources/)
 * [Image datasets from medical image analysis grand-challenges website](https://grand-challenge.org/)
+* [SPL Open Data](https://github.com/mlsedigital/SPL-open-data): Basketball player performance data from the SPL (Saudi Pro League), including tracking and event data for biomechanics and sports science analysis.
 
 
 ## Sandbox <!-- omit in toc -->
