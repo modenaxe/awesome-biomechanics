@@ -821,6 +821,9 @@ Allows visualisation of c3d contents and basic processing, such as filtering and
 💻 [website](https://freemocap.org/) |
 💾 [source](https://github.com/freemocap/freemocap)
 
+* **Body motion capture and animation in Unity** by Kirill Shutov. Markerless body motion capture from a single webcam using Python and OpenCV, with real-time data transfer to Unity and character animation using inverse kinematics.</br>
+💾 [source](https://github.com/ShutovKS/Body-motion-capture-and-animation-in-Unity)
+
 
 ### Videoradiography (Model-based and Marker-based Tracking)
 
